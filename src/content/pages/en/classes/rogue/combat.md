@@ -3,7 +3,7 @@ title: "Combat Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash builds to level 60"
 description: "The Combat Rogue in WoW Forever: Hack and Slash for every weapon type, two level 60 builds (standard and daggers), Blade Flurry, Adrenaline Rush, Energy, poisons and races."
 short: "Combat Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Combat Rogue good in WoW Forever?"
@@ -19,6 +19,8 @@ faq:
   - q: "Which race is best for a Combat Rogue?"
     a: "Human for the Alliance, for 1% critical strike chance, and Orc for the Horde, for 10% attack power from Blood Fury. Night Elf and Troll are the second choices."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/enchants-consumables-pve-dps"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -31,7 +33,7 @@ The Combat Rogue in WoW Forever deals huge damage with auto attacks and has a st
 | | |
 |---|---|
 | Role | Melee damage with two weapons |
-| Builds | Level 60 standard (18/33/0) and level 60 daggers (16/33/2) |
+| Builds | Level 60 standard (16/35/0) and level 60 daggers (13/33/5) |
 | Key talents | Malice, Improved Slice and Dice, Precision, Dual Wield Specialization, Hack and Slash, Blade Flurry, Aggression, Adrenaline Rush |
 | Strength | Very high damage, strong burst, the only Rogue cleave, every weapon type |
 | Weakness | Depends heavily on gear, especially weapons |
@@ -53,42 +55,45 @@ The Combat Rogue in WoW Forever deals huge damage with auto attacks and has a st
 
 Two builds, each with the 51 talent points of level 60: one for raids and dungeons and one for leveling. Every build opens in our talent calculator.
 
-### Raid build, 18/33/0
+### Raid build, 16/35/0
 
-18 points in Assassination and 33 in Combat. [Open the raid build in the talent calculator](/talents/rogue/?t=015323202-3200332210012321521).
-
-With daggers instead of swords or maces, the dagger build fits better: [open the dagger build](/talents/rogue/?t=005323102-3023032200012321531-002).
+16 points in Assassination and 35 in Combat. [Open the raid build in the talent calculator](/talents/rogue/?t=00530320201-3200132202012321551).
 
 | Talent | Points |
 |---|---|
-| **Remorseless Attacks** | 1/2 |
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
-| **Improved Expose Armor** | 2/2 |
 | **Improved Slice and Dice** | 3/3 |
 | **Vigor** | 2/2 |
 | **Lethality** | 2/2 |
+| **Cold Blood** | 1/1 |
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
-| **Deflection** | 3/3 |
+| **Deflection** | 1/3 |
 | **Precision** | 3/3 |
 | **Improved Sprint** | 2/2 |
 | **Endurance** | 2/2 |
-| **Riposte** | 1/1 |
+| **Composure** | 2/2 |
 | **Flawless Execution** | 1/1 |
 | **Weapon Expertise** | 2/2 |
 | **Aggression** | 3/3 |
 | **Dual Wield Specialization** | 2/2 |
 | **Blade Flurry** | 1/1 |
 | **Hack and Slash** | 5/5 |
-| **Flash of Steel** | 2/5 |
+| **Flash of Steel** | 5/5 |
 | **Adrenaline Rush** | 1/1 |
+
+With daggers instead of swords or maces, the dagger build fits better: [open the dagger build](/talents/rogue/?t=005303002-3203030202012221451-005).
+
+The Venom build takes Venom and Cold Blood in Assassination and relies more on poison damage (21/30/0). [Open it in the talent calculator](/talents/rogue/?t=00530320241001-320013220201232115).
 
 ### Leveling build
 
 The [Rogue level build](/leveling/rogue/) gives the talent for every level from 10 to 35. The rest of the order follows once it is known.
 
-A PvP build for the new talent trees is not known yet. This section gets updated as soon as there is one.
+#### PvP build
+
+The PvP build, 14/10/27, is the same for all three Rogue specs: deep Subtlety for Preparation, Premeditation, Ghostly Strike and Hemorrhage, with Dirty Deeds and Elusiveness for control and escapes. [Open the PvP build](/talents/rogue/?t=325000202-3203002-0322232313211011).
 
 ## What the key talents do
 
@@ -148,11 +153,26 @@ From level 20, a quest chain teaches you to make poisons. Use Instant Poison and
 
 Sap one monster out of a group, preferably a caster. Open with Cheap Shot, follow with Kidney Shot, and stretch it with Gouge or Blind when you need Energy or cooldowns. Use Evasion when you must take hits, Kick every caster, and Vanish when nothing else works. Riposte in the standard build disarms a monster after a parry.
 
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Neck** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Cloak** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Bracers** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Gloves** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Legs** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> or the version for your level |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Gear, races and professions
 
 ### Stats and gear
 
-Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
+At level 60 the priority is: hit up to 8%, expertise up to 6.5%, weapon skill up to 308, hit up to 17% for poisons, Agility, critical strike chance, haste, Strength, attack power, Stamina. What each stat does:
 
 - **Agility**: 1 attack power per point, 1% critical strike chance per 29 Agility, 1% dodge per 14.5 Agility.
 - **Attack power**, which now also raises the damage of your poisons.

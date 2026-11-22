@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: der Guide"
 metaTitle: "WoW Forever Beast Mastery Hunter: Build für Level 60 und Rotation"
 description: "Der Beast Mastery Hunter in WoW Forever: der Build 31/20/0 für Level 60, Summon Hawk und Bestial Wrath, die Rotation gegen ein Ziel und mehrere, Begleiter, Mana, Werte und Völker."
 short: "Beast Mastery Hunter"
-updated: 2026-11-11
+updated: 2026-11-22
 lang: de
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Was ist die tote Zone des Hunter?"
     a: "Der Bereich zwischen Nahkampfreichweite und 8 Metern, in dem du weder Nahkampf- noch Fernkampfangriffe nutzen kannst. Geh auf 8 Meter zurück, um wieder zu schießen."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/beast-mastery/enchants-consumables-pve-dps"
   - name: "Wowhead, Talent-Builds"
     url: "https://www.wowhead.com/forever/guide/classes/hunter/beast-mastery/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -56,7 +58,7 @@ Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und D
 
 ### Raid-Build, 31/20/0
 
-31 Punkte in Beast Mastery und 20 in Marksmanship. [Raid-Build im Talentrechner öffnen](/de/talents/hunter/?t=5320001505101251-00520503014).
+31 Punkte in Beast Mastery und 20 in Marksmanship. [Raid-Build im Talentrechner öffnen](/de/talents/hunter/?t=5320001505101251-00530520014).
 
 | Talent | Punkte |
 |---|---|
@@ -72,9 +74,9 @@ Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und D
 | **Frenzy** | 5/5 |
 | **Bestial Wrath** | 1/1 |
 | **Lethal Attacks** | 5/5 |
-| **Improved Stings** | 2/3 |
+| **Improved Stings** | 3/3 |
 | **Careful Aim** | 5/5 |
-| **Improved Arcane Shot** | 3/5 |
+| **Rapid Killing** | 2/2 |
 | **Trueshot Aura** | 1/1 |
 | **Mortal Shots** | 4/5 |
 
@@ -144,7 +146,7 @@ Dein Begleiter ist ein großer Teil deines Schadens, also halte ihn am Leben und
 
 ## Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
+Auf Level 60 ist die Reihenfolge: Trefferchance bis 8 %, kritische Trefferchance, Tempo, Beweglichkeit, Intelligenz, Angriffskraft, Willenskraft, Ausdauer. Was jeder Wert bringt:
 
 - **Beweglichkeit**: 2 Fernkampfangriffskraft pro Punkt und kritische Trefferchance, etwa 1 % pro 53 Beweglichkeit auf Level 60. Dein Begleiter erhält 100 % deiner kritischen Trefferchance und 10 % deiner Angriffskraft.
 - **Trefferwertung**: Gegen einen Boss der Stufe 63 brauchst du 9 % mit 300 Waffenfertigkeit oder 6 % mit 305.
@@ -159,6 +161,23 @@ Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen 
 **Köcher oder Munitionsbeutel.** Pfeile kommen in einen Köcher, Kugeln in einen Munitionsbeutel, und beide erhöhen dein Fernkampftempo. Halte ihn aktuell.
 
 **Waffen.** Deine Fernkampfwaffe ist deine wichtigste Quelle für eigenen Schaden. Die Nahkampfwaffe trägst du vor allem für die Werte. Hunter können fast jeden Waffentyp nutzen, außer Streitkolben.
+
+## Verzauberungen und Verbrauchsgüter
+
+Die beste Verzauberung pro Platz. Verzaubere Ausrüstung, die du eine Weile behältst; beim Leveln reichen die günstigeren Versionen derselben Verzauberung.
+
+| Platz | Beste Wahl |
+|---|---|
+| **Waffe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=27837"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Agility</a> |
+| **Fernkampfwaffe** | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279272"><img class="wf-wh__icon" src="/wh/inv_engineering_90_scope_blue.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">SAF-T Ultra Precision Scope</a> |
+| **Kopf** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Hals** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Umhang** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219587"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Agility</a> |
+| **Brust** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a> |
+| **Handgelenke** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248599"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Agility</a> |
+| **Hände** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20012"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Greater Agility</a> |
+| **Beine** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Füße** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20023"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Agility</a> |
 
 ## Völker und Berufe
 

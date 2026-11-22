@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter in WoW Forever: de gids"
 metaTitle: "WoW Forever Beast Mastery Hunter: build voor level 60 en rotatie"
 description: "De Beast Mastery Hunter in WoW Forever: de build 31/20/0 voor level 60, Summon Hawk en Bestial Wrath, de rotatie op één doelwit en op groepen, pets, mana, stats en races."
 short: "Beast Mastery Hunter"
-updated: 2026-11-11
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Wat is de dode zone van de Hunter?"
     a: "Het stuk tussen melee-bereik en 8 meter, waar je geen melee- en geen ranged-aanvallen kunt gebruiken. Stap terug tot 8 meter om weer te schieten."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/beast-mastery/enchants-consumables-pve-dps"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/hunter/beast-mastery/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -56,7 +58,7 @@ Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 
 ### Raidbuild, 31/20/0
 
-31 punten in Beast Mastery en 20 in Marksmanship. [Open de raidbuild in de talentcalculator](/nl/talents/hunter/?t=5320001505101251-00520503014).
+31 punten in Beast Mastery en 20 in Marksmanship. [Open de raidbuild in de talentcalculator](/nl/talents/hunter/?t=5320001505101251-00530520014).
 
 | Talent | Punten |
 |---|---|
@@ -72,9 +74,9 @@ Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 | **Frenzy** | 5/5 |
 | **Bestial Wrath** | 1/1 |
 | **Lethal Attacks** | 5/5 |
-| **Improved Stings** | 2/3 |
+| **Improved Stings** | 3/3 |
 | **Careful Aim** | 5/5 |
-| **Improved Arcane Shot** | 3/5 |
+| **Rapid Killing** | 2/2 |
 | **Trueshot Aura** | 1/1 |
 | **Mortal Shots** | 4/5 |
 
@@ -144,7 +146,7 @@ Je pet is een groot deel van je schade, dus hou hem in leven en op het doelwit. 
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
+Op level 60 is de volgorde: hit tot 8%, critical strike chance, haste, Agility, Intellect, attack power, Spirit, Stamina. Wat elke stat doet:
 
 - **Agility**: 2 ranged attack power per punt en critical strike chance, ongeveer 1% per 53 Agility op level 60. Je pet krijgt 100% van je critical strike chance en 10% van je attack power.
 - **Hit**: tegen een boss van level 63 heb je 9% nodig met 300 weapon skill, of 6% met 305.
@@ -159,6 +161,23 @@ Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen 
 **Quiver of ammo pouch.** Pijlen gaan in een quiver, kogels in een ammo pouch, en beide verhogen je ranged attack speed. Hou hem bij.
 
 **Wapens.** Je ranged-wapen is je belangrijkste bron van eigen schade. Je melee-wapen draag je vooral voor de stats. Hunters kunnen bijna elk wapentype gebruiken, behalve maces.
+
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=27837"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Agility</a> |
+| **Afstandswapen** | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279272"><img class="wf-wh__icon" src="/wh/inv_engineering_90_scope_blue.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">SAF-T Ultra Precision Scope</a> |
+| **Hoofd** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Nek** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Mantel** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219587"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Agility</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a> |
+| **Polsen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248599"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Agility</a> |
+| **Handen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20012"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Greater Agility</a> |
+| **Benen** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20023"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Agility</a> |
 
 ## Races en beroepen
 

@@ -3,7 +3,7 @@ title: "Holy Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Holy Paladin: healing build, spells and mana"
 description: "The Holy Paladin in WoW Forever: the level 60 healing build, Holy Shock and Light's Vigil, the healing priority, mana, seals, stats and races."
 short: "Holy Paladin"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Holy Paladin a good healer in WoW Forever?"
@@ -21,6 +21,8 @@ faq:
   - q: "Is there a level 60 build?"
     a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/enchants-consumables-pve-healer"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -55,8 +57,6 @@ Three builds, each with the 51 talent points of level 60: one for raids and dung
 
 31 points in Holy, 7 in Protection and 13 in Retribution. [Open the raid build in the talent calculator](/talents/paladin/?t=50320115022101251-50002-050330002).
 
-For dungeons, a variant moves a few points: [open the dungeon build](/talents/paladin/?t=50320015222121251-5-052300002).
-
 | Talent | Points |
 |---|---|
 | **Spiritual Focus** | 5/5 |
@@ -78,6 +78,8 @@ For dungeons, a variant moves a few points: [open the dungeon build](/talents/pa
 | **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
 | **Pursuit of Justice** | 2/2 |
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/paladin/?t=50320015222121251-5-052300002).
 
 ### Leveling build, 0/31/20
 
@@ -134,7 +136,7 @@ Before a fight, give everyone the right blessing, and everyone except the tank a
 
 ## Stats and gear
 
-Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
+At level 60 the priority is: healing power, Intellect, critical strike chance, Spirit. What each stat does:
 
 - **Healing power and spell power**, for stronger heals and cheaper ones: with more healing power, a lower rank does the job.
 - **Intellect**, for more mana and more critical strike chance.
@@ -146,6 +148,18 @@ Stat priorities for level 60 follow once we can test level 60 in the live game. 
 **Weapon.** Paladins cannot use staves, so you will mostly carry a one-handed weapon with a shield or an off-hand. Your weapon is often your most important item even though you rarely swing it.
 
 **Librams.** A libram in the ranged slot gives a small passive bonus. Pick one that fits your heals.
+
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
+| **Neck** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249057"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Spell Power</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13607"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Intellect</a> |
+| **Legs** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252452"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a> |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
 
 ## Races and professions
 

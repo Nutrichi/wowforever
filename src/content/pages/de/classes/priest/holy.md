@@ -3,7 +3,7 @@ title: "Holy-Priest-Guide für WoW Forever"
 metaTitle: "WoW Forever Holy Priest: 18/33/0-Build, Heilung und Werte"
 description: "Der Holy Priest in WoW Forever: der Build 18/33/0 für Level 60, Prayer of Mending und Litany of Light, Tank- und Gruppenheilung, Mana, Werte und Völker."
 short: "Holy Priest"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: de
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Ist dieser Build endgültig?"
     a: "Nein. Oktober für Level 60."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/holy/enchants-consumables-pve-healer"
   - name: "Wowhead, Talent-Builds"
     url: "https://www.wowhead.com/forever/guide/classes/priest/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -62,8 +64,6 @@ Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und D
 
 18 Punkte in Discipline und 33 in Holy. [Raid-Build im Talentrechner öffnen](/de/talents/priest/?t=00500500133001-10505103230121531).
 
-Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/priest/?t=025005001330011-0350510303002053).
-
 | Talent | Punkte |
 |---|---|
 | **Twin Disciplines** | 5/5 |
@@ -85,6 +85,8 @@ Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](
 | **Spiritual Guidance** | 5/5 |
 | **Spiritual Healing** | 3/3 |
 | **Prayer of Mending** | 1/1 |
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/priest/?t=025005001330011-0350510303002053).
 
 ### Leveling-Build, 16/0/35
 
@@ -156,6 +158,18 @@ Die Reihenfolge für einen Holy Priest:
 **Pristine-Set.** Schneider stellen die Pristine-Teile her, etwa <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253961"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_32.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pristine Gown</a>, mit Mustern der Commerce Society in den Redridge Mountains oder den Barrens. Stark, aber ein Umweg beim Leveln.
 
 **Ring.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281635"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Philanthropist's Ring</a> gibt 10 Zaubermacht für 20 Bücher. Siehe den [Guide zu den Bibliotheksbüchern](/de/guides/library-books/).
+
+## Verzauberungen und Verbrauchsgüter
+
+Die beste Verzauberung pro Platz. Verzaubere Ausrüstung, die du eine Weile behältst; beim Leveln reichen die günstigeren Versionen derselben Verzauberung.
+
+| Platz | Beste Wahl |
+|---|---|
+| **Waffe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Handgelenke** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13642"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Spirit</a> |
+| **Brust** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13663"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Intellect</a> |
+| **Umhang** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13746"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Greater Defense</a> |
+| **Füße** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13687"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Lesser Spirit</a> |
 
 ## Völker und Berufe
 

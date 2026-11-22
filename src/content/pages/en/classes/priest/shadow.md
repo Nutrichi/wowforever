@@ -3,7 +3,7 @@ title: "Shadow Priest guide for WoW Forever"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34 build, rotation and stats"
 description: "The Shadow Priest in WoW Forever: the 14/3/34 build for level 60, Improved Mind Flay and Vampiric Embrace, the DoT rotation, Shadowform, mana, stats and races."
 short: "Shadow Priest"
-updated: 2026-11-17
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Shadow Priest good in WoW Forever?"
@@ -19,6 +19,8 @@ faq:
   - q: "Is this build final?"
     a: "No."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/shadow/enchants-consumables-pve-dps"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/priest/shadow/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -63,8 +65,6 @@ Three builds, each with the 51 talent points of level 60: one for raids and dung
 
 15 points in Discipline, 3 in Holy and 33 in Shadow. [Open the raid build in the talent calculator](/talents/priest/?t=00530400003-3-50042201251302051).
 
-For dungeons, a variant moves a few points: [open the dungeon build](/talents/priest/?t=00530200003--50542201251302051).
-
 | Talent | Points |
 |---|---|
 | **Twin Disciplines** | 5/5 |
@@ -84,6 +84,8 @@ For dungeons, a variant moves a few points: [open the dungeon build](/talents/pr
 | **Devouring Contagion** | 2/2 |
 | **Darkness** | 5/5 |
 | **Shadowform** | 1/1 |
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/priest/?t=00530200003--50542201251302051).
 
 Twilight Focus only works in Shadowform since the hotfix of 11 November. Before that, these 3 points did nothing in your form, [more in our post](/news/judgement-now-counts-as-a-ranged-attack/).
 
@@ -146,6 +148,18 @@ Mana is one of the strengths of Shadow. Shadowform halves the mana cost of Shado
 ## Movement
 
 Casters live by one rule: always be casting. The Priest has almost no tools to move quickly, so pick your spot before a fight and move as little as you can. Cast your instant spells, such as Shadow Word: Pain and Shadow Word: Death, while you have to walk.
+
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Bracers** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13642"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Spirit</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13663"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Intellect</a> |
+| **Cloak** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13746"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Greater Defense</a> |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13687"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Lesser Spirit</a> |
 
 ## Gear, races and professions
 

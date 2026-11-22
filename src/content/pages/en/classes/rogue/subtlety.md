@@ -3,7 +3,7 @@ title: "Subtlety Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush and bleed builds to 60"
 description: "The Subtlety Rogue in WoW Forever: an Ambush build and a bleed build, both with Death Mark, for level 60, with rotations, Energy, Shank, poisons and races."
 short: "Subtlety Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Subtlety Rogue good in PvE in WoW Forever?"
@@ -19,6 +19,8 @@ faq:
   - q: "Why does Subtlety feel weak at low levels?"
     a: "Its best talents sit at the bottom of the tree. Many players level with another spec and switch to Subtlety at a higher level."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/subtlety/enchants-consumables-pve-dps"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/subtlety/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -31,7 +33,7 @@ The Subtlety Rogue in WoW Forever has two real PvE builds. One deals huge critic
 | | |
 |---|---|
 | Role | Melee damage, with daggers or bleeds |
-| Builds | Ambush (10/10/31) and bleed (12/8/31), both with Death Mark, at level 60 |
+| Builds | Ambush (12/8/31) and bleed (12/8/31), both with Death Mark, at level 60 |
 | Key talents | Malice, Opportunity, Initiative, Ghostly Strike, Serrated Blades, Preparation, Hemorrhage, Boot Knife, Death Mark |
 | Strength | Two playstyles, bleeds ignore armor, lots of crowd control |
 | Weakness | Needs gear, best talents only at high level |
@@ -55,26 +57,23 @@ The Subtlety Rogue in WoW Forever has two real PvE builds. One deals huge critic
 
 Two builds, each with the 51 talent points of level 60: one for raids and dungeons and one for leveling. Every build opens in our talent calculator.
 
-### Raid build, 10/10/31
+### Raid build, 12/8/31
 
-10 points in Assassination, 10 in Combat and 31 in Subtlety. [Open the raid build in the talent calculator](/talents/rogue/?t=025003-302302-335003231321001121).
-
-The bleed build trades the big Ambushes for Hemorrhage and a stronger Rupture: [open the bleed build](/talents/rogue/?t=015303-302003-332210231321001151).
+12 points in Assassination, 8 in Combat and 31 in Subtlety. [Open the raid build in the talent calculator](/talents/rogue/?t=00530301-320003-305230031321001151).
 
 | Talent | Points |
 |---|---|
-| **Remorseless Attacks** | 2/2 |
 | **Malice** | 5/5 |
+| **Ruthlessness** | 3/3 |
 | **Improved Slice and Dice** | 3/3 |
+| **Blood Splatter** | 1/1 |
 | **Coup de Grace** | 3/3 |
-| **Lightning Reflexes** | 2/5 |
-| **Puncturing Wounds** | 3/3 |
-| **Precision** | 2/3 |
+| **Efficient Strikes** | 2/2 |
+| **Precision** | 3/3 |
 | **Setup** | 3/3 |
-| **Master of Deception** | 3/3 |
 | **Opportunity** | 5/5 |
-| **Improved Ambush** | 3/3 |
-| **Dirty Tricks** | 2/2 |
+| **Dirty Deeds** | 2/2 |
+| **Camouflage** | 3/3 |
 | **Initiative** | 3/3 |
 | **Premeditation** | 1/1 |
 | **Serrated Blades** | 3/3 |
@@ -82,14 +81,20 @@ The bleed build trades the big Ambushes for Hemorrhage and a stronger Rupture: [
 | **Ghostly Strike** | 1/1 |
 | **Preparation** | 1/1 |
 | **Hemorrhage** | 1/1 |
-| **Boot Knife** | 2/5 |
+| **Boot Knife** | 5/5 |
 | **Death Mark** | 1/1 |
+
+The bleed build trades the big Ambushes for Hemorrhage and a stronger Rupture: [open the bleed build](/talents/rogue/?t=015303-302003-332210231321001151).
+
+A third option uses Hemorrhage as builder with Seal Fate, Cold Blood and Relentless Strikes from Assassination, without Death Mark (28/2/21). [Open it in the talent calculator](/talents/rogue/?t=0053031121135102-02-0352000313210001).
 
 ### Leveling build
 
 The [Rogue level build](/leveling/rogue/) gives the talent for every level from 10 to 35. The rest of the order follows once it is known.
 
-A PvP build for the new talent trees is not known yet. This section gets updated as soon as there is one.
+#### PvP build
+
+The PvP build, 14/10/27, is the same for all three Rogue specs: deep Subtlety for Preparation, Premeditation, Ghostly Strike and Hemorrhage, with Dirty Deeds and Elusiveness for control and escapes. [Open the PvP build](/talents/rogue/?t=325000202-3203002-0322232313211011).
 
 ## What the key talents do
 
@@ -159,11 +164,26 @@ From level 20, a quest chain teaches you to make poisons. Use Instant Poison and
 
 Rogues hit hard but fall fast. Judge every pull: Sap one monster out of a group, preferably a caster. Open with Cheap Shot, follow with Kidney Shot, and stretch it with Gouge or Blind when you need Energy or cooldowns. Use Evasion when you must take hits, Kick every caster, and Vanish when nothing else works.
 
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Neck** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Cloak** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Bracers** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Gloves** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Legs** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> or the version for your level |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Gear, races and professions
 
 ### Stats and gear
 
-Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
+At level 60 the priority is: hit up to 8%, expertise up to 6.5%, weapon skill up to 308, hit up to 17% for poisons, Agility, critical strike chance, haste, Strength, attack power, Stamina. What each stat does:
 
 - **Agility**: 1 attack power per point, 1% critical strike chance per 29 Agility, 1% dodge per 14.5 Agility.
 - **Attack power**, which now also raises the damage of your poisons.

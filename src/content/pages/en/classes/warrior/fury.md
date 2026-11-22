@@ -3,7 +3,7 @@ title: "Fury Warrior guide for WoW Forever"
 metaTitle: "WoW Forever Fury Warrior: level 60 build, rotation and Rage"
 description: "The Fury Warrior in WoW Forever: the level 60 build with Cruelty, Unbridled Wrath and Death Wish, the rotation, Rage, stance dancing, stats, weapons and races."
 short: "Fury Warrior"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Fury Warrior good in WoW Forever?"
@@ -19,6 +19,8 @@ faq:
   - q: "Is there a level 60 build?"
     a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/enchants-consumables-pve-dps"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -64,8 +66,6 @@ Three builds, each with the 51 talent points of level 60: one for raids and dung
 
 17 points in Arms and 34 in Fury. [Open the raid build in the talent calculator](/talents/warrior/?t=30303213002-050530045122100231).
 
-For dungeons, a variant moves a few points: [open the dungeon build](/talents/warrior/?t=30303213002-051530055120100231).
-
 | Talent | Points |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
@@ -87,6 +87,8 @@ For dungeons, a variant moves a few points: [open the dungeon build](/talents/wa
 | **Improved Whirlwind** | 2/2 |
 | **Flurry** | 3/3 |
 | **Bloodthirst** | 1/1 |
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/warrior/?t=30303213002-051530055120100231).
 
 ### Leveling build, 13/6/32
 
@@ -137,11 +139,24 @@ Stay on the boss. Out of combat, Charge gives Rage and puts you in the fight at 
 
 Rage is everything. With endless Rage you would never stop pressing buttons, so plan ahead and keep enough for your important attacks. If a Heroic Strike leaves Bloodthirst or Whirlwind waiting for a second or two, that was a mistake. Keep your Rage moving: never full, never empty.
 
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Cloak** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Legs** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Gloves** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Gear, races and professions
 
 ### Stats and gear
 
-The exact order at level 60 follows once we can test level 60 in the live game. These stats help a Fury Warrior:
+At level 60 the priority is: weapon skill up to 305, hit up to 9%, critical strike chance, Strength, Agility, Stamina. What each stat does:
 
 - **Hit chance.** A miss deals nothing and gives no Rage.
 - **Critical strike chance.** More damage and more Rage, one of the best stats you can get. Agility adds some critical strike chance too.

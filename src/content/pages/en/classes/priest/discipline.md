@@ -3,7 +3,7 @@ title: "Discipline Priest guide for WoW Forever"
 metaTitle: "WoW Forever Discipline Priest: 31/20/0 build, Penance and stats"
 description: "The Discipline Priest in WoW Forever: the 31/20/0 build for level 60, Penance, Divine Aegis, Renewed Hope and Power Infusion, tank healing, mana, stats and races."
 short: "Discipline Priest"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Discipline Priest good in WoW Forever?"
@@ -19,6 +19,8 @@ faq:
   - q: "Is this build final?"
     a: "No."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/discipline/enchants-consumables-pve-healer"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/priest/discipline/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -63,8 +65,6 @@ Three builds, each with the 51 talent points of level 60: one for raids and dung
 
 31 points in Discipline and 20 in Holy. [Open the raid build in the talent calculator](/talents/priest/?t=005005031330011531-0350501303).
 
-For dungeons, a variant moves a few points: [open the dungeon build](/talents/priest/?t=025015021330011531-0150510303).
-
 | Talent | Points |
 |---|---|
 | **Twin Disciplines** | 5/5 |
@@ -84,6 +84,8 @@ For dungeons, a variant moves a few points: [open the dungeon build](/talents/pr
 | **Blessed Recovery** | 1/3 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/priest/?t=025015021330011531-0150510303).
 
 ### Leveling build, 16/0/35
 
@@ -156,6 +158,18 @@ The order for a Discipline Priest:
 **Pristine set.** Tailors make the Pristine pieces, such as <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253961"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_32.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pristine Gown</a>, from patterns of the Commerce Society in Redridge Mountains or the Barrens.
 
 **Ring.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281635"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Philanthropist's Ring</a> gives 10 spell power for 20 books. See the [library books guide](/guides/library-books/).
+
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Bracers** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13642"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Spirit</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13663"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Intellect</a> |
+| **Cloak** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13746"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Greater Defense</a> |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13687"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Lesser Spirit</a> |
 
 ## Races and professions
 

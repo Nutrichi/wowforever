@@ -3,7 +3,7 @@ title: "Subtlety Rogue in WoW Forever: la guida"
 metaTitle: "WoW Forever Subtlety Rogue: build Ambush e sanguinamento"
 description: "Il Subtlety Rogue in WoW Forever: una build Ambush e una a sanguinamento, entrambe con Death Mark, per il livello 60, con rotazioni, energia, Shank, veleni e razze."
 short: "Subtlety Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: it
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Perché Subtlety sembra debole ai livelli bassi?"
     a: "I suoi talenti migliori sono in fondo all'albero. Molti giocatori livellano con un'altra specializzazione e passano a Subtlety più avanti."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/subtlety/enchants-consumables-pve-dps"
   - name: "Wowhead, build dei talenti"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/subtlety/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -32,7 +34,7 @@ Il Subtlety Rogue di WoW Forever ha due vere build PvE. Una infligge enormi Ambu
 | | |
 |---|---|
 | Ruolo | Danni in mischia, con pugnali o sanguinamenti |
-| Build | Ambush (10/10/31) e sanguinamento (12/8/31), entrambe con Death Mark, al livello 60 |
+| Build | Ambush (12/8/31) e sanguinamento (12/8/31), entrambe con Death Mark, al livello 60 |
 | Talenti chiave | Malice, Opportunity, Initiative, Ghostly Strike, Serrated Blades, Preparation, Hemorrhage, Boot Knife, Death Mark |
 | Punti forti | Due stili di gioco, i sanguinamenti ignorano l'armatura, tanto controllo |
 | Punti deboli | Ha bisogno di equipaggiamento, i talenti migliori solo ad alto livello |
@@ -56,26 +58,23 @@ Il Subtlety Rogue di WoW Forever ha due vere build PvE. Una infligge enormi Ambu
 
 Due build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon e una per livellare. Ogni build si apre nel nostro calcolatore di talenti.
 
-### Build da raid, 10/10/31
+### Build da raid, 12/8/31
 
-10 punti in Assassination, 10 in Combat e 31 in Subtlety. [Apri la build da raid nel calcolatore di talenti](/it/talents/rogue/?t=025003-302302-335003231321001121).
-
-La build sanguinamento scambia i grandi Ambush con Hemorrhage e un Rupture più forte: [apri la build sanguinamento](/it/talents/rogue/?t=015303-302003-332210231321001151).
+12 punti in Assassination, 8 in Combat e 31 in Subtlety. [Apri la build da raid nel calcolatore di talenti](/it/talents/rogue/?t=00530301-320003-305230031321001151).
 
 | Talento | Punti |
 |---|---|
-| **Remorseless Attacks** | 2/2 |
 | **Malice** | 5/5 |
+| **Ruthlessness** | 3/3 |
 | **Improved Slice and Dice** | 3/3 |
+| **Blood Splatter** | 1/1 |
 | **Coup de Grace** | 3/3 |
-| **Lightning Reflexes** | 2/5 |
-| **Puncturing Wounds** | 3/3 |
-| **Precision** | 2/3 |
+| **Efficient Strikes** | 2/2 |
+| **Precision** | 3/3 |
 | **Setup** | 3/3 |
-| **Master of Deception** | 3/3 |
 | **Opportunity** | 5/5 |
-| **Improved Ambush** | 3/3 |
-| **Dirty Tricks** | 2/2 |
+| **Dirty Deeds** | 2/2 |
+| **Camouflage** | 3/3 |
 | **Initiative** | 3/3 |
 | **Premeditation** | 1/1 |
 | **Serrated Blades** | 3/3 |
@@ -83,14 +82,20 @@ La build sanguinamento scambia i grandi Ambush con Hemorrhage e un Rupture più 
 | **Ghostly Strike** | 1/1 |
 | **Preparation** | 1/1 |
 | **Hemorrhage** | 1/1 |
-| **Boot Knife** | 2/5 |
+| **Boot Knife** | 5/5 |
 | **Death Mark** | 1/1 |
+
+La build sanguinamento scambia i grandi Ambush con Hemorrhage e un Rupture più forte: [apri la build sanguinamento](/it/talents/rogue/?t=015303-302003-332210231321001151).
+
+Una terza opzione usa Hemorrhage come generatore con Seal Fate, Cold Blood e Relentless Strikes da Assassination, senza Death Mark (28/2/21). [Aprila nel calcolatore di talenti](/it/talents/rogue/?t=0053031121135102-02-0352000313210001).
 
 ### Build per livellare
 
 La [build di leveling del Rogue](/it/leveling/rogue/) dà il talento per ogni livello dal 10 al 35. Il resto dell'ordine arriverà appena sarà noto.
 
-Una build PvP per i nuovi alberi dei talenti non è ancora nota. Questa sezione verrà aggiornata appena ce ne sarà una.
+#### Build PvP
+
+La build PvP, 14/10/27, è la stessa per tutte e tre le specializzazioni del Rogue: a fondo in Subtlety per Preparation, Premeditation, Ghostly Strike e Hemorrhage, con Dirty Deeds ed Elusiveness per controllo e fuga. [Apri la build PvP](/it/talents/rogue/?t=325000202-3203002-0322232313211011).
 
 ## Cosa fanno i talenti chiave
 
@@ -160,11 +165,26 @@ Dal livello 20, una catena di missioni ti insegna a creare veleni. Usa Instant P
 
 I Rogue colpiscono forte ma cadono in fretta. Valuta ogni pull: usa Sap su un mostro di un gruppo, meglio se un incantatore. Apri con Cheap Shot, continua con Kidney Shot e allunga con Gouge o Blind quando ti servono energia o tempi di recupero. Usa Evasion quando devi incassare, interrompi con Kick ogni incantatore, e Vanish quando nient'altro funziona.
 
+## Incantamenti e consumabili
+
+Il miglior incantamento per slot. Mettili sull’equipaggiamento che terrai per un po’; mentre livelli, le versioni più economiche dello stesso incantamento bastano.
+
+| Slot | Scelta migliore |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Collo** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Mantello** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Torso** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Polsi** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Mani** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Gambe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> o la versione del tuo livello |
+| **Piedi** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Equipaggiamento, razze e professioni
 
 ### Stats ed equipaggiamento
 
-Le priorità delle stats per il livello 60 arriveranno quando potremo provare il livello 60 nel gioco live. Fino ad allora:
+Al livello 60 l’ordine è: colpo fino all’8%, maestria fino al 6,5%, abilità con l’arma fino a 308, colpo fino al 17% per i veleni, Agilità, probabilità di critico, celerità, Forza, potere d’attacco, Tempra. Cosa fa ogni statistica:
 
 - **Agilità**: 1 di potere d'attacco per punto, l'1% di critico ogni 29 di Agilità, l'1% di schivata ogni 14,5 di Agilità.
 - **Potere d'attacco**, che ora aumenta anche i danni dei veleni.

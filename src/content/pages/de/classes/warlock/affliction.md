@@ -3,7 +3,7 @@ title: "Affliction-Warlock-Guide für WoW Forever"
 metaTitle: "WoW Forever Affliction Warlock: Drain-Tank-Build, Rotation, Life Tap und Völker"
 description: "Der Affliction Warlock in WoW Forever: was sich ändert, der Drain-Tank-Build für Level 60, die Rotation, Life Tap und Drain Life, Dämonen, Werte, Völker und Berufe."
 short: "Affliction Warlock"
-updated: 2026-11-10
+updated: 2026-11-22
 lang: de
 manual: true
 faq:
@@ -22,6 +22,8 @@ faq:
   - q: "Gibt es einen Build für Level 60?"
     a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/warlock/affliction/enchants-consumables-pve-dps"
   - name: "Wowhead, Talent-Builds"
     url: "https://www.wowhead.com/forever/guide/classes/warlock/affliction/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -60,17 +62,16 @@ Der Affliction Warlock legt in WoW Forever Schaden über Zeit auf den Gegner und
 
 Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
 
-### Raid-Build, 33/0/18
+### Raid-Build, 35/11/5
 
-33 Punkte in Affliction und 18 in Destruction. [Raid-Build im Talentrechner öffnen](/de/talents/warlock/?t=25500000135201351--0550005003).
-
-Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/warlock/?t=2550001013520105--0550205103).
+35 Punkte in Affliction, 11 in Demonology und 5 in Destruction. [Raid-Build im Talentrechner öffnen](/de/talents/warlock/?t=25500020135201351-0050203001-05).
 
 | Talent | Punkte |
 |---|---|
 | **Improved Life Tap** | 2/2 |
 | **Suppression** | 5/5 |
 | **Improved Corruption** | 5/5 |
+| **Improved Bane of Agony** | 2/2 |
 | **Amplify Curse** | 1/1 |
 | **Pandemic** | 3/3 |
 | **Malevolence** | 5/5 |
@@ -79,10 +80,15 @@ Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](
 | **Soul Siphon** | 3/3 |
 | **Shadow Mastery** | 5/5 |
 | **Wrack** | 1/1 |
+| **Demonic Embrace** | 5/5 |
+| **Demonic Aegis** | 2/2 |
+| **Fel Vitality** | 3/3 |
+| **Demonic Sacrifice** | 1/1 |
 | **Improved Shadow Bolt** | 5/5 |
-| **Bane** | 5/5 |
-| **Ruin** | 5/5 |
-| **Agonizing Flames** | 3/3 |
+
+Der SM-Ruin-Build lässt Demonology für Ruin in Destruction weg, für größere kritische Shadow Bolts (30/0/21). [Im Talentrechner öffnen](/de/talents/warlock/?t=2550001013520105--0550305003).
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/warlock/?t=2550001013520105--0550205103).
 
 ### Leveling-Build, 41/10/0
 
@@ -91,6 +97,10 @@ Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im 
 ### PvP-Build, 30/21/0
 
 Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/warlock/?t=2252002013421105-0050233201201101).
+
+Im PvP tauscht der SM-Ruin-Build die Demonology-Talente gegen Ruin und mehr Burst (29/0/22). [Im Talentrechner öffnen](/de/talents/warlock/?t=2152002013521104--20500551031).
+
+Der Wrack-PvP-Build geht für Wrack tiefer in Affliction (31/7/13). [Im Talentrechner öffnen](/de/talents/warlock/?t=00520303131211351-00502-25050001).
 
 ## Rotation
 
@@ -133,6 +143,18 @@ Mit dem neuen Befehl Move stellst du deinen Dämon hin, wo du willst. Leg Attack
 - **Tailoring** hat neue seelengebundene Schattenteile wie <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253967"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gown</a> und <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253919"><img class="wf-wh__icon" src="/wh/inv_gauntlets_27.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Gloves</a>, die nur der Schneider selbst tragen kann.
 - **Waffen.** In der Warlock-Quest für den Orb of Soran'ruk wählst du zwischen <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15109"><img class="wf-wh__icon" src="/wh/inv_staff_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of Soran'ruk</a> und <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=6898"><img class="wf-wh__icon" src="/wh/inv_misc_orb_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Orb of Soran'ruk</a>. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2549"><img class="wf-wh__icon" src="/wh/inv_staff_25.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Staff of the Shade</a> aus Razorfen Kraul ist ausgezeichnet, wenn er droppt.
 - **Zauberstäbe.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=7001"><img class="wf-wh__icon" src="/wh/inv_wand_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gravestone Scepter</a> aus Blackfathom Deeps ist der stärkste Zauberstab vor Level 30. Danach macht Drain Life in diesem Build mehr Schaden.
+
+## Verzauberungen und Verbrauchsgüter
+
+Die Verzauberungen und Verbrauchsgüter, die sich am meisten lohnen, nach Level. Keins davon brauchst du, um Level 60 zu erreichen: Nimm, was in dein Budget passt, und verzaubere nur Ausrüstung, die du eine Weile behältst.
+
+| Art | Level 1-19 | Level 20-39 | Level 40-60 |
+|---|---|---|---|
+| **Verzauberungen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248459"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Minor Healing Power</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252436"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Medium Armor Kit</a> | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249057"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Spell Power</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252452"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a> | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248498"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Lesser Healing Power</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252462"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Thick Armor Kit</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252487"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
+| **Tränke** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250933"><img class="wf-wh__icon" src="/wh/inv_misc_potionsetc.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Spellblasting Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=118"><img class="wf-wh__icon" src="/wh/inv_potion_49.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Healing Potion</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250935"><img class="wf-wh__icon" src="/wh/inv_potionf_4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Spellblasting Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3928"><img class="wf-wh__icon" src="/wh/inv_potion_53.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Superior Healing Potion</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250936"><img class="wf-wh__icon" src="/wh/inv_misc_potiona2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Superior Spellblasting Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13446"><img class="wf-wh__icon" src="/wh/inv_potion_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Healing Potion</a> |
+| **Elixiere** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=247754"><img class="wf-wh__icon" src="/wh/inv_potion_106.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Arcane Elixir</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250342"><img class="wf-wh__icon" src="/wh/inv_potion_107.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcane Elixir</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250340"><img class="wf-wh__icon" src="/wh/inv_potion_126.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Mageblood Elixir</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9264"><img class="wf-wh__icon" src="/wh/inv_potion_48.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of Shadow Power</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13454"><img class="wf-wh__icon" src="/wh/inv_potion_109.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Arcane Elixir</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20007"><img class="wf-wh__icon" src="/wh/inv_potion_137.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageblood Elixir</a> |
+| **Waffenbuff** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20744"><img class="wf-wh__icon" src="/wh/inv_poison_mindnumbing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Wizard Oil</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20746"><img class="wf-wh__icon" src="/wh/inv_potion_103.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Wizard Oil</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=5522"><img class="wf-wh__icon" src="/wh/inv_misc_gem_sapphire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spellstone</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20749"><img class="wf-wh__icon" src="/wh/inv_potion_105.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brilliant Wizard Oil</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13602"><img class="wf-wh__icon" src="/wh/inv_misc_gem_sapphire_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Spellstone</a> |
+| **Essen** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=21072"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Smoked Sagefish</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=274971"><img class="wf-wh__icon" src="/wh/inv_misc_food_154_fish_77green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Briny Seafood Stew</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13931"><img class="wf-wh__icon" src="/wh/inv_drink_17.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nightfin Soup</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13935"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baked Salmon</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13933"><img class="wf-wh__icon" src="/wh/inv_drink_17.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lobster Stew</a> |
 
 ## Völker und Berufe
 

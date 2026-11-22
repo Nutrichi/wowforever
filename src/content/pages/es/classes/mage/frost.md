@@ -3,7 +3,7 @@ title: "Guía del Frost Mage en WoW Forever"
 metaTitle: "WoW Forever: Frost Mage, build de Ice Lance, rotación y Shatter"
 description: "El Frost Mage en WoW Forever: Ice Lance y Fingers of Frost, la build de nivel 60, la rotación, el kiteo, el maná, Shatter, los stats, el equipo, las razas y las profesiones."
 short: "Frost Mage"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "¿Hay una build para nivel 60?"
     a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/mage/frost/enchants-consumables-pve-dps"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/mage/frost/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -87,9 +89,9 @@ Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas
 
 La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/mage/?t=0502052001003--053530000101331251). La [build de nivel del Mage](/es/leveling/mage/) da el talento de cada nivel.
 
-### Build de PvP, 12/0/39
+### Build de PvP, 17/0/34
 
-La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/mage/?t=2032202001--053532301101331251).
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/mage/?t=203204220002--050530300121331241).
 
 ### Qué hacen los talentos clave
 
@@ -155,11 +157,24 @@ Congelar un objetivo y destrozarlo es el corazón de la spec. Frost Nova es la �
 
 Tu vida sigue siendo baja. Hasta <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=11426"><img class="wf-wh__icon" src="/wh/spell_ice_lament.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ice Barrier</a> a nivel 40 dependes de las congelaciones, Mana Shield y Blink. Contra élites y varios enemigos a la vez es donde más importa.
 
+## Encantamientos y consumibles
+
+Los encantamientos y consumibles que más compensan, por nivel. Ninguno hace falta para llegar a nivel 60: elige lo que entre en tu presupuesto y encanta el equipo que vayas a conservar un tiempo.
+
+| Tipo | Nivel 1-19 | Nivel 20-39 | Nivel 40-60 |
+|---|---|---|---|
+| **Encantamientos** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248459"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Minor Healing Power</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252436"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Medium Armor Kit</a> | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249057"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Spell Power</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252452"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a> | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248498"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Lesser Healing Power</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252462"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Thick Armor Kit</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252487"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
+| **Pociones** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250933"><img class="wf-wh__icon" src="/wh/inv_misc_potionsetc.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Spellblasting Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=118"><img class="wf-wh__icon" src="/wh/inv_potion_49.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Healing Potion</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250935"><img class="wf-wh__icon" src="/wh/inv_potionf_4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Spellblasting Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3928"><img class="wf-wh__icon" src="/wh/inv_potion_53.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Superior Healing Potion</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250936"><img class="wf-wh__icon" src="/wh/inv_misc_potiona2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Superior Spellblasting Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13446"><img class="wf-wh__icon" src="/wh/inv_potion_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Healing Potion</a> |
+| **Elixires** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=247754"><img class="wf-wh__icon" src="/wh/inv_potion_106.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Arcane Elixir</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250342"><img class="wf-wh__icon" src="/wh/inv_potion_107.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcane Elixir</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250340"><img class="wf-wh__icon" src="/wh/inv_potion_126.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Mageblood Elixir</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13454"><img class="wf-wh__icon" src="/wh/inv_potion_109.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Arcane Elixir</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20007"><img class="wf-wh__icon" src="/wh/inv_potion_137.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mageblood Elixir</a> |
+| **Mejora de arma** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20744"><img class="wf-wh__icon" src="/wh/inv_poison_mindnumbing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Wizard Oil</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277485"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Frost</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20746"><img class="wf-wh__icon" src="/wh/inv_potion_103.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Wizard Oil</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20749"><img class="wf-wh__icon" src="/wh/inv_potion_105.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brilliant Wizard Oil</a> |
+| **Comida** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=21072"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Smoked Sagefish</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=274971"><img class="wf-wh__icon" src="/wh/inv_misc_food_154_fish_77green.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Briny Seafood Stew</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13931"><img class="wf-wh__icon" src="/wh/inv_drink_17.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nightfin Soup</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13935"><img class="wf-wh__icon" src="/wh/inv_misc_fish_20.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Baked Salmon</a> |
+| **Pergamino de mago** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=275069"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color1.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Rat Familiar</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277483"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color1.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Frog Familiar</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=217495"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Cryoblast</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277493"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color1.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Cat Familiar</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=277499"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Greater Cryoblast</a> |
+
 ## Equipo, razas y profesiones
 
 ### Stats y equipo
 
-El orden exacto a nivel 60 llegará cuando podamos probar el nivel 60 en el juego en vivo. Estos stats ayudan a un Frost Mage:
+A nivel 60 el orden es: golpe con hechizos hasta el 11 o 12 %, probabilidad de crítico, daño de hechizos, Intelecto, Espíritu, Aguante. Lo que hace cada stat:
 
 - **Daño de hechizos y daño de Frost** primero. El daño de Frost solo ayuda a los hechizos de Frost.
 - **Haste** acelera cada lanzamiento, es decir más daño y más procs. Es rara a niveles bajos.

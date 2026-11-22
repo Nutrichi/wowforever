@@ -3,7 +3,7 @@ title: "Guide du Fury Warrior dans WoW Forever"
 metaTitle: "WoW Forever Fury Warrior : build niveau 60, rotation et Rage"
 description: "Le Fury Warrior dans WoW Forever : le build niveau 60 avec Cruelty, Unbridled Wrath et Death Wish, la rotation, la Rage, le stance dancing, les stats, les armes et les races."
 short: "Fury Warrior"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: fr
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Existe-t-il un build pour le niveau 60 ?"
     a: "Oui. Ce guide propose trois builds pour le niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chacun s’ouvre dans notre calculateur de talents."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/enchants-consumables-pve-dps"
   - name: "Wowhead, builds de talents"
     url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -65,8 +67,6 @@ Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les rai
 
 17 points en Arms et 34 en Fury. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/warrior/?t=30303213002-050530045122100231).
 
-Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/warrior/?t=30303213002-051530055120100231).
-
 | Talent | Points |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
@@ -88,6 +88,8 @@ Pour les donjons, une variante déplace quelques points : [ouvrir le build de do
 | **Improved Whirlwind** | 2/2 |
 | **Flurry** | 3/3 |
 | **Bloodthirst** | 1/1 |
+
+Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/warrior/?t=30303213002-051530055120100231).
 
 ### Build de leveling, 13/6/32
 
@@ -138,11 +140,24 @@ Restez sur le boss. Hors combat, Charge donne de la Rage et vous met tout de sui
 
 La Rage est tout. Avec une Rage infinie, vous ne cesseriez jamais d’appuyer, alors anticipez et gardez-en assez pour vos attaques importantes. Si un Heroic Strike fait attendre Bloodthirst ou Whirlwind une seconde ou deux, c’était une erreur. Gardez votre Rage en mouvement : jamais pleine, jamais vide.
 
+## Enchantements et consommables
+
+Le meilleur enchantement par emplacement. Mettez-les sur l’équipement que vous gardez un moment ; pendant le leveling, les versions moins chères du même enchantement suffisent.
+
+| Emplacement | Meilleur choix |
+|---|---|
+| **Arme** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Cape** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Torse** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Jambes** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Mains** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Pieds** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Équipement, races et métiers
 
 ### Stats et équipement
 
-L’ordre exact au niveau 60 suivra dès que nous pourrons tester le niveau 60 dans le jeu live. Ces stats aident un Fury Warrior :
+Au niveau 60, l’ordre est : compétence d’arme jusqu’à 305, toucher jusqu’à 9 %, critique, Force, Agilité, Endurance. Ce que fait chaque stat :
 
 - **Toucher.** Un raté n’inflige rien et ne donne pas de Rage.
 - **Chances de coup critique.** Plus de dégâts et plus de Rage, l’une des meilleures stats possibles. L’Agilité donne aussi un peu de critique.

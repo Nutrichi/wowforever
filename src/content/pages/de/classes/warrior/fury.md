@@ -3,7 +3,7 @@ title: "Fury-Warrior-Guide für WoW Forever"
 metaTitle: "WoW Forever Fury Warrior: Build für Level 60, Rotation und Rage"
 description: "Der Fury Warrior in WoW Forever: der Build für Level 60 mit Cruelty, Unbridled Wrath und Death Wish, die Rotation, Rage, Stance Dancing, Werte, Waffen und Völker."
 short: "Fury Warrior"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: de
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Gibt es einen Build für Level 60?"
     a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/enchants-consumables-pve-dps"
   - name: "Wowhead, Talent-Builds"
     url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -65,8 +67,6 @@ Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und D
 
 17 Punkte in Arms und 34 in Fury. [Raid-Build im Talentrechner öffnen](/de/talents/warrior/?t=30303213002-050530045122100231).
 
-Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/warrior/?t=30303213002-051530055120100231).
-
 | Talent | Punkte |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
@@ -88,6 +88,8 @@ Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](
 | **Improved Whirlwind** | 2/2 |
 | **Flurry** | 3/3 |
 | **Bloodthirst** | 1/1 |
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/warrior/?t=30303213002-051530055120100231).
 
 ### Leveling-Build, 13/6/32
 
@@ -138,11 +140,24 @@ Bleib am Boss. Außerhalb des Kampfes gibt Charge Rage und bringt dich sofort in
 
 Rage ist alles. Mit endloser Rage würdest du nie aufhören, Tasten zu drücken, also plane voraus und halte genug für deine wichtigen Angriffe bereit. Lässt ein Heroic Strike Bloodthirst oder Whirlwind eine oder zwei Sekunden warten, war das ein Fehler. Halte deine Rage in Bewegung: nie voll, nie leer.
 
+## Verzauberungen und Verbrauchsgüter
+
+Die beste Verzauberung pro Platz. Verzaubere Ausrüstung, die du eine Weile behältst; beim Leveln reichen die günstigeren Versionen derselben Verzauberung.
+
+| Platz | Beste Wahl |
+|---|---|
+| **Waffe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Umhang** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Brust** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Beine** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Hände** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Füße** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Ausrüstung, Völker und Berufe
 
 ### Werte und Ausrüstung
 
-Die genaue Reihenfolge auf Level 60 folgt, sobald wir Level 60 im Live-Spiel testen können. Diese Werte helfen einem Fury Warrior:
+Auf Level 60 ist die Reihenfolge: Waffenfertigkeit bis 305, Trefferchance bis 9 %, kritische Trefferchance, Stärke, Beweglichkeit, Ausdauer. Was jeder Wert bringt:
 
 - **Trefferchance.** Ein Fehlschlag macht nichts und gibt keine Rage.
 - **Kritische Trefferchance.** Mehr Schaden und mehr Rage, einer der besten Werte überhaupt. Beweglichkeit gibt auch etwas kritische Trefferchance.

@@ -3,7 +3,7 @@ title: "Fury Warrior in WoW Forever: de gids"
 metaTitle: "WoW Forever Fury Warrior: build voor level 60, rotatie en Rage"
 description: "De Fury Warrior in WoW Forever: de build voor level 60 met Cruelty, Unbridled Wrath en Death Wish, de rotatie, Rage, stance dancing, stats, wapens en races."
 short: "Fury Warrior"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Is er een build voor level 60?"
     a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/enchants-consumables-pve-dps"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -65,8 +67,6 @@ Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 
 17 punten in Arms en 34 in Fury. [Open de raidbuild in de talentcalculator](/nl/talents/warrior/?t=30303213002-050530045122100231).
 
-Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/warrior/?t=30303213002-051530055120100231).
-
 | Talent | Punten |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
@@ -88,6 +88,8 @@ Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl
 | **Improved Whirlwind** | 2/2 |
 | **Flurry** | 3/3 |
 | **Bloodthirst** | 1/1 |
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/warrior/?t=30303213002-051530055120100231).
 
 ### Levelbuild, 13/6/32
 
@@ -138,11 +140,24 @@ Blijf op de boss. Buiten gevecht geeft Charge Rage en zet het je meteen in het g
 
 Rage is alles. Met eindeloze Rage zou je nooit stoppen met knoppen drukken, dus plan vooruit en houd genoeg over voor je belangrijke aanvallen. Laat een Heroic Strike Bloodthirst of Whirlwind een seconde of twee wachten, dan was dat een fout. Houd je Rage in beweging: nooit vol, nooit leeg.
 
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Mantel** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Benen** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Handen** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Gear, rassen en beroepen
 
 ### Stats en gear
 
-De exacte volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Fury Warrior:
+Op level 60 is de volgorde: weapon skill tot 305, hit tot 9%, critical strike chance, Strength, Agility, Stamina. Wat elke stat doet:
 
 - **Hit chance.** Een misser doet niets en geeft geen Rage.
 - **Critical strike chance.** Meer schade en meer Rage, een van de beste stats die je kunt krijgen. Agility geeft ook wat critical strike chance.

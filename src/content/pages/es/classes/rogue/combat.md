@@ -3,7 +3,7 @@ title: "Combat Rogue en WoW Forever: la guía"
 metaTitle: "WoW Forever Combat Rogue: builds de Hack and Slash hasta el 60"
 description: "El Combat Rogue en WoW Forever: Hack and Slash para cada tipo de arma, dos builds de nivel 60 (estándar y dagas), Blade Flurry, Adrenaline Rush, energía, venenos y razas."
 short: "Combat Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "¿Qué raza es mejor para un Combat Rogue?"
     a: "Human en la Alliance, por un 1% de crítico, y Orc en la Horde, por un 10% de poder de ataque con Blood Fury. Night Elf y Troll son la segunda opción."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/enchants-consumables-pve-dps"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -32,7 +34,7 @@ El Combat Rogue de WoW Forever inflige un daño enorme con ataques automáticos 
 | | |
 |---|---|
 | Rol | Daño cuerpo a cuerpo con dos armas |
-| Builds | Estándar de nivel 60 (18/33/0) y dagas de nivel 60 (16/33/2) |
+| Builds | Estándar de nivel 60 (16/35/0) y dagas de nivel 60 (13/33/5) |
 | Talentos clave | Malice, Improved Slice and Dice, Precision, Dual Wield Specialization, Hack and Slash, Blade Flurry, Aggression, Adrenaline Rush |
 | Fortalezas | Daño muy alto, fuerte pico de daño, el único ataque a varios objetivos del Rogue, cualquier arma |
 | Debilidades | Depende mucho del equipo, sobre todo de las armas |
@@ -54,42 +56,45 @@ El Combat Rogue de WoW Forever inflige un daño enorme con ataques automáticos 
 
 Dos builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras y una para subir de nivel. Cada build se abre en nuestra calculadora de talentos.
 
-### Build de banda, 18/33/0
+### Build de banda, 16/35/0
 
-18 puntos en Assassination y 33 en Combat. [Abre la build de banda en la calculadora de talentos](/es/talents/rogue/?t=015323202-3200332210012321521).
-
-Con dagas en lugar de espadas o mazas encaja mejor la build de dagas: [abre la build de dagas](/es/talents/rogue/?t=005323102-3023032200012321531-002).
+16 puntos en Assassination y 35 en Combat. [Abre la build de banda en la calculadora de talentos](/es/talents/rogue/?t=00530320201-3200132202012321551).
 
 | Talento | Puntos |
 |---|---|
-| **Remorseless Attacks** | 1/2 |
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
-| **Improved Expose Armor** | 2/2 |
 | **Improved Slice and Dice** | 3/3 |
 | **Vigor** | 2/2 |
 | **Lethality** | 2/2 |
+| **Cold Blood** | 1/1 |
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
-| **Deflection** | 3/3 |
+| **Deflection** | 1/3 |
 | **Precision** | 3/3 |
 | **Improved Sprint** | 2/2 |
 | **Endurance** | 2/2 |
-| **Riposte** | 1/1 |
+| **Composure** | 2/2 |
 | **Flawless Execution** | 1/1 |
 | **Weapon Expertise** | 2/2 |
 | **Aggression** | 3/3 |
 | **Dual Wield Specialization** | 2/2 |
 | **Blade Flurry** | 1/1 |
 | **Hack and Slash** | 5/5 |
-| **Flash of Steel** | 2/5 |
+| **Flash of Steel** | 5/5 |
 | **Adrenaline Rush** | 1/1 |
+
+Con dagas en lugar de espadas o mazas encaja mejor la build de dagas: [abre la build de dagas](/es/talents/rogue/?t=005303002-3203030202012221451-005).
+
+La build de Venom coge Venom y Cold Blood en Assassination y se apoya más en el daño de los venenos (21/30/0). [Ábrela en la calculadora de talentos](/es/talents/rogue/?t=00530320241001-320013220201232115).
 
 ### Build para subir de nivel
 
 La [build de nivel del Rogue](/es/leveling/rogue/) da el talento de cada nivel del 10 al 35. El resto del orden llegará en cuanto se conozca.
 
-Aún no se conoce una build de PvP para los nuevos árboles de talentos. Esta sección se actualizará en cuanto haya una.
+#### Build de PvP
+
+La build de PvP, 14/10/27, es la misma para las tres especializaciones del Rogue: a fondo en Subtlety por Preparation, Premeditation, Ghostly Strike y Hemorrhage, con Dirty Deeds y Elusiveness para control y huida. [Abre la build de PvP](/es/talents/rogue/?t=325000202-3203002-0322232313211011).
 
 ## Qué hacen los talentos clave
 
@@ -149,11 +154,26 @@ Desde el nivel 20, una cadena de misiones te enseña a hacer venenos. Usa Instan
 
 Aplica Sap a un monstruo de un grupo, mejor si es un lanzador de hechizos. Abre con Cheap Shot, sigue con Kidney Shot y alárgalo con Gouge o Blind cuando necesites energía o reutilizaciones. Usa Evasion cuando tengas que aguantar golpes, interrumpe con Kick a cada lanzador de hechizos, y Vanish cuando nada más funcione. Riposte, en la build estándar, desarma a un monstruo tras una parada.
 
+## Encantamientos y consumibles
+
+El mejor encantamiento por hueco. Ponlos en el equipo que vayas a conservar un tiempo; mientras subes de nivel, las versiones más baratas del mismo encantamiento bastan.
+
+| Hueco | Mejor opción |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Cuello** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Capa** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Pecho** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Muñecas** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Manos** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Piernas** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> o la versión de tu nivel |
+| **Pies** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Equipo, razas y profesiones
 
 ### Stats y equipo
 
-Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
+A nivel 60 el orden es: golpe hasta el 8 %, pericia hasta el 6,5 %, habilidad con armas hasta 308, golpe hasta el 17 % para los venenos, Agilidad, probabilidad de crítico, celeridad, Fuerza, poder de ataque, Aguante. Lo que hace cada stat:
 
 - **Agilidad**: 1 de poder de ataque por punto, un 1% de crítico por cada 29 de Agilidad, un 1% de esquiva por cada 14,5 de Agilidad.
 - **Poder de ataque**, que ahora también sube el daño de tus venenos.

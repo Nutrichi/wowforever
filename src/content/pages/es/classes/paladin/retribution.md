@@ -3,7 +3,7 @@ title: "Retribution Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Retribution Paladin: build, rotación y sellos"
 description: "El Retribution Paladin en WoW Forever: la build de nivel 60, la rotación con Seal of Command, los Judgements, las bendiciones, los stats y las razas."
 short: "Retribution Paladin"
-updated: 2026-11-20
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -18,6 +18,8 @@ faq:
   - q: "¿Hay una build para nivel 60?"
     a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/retribution/enchants-consumables-pve-dps"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/paladin/retribution/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -28,7 +30,7 @@ El Retribution Paladin de WoW Forever es el guerrero sagrado con una gran arma d
 | | |
 |---|---|
 | Rol | Daño cuerpo a cuerpo con un arma de dos manos lenta |
-| Build de nivel 60 | 14/6/31 |
+| Build de nivel 60 | 12/8/31 |
 | Talentos clave | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Unsealed Wrath |
 | Fortalezas | Utilidad de grupo, muy difícil de matar, grandes picos de daño |
 | Debilidades | Lento para llegar al objetivo, el maná puede acabarse |
@@ -48,18 +50,17 @@ El Retribution Paladin de WoW Forever es el guerrero sagrado con una gran arma d
 
 Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
 
-### Build de banda, 14/6/31
+### Build de banda, 12/8/31
 
-14 puntos en Holy, 6 en Protection y 31 en Retribution. [Abre la build de banda en la calculadora de talentos](/es/talents/paladin/?t=050250002-501-05233011201301351).
+12 puntos en Holy, 8 en Protection y 31 en Retribution. [Abre la build de banda en la calculadora de talentos](/es/talents/paladin/?t=050050002-503-05233011201301351).
 
 | Talento | Puntos |
 |---|---|
 | **Divine Strength** | 5/5 |
-| **Reverence** | 2/2 |
 | **Improved Seals** | 5/5 |
 | **Holy Conduit** | 2/2 |
 | **Divine Intellect** | 5/5 |
-| **Precision** | 1/3 |
+| **Precision** | 3/3 |
 | **Benediction** | 5/5 |
 | **Improved Judgement** | 2/2 |
 | **Conviction** | 3/3 |
@@ -74,13 +75,15 @@ Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas
 | **Champion of the Light** | 5/5 |
 | **Unsealed Wrath** | 1/1 |
 
+La build de banda Shockadin va a Holy por Holy Shock y se juega como un lanzador con arma (23/0/28). [Ábrela en la calculadora de talentos](/es/talents/paladin/?t=05025210221021--0523320120130033).
+
 ### Build para subir de nivel, 0/31/20
 
 La build para subir de nivel toma primero los talentos que ayudan a matar en solitario. [Ábrela en la calculadora de talentos](/es/talents/paladin/?t=-55300102113001531-05233301201). La [build de nivel del Paladin](/es/leveling/paladin/) da el talento de cada nivel.
 
-### Build de PvP, 12/6/33
+### Build de PvP, 12/8/31
 
-La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/paladin/?t=05025-501-50233011221301351).
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/paladin/?t=050050002-503-50233011201301351).
 
 ## Qué hacen los talentos clave
 
@@ -132,7 +135,7 @@ Antes de un combate, dale a cada uno la bendición adecuada, y a todos salvo al 
 
 ## Stats y equipo
 
-Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces, estos son los stats que cuentan:
+A nivel 60 el orden es: habilidad con armas, daño y velocidad del arma, golpe hasta el 9 %, pericia hasta el 6,5 %, daño de hechizos, Intelecto, Fuerza, poder de ataque, Agilidad, probabilidad de crítico, Aguante. Lo que hace cada stat:
 
 - **Índice de golpe**, para que tus ataques y hechizos impacten.
 - **Probabilidad de crítico**, que funciona con Conviction y Vengeance.
@@ -145,6 +148,22 @@ Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el niv
 **Arma.** Un arma de dos manos lenta con mucho daño, para Seal of Command y Holy Strike.
 
 **Librams.** Los Paladins llevan un libram en la ranura a distancia, con una pequeña bonificación pasiva. Elige uno que encaje con tus hechizos.
+
+## Encantamientos y consumibles
+
+El mejor encantamiento por hueco. Ponlos en el equipo que vayas a conservar un tiempo; mientras subes de nivel, las versiones más baratas del mismo encantamiento bastan.
+
+| Hueco | Mejor opción |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20034"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Crusader</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219580"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Spellblasting</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13898"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Fiery Weapon</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248511"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Lesser Strength</a> |
+| **Cabeza** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11645"><img class="wf-wh__icon" src="/wh/inv_misc_gem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcanum of Voracity</a> (nivel 50+), <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> (nivel 50+) |
+| **Cuello** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249019"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Strength</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249057"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Spell Power</a> |
+| **Capa** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Pecho** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13941"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Stats</a> |
+| **Muñecas** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20010"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Strength</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Manos** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1213622"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Holy Power</a> (nivel 50+), <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20013"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Greater Strength</a> |
+| **Piernas** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11645"><img class="wf-wh__icon" src="/wh/inv_misc_gem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcanum of Voracity</a> (nivel 50+), <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> (nivel 50+) |
+| **Pies** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20023"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Agility</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13935"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Agility</a> |
 
 ## Razas y profesiones
 

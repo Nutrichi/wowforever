@@ -13,7 +13,7 @@ faq:
   - q: "Is Healing Touch still worth casting?"
     a: "Yes, but less than in Classic. Downranking penalties and a stronger Regrowth make it less central, and Tranquil Spirit is no longer a strong talent."
   - q: "Which race is best for a Restoration Druid?"
-    a: "That is not known yet. Every Druid race has something to offer a healer."
+    a: "High Order Skyborne for the Alliance, for 2% haste and Read Leyline for mana, or Night Elf for Elune's Light before heavy damage. On the Horde side, Windshaper Skyborne for 2% haste and Skysight."
   - q: "Which professions suit a Restoration Druid?"
     a: "While levelling, Skinning with Leatherworking or two gathering professions. At level 60 Engineering looks strong for raid utility, and Enchanting has access to relics that bind on pickup."
   - q: "Can a Restoration Druid dispel Magic or Disease?"
@@ -25,6 +25,8 @@ faq:
   - q: "Should a Restoration Druid deal damage?"
     a: "In quiet moments, yes. The stronger Wrath, the free Omen of Clarity and Judgement of Wisdom make cheap damage spells worth weaving in."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/druid/restoration/enchants-consumables-pve-healer"
   - name: "Mobalytics"
     url: "https://mobalytics.gg/wow-forever/classes/restoration-druid-guide-progress"
 ---
@@ -90,6 +92,10 @@ Three builds, each with the 51 talent points of level 60: one for raids and dung
 | **Improved Regrowth** | 5/5 |
 | **Wild Growth** | 1/1 |
 
+With 21 points in Balance for Improved Wrath, Moonglow and Insect Swarm, this raid build lets you deal more damage in quiet moments (21/0/30). [Open it in the talent calculator](/talents/druid/?t=5530203110001--055300510311105).
+
+For dungeons, a build with Feral Combat lets you switch to cat or bear when the healing is calm, or when the tank goes down (0/32/19). [Open it in the talent calculator](/talents/druid/?t=-55000032023012125001-05530011031).
+
 The 11 points in Balance reach Nature's Splendor, with Genesis for your HoTs and Nature's Majesty for critical strike chance. In Restoration the points go to healing and mana instead of Cat Form. Put more points in Tranquil Spirit when Healing Touch and Tranquility eat a large part of your mana; Improved Tranquility is an alternative for a shorter cooldown and less threat. Move points around instead of adding them, and keep Wild Growth and Living Spirit, the talent before it.
 
 ### Leveling build, 9/32/10
@@ -109,6 +115,21 @@ The PvP build trades damage for control and survival. [Open the PvP build in the
 **Stats.** First enough Intellect and Stamina, then healing power. When you run out of mana, Spirit or mana per 5 seconds is worth more than a bit more healing; with Reflection and Living Spirit, Spirit also feeds Bloom. Critical strike chance comes after that: HoTs can crit in Forever, but a crit is a bonus, not a plan. The [pre-raid BiS list](/bis/forever/preraid/druid-restoration/) shows which items to aim for.
 
 **Idols.** Mystic Mushroom, a bind on pickup Enchanting craft at skill 130, gives 5% Spirit, good for mana and Bloom. Idol of Synthesis from Pix Xizzix shortens the cooldown of Swiftmend for each of your HoTs on the target, handy on a tank you keep covered. Once the raids open, Idol of Swiftness takes 3 seconds off the cooldown of Swiftmend; it needs Malleable Essence of Nature from the raids.
+
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **2H Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248636"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Mighty Healing Power</a> |
+| **1H Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=22750"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Healing Power</a> |
+| **Off-Hand** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219579"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Off-Hand - Wisdom</a> |
+| **Neck** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249058"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Healing Power</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254770"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
+| **Hands** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254770"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
+| **Legs** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254770"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254770"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
 
 ## Dual Specialization and other builds
 

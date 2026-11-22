@@ -3,7 +3,7 @@ title: "Survival Hunter in WoW Forever: der Guide"
 metaTitle: "WoW Forever Survival Hunter: Build für Level 60 und Melee Weaving"
 description: "Der Survival Hunter in WoW Forever: der Build 5/13/33 für Level 60 mit Lone Wolf und Strider Kick, Melee Weaving, die Rotation, Mana mit Resourcefulness, Werte und Völker."
 short: "Survival Hunter"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: de
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Welches Volk ist das beste für einen Survival Hunter?"
     a: "Skyborne auf beiden Seiten, wegen des Tempobonus. Human für die Allianz und Orc für die Horde sind starke Alternativen. Die Unterschiede sind klein."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/enchants-consumables-pve-dps"
   - name: "Wowhead, Talent-Builds"
     url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -54,9 +56,9 @@ Der Survival Hunter in WoW Forever kämpft auf Distanz und im Nahkampf. Du webst
 
 Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons, einer zum Leveln und einer für PvP. Jeder Build öffnet sich in unserem Talentrechner.
 
-### Raid-Build, 16/4/31
+### Raid-Build, 16/10/25
 
-16 Punkte in Beast Mastery, 4 in Marksmanship und 31 in Survival. [Raid-Build im Talentrechner öffnen](/de/talents/hunter/?t=51202005001-004-500230230050022151).
+16 Punkte in Beast Mastery, 10 in Marksmanship und 25 in Survival. [Raid-Build im Talentrechner öffnen](/de/talents/hunter/?t=51202005001-005005-5002302300502201).
 
 | Talent | Punkte |
 |---|---|
@@ -66,26 +68,27 @@ Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und D
 | **Improved Revive Pet** | 2/2 |
 | **Unleashed Fury** | 5/5 |
 | **Summon Hawk** | 1/1 |
-| **Lethal Attacks** | 4/5 |
+| **Lethal Attacks** | 5/5 |
+| **Careful Aim** | 5/5 |
 | **Improved Tracking** | 5/5 |
 | **Savage Strikes** | 2/2 |
 | **Survivalist** | 3/5 |
 | **Clever Traps** | 2/2 |
 | **Surefooted** | 3/3 |
 | **Predator's Edge** | 5/5 |
+| **Resourcefulness** | 2/2 |
 | **Expose Prey** | 2/2 |
-| **Survivalist's Discipline** | 2/2 |
 | **Strider Kick** | 1/1 |
-| **Lightning Reflexes** | 5/5 |
-| **Lacerating Strikes** | 1/1 |
+
+Der Weaving-Build wechselt Nah- und Fernkampfangriffe ab und nimmt Marksmanship statt Beast Mastery (0/20/31). [Im Talentrechner öffnen](/de/talents/hunter/?t=-00530501114-500230230050220151).
 
 ### Leveling-Build, 31/20/0
 
 Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/hunter/?t=5120221405101241-00503520005). Der [Level-Build für den Hunter](/de/leveling/hunter/) gibt das Talent für jedes Level.
 
-### PvP-Build, 16/0/35
+### PvP-Build, 22/0/29
 
-Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/hunter/?t=50230014001--502203031051222151).
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/hunter/?t=5023001504101--5022030310512221).
 
 ## Was die wichtigsten Talente tun
 
@@ -163,11 +166,28 @@ Survival verbraucht viel Mana, weil die Rotation viele Fähigkeiten hat. Resourc
 
 Der Build nimmt Lone Wolf und spielt ohne Begleiter. In Dungeons und Raids ist das der meiste Schaden. In der offenen Welt ist ein Begleiter, der dir Monster vom Leib hält, oft mehr wert: Tausch Lone Wolf gegen einen Punkt in Efficiency oder Improved Stings und behalte deinen Begleiter. Nutze **Stay** und **Move To**, um ihn aus Flächenschaden zu halten. Mehr über Begleiter steht im [Guide für den Beast Mastery Hunter](/de/classes/hunter/beast-mastery/).
 
+## Verzauberungen und Verbrauchsgüter
+
+Die beste Verzauberung pro Platz. Verzaubere Ausrüstung, die du eine Weile behältst; beim Leveln reichen die günstigeren Versionen derselben Verzauberung.
+
+| Platz | Beste Wahl |
+|---|---|
+| **Waffe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=27837"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Agility</a> |
+| **Fernkampfwaffe** | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279272"><img class="wf-wh__icon" src="/wh/inv_engineering_90_scope_blue.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">SAF-T Ultra Precision Scope</a> |
+| **Kopf** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Hals** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Umhang** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219587"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Agility</a> |
+| **Brust** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a> |
+| **Handgelenke** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248599"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Agility</a> |
+| **Hände** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Beine** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Füße** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20023"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Agility</a> |
+
 ## Ausrüstung, Völker und Berufe
 
 ### Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
+Auf Level 60 ist die Reihenfolge: Trefferchance, kritische Trefferchance, Tempo, Beweglichkeit, Stärke, Angriffskraft, Intelligenz, Willenskraft, Ausdauer. Was jeder Wert bringt:
 
 - **Agility**: 2 Fernkampf- und 1 Nahkampfangriffskraft pro Punkt und kritische Trefferchance, etwa 1 % pro 53 Agility auf Level 60. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a> gibt 10 % dazu.
 - **Hit**: Gegen einen Boss auf Level 63 brauchst du 9 % mit 300 Waffenfertigkeit oder 6 % mit 305. Das gilt für Fernkampfangriffe und Zweihand-Nahkampfwaffen. Surefooted gibt schon 3 %.

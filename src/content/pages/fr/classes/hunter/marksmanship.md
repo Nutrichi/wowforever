@@ -3,7 +3,7 @@ title: "Marksmanship Hunter dans WoW Forever : le guide"
 metaTitle: "WoW Forever Marksmanship Hunter : build niveau 60 et rotation"
 description: "Le Marksmanship Hunter dans WoW Forever : le build 5/46/0 pour le niveau 60 avec Lone Wolf et Sniper Shot, la rotation, le mana avec Rapid Recuperation, les stats et les races."
 short: "Marksmanship Hunter"
-updated: 2026-11-10
+updated: 2026-11-22
 lang: fr
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Quelle race choisir pour un Marksmanship Hunter ?"
     a: "Skyborne des deux côtés, pour le bonus de hâte. Human pour l'Alliance et Orc pour la Horde sont de bonnes alternatives. Les écarts sont faibles."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/marksmanship/enchants-consumables-pve-dps"
   - name: "Wowhead, builds de talents"
     url: "https://www.wowhead.com/forever/guide/classes/hunter/marksmanship/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -144,7 +146,7 @@ Lone Wolf vous demande de jouer sans familier. En raid et en donjon, c'est le ma
 
 ## Stats et équipement
 
-Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester le niveau 60 dans le jeu live. D'ici là :
+Au niveau 60, l’ordre est : toucher jusqu’à 8 %, critique, hâte, Agilité, Intelligence, puissance d’attaque, Esprit, Endurance. Ce que fait chaque stat :
 
 - **L'Agilité** : 2 de puissance d'attaque à distance par point et du critique, environ 1 % pour 53 d'Agilité au niveau 60.
 - **Le toucher** : contre un boss de niveau 63, il faut 9 % avec 300 en compétence d'arme, ou 6 % avec 305.
@@ -159,6 +161,23 @@ Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester
 **Carquois ou giberne.** Les deux augmentent votre vitesse d'attaque à distance. Tenez le vôtre à jour.
 
 **Armes.** Votre arme à distance est de loin votre pièce la plus importante. Votre arme de mêlée sert surtout pour ses stats.
+
+## Enchantements et consommables
+
+Le meilleur enchantement par emplacement. Mettez-les sur l’équipement que vous gardez un moment ; pendant le leveling, les versions moins chères du même enchantement suffisent.
+
+| Emplacement | Meilleur choix |
+|---|---|
+| **Arme** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=27837"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Agility</a> |
+| **Arme à distance** | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279272"><img class="wf-wh__icon" src="/wh/inv_engineering_90_scope_blue.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">SAF-T Ultra Precision Scope</a> |
+| **Tête** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11647"><img class="wf-wh__icon" src="/wh/inv_misc_gem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcanum of Voracity</a> |
+| **Cou** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Cape** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219587"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Agility</a> |
+| **Torse** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a> |
+| **Poignets** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248599"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Agility</a> |
+| **Mains** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20012"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Greater Agility</a> |
+| **Jambes** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11647"><img class="wf-wh__icon" src="/wh/inv_misc_gem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcanum of Voracity</a> |
+| **Pieds** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20023"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Agility</a> |
 
 ## Races et métiers
 

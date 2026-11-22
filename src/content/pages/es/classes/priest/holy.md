@@ -3,7 +3,7 @@ title: "Guía del Holy Priest en WoW Forever"
 metaTitle: "WoW Forever Holy Priest: build 18/33/0, curación y stats"
 description: "El Holy Priest en WoW Forever: la build 18/33/0 para nivel 60, Prayer of Mending y Litany of Light, curación de tanque y de grupo, maná, stats y razas."
 short: "Holy Priest"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "¿Es definitiva esta build?"
     a: "No."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/holy/enchants-consumables-pve-healer"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/priest/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -62,8 +64,6 @@ Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas
 
 18 puntos en Discipline y 33 en Holy. [Abre la build de banda en la calculadora de talentos](/es/talents/priest/?t=00500500133001-10505103230121531).
 
-Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/priest/?t=025005001330011-0350510303002053).
-
 | Talento | Puntos |
 |---|---|
 | **Twin Disciplines** | 5/5 |
@@ -85,6 +85,8 @@ Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/
 | **Spiritual Guidance** | 5/5 |
 | **Spiritual Healing** | 3/3 |
 | **Prayer of Mending** | 1/1 |
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/priest/?t=025005001330011-0350510303002053).
 
 ### Build para subir de nivel, 16/0/35
 
@@ -156,6 +158,18 @@ El orden para un Holy Priest:
 **Conjunto Pristine.** Los sastres hacen las piezas Pristine, como <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253961"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_32.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pristine Gown</a>, con patrones de la Commerce Society en Redridge Mountains o los Barrens. Fuerte, pero un desvío mientras subes.
 
 **Anillo.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281635"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Philanthropist's Ring</a> da 10 de poder con hechizos a cambio de 20 libros. Mira la [guía de los libros de biblioteca](/es/guides/library-books/).
+
+## Encantamientos y consumibles
+
+El mejor encantamiento por hueco. Ponlos en el equipo que vayas a conservar un tiempo; mientras subes de nivel, las versiones más baratas del mismo encantamiento bastan.
+
+| Hueco | Mejor opción |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Muñecas** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13642"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Spirit</a> |
+| **Pecho** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13663"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Intellect</a> |
+| **Capa** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13746"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Greater Defense</a> |
+| **Pies** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13687"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Lesser Spirit</a> |
 
 ## Razas y profesiones
 

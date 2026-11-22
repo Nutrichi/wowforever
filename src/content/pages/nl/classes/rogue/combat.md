@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash-builds tot level 60"
 description: "De Combat Rogue in WoW Forever: Hack and Slash voor elk wapentype, twee builds voor level 60 (standaard en dolken), Blade Flurry, Adrenaline Rush, Energy, poisons en races."
 short: "Combat Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Welk ras is het beste voor een Combat Rogue?"
     a: "Human voor de Alliance, voor 1% critical strike chance, en Orc voor de Horde, voor 10% attack power uit Blood Fury. Night Elf en Troll zijn de tweede keuze."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/enchants-consumables-pve-dps"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -32,7 +34,7 @@ De Combat Rogue in WoW Forever doet enorme schade met auto attacks en heeft een 
 | | |
 |---|---|
 | Rol | Melee-schade met twee wapens |
-| Builds | Standaard op level 60 (18/33/0) en dolken op level 60 (16/33/2) |
+| Builds | Standaard op level 60 (16/35/0) en dolken op level 60 (13/33/5) |
 | Belangrijkste talenten | Malice, Improved Slice and Dice, Precision, Dual Wield Specialization, Hack and Slash, Blade Flurry, Aggression, Adrenaline Rush |
 | Sterk in | Heel hoge schade, sterke uithaal, de enige cleave van de Rogue, elk wapentype |
 | Zwak in | Hangt sterk af van gear, vooral van wapens |
@@ -54,42 +56,45 @@ De Combat Rogue in WoW Forever doet enorme schade met auto attacks en heeft een 
 
 Twee builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons en een om te levelen. Elke build opent in onze talentcalculator.
 
-### Raidbuild, 18/33/0
+### Raidbuild, 16/35/0
 
-18 punten in Assassination en 33 in Combat. [Open de raidbuild in de talentcalculator](/nl/talents/rogue/?t=015323202-3200332210012321521).
-
-Met dolken in plaats van zwaarden of knotsen past de dolkbuild beter: [open de dolkbuild](/nl/talents/rogue/?t=005323102-3023032200012321531-002).
+16 punten in Assassination en 35 in Combat. [Open de raidbuild in de talentcalculator](/nl/talents/rogue/?t=00530320201-3200132202012321551).
 
 | Talent | Punten |
 |---|---|
-| **Remorseless Attacks** | 1/2 |
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
-| **Improved Expose Armor** | 2/2 |
 | **Improved Slice and Dice** | 3/3 |
 | **Vigor** | 2/2 |
 | **Lethality** | 2/2 |
+| **Cold Blood** | 1/1 |
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
-| **Deflection** | 3/3 |
+| **Deflection** | 1/3 |
 | **Precision** | 3/3 |
 | **Improved Sprint** | 2/2 |
 | **Endurance** | 2/2 |
-| **Riposte** | 1/1 |
+| **Composure** | 2/2 |
 | **Flawless Execution** | 1/1 |
 | **Weapon Expertise** | 2/2 |
 | **Aggression** | 3/3 |
 | **Dual Wield Specialization** | 2/2 |
 | **Blade Flurry** | 1/1 |
 | **Hack and Slash** | 5/5 |
-| **Flash of Steel** | 2/5 |
+| **Flash of Steel** | 5/5 |
 | **Adrenaline Rush** | 1/1 |
+
+Met dolken in plaats van zwaarden of knotsen past de dolkbuild beter: [open de dolkbuild](/nl/talents/rogue/?t=005303002-3203030202012221451-005).
+
+De Venombuild neemt Venom en Cold Blood in Assassination en leunt meer op schade van poisons (21/30/0). [Open hem in de talentcalculator](/nl/talents/rogue/?t=00530320241001-320013220201232115).
 
 ### Levelbuild
 
 De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
 
-Een PvP-build voor de nieuwe talentbomen is nog niet bekend. Deze sectie wordt bijgewerkt zodra er een is.
+#### PvP-build
+
+De PvP-build, 14/10/27, is dezelfde voor alle drie de specs van de Rogue: diep in Subtlety voor Preparation, Premeditation, Ghostly Strike en Hemorrhage, met Dirty Deeds en Elusiveness voor controle en ontsnappen. [Open de PvP-build](/nl/talents/rogue/?t=325000202-3203002-0322232313211011).
 
 ## Wat de belangrijkste talenten doen
 
@@ -149,11 +154,26 @@ Vanaf level 20 leert een questreeks je poisons maken. Gebruik Instant Poison en 
 
 Sap één monster uit een groep, bij voorkeur een caster. Open met Cheap Shot, volg met Kidney Shot, en rek het met Gouge of Blind als je Energy of cooldowns nodig hebt. Gebruik Evasion als je klappen moet opvangen, Kick elke caster, en Vanish als niets anders werkt. Riposte in de standaardbuild ontwapent een monster na een parry.
 
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Nek** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Mantel** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Polsen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Handen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Benen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> of de versie voor jouw level |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Gear, rassen en beroepen
 
 ### Stats en gear
 
-Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
+Op level 60 is de volgorde: hit tot 8%, expertise tot 6,5%, weapon skill tot 308, hit tot 17% voor poisons, Agility, critical strike chance, haste, Strength, attack power, Stamina. Wat elke stat doet:
 
 - **Agility**: 1 attack power per punt, 1% critical strike chance per 29 Agility, 1% dodge per 14,5 Agility.
 - **Attack power**, die nu ook de schade van je poisons verhoogt.

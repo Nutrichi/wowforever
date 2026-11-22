@@ -3,7 +3,7 @@ title: "Holy Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Holy Paladin: build de sanación, hechizos y maná"
 description: "El Holy Paladin en WoW Forever: la build de sanación de nivel 60, Holy Shock y Light's Vigil, la prioridad de curación, el maná, los sellos, los stats y las razas."
 short: "Holy Paladin"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -22,6 +22,8 @@ faq:
   - q: "¿Hay una build para nivel 60?"
     a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/enchants-consumables-pve-healer"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -56,8 +58,6 @@ Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas
 
 31 puntos en Holy, 7 en Protection y 13 en Retribution. [Abre la build de banda en la calculadora de talentos](/es/talents/paladin/?t=50320115022101251-50002-050330002).
 
-Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/paladin/?t=50320015222121251-5-052300002).
-
 | Talento | Puntos |
 |---|---|
 | **Spiritual Focus** | 5/5 |
@@ -79,6 +79,8 @@ Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/
 | **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
 | **Pursuit of Justice** | 2/2 |
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/paladin/?t=50320015222121251-5-052300002).
 
 ### Build para subir de nivel, 0/31/20
 
@@ -135,7 +137,7 @@ Antes de un combate, dale a cada uno la bendición adecuada, y a todos salvo al 
 
 ## Stats y equipo
 
-Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
+A nivel 60 el orden es: poder de sanación, Intelecto, probabilidad de crítico, Espíritu. Lo que hace cada stat:
 
 - **Poder de curación y con hechizos**, para curas más fuertes y más baratas: con más poder de curación, basta un rango menor.
 - **Intelecto**, para más maná y más probabilidad de crítico.
@@ -147,6 +149,18 @@ Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el niv
 **Arma.** Los Paladins no pueden usar bastones, así que llevarás sobre todo un arma de una mano con escudo o una pieza de mano izquierda. Tu arma suele ser tu pieza más importante, aunque rara vez golpees con ella.
 
 **Librams.** Un libram en la ranura a distancia da una pequeña bonificación pasiva. Elige uno que encaje con tus curas.
+
+## Encantamientos y consumibles
+
+El mejor encantamiento por hueco. Ponlos en el equipo que vayas a conservar un tiempo; mientras subes de nivel, las versiones más baratas del mismo encantamiento bastan.
+
+| Hueco | Mejor opción |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
+| **Cuello** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249057"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Spell Power</a> |
+| **Pecho** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13607"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Intellect</a> |
+| **Piernas** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252452"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a> |
+| **Pies** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
 
 ## Razas y profesiones
 

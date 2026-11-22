@@ -3,7 +3,7 @@ title: "Guida al Fury Warrior in WoW Forever"
 metaTitle: "WoW Forever Fury Warrior: build di livello 60, rotazione e Rage"
 description: "Il Fury Warrior in WoW Forever: la build di livello 60 con Cruelty, Unbridled Wrath e Death Wish, la rotazione, la Rage, lo stance dancing, stats, armi e razze."
 short: "Fury Warrior"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: it
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "C'è una build per il livello 60?"
     a: "Sì. Questa guida ha tre build per il livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ognuna si apre nel nostro calcolatore di talenti."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/enchants-consumables-pve-dps"
   - name: "Wowhead, build dei talenti"
     url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -65,8 +67,6 @@ Tre build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon,
 
 17 punti in Arms e 34 in Fury. [Apri la build da raid nel calcolatore di talenti](/it/talents/warrior/?t=30303213002-050530045122100231).
 
-Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/talents/warrior/?t=30303213002-051530055120100231).
-
 | Talento | Punti |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
@@ -88,6 +88,8 @@ Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/t
 | **Improved Whirlwind** | 2/2 |
 | **Flurry** | 3/3 |
 | **Bloodthirst** | 1/1 |
+
+Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/talents/warrior/?t=30303213002-051530055120100231).
 
 ### Build per livellare, 13/6/32
 
@@ -138,11 +140,24 @@ Resta sul boss. Fuori dal combattimento, Charge dà Rage e ti porta subito nello
 
 La Rage è tutto. Con Rage infinita non smetteresti mai di premere tasti, quindi pianifica e tienine abbastanza per gli attacchi importanti. Se un Heroic Strike fa aspettare Bloodthirst o Whirlwind un secondo o due, è stato un errore. Tieni la Rage in movimento: mai piena, mai vuota.
 
+## Incantamenti e consumabili
+
+Il miglior incantamento per slot. Mettili sull’equipaggiamento che terrai per un po’; mentre livelli, le versioni più economiche dello stesso incantamento bastano.
+
+| Slot | Scelta migliore |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Mantello** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Torso** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Gambe** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Mani** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Piedi** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Equipaggiamento, razze e professioni
 
 ### Stats ed equipaggiamento
 
-L’ordine esatto al livello 60 arriverà quando potremo provare il livello 60 nel gioco live. Queste stats aiutano un Fury Warrior:
+Al livello 60 l’ordine è: abilità con l’arma fino a 305, colpo fino al 9%, probabilità di critico, Forza, Agilità, Tempra. Cosa fa ogni statistica:
 
 - **Probabilità di colpire.** Un colpo mancato non fa nulla e non dà Rage.
 - **Probabilità di critico.** Più danni e più Rage, una delle stats migliori. Anche l’Agilità dà un po’ di critico.

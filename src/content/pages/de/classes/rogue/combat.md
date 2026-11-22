@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: der Guide"
 metaTitle: "WoW Forever Combat Rogue: Hack-and-Slash-Builds bis Level 60"
 description: "Der Combat Rogue in WoW Forever: Hack and Slash für jeden Waffentyp, zwei Builds für Level 60 (Standard und Dolche), Blade Flurry, Adrenaline Rush, Energie, Gifte und Völker."
 short: "Combat Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: de
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Welches Volk ist für einen Combat Rogue am besten?"
     a: "Human für die Alliance, wegen 1 % kritischer Trefferchance, und Orc für die Horde, wegen 10 % Angriffskraft durch Blood Fury. Night Elf und Troll sind die zweite Wahl."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/enchants-consumables-pve-dps"
   - name: "Wowhead, Talent-Builds"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -32,7 +34,7 @@ Der Combat Rogue in WoW Forever macht riesigen Schaden mit automatischen Angriff
 | | |
 |---|---|
 | Rolle | Nahkampfschaden mit zwei Waffen |
-| Builds | Standard auf Level 60 (18/33/0) und Dolche auf Level 60 (16/33/2) |
+| Builds | Standard auf Level 60 (16/35/0) und Dolche auf Level 60 (13/33/5) |
 | Wichtigste Talente | Malice, Improved Slice and Dice, Precision, Dual Wield Specialization, Hack and Slash, Blade Flurry, Aggression, Adrenaline Rush |
 | Stärken | Sehr hoher Schaden, starke Schadensspitze, der einzige Mehrzielangriff des Rogue, jeder Waffentyp |
 | Schwächen | Hängt stark von Ausrüstung ab, vor allem von Waffen |
@@ -54,42 +56,45 @@ Der Combat Rogue in WoW Forever macht riesigen Schaden mit automatischen Angriff
 
 Zwei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und Dungeons und einer zum Leveln. Jeder Build öffnet sich in unserem Talentrechner.
 
-### Raid-Build, 18/33/0
+### Raid-Build, 16/35/0
 
-18 Punkte in Assassination und 33 in Combat. [Raid-Build im Talentrechner öffnen](/de/talents/rogue/?t=015323202-3200332210012321521).
-
-Mit Dolchen statt Schwertern oder Streitkolben passt der Dolch-Build besser: [Dolch-Build öffnen](/de/talents/rogue/?t=005323102-3023032200012321531-002).
+16 Punkte in Assassination und 35 in Combat. [Raid-Build im Talentrechner öffnen](/de/talents/rogue/?t=00530320201-3200132202012321551).
 
 | Talent | Punkte |
 |---|---|
-| **Remorseless Attacks** | 1/2 |
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
-| **Improved Expose Armor** | 2/2 |
 | **Improved Slice and Dice** | 3/3 |
 | **Vigor** | 2/2 |
 | **Lethality** | 2/2 |
+| **Cold Blood** | 1/1 |
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
-| **Deflection** | 3/3 |
+| **Deflection** | 1/3 |
 | **Precision** | 3/3 |
 | **Improved Sprint** | 2/2 |
 | **Endurance** | 2/2 |
-| **Riposte** | 1/1 |
+| **Composure** | 2/2 |
 | **Flawless Execution** | 1/1 |
 | **Weapon Expertise** | 2/2 |
 | **Aggression** | 3/3 |
 | **Dual Wield Specialization** | 2/2 |
 | **Blade Flurry** | 1/1 |
 | **Hack and Slash** | 5/5 |
-| **Flash of Steel** | 2/5 |
+| **Flash of Steel** | 5/5 |
 | **Adrenaline Rush** | 1/1 |
+
+Mit Dolchen statt Schwertern oder Streitkolben passt der Dolch-Build besser: [Dolch-Build öffnen](/de/talents/rogue/?t=005303002-3203030202012221451-005).
+
+Der Venom-Build nimmt Venom und Cold Blood in Assassination und setzt mehr auf Giftschaden (21/30/0). [Im Talentrechner öffnen](/de/talents/rogue/?t=00530320241001-320013220201232115).
 
 ### Leveling-Build
 
 Der [Level-Build für den Rogue](/de/leveling/rogue/) gibt das Talent für jedes Level von 10 bis 35. Der Rest der Reihenfolge folgt, sobald er bekannt ist.
 
-Ein PvP-Build für die neuen Talentbäume ist noch nicht bekannt. Dieser Abschnitt wird aktualisiert, sobald es einen gibt.
+#### PvP-Build
+
+Der PvP-Build, 14/10/27, ist für alle drei Rogue-Spezialisierungen gleich: tief in Subtlety für Preparation, Premeditation, Ghostly Strike und Hemorrhage, mit Dirty Deeds und Elusiveness für Kontrolle und Flucht. [Öffne den PvP-Build](/de/talents/rogue/?t=325000202-3203002-0322232313211011).
 
 ## Was die wichtigsten Talente tun
 
@@ -149,11 +154,26 @@ Ab Level 20 lehrt dich eine Questreihe, Gifte herzustellen. Nutze Instant Poison
 
 Nimm mit Sap ein Monster aus einer Gruppe, am besten einen Zauberer. Eröffne mit Cheap Shot, folge mit Kidney Shot und streck es mit Gouge oder Blind, wenn du Energie oder Abklingzeiten brauchst. Nutze Evasion, wenn du Treffer einstecken musst, unterbrich jeden Zauberer mit Kick, und Vanish, wenn nichts anderes mehr hilft. Riposte im Standardbuild entwaffnet ein Monster nach einem Parieren.
 
+## Verzauberungen und Verbrauchsgüter
+
+Die beste Verzauberung pro Platz. Verzaubere Ausrüstung, die du eine Weile behältst; beim Leveln reichen die günstigeren Versionen derselben Verzauberung.
+
+| Platz | Beste Wahl |
+|---|---|
+| **Waffe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Hals** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Umhang** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Brust** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Handgelenke** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Hände** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Beine** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> oder die Version für dein Level |
+| **Füße** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Ausrüstung, Völker und Berufe
 
 ### Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
+Auf Level 60 ist die Reihenfolge: Trefferchance bis 8 %, Waffenkunde bis 6,5 %, Waffenfertigkeit bis 308, Trefferchance bis 17 % für Gifte, Beweglichkeit, kritische Trefferchance, Tempo, Stärke, Angriffskraft, Ausdauer. Was jeder Wert bringt:
 
 - **Beweglichkeit**: 1 Angriffskraft pro Punkt, 1 % kritische Trefferchance pro 29 Beweglichkeit, 1 % Ausweichen pro 14,5 Beweglichkeit.
 - **Angriffskraft**, die jetzt auch den Schaden deiner Gifte erhöht.

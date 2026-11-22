@@ -3,7 +3,7 @@ title: "Holy Priest guide for WoW Forever"
 metaTitle: "WoW Forever Holy Priest: 18/33/0 build, healing and stats"
 description: "The Holy Priest in WoW Forever: the 18/33/0 build for level 60, Prayer of Mending and Litany of Light, tank and group healing, mana, stats and races."
 short: "Holy Priest"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Holy Priest good in WoW Forever?"
@@ -19,6 +19,8 @@ faq:
   - q: "Is this build final?"
     a: "No."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/holy/enchants-consumables-pve-healer"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/priest/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -61,8 +63,6 @@ Three builds, each with the 51 talent points of level 60: one for raids and dung
 
 18 points in Discipline and 33 in Holy. [Open the raid build in the talent calculator](/talents/priest/?t=00500500133001-10505103230121531).
 
-For dungeons, a variant moves a few points: [open the dungeon build](/talents/priest/?t=025005001330011-0350510303002053).
-
 | Talent | Points |
 |---|---|
 | **Twin Disciplines** | 5/5 |
@@ -84,6 +84,8 @@ For dungeons, a variant moves a few points: [open the dungeon build](/talents/pr
 | **Spiritual Guidance** | 5/5 |
 | **Spiritual Healing** | 3/3 |
 | **Prayer of Mending** | 1/1 |
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/priest/?t=025005001330011-0350510303002053).
 
 ### Leveling build, 16/0/35
 
@@ -155,6 +157,18 @@ The order for a Holy Priest:
 **Pristine set.** Tailors make the Pristine pieces, such as <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253961"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_32.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pristine Gown</a>, from patterns of the Commerce Society in Redridge Mountains or the Barrens. Strong, but a detour from leveling.
 
 **Ring.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281635"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Philanthropist's Ring</a> gives 10 spell power for 20 books. See the [library books guide](/guides/library-books/).
+
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Bracers** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13642"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Spirit</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13663"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Intellect</a> |
+| **Cloak** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13746"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Greater Defense</a> |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13687"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Lesser Spirit</a> |
 
 ## Races and professions
 

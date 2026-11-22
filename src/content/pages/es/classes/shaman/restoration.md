@@ -3,7 +3,7 @@ title: "Restoration Shaman en WoW Forever: la guía"
 metaTitle: "WoW Forever Restoration Shaman: build de sanación, tótems, maná"
 description: "El Restoration Shaman en WoW Forever: la build de sanación de nivel 60, Water Shield, Riptide y Chain Heal, los tótems, el maná, los stats y las razas."
 short: "Restoration Shaman"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -22,6 +22,8 @@ faq:
   - q: "¿Hay una build para nivel 60?"
     a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/restoration/enchants-consumables-pve-healer"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/shaman/restoration/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -90,6 +92,8 @@ La build para subir de nivel toma primero los talentos que ayudan a matar en sol
 
 La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/shaman/?t=-2552000100002-5330003315013151).
 
+Otra build de banda pone 41 puntos en Restoration y solo 10 en Enhancement (0/10/41). [Ábrela en la calculadora de talentos](/es/talents/shaman/?t=-055-5530003315513151).
+
 ## Qué hacen los talentos clave
 
 | Talento | Qué hace en Forever |
@@ -142,7 +146,7 @@ Lanzar al pasar el ratón viene integrado en Forever. Actívalo en Options, Comb
 
 ## Stats y equipo
 
-Las prioridades de stats de nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
+A nivel 60 el orden es: poder de sanación, probabilidad de crítico, celeridad, Intelecto, Espíritu, maná cada 5 segundos, Aguante. Lo que hace cada stat:
 
 - **Poder de sanación**: curas más grandes, así que menos lanzamientos y menos maná.
 - **Spirit**: tu principal regeneración de maná en Forever.
@@ -155,6 +159,24 @@ Las prioridades de stats de nivel 60 llegarán cuando podamos probar el nivel 60
 **Arma.** Poder de sanación y poder con hechizos, luego Intellect. Un arma a una mano con escudo suele ser lo mejor, pero un bastón mejor también vale.
 
 **Tótems.** La ranura de reliquia del Shaman. Aún son raros; busca uno que ayude a tu maná.
+
+## Encantamientos y consumibles
+
+El mejor encantamiento por hueco. Ponlos en el equipo que vayas a conservar un tiempo; mientras subes de nivel, las versiones más baratas del mismo encantamiento bastan.
+
+| Hueco | Mejor opción |
+|---|---|
+| **Arma a dos manos** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248636"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Mighty Healing Power</a> |
+| **Arma a una mano** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=22750"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Healing Power</a> |
+| **Mano izquierda** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219579"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Off-Hand - Wisdom</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=463871"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Shield - Law of Nature</a> (escudo) |
+| **Cuello** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249058"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Healing Power</a> |
+| **Cabeza** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18330"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Focus</a> |
+| **Capa** | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=20735"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Cloak - Subtlety</a> |
+| **Pecho** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254966"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255096"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255124"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Medium Armor Kit</a> |
+| **Muñecas** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=23802"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Healing Power</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248459"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Minor Healing Power</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248661"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20008"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13822"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248458"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Minor Intellect</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13622"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Lesser Intellect</a> |
+| **Manos** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=25079"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Healing Power</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254966"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255096"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255124"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Medium Armor Kit</a> |
+| **Piernas** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18330"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Focus</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254966"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255096"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255124"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Medium Armor Kit</a> |
+| **Pies** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254966"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255096"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255124"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Medium Armor Kit</a> |
 
 ## Razas y profesiones
 

@@ -3,7 +3,7 @@ title: "Holy Paladin dans WoW Forever : le guide"
 metaTitle: "WoW Forever Holy Paladin : build de soins, sorts et mana"
 description: "Le Holy Paladin dans WoW Forever : le build de soins niveau 60, Holy Shock et Light's Vigil, la priorité de soins, le mana, les sceaux, les stats et les races."
 short: "Holy Paladin"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: fr
 manual: true
 faq:
@@ -22,6 +22,8 @@ faq:
   - q: "Existe-t-il un build pour le niveau 60 ?"
     a: "Oui. Ce guide propose trois builds pour le niveau 60 : un pour les raids et les donjons, un pour monter de niveau et un pour le PvP. Chacun s’ouvre dans notre calculateur de talents."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/enchants-consumables-pve-healer"
   - name: "Wowhead, builds de talents"
     url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -56,8 +58,6 @@ Trois builds, chacun avec les 51 points de talent du niveau 60 : un pour les rai
 
 31 points en Holy, 7 en Protection et 13 en Retribution. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/paladin/?t=50320115022101251-50002-050330002).
 
-Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/paladin/?t=50320015222121251-5-052300002).
-
 | Talent | Points |
 |---|---|
 | **Spiritual Focus** | 5/5 |
@@ -79,6 +79,8 @@ Pour les donjons, une variante déplace quelques points : [ouvrir le build de do
 | **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
 | **Pursuit of Justice** | 2/2 |
+
+Pour les donjons, une variante déplace quelques points : [ouvrir le build de donjon](/fr/talents/paladin/?t=50320015222121251-5-052300002).
 
 ### Build de leveling, 0/31/20
 
@@ -135,7 +137,7 @@ Avant un combat, donnez à chacun la bonne bénédiction, et à tous sauf au tan
 
 ## Stats et équipement
 
-Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester le niveau 60 dans le jeu live. D'ici là :
+Au niveau 60, l’ordre est : puissance des soins, Intelligence, critique, Esprit. Ce que fait chaque stat :
 
 - **La puissance des soins et des sorts**, pour des soins plus forts et moins chers : avec plus de puissance des soins, un rang inférieur suffit.
 - **L'Intelligence**, pour plus de mana et plus de chances de critique.
@@ -147,6 +149,18 @@ Les priorités de stats pour le niveau 60 suivront dès que nous pourrons tester
 **Arme.** Les Paladins ne peuvent pas porter de bâton, vous porterez donc surtout une arme à une main avec un bouclier ou une main gauche. Votre arme est souvent votre pièce la plus importante, même si vous frappez rarement avec.
 
 **Librams.** Un libram dans l'emplacement à distance donne un petit bonus passif. Choisissez-en un qui va avec vos soins.
+
+## Enchantements et consommables
+
+Le meilleur enchantement par emplacement. Mettez-les sur l’équipement que vous gardez un moment ; pendant le leveling, les versions moins chères du même enchantement suffisent.
+
+| Emplacement | Meilleur choix |
+|---|---|
+| **Arme** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
+| **Cou** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249057"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Spell Power</a> |
+| **Torse** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13607"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Intellect</a> |
+| **Jambes** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252452"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a> |
+| **Pieds** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
 
 ## Races et métiers
 

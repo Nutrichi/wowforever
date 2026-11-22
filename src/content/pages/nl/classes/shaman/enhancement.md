@@ -3,7 +3,7 @@ title: "Gids voor de Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "De Enhancement Shaman in WoW Forever: de build voor level 60, Stormstrike en Maelstrom Weapon, de rotatie, totems, mana, tanken, stats en races."
 short: "Enhancement Shaman"
-updated: 2026-11-14
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -24,6 +24,8 @@ faq:
   - q: "Is er een build voor level 60?"
     a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/enchants-consumables-pve-dps"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -68,8 +70,6 @@ Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 
 17 punten in Elemental en 34 in Enhancement. [Open de raidbuild in de talentcalculator](/nl/talents/shaman/?t=053303102-053030310051212251).
 
-Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/shaman/?t=05330310201-0530303100212122-053).
-
 | Talent | Punten |
 |---|---|
 | **Concussion** | 5/5 |
@@ -92,6 +92,10 @@ Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl
 | **Maelstrom Weapon** | 5/5 |
 | **Rage of the Farseer** | 1/1 |
 
+Voor dungeons verschuift een variant punten naar Restoration voor meer healing en mana (17/26/8). [Open hem in de talentcalculator](/nl/talents/shaman/?t=053303102-05303031002121221-053).
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/shaman/?t=05330310201-0530303100212122-053).
+
 ### Levelbuild, 19/32/0
 
 De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/shaman/?t=45300310201-053030310051012251). De [levelbuild voor de Shaman](/nl/leveling/shaman/) geeft het talent voor elk level.
@@ -99,6 +103,8 @@ De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open he
 ### PvP-build, 18/26/7
 
 De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/shaman/?t=05350310001-2502300130212122-050002).
+
+Een tweede PvP-build gaat diep in Restoration en speelt als een healer die nog kan slaan (0/19/32). [Open hem in de talentcalculator](/nl/talents/shaman/?t=-0512300131012-0530523315003101).
 
 ## Wat de belangrijkste talenten doen
 
@@ -173,7 +179,7 @@ Tanken werkt tijdens het levelen, met nadelen: geen echte taunt, geen verdedigen
 
 > **Update 10 november:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> heeft nu +16 Strength in plaats van +12 Intellect, en een snelheid van 3.6, meer in [onze post](/nl/news/rage-of-the-storm-swaps-intellect-for-strength/). Strength is nu de sterkste stat voor Enhancement, meer in [de post over de hotfix](/nl/news/enhancement-shamans-turn-back-to-windfury/).
 
-Stat-prioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
+Op level 60 is de volgorde: hit tot 8%, expertise tot 6,5%, critical strike chance, Strength, Intellect, spell penetration, haste, Agility, spell damage, attack power, Spirit, Stamina. Wat elke stat doet:
 
 - **Wapenschade**: je grootste bron van schaling, via Stormstrike en Windfury.
 - **Hit**: vroeg minder belangrijk, een hoge prioriteit rond level 60. Een gemiste vaardigheid verspilt damage en mana.
@@ -188,6 +194,14 @@ Stat-prioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen
 **Wapen.** Eerst een traag tweehandig wapen met hoge damage per seconde, daarna pas de stats. De questreeks Call of Air geeft onderweg <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a>, sinds 10 november met +16 Strength en een snelheid van 3.6.
 
 **Totems.** De relic-plek van de Shaman. Nog zeldzaam; zoek er een die je mana helpt.
+
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
 
 ## Races en beroepen
 

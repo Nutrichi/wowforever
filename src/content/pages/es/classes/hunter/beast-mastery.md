@@ -3,7 +3,7 @@ title: "Beast Mastery Hunter en WoW Forever: la guía"
 metaTitle: "WoW Forever Beast Mastery Hunter: build de nivel 60 y rotación"
 description: "El Beast Mastery Hunter en WoW Forever: la build 31/20/0 para el nivel 60, Summon Hawk y Bestial Wrath, la rotación a un objetivo y en área, las mascotas, el maná, los stats y las razas."
 short: "Beast Mastery Hunter"
-updated: 2026-11-11
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "¿Qué es la zona muerta del Hunter?"
     a: "El hueco entre el alcance cuerpo a cuerpo y 8 metros, donde no puedes usar ni ataques cuerpo a cuerpo ni a distancia. Retrocede a 8 metros para volver a disparar."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/beast-mastery/enchants-consumables-pve-dps"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/hunter/beast-mastery/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -56,7 +58,7 @@ Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas
 
 ### Build de banda, 31/20/0
 
-31 puntos en Beast Mastery y 20 en Marksmanship. [Abre la build de banda en la calculadora de talentos](/es/talents/hunter/?t=5320001505101251-00520503014).
+31 puntos en Beast Mastery y 20 en Marksmanship. [Abre la build de banda en la calculadora de talentos](/es/talents/hunter/?t=5320001505101251-00530520014).
 
 | Talento | Puntos |
 |---|---|
@@ -72,9 +74,9 @@ Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas
 | **Frenzy** | 5/5 |
 | **Bestial Wrath** | 1/1 |
 | **Lethal Attacks** | 5/5 |
-| **Improved Stings** | 2/3 |
+| **Improved Stings** | 3/3 |
 | **Careful Aim** | 5/5 |
-| **Improved Arcane Shot** | 3/5 |
+| **Rapid Killing** | 2/2 |
 | **Trueshot Aura** | 1/1 |
 | **Mortal Shots** | 4/5 |
 
@@ -144,7 +146,7 @@ Tu mascota es buena parte de tu daño, así que mantenla viva y en el objetivo. 
 
 ## Stats y equipo
 
-Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el nivel 60 en el juego en vivo. Hasta entonces:
+A nivel 60 el orden es: golpe hasta el 8 %, probabilidad de crítico, celeridad, Agilidad, Intelecto, poder de ataque, Espíritu, Aguante. Lo que hace cada stat:
 
 - **Agilidad**: 2 de poder de ataque a distancia por punto y crítico, más o menos un 1% por cada 53 de Agilidad en el nivel 60. Tu mascota recibe el 100% de tu crítico y el 10% de tu poder de ataque.
 - **Índice de golpe**: contra un jefe de nivel 63 necesitas un 9% con 300 de habilidad con armas, o un 6% con 305.
@@ -159,6 +161,23 @@ Las prioridades de stats para el nivel 60 llegarán cuando podamos probar el niv
 **Carcaj o bolsa de munición.** Las flechas van en un carcaj, las balas en una bolsa de munición, y ambos aumentan tu velocidad de ataque a distancia. Mantenlo al día.
 
 **Armas.** Tu arma a distancia es tu principal fuente de daño propio. El arma cuerpo a cuerpo la llevas sobre todo por los stats. Los Hunters pueden usar casi cualquier tipo de arma, salvo mazas.
+
+## Encantamientos y consumibles
+
+El mejor encantamiento por hueco. Ponlos en el equipo que vayas a conservar un tiempo; mientras subes de nivel, las versiones más baratas del mismo encantamiento bastan.
+
+| Hueco | Mejor opción |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=27837"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Agility</a> |
+| **Arma a distancia** | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279272"><img class="wf-wh__icon" src="/wh/inv_engineering_90_scope_blue.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">SAF-T Ultra Precision Scope</a> |
+| **Cabeza** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Cuello** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Capa** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219587"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Agility</a> |
+| **Pecho** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a> |
+| **Muñecas** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248599"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Agility</a> |
+| **Manos** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20012"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Greater Agility</a> |
+| **Piernas** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Pies** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20023"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Agility</a> |
 
 ## Razas y profesiones
 

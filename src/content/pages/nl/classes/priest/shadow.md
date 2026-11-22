@@ -3,7 +3,7 @@ title: "Shadow Priest in WoW Forever: de gids"
 metaTitle: "WoW Forever Shadow Priest: 14/3/34-build, rotatie en stats"
 description: "De Shadow Priest in WoW Forever: de build 14/3/34 voor level 60, Improved Mind Flay en Vampiric Embrace, de DoT-rotatie, Shadowform, mana, stats en races."
 short: "Shadow Priest"
-updated: 2026-11-17
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Is deze build definitief?"
     a: "Nee."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/shadow/enchants-consumables-pve-dps"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/priest/shadow/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -64,8 +66,6 @@ Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 
 15 punten in Discipline, 3 in Holy en 33 in Shadow. [Open de raidbuild in de talentcalculator](/nl/talents/priest/?t=00530400003-3-50042201251302051).
 
-Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/priest/?t=00530200003--50542201251302051).
-
 | Talent | Punten |
 |---|---|
 | **Twin Disciplines** | 5/5 |
@@ -85,6 +85,8 @@ Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl
 | **Devouring Contagion** | 2/2 |
 | **Darkness** | 5/5 |
 | **Shadowform** | 1/1 |
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/priest/?t=00530200003--50542201251302051).
 
 Twilight Focus werkt pas sinds de hotfix van 11 november in Shadowform. Daarvoor deden die 3 punten niets in je form, [meer in onze post](/nl/news/judgement-now-counts-as-a-ranged-attack/).
 
@@ -147,6 +149,18 @@ Mana is een van de sterktes van Shadow. Shadowform halveert de manakost van Shad
 ## Beweging
 
 Casters leven van één regel: altijd casten. De Priest heeft bijna geen middelen om snel te bewegen, dus kies je plek voor een gevecht en beweeg zo weinig mogelijk. Cast je instant spells, zoals Shadow Word: Pain en Shadow Word: Death, als je moet lopen.
+
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Polsen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13642"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Spirit</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13663"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Intellect</a> |
+| **Mantel** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13746"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Greater Defense</a> |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13687"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Lesser Spirit</a> |
 
 ## Gear, rassen en beroepen
 

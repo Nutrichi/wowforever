@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: la guida"
 metaTitle: "WoW Forever Combat Rogue: build Hack and Slash fino al 60"
 description: "Il Combat Rogue in WoW Forever: Hack and Slash per ogni tipo d'arma, due build di livello 60 (standard e pugnali), Blade Flurry, Adrenaline Rush, energia, veleni e razze."
 short: "Combat Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: it
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Quale razza scegliere per un Combat Rogue?"
     a: "Human per l'Alliance, per l'1% di critico, e Orc per l'Horde, per il 10% di potere d'attacco con Blood Fury. Night Elf e Troll sono la seconda scelta."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/enchants-consumables-pve-dps"
   - name: "Wowhead, build dei talenti"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/combat/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -32,7 +34,7 @@ Il Combat Rogue di WoW Forever infligge danni enormi con gli attacchi automatici
 | | |
 |---|---|
 | Ruolo | Danni in mischia con due armi |
-| Build | Standard di livello 60 (18/33/0) e pugnali di livello 60 (16/33/2) |
+| Build | Standard di livello 60 (16/35/0) e pugnali di livello 60 (13/33/5) |
 | Talenti chiave | Malice, Improved Slice and Dice, Precision, Dual Wield Specialization, Hack and Slash, Blade Flurry, Aggression, Adrenaline Rush |
 | Punti forti | Danni molto alti, forte picco di danni, l'unico attacco su più bersagli del Rogue, ogni tipo d'arma |
 | Punti deboli | Dipende molto dall'equipaggiamento, soprattutto dalle armi |
@@ -54,42 +56,45 @@ Il Combat Rogue di WoW Forever infligge danni enormi con gli attacchi automatici
 
 Due build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon e una per livellare. Ogni build si apre nel nostro calcolatore di talenti.
 
-### Build da raid, 18/33/0
+### Build da raid, 16/35/0
 
-18 punti in Assassination e 33 in Combat. [Apri la build da raid nel calcolatore di talenti](/it/talents/rogue/?t=015323202-3200332210012321521).
-
-Con i pugnali invece di spade o mazze va meglio la build da pugnali: [apri la build da pugnali](/it/talents/rogue/?t=005323102-3023032200012321531-002).
+16 punti in Assassination e 35 in Combat. [Apri la build da raid nel calcolatore di talenti](/it/talents/rogue/?t=00530320201-3200132202012321551).
 
 | Talento | Punti |
 |---|---|
-| **Remorseless Attacks** | 1/2 |
 | **Malice** | 5/5 |
 | **Ruthlessness** | 3/3 |
-| **Improved Expose Armor** | 2/2 |
 | **Improved Slice and Dice** | 3/3 |
 | **Vigor** | 2/2 |
 | **Lethality** | 2/2 |
+| **Cold Blood** | 1/1 |
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
-| **Deflection** | 3/3 |
+| **Deflection** | 1/3 |
 | **Precision** | 3/3 |
 | **Improved Sprint** | 2/2 |
 | **Endurance** | 2/2 |
-| **Riposte** | 1/1 |
+| **Composure** | 2/2 |
 | **Flawless Execution** | 1/1 |
 | **Weapon Expertise** | 2/2 |
 | **Aggression** | 3/3 |
 | **Dual Wield Specialization** | 2/2 |
 | **Blade Flurry** | 1/1 |
 | **Hack and Slash** | 5/5 |
-| **Flash of Steel** | 2/5 |
+| **Flash of Steel** | 5/5 |
 | **Adrenaline Rush** | 1/1 |
+
+Con i pugnali invece di spade o mazze va meglio la build da pugnali: [apri la build da pugnali](/it/talents/rogue/?t=005303002-3203030202012221451-005).
+
+La build Venom prende Venom e Cold Blood in Assassination e punta di più sui danni dei veleni (21/30/0). [Aprila nel calcolatore di talenti](/it/talents/rogue/?t=00530320241001-320013220201232115).
 
 ### Build per livellare
 
 La [build di leveling del Rogue](/it/leveling/rogue/) dà il talento per ogni livello dal 10 al 35. Il resto dell'ordine arriverà appena sarà noto.
 
-Una build PvP per i nuovi alberi dei talenti non è ancora nota. Questa sezione verrà aggiornata appena ce ne sarà una.
+#### Build PvP
+
+La build PvP, 14/10/27, è la stessa per tutte e tre le specializzazioni del Rogue: a fondo in Subtlety per Preparation, Premeditation, Ghostly Strike e Hemorrhage, con Dirty Deeds ed Elusiveness per controllo e fuga. [Apri la build PvP](/it/talents/rogue/?t=325000202-3203002-0322232313211011).
 
 ## Cosa fanno i talenti chiave
 
@@ -149,11 +154,26 @@ Dal livello 20, una catena di missioni ti insegna a creare veleni. Usa Instant P
 
 Usa Sap su un mostro di un gruppo, meglio se un incantatore. Apri con Cheap Shot, continua con Kidney Shot e allunga con Gouge o Blind quando ti servono energia o tempi di recupero. Usa Evasion quando devi incassare, interrompi con Kick ogni incantatore, e Vanish quando nient'altro funziona. Riposte, nella build standard, disarma un mostro dopo una parata.
 
+## Incantamenti e consumabili
+
+Il miglior incantamento per slot. Mettili sull’equipaggiamento che terrai per un po’; mentre livelli, le versioni più economiche dello stesso incantamento bastano.
+
+| Slot | Scelta migliore |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Collo** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Mantello** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Torso** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Polsi** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Mani** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Gambe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> o la versione del tuo livello |
+| **Piedi** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Equipaggiamento, razze e professioni
 
 ### Stats ed equipaggiamento
 
-Le priorità delle stats per il livello 60 arriveranno quando potremo provare il livello 60 nel gioco live. Fino ad allora:
+Al livello 60 l’ordine è: colpo fino all’8%, maestria fino al 6,5%, abilità con l’arma fino a 308, colpo fino al 17% per i veleni, Agilità, probabilità di critico, celerità, Forza, potere d’attacco, Tempra. Cosa fa ogni statistica:
 
 - **Agilità**: 1 di potere d'attacco per punto, l'1% di critico ogni 29 di Agilità, l'1% di schivata ogni 14,5 di Agilità.
 - **Potere d'attacco**, che ora aumenta anche i danni dei veleni.

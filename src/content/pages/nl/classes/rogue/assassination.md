@@ -3,7 +3,7 @@ title: "Assassination Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Assassination Rogue: poison-builds, Venom en rotatie"
 description: "De Assassination Rogue in WoW Forever: Venom en Shank, Mutilate vanaf level 40, de levelbuild voor de Rogue, de rotatie, Energy en poisons."
 short: "Assassination Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -20,8 +20,10 @@ faq:
   - q: "Welk ras is het beste voor een Assassination Rogue?"
     a: "Human voor de Alliance, voor 1% meer critical strike chance, wat nu ook telt voor poisons. Orc voor de Horde, voor 10% meer attack power van Blood Fury."
   - q: "Is er een build voor level 60?"
-    a: "Nog niet voor raids en PvP: er is nog geen build voor de nieuwe talentbomen bekend. De levelbuild voor de Rogue geeft het talent voor elk level van 10 tot 35, de rest volgt zodra die bekend is."
+    a: "Ja. Voor raids en dungeons is er één build, 31/19/1, met Mutilate, Seal Fate en Cold Blood. Voor PvP zijn er twee: 14/10/27 met Preparation, en 31/8/12 met Mutilate en Premeditation. Alle drie openen in onze talentcalculator."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/enchants-consumables-pve-dps"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -63,7 +65,13 @@ De Assassination Rogue in WoW Forever is de gifmenger. Venom maakt je poisons st
 
 ### Builds voor level 60
 
-Een raid- en PvP-build voor de nieuwe talentbomen is nog niet bekend. Deze sectie wordt bijgewerkt zodra er een is.
+Voor raids en dungeons is er één build: 31 punten in Assassination, 19 in Combat en 1 in Subtlety. Hij neemt Mutilate, Seal Fate, Cold Blood en Venom, en in Combat Precision, Aggression en Flawless Execution. [Open de raidbuild in de talentcalculator](/nl/talents/rogue/?t=00530311231251031-32030302020103-001).
+
+#### PvP-builds
+
+De standaard PvP-build, 14/10/27, gaat diep in Subtlety voor Preparation, Premeditation, Ghostly Strike en Hemorrhage, met Dirty Deeds en Elusiveness voor controle en ontsnappen. [Open de standaard PvP-build](/nl/talents/rogue/?t=325000202-3203002-0322232313211011).
+
+De Mutilate PvP-build, 31/8/12, houdt Cold Blood, Mutilate en Seal Fate voor burst en voegt Improved Gouge, Improved Kidney Shot en Premeditation toe. [Open de Mutilate PvP-build](/nl/talents/rogue/?t=30520021251301231-3203-0250300011).
 
 #### Levelbuild
 
@@ -142,11 +150,26 @@ Vanaf level 20 maakt een Rogue poisons na een classquest-reeks; de [levelgids vo
 
 De Rogue is breekbaar maar slaat hard, dus hoe je een gevecht begint, beslist of je het overleeft. Makkelijke vijanden: Ambush, een paar keer Sinister Strike of Mutilate en Eviscerate. Gevaarlijke vijanden: Sap er één uit de groep, casters eerst, open met Cheap Shot, volg met Kidney Shot, dan Gouge om op Energy te wachten of Blind om op cooldowns te wachten. Daarna je normale rotatie met Evasion, en Kick op elke caster. Volstaat zelfs een health potion niet, dan haalt Vanish je uit het gevecht en terug in Stealth.
 
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Nek** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Mantel** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Polsen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Handen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Benen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> of de versie voor jouw level |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Gear, rassen en beroepen
 
 ### Stats en gear
 
-De exacte volgorde op level 60 volgt zodra we level 60 in het live spel kunnen testen. Deze stats helpen een Assassination Rogue:
+Op level 60 is de volgorde: hit tot 8%, expertise tot 6,5%, weapon skill tot 308, hit tot 17% voor poisons, Agility, critical strike chance, haste, Strength, attack power, Stamina. Wat elke stat doet:
 
 - **Agility.** Je kernstat: 1 attack power per punt, 1% critical strike chance per 29 punten en 1% dodge per 14,5 punten. Stapel zoveel je kunt.
 - **Attack power.** Meer wapen- en aanvalsschade, en in Forever ook meer poison-schade.

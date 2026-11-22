@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Retribution Paladin: build, rotatie en seals"
 description: "De Retribution Paladin in WoW Forever: de build voor level 60, de rotatie met Seal of Command, Judgements, blessings, stats en races."
 short: "Retribution Paladin"
-updated: 2026-11-20
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -18,6 +18,8 @@ faq:
   - q: "Is er een build voor level 60?"
     a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/retribution/enchants-consumables-pve-dps"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/paladin/retribution/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -28,7 +30,7 @@ De Retribution Paladin in WoW Forever is de heilige krijger met een groot tweeha
 | | |
 |---|---|
 | Rol | Melee-schade met een traag tweehandig wapen |
-| Build op level 60 | 14/6/31 |
+| Build op level 60 | 12/8/31 |
 | Belangrijkste talenten | Conviction, Sanctified Judgement, Seal of Command, Sacred Arbiter, Vengeance, Unsealed Wrath |
 | Sterk in | Utility voor de groep, heel moeilijk te doden, grote uithalen |
 | Zwak in | Traag bij een doelwit, mana kan opraken |
@@ -48,18 +50,17 @@ De Retribution Paladin in WoW Forever is de heilige krijger met een groot tweeha
 
 Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
 
-### Raidbuild, 14/6/31
+### Raidbuild, 12/8/31
 
-14 punten in Holy, 6 in Protection en 31 in Retribution. [Open de raidbuild in de talentcalculator](/nl/talents/paladin/?t=050250002-501-05233011201301351).
+12 punten in Holy, 8 in Protection en 31 in Retribution. [Open de raidbuild in de talentcalculator](/nl/talents/paladin/?t=050050002-503-05233011201301351).
 
 | Talent | Punten |
 |---|---|
 | **Divine Strength** | 5/5 |
-| **Reverence** | 2/2 |
 | **Improved Seals** | 5/5 |
 | **Holy Conduit** | 2/2 |
 | **Divine Intellect** | 5/5 |
-| **Precision** | 1/3 |
+| **Precision** | 3/3 |
 | **Benediction** | 5/5 |
 | **Improved Judgement** | 2/2 |
 | **Conviction** | 3/3 |
@@ -74,13 +75,15 @@ Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 | **Champion of the Light** | 5/5 |
 | **Unsealed Wrath** | 1/1 |
 
+De Shockadin-raidbuild gaat in Holy voor Holy Shock en speelt als een caster met een wapen (23/0/28). [Open hem in de talentcalculator](/nl/talents/paladin/?t=05025210221021--0523320120130033).
+
 ### Levelbuild, 0/31/20
 
 De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/paladin/?t=-55300102113001531-05233301201). De [levelbuild voor de Paladin](/nl/leveling/paladin/) geeft het talent voor elk level.
 
-### PvP-build, 12/6/33
+### PvP-build, 12/8/31
 
-De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/paladin/?t=05025-501-50233011221301351).
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/paladin/?t=050050002-503-50233011201301351).
 
 ## Wat de belangrijkste talenten doen
 
@@ -132,7 +135,7 @@ Geef voor een gevecht iedereen de juiste blessing, en iedereen behalve de tank o
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan tellen deze stats:
+Op level 60 is de volgorde: weapon skill, wapenschade en -snelheid, hit tot 9%, expertise tot 6,5%, spell damage, Intellect, Strength, attack power, Agility, critical strike chance, Stamina. Wat elke stat doet:
 
 - **Hit**, zodat je aanvallen en spells raken. Judgement gebruikt sinds 11 november je ranged hit chance.
 - **Critical strike chance**, die samenwerkt met Conviction en Vengeance.
@@ -145,6 +148,22 @@ Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen 
 **Wapen.** Een traag tweehandig wapen met hoge wapenschade, voor Seal of Command en Holy Strike.
 
 **Librams.** Paladins dragen een libram in het ranged-slot, met een kleine passieve bonus. Kies er een die bij je spells past.
+
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20034"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Crusader</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219580"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Spellblasting</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13898"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Fiery Weapon</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248511"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Lesser Strength</a> |
+| **Hoofd** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11645"><img class="wf-wh__icon" src="/wh/inv_misc_gem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcanum of Voracity</a> (level 50+), <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> (level 50+) |
+| **Nek** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249019"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Strength</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249057"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Spell Power</a> |
+| **Mantel** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13941"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Stats</a> |
+| **Polsen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20010"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Strength</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Handen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1213622"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Holy Power</a> (level 50+), <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20013"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Greater Strength</a> |
+| **Benen** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11645"><img class="wf-wh__icon" src="/wh/inv_misc_gem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcanum of Voracity</a> (level 50+), <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> (level 50+) |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20023"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Agility</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13935"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Agility</a> |
 
 ## Races en beroepen
 

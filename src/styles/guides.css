@@ -781,3 +781,76 @@
   border: 0;
   object-fit: cover;
 }
+
+/* ------------------------------------------------------------------ talent build in a guide */
+/*
+ * The picture that src/plugins/rehype-talent-build.mjs puts after a link to the talent
+ * calculator (Nutri, 22 November 2026). Three trees side by side on the tree art of the
+ * calculator, read only; the whole figure links to the calculator.
+ */
+.wf-build { margin: 1rem 0 1.25rem; }
+.wf-build__link { display: block; text-decoration: none; color: inherit; border-radius: 12px; }
+.wf-build__link:focus-visible { outline: 2px solid var(--wf-accent); outline-offset: 3px; }
+.wf-build__trees {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .6rem;
+}
+.wf-build__tree {
+  display: block;
+  padding: .5rem .55rem .6rem;
+  border: 1px solid var(--wf-border);
+  border-radius: 10px;
+  background:
+    linear-gradient(180deg, rgba(11, 16, 32, .72), rgba(11, 16, 32, .86)),
+    var(--wf-build-art) center / cover no-repeat,
+    var(--wf-bg);
+  transition: border-color .15s ease;
+}
+.wf-build__link:hover .wf-build__tree { border-color: var(--wf-accent-deep); }
+.wf-build__tree.is-empty { opacity: .55; }
+.wf-build__head {
+  display: flex; justify-content: space-between; align-items: baseline;
+  margin-bottom: .45rem;
+  font-size: .82rem; font-weight: 600; color: var(--wf-gold-bright);
+}
+.wf-build__spent {
+  min-width: 1.6rem; padding: 0 .35rem; border-radius: 6px; text-align: center;
+  background: rgba(224, 183, 122, .16); color: var(--wf-gold-bright);
+}
+.wf-build__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(var(--rows), auto);
+  gap: 5px;
+  justify-items: center;
+}
+.wf-build__node {
+  position: relative; display: block;
+  width: 100%; max-width: 34px; aspect-ratio: 1;
+  border-radius: 6px; overflow: visible;
+}
+.wf-build__node img {
+  display: block; width: 100%; height: 100%; border-radius: 6px;
+  border: 1px solid #3a4462;
+}
+.wf-build__node.is-off img { filter: grayscale(1) brightness(.45); }
+.wf-build__node.is-on img { border-color: #7fae6a; box-shadow: 0 0 0 1px rgba(127, 174, 106, .5); }
+.wf-build__node.is-max img { border-color: var(--wf-gold); box-shadow: 0 0 0 1px rgba(224, 183, 122, .6); }
+.wf-build__node b {
+  position: absolute; right: -4px; bottom: -4px;
+  min-width: 15px; height: 15px; padding: 0 3px; border-radius: 5px;
+  font-size: 10px; line-height: 15px; text-align: center; font-weight: 700;
+  background: #0b1020; border: 1px solid var(--wf-gold-deep); color: var(--wf-gold-bright);
+}
+.wf-build__node.is-on b { color: #a8cf95; border-color: #7fae6a; }
+@media (max-width: 560px) {
+  .wf-build__trees { gap: .35rem; }
+  .wf-build__tree { padding: .35rem .3rem .45rem; }
+  .wf-build__head { font-size: .7rem; }
+  .wf-build__grid { gap: 3px; }
+  .wf-build__node b { font-size: 9px; min-width: 13px; height: 13px; line-height: 13px; right: -3px; bottom: -3px; }
+}
+.wf-build a.wf-build__link,
+.wf-build a.wf-build__link:hover,
+.wf-build a.wf-build__link * { text-decoration: none; border-bottom: 0; background-image: none; }

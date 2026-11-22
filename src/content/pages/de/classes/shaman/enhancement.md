@@ -3,7 +3,7 @@ title: "Guide zum Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: Build, Stormstrike, Totems"
 description: "Der Enhancement Shaman in WoW Forever: der Build für Level 60, Stormstrike und Maelstrom Weapon, Rotation, Totems, Mana, Tanken, Werte und Völker."
 short: "Enhancement Shaman"
-updated: 2026-11-14
+updated: 2026-11-22
 lang: de
 manual: true
 faq:
@@ -24,6 +24,8 @@ faq:
   - q: "Gibt es einen Build für Level 60?"
     a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/enchants-consumables-pve-dps"
   - name: "Wowhead, Talent-Builds"
     url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -68,8 +70,6 @@ Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und D
 
 17 Punkte in Elemental und 34 in Enhancement. [Raid-Build im Talentrechner öffnen](/de/talents/shaman/?t=053303102-053030310051212251).
 
-Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/shaman/?t=05330310201-0530303100212122-053).
-
 | Talent | Punkte |
 |---|---|
 | **Concussion** | 5/5 |
@@ -92,6 +92,10 @@ Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](
 | **Maelstrom Weapon** | 5/5 |
 | **Rage of the Farseer** | 1/1 |
 
+Für Dungeons verschiebt eine Variante Punkte nach Restoration für mehr Heilung und Mana (17/26/8). [Im Talentrechner öffnen](/de/talents/shaman/?t=053303102-05303031002121221-053).
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/shaman/?t=05330310201-0530303100212122-053).
+
 ### Leveling-Build, 19/32/0
 
 Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im Talentrechner öffnen](/de/talents/shaman/?t=45300310201-053030310051012251). Der [Level-Build für den Shaman](/de/leveling/shaman/) gibt das Talent für jedes Level.
@@ -99,6 +103,8 @@ Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im 
 ### PvP-Build, 18/26/7
 
 Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/shaman/?t=05350310001-2502300130212122-050002).
+
+Ein zweiter PvP-Build geht tief in Restoration und spielt sich wie ein Heiler, der noch zuschlagen kann (0/19/32). [Im Talentrechner öffnen](/de/talents/shaman/?t=-0512300131012-0530523315003101).
 
 ## Was die wichtigsten Talente tun
 
@@ -173,7 +179,7 @@ Tanken funktioniert beim Leveln, mit Nachteilen: kein echter Taunt, kein defensi
 
 > **Update vom 10. November:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> hat jetzt +16 Strength statt +12 Intellect und ein Tempo von 3.6, mehr in [unserem Beitrag](/de/news/rage-of-the-storm-swaps-intellect-for-strength/). Strength ist jetzt der stärkste Wert für Enhancement, mehr im [Beitrag zum Hotfix](/de/news/enhancement-shamans-turn-back-to-windfury/).
 
-Prioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
+Auf Level 60 ist die Reihenfolge: Trefferchance bis 8 %, Waffenkunde bis 6,5 %, kritische Trefferchance, Stärke, Intelligenz, Zauberdurchschlagskraft, Tempo, Beweglichkeit, Zauberschaden, Angriffskraft, Willenskraft, Ausdauer. Was jeder Wert bringt:
 
 - **Waffenschaden**: deine größte Quelle für Skalierung, über Stormstrike und Windfury.
 - **Hit**: früh weniger wichtig, nahe Level 60 eine hohe Priorität. Eine verfehlte Fähigkeit verschwendet Schaden und Mana.
@@ -188,6 +194,14 @@ Prioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen kön
 **Waffe.** Zuerst eine langsame Zweihandwaffe mit hohem Schaden pro Sekunde, dann erst die Werte. Die Questreihe Call of Air gibt unterwegs <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a>, seit dem 10. November mit +16 Strength und einem Tempo von 3.6.
 
 **Totems.** Der Reliktplatz des Shaman. Noch selten; suche eines, das deinem Mana hilft.
+
+## Verzauberungen und Verbrauchsgüter
+
+Die beste Verzauberung pro Platz. Verzaubere Ausrüstung, die du eine Weile behältst; beim Leveln reichen die günstigeren Versionen derselben Verzauberung.
+
+| Platz | Beste Wahl |
+|---|---|
+| **Waffe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
 
 ## Völker und Berufe
 

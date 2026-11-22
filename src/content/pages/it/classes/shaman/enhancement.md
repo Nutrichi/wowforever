@@ -3,7 +3,7 @@ title: "Guida all'Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totem"
 description: "L'Enhancement Shaman in WoW Forever: la build di livello 60, Stormstrike e Maelstrom Weapon, la rotazione, i totem, il mana, il tanking, le stats e le razze."
 short: "Enhancement Shaman"
-updated: 2026-11-14
+updated: 2026-11-22
 lang: it
 manual: true
 faq:
@@ -24,6 +24,8 @@ faq:
   - q: "C'è una build per il livello 60?"
     a: "Sì. Questa guida ha tre build per il livello 60: una per raid e dungeon, una per livellare e una per il PvP. Ognuna si apre nel nostro calcolatore di talenti."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/enchants-consumables-pve-dps"
   - name: "Wowhead, build dei talenti"
     url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -68,8 +70,6 @@ Tre build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon,
 
 17 punti in Elemental e 34 in Enhancement. [Apri la build da raid nel calcolatore di talenti](/it/talents/shaman/?t=053303102-053030310051212251).
 
-Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/talents/shaman/?t=05330310201-0530303100212122-053).
-
 | Talento | Punti |
 |---|---|
 | **Concussion** | 5/5 |
@@ -92,6 +92,10 @@ Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/t
 | **Maelstrom Weapon** | 5/5 |
 | **Rage of the Farseer** | 1/1 |
 
+Per i dungeon, una variante sposta punti in Restoration per più cure e mana (17/26/8). [Aprila nel calcolatore di talenti](/it/talents/shaman/?t=053303102-05303031002121221-053).
+
+Per i dungeon una variante sposta alcuni punti: [apri la build da dungeon](/it/talents/shaman/?t=05330310201-0530303100212122-053).
+
 ### Build per livellare, 19/32/0
 
 La build per livellare prende prima i talenti che aiutano a uccidere da soli. [Aprila nel calcolatore di talenti](/it/talents/shaman/?t=45300310201-053030310051012251). La [build di leveling del Shaman](/it/leveling/shaman/) dà il talento per ogni livello.
@@ -99,6 +103,8 @@ La build per livellare prende prima i talenti che aiutano a uccidere da soli. [A
 ### Build PvP, 18/26/7
 
 La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel calcolatore di talenti](/it/talents/shaman/?t=05350310001-2502300130212122-050002).
+
+Una seconda build PvP va a fondo in Restoration e si gioca come un guaritore che può ancora colpire (0/19/32). [Aprila nel calcolatore di talenti](/it/talents/shaman/?t=-0512300131012-0530523315003101).
 
 ## Cosa fanno i talenti chiave
 
@@ -173,7 +179,7 @@ Il tanking funziona durante il leveling, con degli svantaggi: nessun vero taunt,
 
 > **Aggiornamento del 10 novembre:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> ora ha +16 Strength al posto di +12 Intellect, e una velocità di 3.6, di più nel [nostro articolo](/it/news/rage-of-the-storm-swaps-intellect-for-strength/). Strength è ora la stat migliore per l'Enhancement, di più nell'[articolo sull'hotfix](/it/news/enhancement-shamans-turn-back-to-windfury/).
 
-Le priorità delle stats per il livello 60 arriveranno quando potremo provare il livello 60 nel gioco live. Fino ad allora:
+Al livello 60 l’ordine è: colpo fino all’8%, maestria fino al 6,5%, probabilità di critico, Forza, Intelletto, penetrazione magica, celerità, Agilità, danni magici, potere d’attacco, Spirito, Tempra. Cosa fa ogni statistica:
 
 - **Danni dell'arma**: la tua principale fonte di scalata, tramite Stormstrike e Windfury.
 - **Hit**: meno importante all'inizio, alta priorità vicino al livello 60. Un'abilità mancata spreca danni e mana.
@@ -188,6 +194,14 @@ Le priorità delle stats per il livello 60 arriveranno quando potremo provare il
 **Arma.** Prima un'arma a due mani lenta con molti danni al secondo, poi le stats. La catena di missioni Call of Air dà <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> lungo la strada, con +16 Strength e una velocità di 3.6 dal 10 novembre.
 
 **Totem.** Lo slot reliquia dello Shaman. Ancora rari; cercane uno che aiuti il tuo mana.
+
+## Incantamenti e consumabili
+
+Il miglior incantamento per slot. Mettili sull’equipaggiamento che terrai per un po’; mentre livelli, le versioni più economiche dello stesso incantamento bastano.
+
+| Slot | Scelta migliore |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
 
 ## Razze e professioni
 

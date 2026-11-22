@@ -3,7 +3,7 @@ title: "Holy Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Holy Paladin: healbuild, spells en mana"
 description: "De Holy Paladin in WoW Forever: de healbuild voor level 60, Holy Shock en Light's Vigil, de healprioriteit, mana, seals, stats en races."
 short: "Holy Paladin"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -22,6 +22,8 @@ faq:
   - q: "Is er een build voor level 60?"
     a: "Ja. Deze gids heeft drie builds voor level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/enchants-consumables-pve-healer"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -56,8 +58,6 @@ Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 
 31 punten in Holy, 7 in Protection en 13 in Retribution. [Open de raidbuild in de talentcalculator](/nl/talents/paladin/?t=50320115022101251-50002-050330002).
 
-Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/paladin/?t=50320015222121251-5-052300002).
-
 | Talent | Punten |
 |---|---|
 | **Spiritual Focus** | 5/5 |
@@ -79,6 +79,8 @@ Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl
 | **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
 | **Pursuit of Justice** | 2/2 |
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/paladin/?t=50320015222121251-5-052300002).
 
 ### Levelbuild, 0/31/20
 
@@ -135,7 +137,7 @@ Geef voor een gevecht iedereen de juiste blessing, en iedereen behalve de tank o
 
 ## Stats en gear
 
-Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
+Op level 60 is de volgorde: healing power, Intellect, critical strike chance, Spirit. Wat elke stat doet:
 
 - **Healing power en spell power**, voor sterkere en goedkopere heals: met meer healing power volstaat een lagere rank.
 - **Intellect**, voor meer mana en meer critical strike chance.
@@ -147,6 +149,18 @@ Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen 
 **Wapen.** Paladins kunnen geen staven dragen, dus je draagt meestal een eenhandig wapen met een schild of een off-hand. Je wapen is vaak je belangrijkste stuk, ook al zwaai je er zelden mee.
 
 **Librams.** Een libram in het ranged-slot geeft een kleine passieve bonus. Kies er een die bij je heals past.
+
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
+| **Nek** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249057"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Spell Power</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13607"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Intellect</a> |
+| **Benen** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252452"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a> |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
 
 ## Races en beroepen
 

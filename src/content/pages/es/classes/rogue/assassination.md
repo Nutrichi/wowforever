@@ -3,7 +3,7 @@ title: "Guía del Assassination Rogue en WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: builds de venenos, Venom y rotación"
 description: "El Assassination Rogue en WoW Forever: Venom y Shank, Mutilate desde el nivel 40, la build de nivel del Rogue, la rotación y los venenos."
 short: "Assassination Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -20,8 +20,10 @@ faq:
   - q: "¿Qué raza es mejor para un Assassination Rogue?"
     a: "Human para la Alianza, por un 1% más de probabilidad de crítico, que ahora también cuenta para los venenos. Orc para la Horda, por un 10% más de poder de ataque con Blood Fury."
   - q: "¿Hay una build para nivel 60?"
-    a: "Aún no para bandas y PvP: no se conoce ninguna build para los nuevos árboles de talentos. La build de nivel del Rogue da el talento de cada nivel del 10 al 35, y el resto llegará en cuanto se conozca."
+    a: "Sí. Para bandas y mazmorras hay una build, 31/19/1, con Mutilate, Seal Fate y Cold Blood. Para PvP hay dos: 14/10/27 con Preparation, y 31/8/12 con Mutilate y Premeditation. Las tres se abren en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/enchants-consumables-pve-dps"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -63,7 +65,13 @@ El Assassination Rogue de WoW Forever es el envenenador. Venom refuerza tus vene
 
 ### Builds para nivel 60
 
-Aún no se conoce una build de banda ni de PvP para los nuevos árboles de talentos. Esta sección se actualizará en cuanto haya una.
+Para bandas y mazmorras hay una build: 31 puntos en Assassination, 19 en Combat y 1 en Subtlety. Toma Mutilate, Seal Fate, Cold Blood y Venom, y en Combat Precision, Aggression y Flawless Execution. [Abre la build de banda en la calculadora de talentos](/es/talents/rogue/?t=00530311231251031-32030302020103-001).
+
+#### Builds de PvP
+
+La build de PvP estándar, 14/10/27, va a fondo en Subtlety por Preparation, Premeditation, Ghostly Strike y Hemorrhage, con Dirty Deeds y Elusiveness para control y huida. [Abre la build de PvP estándar](/es/talents/rogue/?t=325000202-3203002-0322232313211011).
+
+La build de PvP de Mutilate, 31/8/12, conserva Cold Blood, Mutilate y Seal Fate para el daño en ráfaga y añade Improved Gouge, Improved Kidney Shot y Premeditation. [Abre la build de PvP de Mutilate](/es/talents/rogue/?t=30520021251301231-3203-0250300011).
 
 #### Build para subir de nivel
 
@@ -142,11 +150,26 @@ Desde el nivel 20 un Rogue fabrica venenos tras una cadena de misiones de clase;
 
 El Rogue es frágil pero golpea fuerte, así que cómo empiezas un combate decide si lo sobrevives. Enemigos fáciles: Ambush, unos cuantos Sinister Strike o Mutilate y Eviscerate. Enemigos peligrosos: saca a uno del grupo con Sap, los lanzadores primero, abre con Cheap Shot, sigue con Kidney Shot, luego Gouge para esperar energía o Blind para esperar tiempos de reutilización. Después tu rotación normal con Evasion, y Kick a cada lanzador. Si ni una poción de salud basta, Vanish te saca del combate y te devuelve a Stealth.
 
+## Encantamientos y consumibles
+
+El mejor encantamiento por hueco. Ponlos en el equipo que vayas a conservar un tiempo; mientras subes de nivel, las versiones más baratas del mismo encantamiento bastan.
+
+| Hueco | Mejor opción |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Cuello** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Capa** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Pecho** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Muñecas** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Manos** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Piernas** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> o la versión de tu nivel |
+| **Pies** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Equipo, razas y profesiones
 
 ### Stats y equipo
 
-El orden exacto a nivel 60 llegará cuando podamos probar el nivel 60 en el juego en vivo. Estos stats ayudan a un Assassination Rogue:
+A nivel 60 el orden es: golpe hasta el 8 %, pericia hasta el 6,5 %, habilidad con armas hasta 308, golpe hasta el 17 % para los venenos, Agilidad, probabilidad de crítico, celeridad, Fuerza, poder de ataque, Aguante. Lo que hace cada stat:
 
 - **Agilidad.** Tu stat principal: 1 de poder de ataque por punto, un 1% de crítico por cada 29 puntos y un 1% de esquiva por cada 14,5 puntos. Acumula todo lo que puedas.
 - **Poder de ataque.** Más daño de arma y de habilidades, y en Forever también más daño de veneno.

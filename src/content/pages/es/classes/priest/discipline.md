@@ -3,7 +3,7 @@ title: "Guía del Discipline Priest en WoW Forever"
 metaTitle: "WoW Forever Discipline Priest: build 31/20/0, Penance y stats"
 description: "El Discipline Priest en WoW Forever: la build 31/20/0 para nivel 60, Penance, Divine Aegis, Renewed Hope y Power Infusion, curación de tanque, maná, stats y razas."
 short: "Discipline Priest"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "¿Es definitiva esta build?"
     a: "No."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/discipline/enchants-consumables-pve-healer"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/priest/discipline/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -64,8 +66,6 @@ Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas
 
 31 puntos en Discipline y 20 en Holy. [Abre la build de banda en la calculadora de talentos](/es/talents/priest/?t=005005031330011531-0350501303).
 
-Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/priest/?t=025015021330011531-0150510303).
-
 | Talento | Puntos |
 |---|---|
 | **Twin Disciplines** | 5/5 |
@@ -85,6 +85,8 @@ Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/
 | **Blessed Recovery** | 1/3 |
 | **Inspiration** | 3/3 |
 | **Improved Healing** | 3/3 |
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/priest/?t=025015021330011531-0150510303).
 
 ### Build para subir de nivel, 16/0/35
 
@@ -157,6 +159,18 @@ El orden para un Discipline Priest:
 **Conjunto Pristine.** Los sastres hacen las piezas Pristine, como <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253961"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_32.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pristine Gown</a>, con patrones de la Commerce Society en Redridge Mountains o los Barrens.
 
 **Anillo.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281635"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Philanthropist's Ring</a> da 10 de poder con hechizos a cambio de 20 libros. Mira la [guía de los libros de biblioteca](/es/guides/library-books/).
+
+## Encantamientos y consumibles
+
+El mejor encantamiento por hueco. Ponlos en el equipo que vayas a conservar un tiempo; mientras subes de nivel, las versiones más baratas del mismo encantamiento bastan.
+
+| Hueco | Mejor opción |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Muñecas** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13642"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Spirit</a> |
+| **Pecho** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13663"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Intellect</a> |
+| **Capa** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13746"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Greater Defense</a> |
+| **Pies** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13687"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Lesser Spirit</a> |
 
 ## Razas y profesiones
 

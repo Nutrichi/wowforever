@@ -3,7 +3,7 @@ title: "Guide de l’Assassination Rogue dans WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue : builds poisons, Venom et rotation"
 description: "L’Assassination Rogue dans WoW Forever : Venom et Shank, Mutilate au niveau 40, le build de leveling du Rogue, la rotation, l’énergie et les poisons."
 short: "Assassination Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: fr
 manual: true
 faq:
@@ -20,8 +20,10 @@ faq:
   - q: "Quelle race choisir pour un Assassination Rogue ?"
     a: "Human pour l’Alliance, pour 1 % de chances de critique en plus, ce qui compte maintenant aussi pour les poisons. Orc pour la Horde, pour 10 % de puissance d’attaque en plus avec Blood Fury."
   - q: "Existe-t-il un build pour le niveau 60 ?"
-    a: "Pas encore pour les raids et le PvP : aucun build n’est connu pour les nouveaux arbres de talents. Le build de leveling du Rogue donne le talent de chaque niveau de 10 à 35, la suite viendra dès qu’elle sera connue."
+    a: "Oui. Pour les raids et les donjons, il y a un build, 31/19/1, avec Mutilate, Seal Fate et Cold Blood. Pour le PvP, il y en a deux : 14/10/27 avec Preparation, et 31/8/12 avec Mutilate et Premeditation. Les trois s’ouvrent dans notre calculateur de talents."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/enchants-consumables-pve-dps"
   - name: "Wowhead, builds de talents"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -63,7 +65,13 @@ L’Assassination Rogue de WoW Forever est l’empoisonneur. Venom renforce vos 
 
 ### Les builds pour le niveau 60
 
-Aucun build de raid ni de PvP n’est encore connu pour les nouveaux arbres de talents. Cette section sera mise à jour dès qu’il y en aura un.
+Pour les raids et les donjons, il y a un build : 31 points en Assassination, 19 en Combat et 1 en Subtlety. Il prend Mutilate, Seal Fate, Cold Blood et Venom, et en Combat Precision, Aggression et Flawless Execution. [Ouvrir le build de raid dans le calculateur de talents](/fr/talents/rogue/?t=00530311231251031-32030302020103-001).
+
+#### Builds PvP
+
+Le build PvP standard, 14/10/27, va loin en Subtlety pour Preparation, Premeditation, Ghostly Strike et Hemorrhage, avec Dirty Deeds et Elusiveness pour le contrôle et la fuite. [Ouvrir le build PvP standard](/fr/talents/rogue/?t=325000202-3203002-0322232313211011).
+
+Le build PvP Mutilate, 31/8/12, garde Cold Blood, Mutilate et Seal Fate pour le burst et ajoute Improved Gouge, Improved Kidney Shot et Premeditation. [Ouvrir le build PvP Mutilate](/fr/talents/rogue/?t=30520021251301231-3203-0250300011).
 
 #### Build de leveling
 
@@ -142,11 +150,26 @@ Dès le niveau 20, un Rogue fabrique des poisons après une suite de quêtes de 
 
 Le Rogue est fragile mais frappe fort, donc la façon d’engager un combat décide si vous y survivez. Ennemis faciles : Ambush, quelques Sinister Strike ou Mutilate et Eviscerate. Ennemis dangereux : sortez-en un du pack avec Sap, les lanceurs de sorts d’abord, ouvrez avec Cheap Shot, enchaînez Kidney Shot, puis Gouge pour attendre l’énergie ou Blind pour attendre les temps de recharge. Ensuite votre rotation normale avec Evasion, et Kick sur chaque lanceur de sorts. Si même une potion de soins ne suffit pas, Vanish vous sort du combat et vous remet en Stealth.
 
+## Enchantements et consommables
+
+Le meilleur enchantement par emplacement. Mettez-les sur l’équipement que vous gardez un moment ; pendant le leveling, les versions moins chères du même enchantement suffisent.
+
+| Emplacement | Meilleur choix |
+|---|---|
+| **Arme** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Cou** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Cape** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Torse** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Poignets** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Mains** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Jambes** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> ou la version de votre niveau |
+| **Pieds** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Équipement, races et métiers
 
 ### Stats et équipement
 
-L’ordre exact au niveau 60 suivra dès que nous pourrons tester le niveau 60 dans le jeu live. Ces stats aident un Assassination Rogue :
+Au niveau 60, l’ordre est : toucher jusqu’à 8 %, expertise jusqu’à 6,5 %, compétence d’arme jusqu’à 308, toucher jusqu’à 17 % pour les poisons, Agilité, critique, hâte, Force, puissance d’attaque, Endurance. Ce que fait chaque stat :
 
 - **Agilité.** Votre stat principale : 1 de puissance d’attaque par point, 1 % de critique pour 29 points et 1 % d’esquive pour 14,5 points. Cumulez-en autant que possible.
 - **Puissance d’attaque.** Plus de dégâts d’arme et de techniques, et dans Forever plus de dégâts de poison aussi.

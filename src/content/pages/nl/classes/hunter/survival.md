@@ -3,7 +3,7 @@ title: "Survival Hunter in WoW Forever: de gids"
 metaTitle: "WoW Forever Survival Hunter: build voor level 60 en melee weaving"
 description: "De Survival Hunter in WoW Forever: de build 5/13/33 voor level 60 met Lone Wolf en Strider Kick, melee weaving, de rotatie, mana met Resourcefulness, stats en races."
 short: "Survival Hunter"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Welk ras is het beste voor een Survival Hunter?"
     a: "Skyborne aan beide kanten, voor de haste-bonus. Human voor de Alliance en Orc voor de Horde zijn sterke alternatieven. De verschillen zijn klein."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/enchants-consumables-pve-dps"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/hunter/survival/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -54,9 +56,9 @@ De Survival Hunter in WoW Forever vecht op afstand en in melee. Je weeft Raptor 
 
 Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
 
-### Raidbuild, 16/4/31
+### Raidbuild, 16/10/25
 
-16 punten in Beast Mastery, 4 in Marksmanship en 31 in Survival. [Open de raidbuild in de talentcalculator](/nl/talents/hunter/?t=51202005001-004-500230230050022151).
+16 punten in Beast Mastery, 10 in Marksmanship en 25 in Survival. [Open de raidbuild in de talentcalculator](/nl/talents/hunter/?t=51202005001-005005-5002302300502201).
 
 | Talent | Punten |
 |---|---|
@@ -66,26 +68,27 @@ Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 | **Improved Revive Pet** | 2/2 |
 | **Unleashed Fury** | 5/5 |
 | **Summon Hawk** | 1/1 |
-| **Lethal Attacks** | 4/5 |
+| **Lethal Attacks** | 5/5 |
+| **Careful Aim** | 5/5 |
 | **Improved Tracking** | 5/5 |
 | **Savage Strikes** | 2/2 |
 | **Survivalist** | 3/5 |
 | **Clever Traps** | 2/2 |
 | **Surefooted** | 3/3 |
 | **Predator's Edge** | 5/5 |
+| **Resourcefulness** | 2/2 |
 | **Expose Prey** | 2/2 |
-| **Survivalist's Discipline** | 2/2 |
 | **Strider Kick** | 1/1 |
-| **Lightning Reflexes** | 5/5 |
-| **Lacerating Strikes** | 1/1 |
+
+De weavingbuild wisselt melee- en afstandsaanvallen af en neemt Marksmanship in plaats van Beast Mastery (0/20/31). [Open hem in de talentcalculator](/nl/talents/hunter/?t=-00530501114-500230230050220151).
 
 ### Levelbuild, 31/20/0
 
 De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open hem in de talentcalculator](/nl/talents/hunter/?t=5120221405101241-00503520005). De [levelbuild voor de Hunter](/nl/leveling/hunter/) geeft het talent voor elk level.
 
-### PvP-build, 16/0/35
+### PvP-build, 22/0/29
 
-De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/hunter/?t=50230014001--502203031051222151).
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/hunter/?t=5023001504101--5022030310512221).
 
 ## Wat de belangrijkste talenten doen
 
@@ -163,11 +166,28 @@ Survival gebruikt veel mana, want de rotatie heeft veel abilities. Resourcefulne
 
 De build neemt Lone Wolf en speelt zonder pet. In dungeons en raids is dat de meeste schade. In de open wereld is een pet die monsters van je weghoudt vaak meer waard: ruil Lone Wolf voor een punt in Efficiency of Improved Stings en hou je pet. Gebruik **Stay** en **Move To** om hem uit area-schade te houden. Meer over pets staat in de [gids voor de Beast Mastery Hunter](/nl/classes/hunter/beast-mastery/).
 
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=27837"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Agility</a> |
+| **Afstandswapen** | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279272"><img class="wf-wh__icon" src="/wh/inv_engineering_90_scope_blue.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">SAF-T Ultra Precision Scope</a> |
+| **Hoofd** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Nek** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Mantel** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219587"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Agility</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a> |
+| **Polsen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248599"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Agility</a> |
+| **Handen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Benen** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20023"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Agility</a> |
+
 ## Gear, rassen en beroepen
 
 ### Stats en gear
 
-Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
+Op level 60 is de volgorde: hit, critical strike chance, haste, Agility, Strength, attack power, Intellect, Spirit, Stamina. Wat elke stat doet:
 
 - **Agility**: 2 ranged en 1 melee attack power per punt, en critical strike chance, ongeveer 1% per 53 Agility op level 60. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=19168"><img class="wf-wh__icon" src="/wh/spell_nature_invisibilty.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lightning Reflexes</a> geeft er 10% bij.
 - **Hit**: tegen een boss van level 63 heb je 9% nodig met 300 weapon skill, of 6% met 305. Dat geldt voor ranged-aanvallen en tweehandige melee-wapens. Surefooted geeft al 3%.

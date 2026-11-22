@@ -3,7 +3,7 @@ title: "Subtlety Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush- en bleedbuilds tot 60"
 description: "De Subtlety Rogue in WoW Forever: een Ambush-build en een bleedbuild, allebei met Death Mark, voor level 60, met rotaties, Energy, Shank, poisons en races."
 short: "Subtlety Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Waarom voelt Subtlety zwak op lage levels?"
     a: "De beste talenten zitten onderaan de boom. Veel spelers levelen met een andere spec en stappen op een hoger level over naar Subtlety."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/subtlety/enchants-consumables-pve-dps"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/subtlety/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -32,7 +34,7 @@ De Subtlety Rogue in WoW Forever heeft twee echte PvE-builds. De ene deelt enorm
 | | |
 |---|---|
 | Rol | Melee-schade, met dolken of bleeds |
-| Builds | Ambush (10/10/31) en bleed (12/8/31), allebei met Death Mark, op level 60 |
+| Builds | Ambush (12/8/31) en bleed (12/8/31), allebei met Death Mark, op level 60 |
 | Belangrijkste talenten | Malice, Opportunity, Initiative, Ghostly Strike, Serrated Blades, Preparation, Hemorrhage, Boot Knife, Death Mark |
 | Sterk in | Twee speelstijlen, bleeds negeren armor, veel crowd control |
 | Zwak in | Heeft gear nodig, beste talenten pas op hoog level |
@@ -56,26 +58,23 @@ De Subtlety Rogue in WoW Forever heeft twee echte PvE-builds. De ene deelt enorm
 
 Twee builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons en een om te levelen. Elke build opent in onze talentcalculator.
 
-### Raidbuild, 10/10/31
+### Raidbuild, 12/8/31
 
-10 punten in Assassination, 10 in Combat en 31 in Subtlety. [Open de raidbuild in de talentcalculator](/nl/talents/rogue/?t=025003-302302-335003231321001121).
-
-De bleedbuild ruilt de grote Ambushes in voor Hemorrhage en een sterkere Rupture: [open de bleedbuild](/nl/talents/rogue/?t=015303-302003-332210231321001151).
+12 punten in Assassination, 8 in Combat en 31 in Subtlety. [Open de raidbuild in de talentcalculator](/nl/talents/rogue/?t=00530301-320003-305230031321001151).
 
 | Talent | Punten |
 |---|---|
-| **Remorseless Attacks** | 2/2 |
 | **Malice** | 5/5 |
+| **Ruthlessness** | 3/3 |
 | **Improved Slice and Dice** | 3/3 |
+| **Blood Splatter** | 1/1 |
 | **Coup de Grace** | 3/3 |
-| **Lightning Reflexes** | 2/5 |
-| **Puncturing Wounds** | 3/3 |
-| **Precision** | 2/3 |
+| **Efficient Strikes** | 2/2 |
+| **Precision** | 3/3 |
 | **Setup** | 3/3 |
-| **Master of Deception** | 3/3 |
 | **Opportunity** | 5/5 |
-| **Improved Ambush** | 3/3 |
-| **Dirty Tricks** | 2/2 |
+| **Dirty Deeds** | 2/2 |
+| **Camouflage** | 3/3 |
 | **Initiative** | 3/3 |
 | **Premeditation** | 1/1 |
 | **Serrated Blades** | 3/3 |
@@ -83,14 +82,20 @@ De bleedbuild ruilt de grote Ambushes in voor Hemorrhage en een sterkere Rupture
 | **Ghostly Strike** | 1/1 |
 | **Preparation** | 1/1 |
 | **Hemorrhage** | 1/1 |
-| **Boot Knife** | 2/5 |
+| **Boot Knife** | 5/5 |
 | **Death Mark** | 1/1 |
+
+De bleedbuild ruilt de grote Ambushes in voor Hemorrhage en een sterkere Rupture: [open de bleedbuild](/nl/talents/rogue/?t=015303-302003-332210231321001151).
+
+Een derde optie gebruikt Hemorrhage als builder met Seal Fate, Cold Blood en Relentless Strikes uit Assassination, zonder Death Mark (28/2/21). [Open hem in de talentcalculator](/nl/talents/rogue/?t=0053031121135102-02-0352000313210001).
 
 ### Levelbuild
 
 De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
 
-Een PvP-build voor de nieuwe talentbomen is nog niet bekend. Deze sectie wordt bijgewerkt zodra er een is.
+#### PvP-build
+
+De PvP-build, 14/10/27, is dezelfde voor alle drie de specs van de Rogue: diep in Subtlety voor Preparation, Premeditation, Ghostly Strike en Hemorrhage, met Dirty Deeds en Elusiveness voor controle en ontsnappen. [Open de PvP-build](/nl/talents/rogue/?t=325000202-3203002-0322232313211011).
 
 ## Wat de belangrijkste talenten doen
 
@@ -160,11 +165,26 @@ Vanaf level 20 leert een questreeks je poisons maken. Gebruik Instant Poison en 
 
 Rogues slaan hard maar vallen snel. Beoordeel elke pull: Sap één monster uit een groep, bij voorkeur een caster. Open met Cheap Shot, volg met Kidney Shot, en rek het met Gouge of Blind als je Energy of cooldowns nodig hebt. Gebruik Evasion als je klappen moet opvangen, Kick elke caster, en Vanish als niets anders werkt.
 
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Nek** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Mantel** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Polsen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Handen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Benen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> of de versie voor jouw level |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Gear, rassen en beroepen
 
 ### Stats en gear
 
-Statprioriteiten voor level 60 volgen zodra we level 60 in het live spel kunnen testen. Tot dan:
+Op level 60 is de volgorde: hit tot 8%, expertise tot 6,5%, weapon skill tot 308, hit tot 17% voor poisons, Agility, critical strike chance, haste, Strength, attack power, Stamina. Wat elke stat doet:
 
 - **Agility**: 1 attack power per punt, 1% critical strike chance per 29 Agility, 1% dodge per 14,5 Agility.
 - **Attack power**, die nu ook de schade van je poisons verhoogt.

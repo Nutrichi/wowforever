@@ -3,7 +3,7 @@ title: "Holy Priest in WoW Forever: de gids"
 metaTitle: "WoW Forever Holy Priest: 18/33/0-build, healing en stats"
 description: "De Holy Priest in WoW Forever: de build 18/33/0 voor level 60, Prayer of Mending en Litany of Light, tank- en groepshealing, mana, stats en races."
 short: "Holy Priest"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "Is deze build definitief?"
     a: "Nee."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/priest/holy/enchants-consumables-pve-healer"
   - name: "Wowhead, talentbuilds"
     url: "https://www.wowhead.com/forever/guide/classes/priest/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -62,8 +64,6 @@ Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 
 18 punten in Discipline en 33 in Holy. [Open de raidbuild in de talentcalculator](/nl/talents/priest/?t=00500500133001-10505103230121531).
 
-Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/priest/?t=025005001330011-0350510303002053).
-
 | Talent | Punten |
 |---|---|
 | **Twin Disciplines** | 5/5 |
@@ -85,6 +85,8 @@ Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl
 | **Spiritual Guidance** | 5/5 |
 | **Spiritual Healing** | 3/3 |
 | **Prayer of Mending** | 1/1 |
+
+Voor dungeons verschuift een variant een paar punten: [open de dungeonbuild](/nl/talents/priest/?t=025005001330011-0350510303002053).
 
 ### Levelbuild, 16/0/35
 
@@ -156,6 +158,18 @@ De volgorde voor een Holy Priest:
 **Pristine-set.** Tailors maken de Pristine-stukken, zoals <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=253961"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_32.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pristine Gown</a>, met patterns van de Commerce Society in Redridge Mountains of de Barrens. Sterk, maar een omweg tijdens het levelen.
 
 **Ring.** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281635"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Philanthropist's Ring</a> geeft 10 spell power voor 20 boeken. Zie de [gids voor de bibliotheekboeken](/nl/guides/library-books/).
+
+## Enchants en consumables
+
+De beste enchant per slot. Zet ze op gear die je een tijd houdt; tijdens het levelen volstaan de goedkopere versies van dezelfde enchant.
+
+| Slot | Beste |
+|---|---|
+| **Wapen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Polsen** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13642"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Spirit</a> |
+| **Borst** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13663"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Intellect</a> |
+| **Mantel** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13746"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Greater Defense</a> |
+| **Voeten** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13687"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Lesser Spirit</a> |
 
 ## Races en beroepen
 

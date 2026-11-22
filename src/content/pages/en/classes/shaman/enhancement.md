@@ -3,7 +3,7 @@ title: "Enhancement Shaman guide for WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: build, Stormstrike, totems"
 description: "The Enhancement Shaman in WoW Forever: the level 60 build, Stormstrike and Maelstrom Weapon, the rotation, totems, mana, tanking, stats and races."
 short: "Enhancement Shaman"
-updated: 2026-11-14
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Enhancement Shaman good in WoW Forever?"
@@ -23,6 +23,8 @@ faq:
   - q: "Is there a level 60 build?"
     a: "Yes. This guide has three builds for level 60: one for raids and dungeons, one for leveling and one for PvP. Each opens in our talent calculator."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/enchants-consumables-pve-dps"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/shaman/enhancement/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -67,8 +69,6 @@ Three builds, each with the 51 talent points of level 60: one for raids and dung
 
 17 points in Elemental and 34 in Enhancement. [Open the raid build in the talent calculator](/talents/shaman/?t=053303102-053030310051212251).
 
-For dungeons, a variant moves a few points: [open the dungeon build](/talents/shaman/?t=05330310201-0530303100212122-053).
-
 | Talent | Points |
 |---|---|
 | **Concussion** | 5/5 |
@@ -91,6 +91,10 @@ For dungeons, a variant moves a few points: [open the dungeon build](/talents/sh
 | **Maelstrom Weapon** | 5/5 |
 | **Rage of the Farseer** | 1/1 |
 
+For dungeons, a variant moves points into Restoration for more healing and mana (17/26/8). [Open it in the talent calculator](/talents/shaman/?t=053303102-05303031002121221-053).
+
+For dungeons, a variant moves a few points: [open the dungeon build](/talents/shaman/?t=05330310201-0530303100212122-053).
+
 ### Leveling build, 19/32/0
 
 The leveling build takes the talents that help you kill alone first. [Open it in the talent calculator](/talents/shaman/?t=45300310201-053030310051012251). The [Shaman level build](/leveling/shaman/) gives the talent for every level.
@@ -98,6 +102,8 @@ The leveling build takes the talents that help you kill alone first. [Open it in
 ### PvP build, 18/26/7
 
 The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/shaman/?t=05350310001-2502300130212122-050002).
+
+A second PvP build goes deep into Restoration and plays as a healer who can still hit (0/19/32). [Open it in the talent calculator](/talents/shaman/?t=-0512300131012-0530523315003101).
 
 ## What the key talents do
 
@@ -172,7 +178,7 @@ Tanking works while you level, with drawbacks: no real taunt, no defensive coold
 
 > **Update 10 November:** <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> now has +16 Strength instead of +12 Intellect, and a speed of 3.6, more in [our post](/news/rage-of-the-storm-swaps-intellect-for-strength/). Strength is now the strongest stat for Enhancement, more in [the post about the hotfix](/news/enhancement-shamans-turn-back-to-windfury/).
 
-Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
+At level 60 the priority is: hit up to 8%, expertise up to 6.5%, critical strike chance, Strength, Intellect, spell penetration, haste, Agility, spell damage, attack power, Spirit, Stamina. What each stat does:
 
 - **Weapon damage**: your main source of scaling, through Stormstrike and Windfury.
 - **Hit**: less important early, a high priority near level 60. A missed ability wastes damage and mana.
@@ -187,6 +193,14 @@ Stat priorities for level 60 follow once we can test level 60 in the live game. 
 **Weapon.** A slow two-handed weapon with high damage per second comes first, stats second. The Call of Air quest chain gives <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=280604"><img class="wf-wh__icon" src="/wh/inv_mace_42.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rage of the Storm</a> along the way, with +16 Strength and a speed of 3.6 since 10 November.
 
 **Totems.** The relic slot of the Shaman. Still rare; look for one that helps your mana.
+
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
 
 ## Races and professions
 

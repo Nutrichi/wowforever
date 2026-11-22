@@ -3,7 +3,7 @@ title: "Holy Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Holy Paladin: Heilbuild, Zauber und Mana"
 description: "Der Holy Paladin in WoW Forever: der Heilbuild für Level 60, Holy Shock und Light's Vigil, die Heilpriorität, Mana, Siegel, Werte und Völker."
 short: "Holy Paladin"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: de
 manual: true
 faq:
@@ -22,6 +22,8 @@ faq:
   - q: "Gibt es einen Build für Level 60?"
     a: "Ja. Dieser Guide hat drei Builds für Level 60: einen für Raids und Dungeons, einen zum Leveln und einen für PvP. Jeder öffnet sich in unserem Talentrechner."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/enchants-consumables-pve-healer"
   - name: "Wowhead, Talent-Builds"
     url: "https://www.wowhead.com/forever/guide/classes/paladin/holy/talent-builds-pve-healer"
   - name: "Warcraft Tavern"
@@ -56,8 +58,6 @@ Drei Builds, jeder mit den 51 Talentpunkten von Level 60: einer für Raids und D
 
 31 Punkte in Holy, 7 in Protection und 13 in Retribution. [Raid-Build im Talentrechner öffnen](/de/talents/paladin/?t=50320115022101251-50002-050330002).
 
-Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/paladin/?t=50320015222121251-5-052300002).
-
 | Talent | Punkte |
 |---|---|
 | **Spiritual Focus** | 5/5 |
@@ -79,6 +79,8 @@ Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](
 | **Conviction** | 3/3 |
 | **Sanctified Judgement** | 3/3 |
 | **Pursuit of Justice** | 2/2 |
+
+Für Dungeons verschiebt eine Variante ein paar Punkte: [Dungeon-Build öffnen](/de/talents/paladin/?t=50320015222121251-5-052300002).
 
 ### Leveling-Build, 0/31/20
 
@@ -135,7 +137,7 @@ Gib vor einem Kampf jedem den richtigen Segen, und allen außer dem Tank auch Bl
 
 ## Werte und Ausrüstung
 
-Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen können. Bis dahin:
+Auf Level 60 ist die Reihenfolge: Heilkraft, Intelligenz, kritische Trefferchance, Willenskraft. Was jeder Wert bringt:
 
 - **Heilkraft und Zaubermacht**, für stärkere und günstigere Heilungen: Mit mehr Heilkraft reicht ein niedrigerer Rang.
 - **Intelligenz**, für mehr Mana und mehr kritische Trefferchance.
@@ -147,6 +149,18 @@ Wertprioritäten für Level 60 folgen, sobald wir Level 60 im Live-Spiel testen 
 **Waffe.** Paladins können keine Stäbe tragen, du trägst also meist eine Einhandwaffe mit Schild oder Nebenhand. Deine Waffe ist oft dein wichtigstes Teil, auch wenn du selten damit zuschlägst.
 
 **Librams.** Ein Libram im Fernkampfplatz gibt einen kleinen passiven Bonus. Wähl eins, das zu deinen Heilungen passt.
+
+## Verzauberungen und Verbrauchsgüter
+
+Die beste Verzauberung pro Platz. Verzaubere Ausrüstung, die du eine Weile behältst; beim Leveln reichen die günstigeren Versionen derselben Verzauberung.
+
+| Platz | Beste Wahl |
+|---|---|
+| **Waffe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
+| **Hals** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249057"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Spell Power</a> |
+| **Brust** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13607"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Intellect</a> |
+| **Beine** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252452"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Heavy Armor Kit</a> |
+| **Füße** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
 
 ## Völker und Berufe
 

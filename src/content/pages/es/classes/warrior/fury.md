@@ -3,7 +3,7 @@ title: "Guía del Fury Warrior en WoW Forever"
 metaTitle: "WoW Forever Fury Warrior: build de nivel 60, rotación y Rage"
 description: "El Fury Warrior en WoW Forever: la build de nivel 60 con Cruelty, Unbridled Wrath y Death Wish, la rotación, la Rage, el stance dancing, los stats, las armas y las razas."
 short: "Fury Warrior"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "¿Hay una build para nivel 60?"
     a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/enchants-consumables-pve-dps"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/warrior/fury/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -65,8 +67,6 @@ Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas
 
 17 puntos en Arms y 34 en Fury. [Abre la build de banda en la calculadora de talentos](/es/talents/warrior/?t=30303213002-050530045122100231).
 
-Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/warrior/?t=30303213002-051530055120100231).
-
 | Talento | Puntos |
 |---|---|
 | **Improved Heroic Strike** | 3/3 |
@@ -88,6 +88,8 @@ Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/
 | **Improved Whirlwind** | 2/2 |
 | **Flurry** | 3/3 |
 | **Bloodthirst** | 1/1 |
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/warrior/?t=30303213002-051530055120100231).
 
 ### Build para subir de nivel, 13/6/32
 
@@ -138,11 +140,24 @@ Quédate pegado al jefe. Fuera de combate, Charge da Rage y te mete en la pelea 
 
 La Rage lo es todo. Con Rage infinita nunca dejarías de pulsar botones, así que planifica y guarda suficiente para tus ataques importantes. Si un Heroic Strike deja esperando a Bloodthirst o Whirlwind un segundo o dos, fue un error. Mantén tu Rage en movimiento: nunca llena, nunca vacía.
 
+## Encantamientos y consumibles
+
+El mejor encantamiento por hueco. Ponlos en el equipo que vayas a conservar un tiempo; mientras subes de nivel, las versiones más baratas del mismo encantamiento bastan.
+
+| Hueco | Mejor opción |
+|---|---|
+| **Arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Capa** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Pecho** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Piernas** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Manos** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a> |
+| **Pies** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Equipo, razas y profesiones
 
 ### Stats y equipo
 
-El orden exacto a nivel 60 llegará cuando podamos probar el nivel 60 en el juego en vivo. Estos stats ayudan a un Fury Warrior:
+A nivel 60 el orden es: habilidad con armas hasta 305, golpe hasta el 9 %, probabilidad de crítico, Fuerza, Agilidad, Aguante. Lo que hace cada stat:
 
 - **Golpe.** Un fallo no hace nada y no da Rage.
 - **Probabilidad de golpe crítico.** Más daño y más Rage, uno de los mejores stats que puedes tener. La Agilidad también da algo de crítico.

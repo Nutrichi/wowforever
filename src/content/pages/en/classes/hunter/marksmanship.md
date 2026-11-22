@@ -3,7 +3,7 @@ title: "Marksmanship Hunter guide for WoW Forever"
 metaTitle: "WoW Forever Marksmanship Hunter: level 60 build and rotation"
 description: "The Marksmanship Hunter in WoW Forever: the 5/46/0 build for level 60 with Lone Wolf and Sniper Shot, the rotation, mana with Rapid Recuperation, stats and races."
 short: "Marksmanship Hunter"
-updated: 2026-11-10
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Marksmanship Hunter good in WoW Forever?"
@@ -19,6 +19,8 @@ faq:
   - q: "Which race is best for a Marksmanship Hunter?"
     a: "Skyborne on both sides, for the haste bonus. Human for the Alliance and Orc for the Horde are strong alternatives. The differences are small."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/hunter/marksmanship/enchants-consumables-pve-dps"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/hunter/marksmanship/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -143,7 +145,7 @@ Lone Wolf asks you to play without a pet. In raids and dungeons that is the most
 
 ## Stats and gear
 
-Stat priorities for level 60 follow once we can test level 60 in the live game. Until then:
+At level 60 the priority is: hit up to 8%, critical strike chance, haste, Agility, Intellect, attack power, Spirit, Stamina. What each stat does:
 
 - **Agility**: 2 ranged attack power per point and critical strike chance, about 1% per 53 Agility at level 60.
 - **Hit**: against a level 63 boss you need 9% with 300 weapon skill, or 6% with 305.
@@ -158,6 +160,23 @@ Stat priorities for level 60 follow once we can test level 60 in the live game. 
 **Quiver or ammo pouch.** Both raise your ranged attack speed. Keep yours up to date.
 
 **Weapons.** Your ranged weapon is by far your most important item. Your melee weapon is mostly there for its stats.
+
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=27837"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Agility</a> |
+| **Ranged** | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=279272"><img class="wf-wh__icon" src="/wh/inv_engineering_90_scope_blue.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">SAF-T Ultra Precision Scope</a> |
+| **Head** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11647"><img class="wf-wh__icon" src="/wh/inv_misc_gem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcanum of Voracity</a> |
+| **Neck** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Cloak** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219587"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Agility</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a> |
+| **Bracers** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248599"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Superior Agility</a> |
+| **Gloves** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20012"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Greater Agility</a> |
+| **Legs** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=11647"><img class="wf-wh__icon" src="/wh/inv_misc_gem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcanum of Voracity</a> |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20023"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Agility</a> |
 
 ## Races and professions
 

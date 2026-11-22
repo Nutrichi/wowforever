@@ -3,7 +3,7 @@ title: "Assassination Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: poison builds, Venom and rotation"
 description: "The Assassination Rogue in WoW Forever: Venom and Shank, Mutilate from level 40, the Rogue level build, the rotation, Energy, poisons and races."
 short: "Assassination Rogue"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: en
 faq:
   - q: "Is Assassination Rogue good in WoW Forever?"
@@ -19,8 +19,10 @@ faq:
   - q: "Which race is best for an Assassination Rogue?"
     a: "Human for the Alliance, for 1% more critical strike chance, which now also counts for poisons. Orc for the Horde, for 10% more attack power from Blood Fury."
   - q: "Is there a level 60 build?"
-    a: "Not for raids and PvP yet: no build for the new talent trees is known. The Rogue level build gives the talent for every level from 10 to 35, and the rest follows once it is known."
+    a: "Yes. For raids and dungeons there is one build, 31/19/1, with Mutilate, Seal Fate and Cold Blood. For PvP there are two: 14/10/27 with Preparation, and 31/8/12 with Mutilate and Premeditation. All three open in our talent calculator."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/enchants-consumables-pve-dps"
   - name: "Wowhead, talent builds"
     url: "https://www.wowhead.com/forever/guide/classes/rogue/assassination/talent-builds-pve-dps"
   - name: "Warcraft Tavern"
@@ -62,7 +64,13 @@ The Assassination Rogue in WoW Forever is the poisoner. Venom makes your poisons
 
 ### Builds for level 60
 
-A raid and PvP build for the new talent trees is not known yet. This section gets updated as soon as there is one.
+For raids and dungeons there is one build: 31 points in Assassination, 19 in Combat and 1 in Subtlety. It takes Mutilate, Seal Fate, Cold Blood and Venom, and in Combat Precision, Aggression and Flawless Execution. [Open the raid build in the talent calculator](/talents/rogue/?t=00530311231251031-32030302020103-001).
+
+#### PvP builds
+
+The standard PvP build, 14/10/27, goes deep into Subtlety for Preparation, Premeditation, Ghostly Strike and Hemorrhage, with Dirty Deeds and Elusiveness for control and escapes. [Open the standard PvP build](/talents/rogue/?t=325000202-3203002-0322232313211011).
+
+The Mutilate PvP build, 31/8/12, keeps Cold Blood, Mutilate and Seal Fate for burst and adds Improved Gouge, Improved Kidney Shot and Premeditation. [Open the Mutilate PvP build](/talents/rogue/?t=30520021251301231-3203-0250300011).
 
 #### Leveling build
 
@@ -141,11 +149,26 @@ From level 20 a Rogue makes poisons after a class quest chain; the [Rogue leveli
 
 The Rogue is fragile but hits hard, so how you start a fight decides whether you survive it. Easy enemies: Ambush, a few Sinister Strikes or Mutilates and Eviscerate. Dangerous enemies: Sap one out of the pack, casters first, open with Cheap Shot, follow with Kidney Shot, then Gouge to wait for Energy or Blind to wait for cooldowns. Then your normal rotation with Evasion, and Kick on every caster. If even a health potion is not enough, Vanish drops you out of combat and back into Stealth.
 
+## Enchants and consumables
+
+The best enchant per slot. Put them on gear you will keep for a while; while you level, the cheaper versions of the same enchant do fine.
+
+| Slot | Best |
+|---|---|
+| **Weapon** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248760"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a> |
+| **Neck** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249059"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Agility</a> |
+| **Cloak** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13882"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Lesser Agility</a> |
+| **Chest** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13700"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Lesser Stats</a> |
+| **Bracers** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13939"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Greater Strength</a> |
+| **Gloves** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13948"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Minor Haste</a> |
+| **Legs** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1255095"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a> or the version for your level |
+| **Boots** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13890"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Minor Speed</a> |
+
 ## Gear, races and professions
 
 ### Stats and gear
 
-The exact order at level 60 follows once we can test level 60 in the live game. These stats help an Assassination Rogue:
+At level 60 the priority is: hit up to 8%, expertise up to 6.5%, weapon skill up to 308, hit up to 17% for poisons, Agility, critical strike chance, haste, Strength, attack power, Stamina. What each stat does:
 
 - **Agility.** Your core stat: 1 attack power per point, 1% critical strike chance per 29 points and 1% dodge per 14.5 points. Stack as much as you can.
 - **Attack power.** More weapon and ability damage, and in Forever more poison damage too.

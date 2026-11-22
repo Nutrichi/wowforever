@@ -3,7 +3,7 @@ title: "Guía del Protection Warrior en WoW Forever"
 metaTitle: "WoW Forever Protection Warrior: build de tanque, amenaza y Rage"
 description: "El Protection Warrior en WoW Forever: la build de tanque de nivel 60 con Master of Defense, Defiance y Vanguard, la rotación de amenaza, la Rage, los stats y las razas."
 short: "Protection Warrior"
-updated: 2026-11-07
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -20,6 +20,8 @@ faq:
   - q: "¿Hay una build para nivel 60?"
     a: "Sí. Esta guía tiene tres builds para nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada una se abre en nuestra calculadora de talentos."
 sources:
+  - name: "Wowhead, enchants and consumables"
+    url: "https://www.wowhead.com/forever/guide/classes/warrior/protection/enchants-consumables-pve-tank"
   - name: "Wowhead, builds de talentos"
     url: "https://www.wowhead.com/forever/guide/classes/warrior/protection/talent-builds-pve-tank"
   - name: "Warcraft Tavern"
@@ -66,8 +68,6 @@ Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas
 
 4 puntos en Arms, 15 en Fury y 32 en Protection. [Abre la build de banda en la calculadora de talentos](/es/talents/warrior/?t=04-05050005-050530120301021351).
 
-Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/warrior/?t=04-05050005-050233120301021351).
-
 | Talento | Puntos |
 |---|---|
 | **Deflection** | 4/5 |
@@ -86,6 +86,16 @@ Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/
 | **Focused Rage** | 3/3 |
 | **Bastion** | 5/5 |
 | **Shield Slam** | 1/1 |
+
+Una variante coge talentos de Arms en lugar de Fury para más amenaza (17/2/32). [Ábrela en la calculadora de talentos](/es/talents/warrior/?t=35301003002-02-050530120301021351).
+
+La build Fury-Protection cambia talentos profundos de Protection por daño y amenaza de Fury, para un tanque secundario o combates más fáciles (20/31/0). [Ábrela en la calculadora de talentos](/es/talents/warrior/?t=35303013002-050530055120100031).
+
+La build cargada de Fury pone 31 puntos en Fury y conserva lo esencial de Protection (3/31/17). [Ábrela en la calculadora de talentos](/es/talents/warrior/?t=3-050501350122120031-050230120301).
+
+Para mazmorras, una variante mueve unos puntos: [abre la build de mazmorra](/es/talents/warrior/?t=04-05050005-050233120301021351).
+
+Una variante de mazmorra va a Arms para más daño contra los enemigos (28/5/18). [Ábrela en la calculadora de talentos](/es/talents/warrior/?t=353030130020152-05-050033120301).
 
 ### Build para subir de nivel, 13/6/32
 
@@ -138,11 +148,23 @@ Quédate pegado al jefe. Abre con Charge para la Rage y un inicio inmediato, en 
 
 **Rage.** Planifica y guarda suficiente para tus ataques importantes. Si Heroic Strike deja esperando a Shield Slam o Revenge un segundo o dos, fue un error. Mantén tu Rage en movimiento: nunca llena, nunca vacía.
 
+## Encantamientos y consumibles
+
+Los encantamientos y consumibles que más compensan, por nivel. Ninguno hace falta para llegar a nivel 60: elige lo que entre en tu presupuesto y encanta el equipo que vayas a conservar un tiempo.
+
+| Tipo | Nivel 1-19 | Nivel 20-39 | Nivel 40-60 |
+|---|---|---|---|
+| **Encantamientos** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252437"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Medium Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7457"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Minor Stamina</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=7420"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Inferior Stamina</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13378"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Shield - Minor Stamina</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=273628"><img class="wf-wh__icon" src="/wh/inv_misc_enchantedscroll.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Recovery</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249019"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Strength</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252453"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Heavy Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13640"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stamina</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13661"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Bracer - Strength</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13644"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Lesser Stamina</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13631"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Shield - Lesser Stamina</a> | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252463"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Thick Armor Kit</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=252488"><img class="wf-wh__icon" src="/wh/inv_misc_armorkit_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Forceful Rugged Armor Kit</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=13858"><img class="wf-wh__icon" src="/wh/spell_holy_greaterheal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Superior Stamina</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20020"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Greater Stamina</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20017"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Shield - Greater Stamina</a> |
+| **Pociones** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250938"><img class="wf-wh__icon" src="/wh/trade_alchemy_dpotion_d12.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Frenzy Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=118"><img class="wf-wh__icon" src="/wh/inv_potion_49.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Healing Potion</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1244432"><img class="wf-wh__icon" src="/wh/inv_potion_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Healing Potion</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250940"><img class="wf-wh__icon" src="/wh/inv_potiond_3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Frenzy Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3928"><img class="wf-wh__icon" src="/wh/inv_potion_53.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Superior Healing Potion</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250942"><img class="wf-wh__icon" src="/wh/inv_misc_potiona6.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Superior Frenzy Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13446"><img class="wf-wh__icon" src="/wh/inv_potion_54.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Healing Potion</a> |
+| **Elixires** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=2454"><img class="wf-wh__icon" src="/wh/inv_potion_56.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of Minor Strength</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3390"><img class="wf-wh__icon" src="/wh/inv_potion_92.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of Lesser Agility</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=8949"><img class="wf-wh__icon" src="/wh/inv_potion_93.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of Agility</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3391"><img class="wf-wh__icon" src="/wh/inv_potion_57.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of Ogre Strength</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250335"><img class="wf-wh__icon" src="/wh/inv_potion_45.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of Greater Fortitude</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9187"><img class="wf-wh__icon" src="/wh/inv_potion_94.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of Greater Agility</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9206"><img class="wf-wh__icon" src="/wh/inv_potion_59.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of Greater Strength</a> |
+| **Mejora de arma** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2660"><img class="wf-wh__icon" src="/wh/inv_stone_sharpeningstone_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rough Sharpening Stone</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12404"><img class="wf-wh__icon" src="/wh/inv_stone_sharpeningstone_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dense Sharpening Stone</a> | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18262"><img class="wf-wh__icon" src="/wh/inv_stone_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elemental Sharpening Stone</a> |
+| **Comida** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=724"><img class="wf-wh__icon" src="/wh/inv_misc_food_10.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goretusk Liver Pie</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250065"><img class="wf-wh__icon" src="/wh/inv_misc_food_122_steak.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Savory Stag Sliders</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12218"><img class="wf-wh__icon" src="/wh/inv_misc_food_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Monster Omelet</a> | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=21023"><img class="wf-wh__icon" src="/wh/inv_misc_food_65.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dirge's Kickin' Chimaerok Chops</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250070"><img class="wf-wh__icon" src="/wh/inv_misc_food_legion_fighterchow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bear Bruscitti</a> |
+
 ## Equipo, razas y profesiones
 
 ### Stats y equipo
 
-El orden exacto a nivel 60 llegará cuando podamos probar el nivel 60 en el juego en vivo. Estos stats ayudan a un Protection Warrior:
+A nivel 60 el orden es: Aguante, Defensa hasta 440, Armadura, Agilidad, parada y esquiva, valor de bloqueo, pericia hasta el 6,5 %, Fuerza, poder de ataque, golpe hasta el 8 %, probabilidad de crítico, celeridad. Lo que hace cada stat:
 
 - **Golpe.** Un fallo no hace nada y no da Rage.
 - **Aguante, armadura y evasión.** Más vida siempre es mejor para un tanque. Equilibra la defensa con suficiente ataque para mantener la amenaza.

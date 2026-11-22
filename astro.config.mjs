@@ -5,6 +5,7 @@ import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import whAutolink from './src/plugins/rehype-wh-autolink.mjs';
 import wfCards from './src/plugins/rehype-cards.mjs';
+import talentBuild from './src/plugins/rehype-talent-build.mjs';
 
 /*
  * Placeholder pages ("Coming soon", Nutri 18 November 2026) carry noindex and stay out of
@@ -74,7 +75,7 @@ export default defineConfig({
    * Markdown-pagina wordt een link met icoon, kleur en tooltip. Zie het plugin.
    */
   markdown: {
-    processor: satteri({ hastPlugins: [whAutolink, wfCards] }),
+    processor: satteri({ hastPlugins: [whAutolink, talentBuild, wfCards] }),
   },
 
   /*
