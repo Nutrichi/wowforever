@@ -1,6 +1,6 @@
 ---
 title: "Guía para subir de nivel al Mage en WoW Forever"
-metaTitle: "WoW Forever: guía de subida del Mage, Frost, Fire y Arcane, rotación y consejos"
+metaTitle: "WoW Forever: subida del Mage, Frost, Fire y Arcane"
 description: "Cómo subir un Mage en WoW Forever: por qué Frost con Ice Lance es lo más rápido, la rotación de Frost, Fire y Arcane, los niveles clave, las misiones de clase, los pergaminos, el maná y la amenaza."
 short: "Subir de nivel al Mage"
 updated: 2026-11-12

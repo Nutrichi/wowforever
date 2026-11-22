@@ -1,6 +1,6 @@
 ---
 title: "Affliction Warlock in WoW Forever: de gids"
-metaTitle: "WoW Forever Affliction Warlock: drain tank-build, rotatie, Life Tap en races"
+metaTitle: "WoW Forever Affliction Warlock: build, rotatie en Life Tap"
 description: "De Affliction Warlock in WoW Forever: wat er verandert, de drain tank-build voor level 60, de rotatie, Life Tap en Drain Life, demons, stats, races en beroepen."
 short: "Affliction Warlock"
 updated: 2026-11-22

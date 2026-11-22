@@ -1,6 +1,6 @@
 ---
 title: "Warlock levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Warlock levelgids: builds voor Affliction, Demonology en Destruction tot 60"
+metaTitle: "WoW Forever Warlock-levelgids: builds en route tot 60"
 description: "Zo level je een Warlock in WoW Forever: de eerste build, builds voor level 60 voor Affliction, Demonology en Destruction, de rotatie, de belangrijke levels, de classquests voor elke demon, wands, beroepen, Life Tap en Fear."
 short: "Warlock levelen"
 updated: 2026-11-12

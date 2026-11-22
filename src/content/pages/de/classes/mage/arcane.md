@@ -1,6 +1,6 @@
 ---
 title: "Arcane-Mage-Guide für WoW Forever"
-metaTitle: "WoW Forever Arcane Mage: Arcane-Blast-Build, Rotation, Mana, Werte und Völker"
+metaTitle: "WoW Forever Arcane Mage: Build, Rotation, Mana und Werte"
 description: "Der Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage und Arcane Wrath, Builds für Level 60 für Raids, Leveln und PvP, die Rotation, Mana und Burn-Phasen, Überleben, Werte, Ausrüstung, Völker und Berufe."
 short: "Arcane Mage"
 updated: 2026-11-22

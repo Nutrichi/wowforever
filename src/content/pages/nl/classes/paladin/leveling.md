@@ -1,6 +1,6 @@
 ---
 title: "Paladin levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Paladin levelgids: builds voor Retribution, Protection en Shockadin tot 60"
+metaTitle: "WoW Forever Paladin-levelgids: builds en route tot 60"
 description: "Zo level je een Paladin in WoW Forever: de eerste build, builds voor level 60 voor Retribution, Protection en Shockadin, de rotatie, de belangrijke levels, de classquests en hun wapens, seals, auras en blessings."
 short: "Paladin levelen"
 updated: 2026-11-12

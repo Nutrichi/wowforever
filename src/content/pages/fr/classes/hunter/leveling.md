@@ -1,6 +1,6 @@
 ---
 title: "Monter un Hunter dans WoW Forever : le guide"
-metaTitle: "Guide leveling Hunter WoW Forever : builds Beast Mastery, Marksmanship et Survival jusqu'au 60"
+metaTitle: "Guide leveling Hunter WoW Forever : builds et route jusqu’au 60"
 description: "Monter un Hunter dans WoW Forever : les premiers niveaux, builds niveau 60 pour Beast Mastery, Marksmanship et Survival, la rotation, les niveaux clés, la quête de dressage, les armes, l’équipement, les métiers, les familiers, les pièges, le pistage et les Aspects."
 short: "Leveling Hunter"
 updated: 2026-11-19

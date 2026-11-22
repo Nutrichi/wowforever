@@ -1,6 +1,6 @@
 ---
 title: "Guida all'Affliction Warlock in WoW Forever"
-metaTitle: "WoW Forever: Affliction Warlock, build drain tank, rotazione, Life Tap e razze"
+metaTitle: "WoW Forever: Affliction Warlock, build, rotazione e Life Tap"
 description: "L'Affliction Warlock in WoW Forever: cosa cambia, la build drain tank per il livello 60, la rotazione, Life Tap e Drain Life, i demoni, le statistiche, le razze e le professioni."
 short: "Affliction Warlock"
 updated: 2026-11-22

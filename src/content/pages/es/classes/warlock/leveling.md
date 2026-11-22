@@ -1,6 +1,6 @@
 ---
 title: "Subir un Warlock en WoW Forever: la guía"
-metaTitle: "Guía de subida del Warlock en WoW Forever: builds de Affliction, Demonology y Destruction hasta el 60"
+metaTitle: "Guía de subida del Warlock en WoW Forever: builds hasta el 60"
 description: "Cómo subir un Warlock en WoW Forever: el primer build, builds de nivel 60 para Affliction, Demonology y Destruction, la rotación, los niveles clave, las misiones de clase para cada demonio, varitas, profesiones, Life Tap y Fear."
 short: "Subida del Warlock"
 updated: 2026-11-12

@@ -1,6 +1,6 @@
 ---
 title: "Paladin leveln in WoW Forever: der Guide"
-metaTitle: "WoW Forever Paladin-Levelguide: Builds für Retribution, Protection und Shockadin bis 60"
+metaTitle: "WoW Forever Paladin-Levelguide: Builds und Route bis 60"
 description: "So levelst du einen Paladin in WoW Forever: der erste Build, Builds für Level 60 für Retribution, Protection und Shockadin, die Rotation, wichtige Level, die Klassenquests und ihre Waffen, Seals, Auren und Blessings."
 short: "Paladin leveln"
 updated: 2026-11-12

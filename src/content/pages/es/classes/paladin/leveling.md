@@ -1,6 +1,6 @@
 ---
 title: "Subir un Paladin en WoW Forever: la guía"
-metaTitle: "Guía de subida del Paladin en WoW Forever: builds de Retribution, Protection y Shockadin hasta el 60"
+metaTitle: "Guía de subida del Paladin en WoW Forever: builds hasta el 60"
 description: "Cómo subir un Paladin en WoW Forever: el primer build, builds de nivel 60 para Retribution, Protection y Shockadin, la rotación, los niveles clave, las misiones de clase y sus armas, seals, auras y blessings."
 short: "Subida del Paladin"
 updated: 2026-11-12

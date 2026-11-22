@@ -1,6 +1,6 @@
 ---
 title: "Hunter leveling guide for WoW Forever"
-metaTitle: "WoW Forever Hunter leveling guide: Beast Mastery, Marksmanship and Survival builds to 60"
+metaTitle: "WoW Forever Hunter leveling guide: builds and route to 60"
 description: "How to level a Hunter in WoW Forever: the early levels, level 60 builds for Beast Mastery, Marksmanship and Survival, the rotation, key levels, the taming quest, weapons, gear, professions, pets, traps, tracking and Aspects."
 short: "Hunter leveling"
 updated: 2026-11-19

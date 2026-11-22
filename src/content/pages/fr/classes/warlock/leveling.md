@@ -1,6 +1,6 @@
 ---
 title: "Monter un Warlock dans WoW Forever : le guide"
-metaTitle: "Guide leveling Warlock WoW Forever : builds Affliction, Demonology et Destruction jusqu'au 60"
+metaTitle: "Guide leveling Warlock WoW Forever : builds jusqu’au 60"
 description: "Comment monter un Warlock dans WoW Forever : le premier build, builds niveau 60 pour Affliction, Demonology et Destruction, la rotation, les niveaux clés, les quêtes de classe pour chaque démon, les baguettes, les métiers, Life Tap et Fear."
 short: "Leveling Warlock"
 updated: 2026-11-12

@@ -1,6 +1,6 @@
 ---
 title: "Priest leveln in WoW Forever: der Guide"
-metaTitle: "WoW Forever Priest Leveling-Guide: Builds für Discipline, Holy und Shadow bis 60"
+metaTitle: "WoW Forever Priest-Levelguide: Builds und Route bis 60"
 description: "So levelst du einen Priest in WoW Forever: Builds für Level 60 für Discipline, Holy und Shadow, die Rotation, wichtige Level, Volkszauber, Zauberstäbe, Berufe, Mana und Heilung."
 short: "Priest leveln"
 updated: 2026-11-12

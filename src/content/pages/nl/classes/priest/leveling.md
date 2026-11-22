@@ -1,6 +1,6 @@
 ---
 title: "Priest levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Priest levelgids: builds voor Discipline, Holy en Shadow tot 60"
+metaTitle: "WoW Forever Priest-levelgids: builds en route tot 60"
 description: "Zo level je een Priest in WoW Forever: builds voor level 60 voor Discipline, Holy en Shadow, de rotatie, de belangrijke levels, racial spells, wands, beroepen, mana en healen."
 short: "Priest levelen"
 updated: 2026-11-12

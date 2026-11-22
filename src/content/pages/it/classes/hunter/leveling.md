@@ -1,6 +1,6 @@
 ---
 title: "Livellare un Hunter in WoW Forever: la guida"
-metaTitle: "Guida al leveling dell'Hunter in WoW Forever: build Beast Mastery, Marksmanship e Survival fino al 60"
+metaTitle: "Guida al leveling dell’Hunter in WoW Forever: build fino al 60"
 description: "Come livellare un Hunter in WoW Forever: i primi livelli, build di livello 60 per Beast Mastery, Marksmanship e Survival, la rotazione, i livelli chiave, la missione di addomesticamento, armi, equipaggiamento, professioni, famigli, trappole, tracciamento e Aspect."
 short: "Leveling Hunter"
 updated: 2026-11-19

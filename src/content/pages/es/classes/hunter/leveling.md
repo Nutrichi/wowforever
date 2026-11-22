@@ -1,6 +1,6 @@
 ---
 title: "Subir un Hunter en WoW Forever: la guía"
-metaTitle: "Guía de subida del Hunter en WoW Forever: builds de Beast Mastery, Marksmanship y Survival hasta el 60"
+metaTitle: "Guía de subida del Hunter en WoW Forever: builds hasta el 60"
 description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, builds de nivel 60 para Beast Mastery, Marksmanship y Survival, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
 short: "Subir un Hunter"
 updated: 2026-11-19

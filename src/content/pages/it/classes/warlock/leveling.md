@@ -1,6 +1,6 @@
 ---
 title: "Livellare un Warlock in WoW Forever: la guida"
-metaTitle: "Guida al leveling del Warlock in WoW Forever: build Affliction, Demonology e Destruction fino al 60"
+metaTitle: "Guida al leveling del Warlock in WoW Forever: build fino al 60"
 description: "Come livellare un Warlock in WoW Forever: la prima build, build di livello 60 per Affliction, Demonology e Destruction, la rotazione, i livelli chiave, le missioni di classe per ogni demone, bacchette, professioni, Life Tap e Fear."
 short: "Leveling del Warlock"
 updated: 2026-11-12

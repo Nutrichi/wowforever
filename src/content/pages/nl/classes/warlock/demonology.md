@@ -1,6 +1,6 @@
 ---
 title: "Demonology Warlock in WoW Forever: de gids"
-metaTitle: "WoW Forever Demonology Warlock: build voor level 60, Demonic Brand en demons"
+metaTitle: "WoW Forever Demonology Warlock: builds, Demonic Brand, demons"
 description: "De Demonology Warlock in WoW Forever: de build voor level 60 met Demonic Brand, Demonic Knowledge en Soul Link, de rotatie, threat, demons, Life Tap, stats en races."
 short: "Demonology Warlock"
 updated: 2026-11-22

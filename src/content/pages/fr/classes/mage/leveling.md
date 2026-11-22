@@ -1,6 +1,6 @@
 ---
 title: "Guide de leveling du Mage dans WoW Forever"
-metaTitle: "WoW Forever : guide de leveling du Mage, Frost, Fire et Arcane, rotation et astuces"
+metaTitle: "WoW Forever : leveling du Mage, Frost, Fire et Arcane"
 description: "Comment monter un Mage dans WoW Forever : pourquoi Frost avec Ice Lance est le plus rapide, la rotation Frost, Fire et Arcane, les niveaux clés, les quêtes de classe, les parchemins, la mana et la menace."
 short: "Leveling du Mage"
 updated: 2026-11-12

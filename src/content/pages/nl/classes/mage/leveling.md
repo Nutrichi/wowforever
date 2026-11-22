@@ -1,6 +1,6 @@
 ---
 title: "Mage levelen in WoW Forever: de gids"
-metaTitle: "WoW Forever Mage levelgids: Frost, Fire en Arcane, rotatie en tips"
+metaTitle: "WoW Forever Mage-levelgids: Frost, Fire en Arcane"
 description: "Zo level je een Mage in WoW Forever: waarom Frost met Ice Lance het snelst gaat, de rotatie voor Frost, Fire en Arcane, de belangrijke levels, classquests, scrolls, mana en threat."
 short: "Mage levelen"
 updated: 2026-11-12

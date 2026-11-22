@@ -1,6 +1,6 @@
 ---
 title: "Warlock leveling guide for WoW Forever"
-metaTitle: "WoW Forever Warlock leveling guide: Affliction, Demonology and Destruction builds to 60"
+metaTitle: "WoW Forever Warlock leveling guide: builds and route to 60"
 description: "How to level a Warlock in WoW Forever: the early build, level 60 builds for Affliction, Demonology and Destruction, the rotation, key levels, the class quests for every demon, wands, professions, Life Tap and Fear."
 short: "Warlock leveling"
 updated: 2026-11-12

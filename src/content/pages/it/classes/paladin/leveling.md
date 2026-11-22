@@ -1,6 +1,6 @@
 ---
 title: "Livellare un Paladin in WoW Forever: la guida"
-metaTitle: "Guida al leveling del Paladin in WoW Forever: build Retribution, Protection e Shockadin fino al 60"
+metaTitle: "Guida al leveling del Paladin in WoW Forever: build fino al 60"
 description: "Come livellare un Paladin in WoW Forever: la prima build, build di livello 60 per Retribution, Protection e Shockadin, la rotazione, i livelli chiave, le missioni di classe e le loro armi, seal, aure e blessing."
 short: "Leveling del Paladin"
 updated: 2026-11-12

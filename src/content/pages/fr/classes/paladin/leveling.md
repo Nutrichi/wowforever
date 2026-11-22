@@ -1,6 +1,6 @@
 ---
 title: "Monter un Paladin dans WoW Forever : le guide"
-metaTitle: "Guide leveling Paladin WoW Forever : builds Retribution, Protection et Shockadin jusqu'au 60"
+metaTitle: "Guide leveling Paladin WoW Forever : builds jusqu’au 60"
 description: "Comment monter un Paladin dans WoW Forever : le premier build, builds niveau 60 pour Retribution, Protection et Shockadin, la rotation, les niveaux clés, les quêtes de classe et leurs armes, les seals, les auras et les blessings."
 short: "Leveling Paladin"
 updated: 2026-11-12

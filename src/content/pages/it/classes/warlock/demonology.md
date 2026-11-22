@@ -1,6 +1,6 @@
 ---
 title: "Guida al Demonology Warlock in WoW Forever"
-metaTitle: "WoW Forever Demonology Warlock: build di livello 60, Demonic Brand e demoni"
+metaTitle: "WoW Forever Demonology Warlock: build, Demonic Brand, demoni"
 description: "Il Demonology Warlock in WoW Forever: la build di livello 60 con Demonic Brand, Demonic Knowledge e Soul Link, la rotazione, la minaccia, i demoni, Life Tap, statistiche e razze."
 short: "Demonology Warlock"
 updated: 2026-11-22

@@ -1,6 +1,6 @@
 ---
 title: "Arcane Mage in WoW Forever: de gids"
-metaTitle: "WoW Forever Arcane Mage: Arcane Blast-build, rotatie, mana, stats en races"
+metaTitle: "WoW Forever Arcane Mage: build, rotatie, mana en stats"
 description: "De Arcane Mage in WoW Forever: Arcane Blast, Missile Barrage en Arcane Wrath, builds voor level 60 voor raids, levelen en PvP, de rotatie, mana en burnfases, overleven, stats, gear, races en beroepen."
 short: "Arcane Mage"
 updated: 2026-11-22

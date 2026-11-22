@@ -1,6 +1,6 @@
 ---
 title: "Destruction Warlock in WoW Forever: de gids"
-metaTitle: "WoW Forever Destruction Warlock: build voor level 60, Conflagrate en Hellfire"
+metaTitle: "WoW Forever Destruction Warlock: builds, Conflagrate, Hellfire"
 description: "De Destruction Warlock in WoW Forever: de build voor level 60 met Bane, Aftermath, Shadowburn en Conflagrate, de rotatie, Hellfire in dungeons, mana, threat, stats en races."
 short: "Destruction Warlock"
 updated: 2026-11-22

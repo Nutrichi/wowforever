@@ -1,6 +1,6 @@
 ---
 title: "Guide du Destruction Warlock dans WoW Forever"
-metaTitle: "WoW Forever Destruction Warlock : build niveau 60, Conflagrate et Hellfire"
+metaTitle: "WoW Forever Destruction Warlock : builds, Conflagrate, Hellfire"
 description: "Le Destruction Warlock dans WoW Forever : le build niveau 60 avec Bane, Aftermath, Shadowburn et Conflagrate, la rotation, Hellfire en donjon, le mana, la menace, les stats et les races."
 short: "Destruction Warlock"
 updated: 2026-11-22
