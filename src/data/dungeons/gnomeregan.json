@@ -63,6 +63,17 @@
     9492,
     9459
    ]
+  },
+  {
+   "name": "Dark Iron Ambassador",
+   "slug": "dark-iron-ambassador",
+   "level": "",
+   "npc": 6228,
+   "items": [
+    9455,
+    9456,
+    9457
+   ]
   }
  ],
  "loose": [
@@ -72,9 +83,6 @@
   9486,
   11827,
   9444,
-  9455,
-  9456,
-  9457,
   9508,
   9509,
   9487,
@@ -622,6 +630,88 @@
      "id": null,
      "optional": false
     },
+    {
+     "name": "Nogg's Ring Redo",
+     "id": 2950,
+     "optional": false
+    }
+   ],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 2947,
+   "name": "Return of the Ring",
+   "level": 34,
+   "minLevel": 28,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 2700,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Brilliant Gold Ring",
+     "kind": "item",
+     "item": 9362,
+     "zone": "Gnomeregan",
+     "drop": true
+    }
+   ],
+   "to": [
+    {
+     "name": "Talvash del Kissel",
+     "kind": "npc",
+     "npc": 6826,
+     "zone": "Ironforge",
+     "place": "The Mystic Ward",
+     "at": {
+      "x": 36.0,
+      "y": 4.0
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 2949,
+   "name": "Return of the Ring",
+   "level": 34,
+   "minLevel": 28,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 2700,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Brilliant Gold Ring",
+     "kind": "item",
+     "item": 9362,
+     "zone": "Gnomeregan",
+     "drop": true
+    }
+   ],
+   "to": [
+    {
+     "name": "Nogg",
+     "kind": "npc",
+     "npc": 3412,
+     "zone": "Orgrimmar",
+     "place": "The Drag",
+     "at": {
+      "x": 75.8,
+      "y": 25.2
+     }
+    }
+   ],
+   "chain": [],
+   "next": [
     {
      "name": "Nogg's Ring Redo",
      "id": 2950,

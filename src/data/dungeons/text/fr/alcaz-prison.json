@@ -1,5 +1,34 @@
 {
  "location": "Dustwallow Marsh, sur Alcaz Island au large",
  "entrance": "Dans le sous-sol du grand bâtiment d'Alcaz Island, au large de Dustwallow Marsh, vers /way 75 15. Depuis le quai, prenez le chemin qui monte la colline sur la gauche.",
- "quests": {}
+ "quests": {
+  "96772": {
+   "objective": "Récupérez Zarla's Journal dans les profondeurs d'Alcaz Prison.",
+   "note": "D'Archmage Lan'dalock à Dalaran. Zarla Ober lâche le journal. Réputation auprès du Kirin Tor et de Stormwind."
+  },
+  "95262": {
+   "objective": "Entrez dans Alcaz Prison et découvrez ce qu'est devenu le roi de Stormwind.",
+   "note": "Dernière étape de la chaîne du SI:7 qui commence par Our Man in Theramore de Master Mathias Shaw à Stormwind. Les récompenses viennent avec Shaw Needs To Know, de retour à Stormwind."
+  },
+  "96381": {
+   "objective": "Tuez 15 Strashaz Soldiers et 8 Strashaz Enchantresses et rapportez la tête de Tidemistress Ca'zass.",
+   "note": "De Sully McCleary à Dustwallow Marsh, après Our Man in Theramore."
+  },
+  "95309": {
+   "objective": "Entrez dans Alcaz Prison et trouvez Commander Folkar.",
+   "note": "Dernière étape de la chaîne qui commence par The Missing Kor'kron d'Eitrigg à Orgrimmar. À l'intérieur, elle continue avec The Honor of the Kor'kron et Bad News for Folkar, et les récompenses viennent avec Thrall Needs to Know à Orgrimmar."
+  },
+  "96332": {
+   "objective": "Tuez 15 Strashaz Soldiers et 8 Strashaz Enchantresses et rapportez la tête de Tidemistress Ca'zass.",
+   "note": "De Sergeant Ulka sur Alcaz Island, après The Missing Kor'kron. La version Horde d'A Bit of Wet Work."
+  },
+  "96334": {
+   "objective": "Ramassez 8 Blood Red Bandanas sur les gardes humains à l'intérieur.",
+   "note": "De Sergeant Ulka sur Alcaz Island ; à rendre à Eitrigg à Orgrimmar."
+  },
+  "96335": {
+   "objective": "Récupérez l'Ornate Shackle Key sur The Questioner.",
+   "note": "N'apparaît après le dernier boss que si The Questioner est encore en vie. Le début du jouet de déguisement Defias, voir le guide."
+  }
+ }
 }

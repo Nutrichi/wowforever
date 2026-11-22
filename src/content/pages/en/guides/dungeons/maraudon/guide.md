@@ -3,7 +3,7 @@ title: "Maraudon"
 metaTitle: "Maraudon guide for WoW Forever: portals, route and bosses"
 description: "How to run Maraudon in WoW Forever: the way in through the Valley of Spears, the orange and purple sides, the Scepter of Celebras and all eight bosses up to Theradras."
 short: "Guide"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: en
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
@@ -81,6 +81,4 @@ After her death, Zaetar's Spirit appears in the middle of the ring with the Seed
 
 ## What is not known yet
 
-- **The rewards** of the eleven quests in the Forever data.
-- **Fourteen items** of the Classic loot that are not in the Forever data.
 - **Changes for Forever**: not known yet. This page gets updated as soon as players find them.

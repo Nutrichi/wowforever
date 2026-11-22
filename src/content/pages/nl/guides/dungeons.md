@@ -3,7 +3,7 @@ title: "Dungeongids: elke dungeonquest in WoW Forever"
 metaTitle: "Dungeonquests in WoW Forever: elke dungeon, level en questgever"
 description: "Elke dungeon van WoW Forever met zijn levels en al zijn quests: waar elke quest begint, voor welke factie, wat eerst moet, en de sleutels die sommige dungeons vragen."
 short: "Dungeons"
-updated: 2026-11-13
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -55,8 +55,8 @@ Voor de dungeons boven level 30 komen de quests uit de gegevens van Classic en k
 - **[Stratholme Undead](/nl/guides/dungeons/stratholme-undead/)**, level 58-60: de Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare.
 - **[The Drowned City](/nl/guides/dungeons/the-drowned-city/)**, level 35-40: de ingang onder water voor Stranglethorn Vale, de acht quests en hoe je de zes bazen en de rares Umbra en Gill verslaat.
 - **[Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/)**, level 40-45: het ogrefort in de Riverglades: de verstopte grot als ingang, de twee sleutels en Overlord Mugg.
-- **[Alcaz Prison](/nl/guides/dungeons/alcaz-prison/)**, level 48-53: de oude gevangenis voor Dustwallow Marsh: het portaal in de kelder, de Defias en de naga, en Blazeroar.
-- **[Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/)**, level 55-60: de furbolgstad achter de oude poort in Azshara: de tunnel naar Winterspring, de grootte en Varrox Bleakhoof.
+- **[Alcaz Prison](/nl/guides/dungeons/alcaz-prison/)**, level 48-53: de oude gevangenis voor Dustwallow Marsh: trash, vijf bazen, zeven quests en het verborgen Defias-speeltje.
+- **[Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/)**, level 55-60: de furbolgstad achter de oude poort in Azshara: trash, zeven bazen, vier rares en negen quests.
 - **[Shaper's Terrace](/nl/guides/dungeons/shapers-terrace/)**, level 58-60: het titancomplex in Un'Goro Crater: de weg erheen, de indeling, de power crystals en vier bazen bij naam.
 
 ## Elke dungeon op level
@@ -78,21 +78,21 @@ Het bereik is de levelband waarin een groep de dungeon meestal doet. Vaak kun je
 | [Blackfathom Deeps](/nl/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
 | [City of Dalaran](/nl/guides/dungeons/city-of-dalaran/) | 28-33 | nog niet bekend |
 | [Scarlet Monastery: Graveyard](/nl/guides/dungeons/scarlet-monastery-graveyard/) | 28-38 | 2 |
-| [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | 29-38 | 13 |
+| [Gnomeregan](/nl/guides/dungeons/gnomeregan/) | 29-38 | 12 |
 | [Scarlet Monastery: Library](/nl/guides/dungeons/scarlet-monastery-library/) | 29-39 | 8 |
 | [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) | 30-40 | 7 |
 | [Scarlet Monastery: Armory](/nl/guides/dungeons/scarlet-monastery-armory/) | 32-42 | 3 |
 | [The Drowned City](/nl/guides/dungeons/the-drowned-city/) | 35-40 | 8 |
 | [Scarlet Monastery: Cathedral](/nl/guides/dungeons/scarlet-monastery-cathedral/) | 35-45 | 3 |
-| [Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/) | 40-45 | nog niet bekend |
-| [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | 40-50 | 6 |
+| [Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/) | 40-45 | 9 |
+| [Razorfen Downs](/nl/guides/dungeons/razorfen-downs/) | 40-50 | 8 |
 | [Uldaman](/nl/guides/dungeons/uldaman/) | 42-52 | 14 |
-| [Zul'Farrak](/nl/guides/dungeons/zul-farrak/) | 44-54 | 8 |
-| [Maraudon](/nl/guides/dungeons/maraudon/) | 45-57 | 11 |
-| [Alcaz Prison](/nl/guides/dungeons/alcaz-prison/) | 48-53 | nog niet bekend |
+| [Zul'Farrak](/nl/guides/dungeons/zul-farrak/) | 44-54 | 9 |
+| [Maraudon](/nl/guides/dungeons/maraudon/) | 45-57 | 13 |
+| [Alcaz Prison](/nl/guides/dungeons/alcaz-prison/) | 48-53 | 7 |
 | [Sunken Temple](/nl/guides/dungeons/sunken-temple/) | 50-60 | 9 |
 | [Blackrock Depths](/nl/guides/dungeons/blackrock-depths/) | 52-60 | 24 |
-| [Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/) | 55-60 | nog niet bekend |
+| [Blackmaw Hold](/nl/guides/dungeons/blackmaw-hold/) | 55-60 | 9 |
 | [Lower Blackrock Spire](/nl/guides/dungeons/lower-blackrock-spire/) | 55-60 | 12 |
 | [Shaper's Terrace](/nl/guides/dungeons/shapers-terrace/) | 58-60 | nog niet bekend |
 | [Upper Blackrock Spire](/nl/guides/dungeons/upper-blackrock-spire/) | 58-60 | 12 |

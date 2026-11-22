@@ -91,9 +91,21 @@
     17714,
     17707,
     17715,
+    17780,
     17710,
     17766,
     17711
+   ]
+  },
+  {
+   "name": "Meshlok the Harvester",
+   "slug": "meshlok-the-harvester",
+   "level": "",
+   "npc": 12237,
+   "items": [
+    17767,
+    17742,
+    17741
    ]
   }
  ],
@@ -567,6 +579,100 @@
    "next": [],
    "rewards": [],
    "choice": false
+  },
+  {
+   "id": 96776,
+   "name": "An'she's Radiance",
+   "level": 51,
+   "minLevel": 43,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 6100,
+   "rep": "Earthen Ring +300, Thunder Bluff +200",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Olana Brighthoof",
+     "kind": "npc",
+     "npc": 268557,
+     "zone": "Mulgore",
+     "at": {
+      "x": 32.6,
+      "y": 24.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Olana Brighthoof",
+     "kind": "npc",
+     "npc": 268557,
+     "zone": "Mulgore",
+     "at": {
+      "x": 32.6,
+      "y": 24.0
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 93404,
+   "name": "Rot and Regret",
+   "level": 49,
+   "minLevel": 35,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": 5700,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Woodwyrd",
+     "kind": "npc",
+     "npc": 254674,
+     "zone": "Desolace",
+     "place": "Forlorn Gardens"
+    }
+   ],
+   "to": [
+    {
+     "name": "Woodwyrd",
+     "kind": "npc",
+     "npc": 254674,
+     "zone": "Desolace",
+     "place": "Forlorn Gardens"
+    }
+   ],
+   "chain": [
+    {
+     "name": "Word of the Woods",
+     "id": 93594,
+     "optional": false
+    }
+   ],
+   "next": [
+    {
+     "name": "Passing the Blame",
+     "id": 93601,
+     "optional": false
+    },
+    {
+     "name": "Agamaggan's Blood",
+     "id": 93604,
+     "optional": false
+    }
+   ],
+   "rewards": [
+    272186,
+    272187
+   ],
+   "choice": true
   }
  ],
  "cards": {
@@ -590,6 +696,8 @@
   "17738": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/ability_whirlwind.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17738\">Claw of Celebras</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Fist Weapon</span></span><span class=\"wf-item__row\"><span>43 - 81 Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(34.44 damage per second)</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Poisons target for 13 Nature damage every 1 sec for 7 sec.</span></div></div>",
   "17739": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17739\">Grovekeeper's Drape</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">37 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">+10 Nature Resistance</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Reduces the hit chance of Charm effects against you by 5%.</span></div></div>",
   "17740": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17740\">Soothsayer's Headdress</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Leather</span></span><span class=\"wf-item__line\">122 Armor</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+15 Intellect</span><span class=\"wf-item__line\">+8 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 23.</span></div></div>",
+  "17741": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17741\">Nature's Embrace</a><span class=\"wf-item__line wf-item__meta\">Item Level 51</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">73 Armor</span><span class=\"wf-item__line\">Restores +8 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 46</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by Holy spells and effects by up to 29.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by Nature spells and effects by up to 29.</span></div></div>",
+  "17742": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_leather_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17742\">Fungus Shroud Armor</a><span class=\"wf-item__line wf-item__meta\">Item Level 51</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Leather</span></span><span class=\"wf-item__line\">148 Armor</span><span class=\"wf-item__line\">+25 Agility</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 46</span></div></div>",
   "17743": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_goldfeathered_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17743\">Resurgence Rod</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>103 - 156 Damage</span><span>Speed 3.80</span></span><span class=\"wf-item__line\">(34.08 damage per second)</span><span class=\"wf-item__line\">Restores +11 mana per 5 sec.</span><span class=\"wf-item__line\">Restores +11 health per 5 sec.</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line wf-item__use\">Equip: Increases healing done by up to 112 and damage done by up to 37 for all magical spells and effects.</span></div></div>",
   "17744": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_gem_pearl_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17744\">Heart of Noxxion</a><span class=\"wf-item__line wf-item__meta\">Item Level 51</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line\">+12 Nature Resistance</span><span class=\"wf-item__line\">Requires Level 46</span><span class=\"wf-item__line wf-item__use\">Equip: Reduces the duration of all poison effects applied to you by 10%.</span><span class=\"wf-item__line wf-item__use\">Use: Removes 1 poison effect. (5 Min Cooldown)</span></div></div>",
   "17745": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17745\">Noxious Shooter</a><span class=\"wf-item__line wf-item__meta\">Item Level 51</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>56 - 104 Nature Damage</span><span>Speed 1.60</span></span><span class=\"wf-item__line\">(50.00 damage per second)</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">+5 Nature Resistance</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 46</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 5.</span></div></div>",
@@ -603,6 +711,7 @@
   "17754": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_wolf.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17754\">Infernal Trickster Leggings</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Mail</span></span><span class=\"wf-item__line\">263 Armor</span><span class=\"wf-item__line\">+20 Agility</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit with ranged weapons by 1.0%.</span></div></div>",
   "17755": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_24.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17755\">Satyrmane Sash</a><span class=\"wf-item__line wf-item__meta\">Item Level 50</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Cloth</span></span><span class=\"wf-item__line\">40 Armor</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+10 Shadow Resistance</span><span class=\"wf-item__line\">Durability 30 / 30</span><span class=\"wf-item__line\">Requires Level 45</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 14.</span></div></div>",
   "17766": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17766\">Princess Theradras' Scepter</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>126 - 190 Damage</span><span>Speed 3.40</span></span><span class=\"wf-item__line\">(46.47 damage per second)</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Chance on hit: Wounds the target for 168 damage and lowers their armor by 100.</span></div></div>",
+  "17767": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_helmet_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17767\">Bloomsprout Headpiece</a><span class=\"wf-item__line wf-item__meta\">Item Level 51</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Mail</span></span><span class=\"wf-item__line\">249 Armor</span><span class=\"wf-item__line\">+15 Stamina</span><span class=\"wf-item__line\">+10 Nature Resistance</span><span class=\"wf-item__line\">Durability 70 / 70</span><span class=\"wf-item__line\">Requires Level 46</span><span class=\"wf-item__line wf-item__use\">Equip: +36 Attack Power.</span></div></div>",
   "17768": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_18.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=17768\">Woodseed Hoop</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 6.</span></div></div>",
   "17770": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_30.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=17770\">Branchclaw Gauntlets</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">295 Armor</span><span class=\"wf-item__line\">+9 Strength</span><span class=\"wf-item__line\">+5 Stamina</span><span class=\"wf-item__line\">Restores +4 mana per 5 sec.</span><span class=\"wf-item__line\">Restores +4 health per 5 sec.</span><span class=\"wf-item__line\">Durability 40 / 40</span></div></div>",
   "17772": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_necklace_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=17772\">Zealous Shadowshard Pendant</a><span class=\"wf-item__line wf-item__meta\">Item Level 44</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+6 Shadow Resistance</span><span class=\"wf-item__line wf-item__use\">Equip: +14 Attack Power.</span></div></div>",
@@ -613,6 +722,9 @@
   "17777": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_chain_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=17777\">Relentless Chain</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Mail</span></span><span class=\"wf-item__line\">268 Armor</span><span class=\"wf-item__line\">+11 Stamina</span><span class=\"wf-item__line\">+11 Intellect</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line wf-item__use\">Equip: +20 Attack Power.</span></div></div>",
   "17778": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_25.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=17778\">Sagebrush Girdle</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Leather</span></span><span class=\"wf-item__line\">74 Armor</span><span class=\"wf-item__line\">+11 Agility</span><span class=\"wf-item__line\">+9 Intellect</span><span class=\"wf-item__line\">Durability 30 / 30</span></div></div>",
   "17779": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_23.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=17779\">Hulkstone Pauldrons</a><span class=\"wf-item__line wf-item__meta\">Item Level 49</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Plate</span></span><span class=\"wf-item__line\">354 Armor</span><span class=\"wf-item__line\">+13 Stamina</span><span class=\"wf-item__line\">Durability 70 / 70</span><span class=\"wf-item__line wf-item__use\">Equip: Increases your chance to Block attacks with a shield by 1.0%.</span></div></div>",
-  "17943": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17943\">Fist of Stone</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>44 - 83 Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(35.28 damage per second)</span><span class=\"wf-item__line\">+40 Armor</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Chance on hit to restore 32 mana. Restores 3 times as much if attacking an Earth Elemental, Golem, or Titan-forged enemy.</span></div></div>"
+  "17780": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_09.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q4\" href=\"https://www.wowhead.com/forever/item=17780\">Blade of Eternal Darkness</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>21 - 57 Damage</span><span>Speed 1.50</span></span><span class=\"wf-item__line\">(26.07 damage per second)</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 62.</span><span class=\"wf-item__line wf-item__use\">Equip: Chance on landing a damaging spell to deal 112 Shadow damage and restore 104 mana to you. (100ms cooldown)</span></div></div>",
+  "17943": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_hammer_17.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=17943\">Fist of Stone</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Main Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>44 - 83 Damage</span><span>Speed 1.80</span></span><span class=\"wf-item__line\">(35.28 damage per second)</span><span class=\"wf-item__line\">+40 Armor</span><span class=\"wf-item__line\">Durability 90 / 90</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Chance on hit to restore 32 mana. Restores 3 times as much if attacking an Earth Elemental, Golem, or Titan-forged enemy.</span></div></div>",
+  "272186": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=272186\">Overgrown Cuffs</a><span class=\"wf-item__line wf-item__meta\">Item Level 43</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Leather</span></span><span class=\"wf-item__line\">56 Armor</span><span class=\"wf-item__line\">+7 Agility</span><span class=\"wf-item__line\">+7 Stamina</span><span class=\"wf-item__line\">Durability 35 / 35</span><span class=\"wf-item__line wf-item__use\">Equip: +14 Attack Power.</span></div></div>",
+  "272187": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_23.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=272187\">Thornplated Cord</a><span class=\"wf-item__line wf-item__meta\">Item Level 43</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Plate</span></span><span class=\"wf-item__line\">236 Armor</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+9 Intellect</span><span class=\"wf-item__line\">+9 Spirit</span><span class=\"wf-item__line\">Durability 45 / 45</span></div></div>"
  }
 }

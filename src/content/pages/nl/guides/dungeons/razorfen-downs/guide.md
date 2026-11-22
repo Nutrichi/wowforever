@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "De gids van Razorfen Downs voor WoW Forever: route, trash en bazen"
 description: "Zo speel je Razorfen Downs in WoW Forever: de weg erheen in het zuiden van The Barrens, de gong van Tuten'kash, de begeleiding van Belnistrasz en de bazen tot Amnennar the Coldbringer."
 short: "Gids"
-updated: 2026-10-19
+updated: 2026-11-22
 lang: nl
 manual: true
 sources:
@@ -74,5 +74,5 @@ De laatste baas. Tank hem met zijn gezicht naar de tent waar hij staat om Amnenn
 ## Wat nog niet bekend is
 
 - **De quests**: de data van Forever heeft er nog geen voor Razorfen Downs.
-- **De ontbrekende loot**, zoals X'caliboar en de Dragonclaw Ring: of die nog valt.
+- **De Dragonclaw Ring**: of die nog valt.
 - **De dropkansen** van de loot van de bazen.

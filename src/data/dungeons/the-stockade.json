@@ -57,13 +57,21 @@
     273824,
     273827
    ]
+  },
+  {
+   "name": "Bruegal Ironknuckle",
+   "slug": "bruegal-ironknuckle",
+   "level": "",
+   "npc": 1720,
+   "items": [
+    3228,
+    2941,
+    2942
+   ]
   }
  ],
  "loose": [
-  1076,
-  3228,
-  2941,
-  2942
+  1076
  ],
  "quests": [
   {

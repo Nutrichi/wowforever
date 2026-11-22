@@ -41,6 +41,14 @@
   "7066": {
    "objective": "Take the Seed of Life to Keeper Remulos in Moonglade.",
    "note": "Zaetar's Spirit appears in the middle of the ring after Princess Theradras dies."
+  },
+  "96776": {
+   "objective": "Recover the crystal An'she's Radiance from Maraudon.",
+   "note": "From Olana Brighthoof of the Earthen Ring in Mulgore. Reputation with the Earthen Ring and Thunder Bluff."
+  },
+  "93404": {
+   "objective": "Bring a Vial of Earth Song Water from Maraudon back to Woodwyrd at the Forlorn Gardens.",
+   "note": "Second step of a chain that starts with Word of the Woods. Afterwards Passing the Blame and Agamaggan's Blood follow."
   }
  }
 }

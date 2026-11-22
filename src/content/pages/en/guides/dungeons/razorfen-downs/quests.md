@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Razorfen Downs quests in WoW Forever: start, steps and rewards"
 description: "The quests of Razorfen Downs in WoW Forever: the escort of Belnistrasz, Bring the Light and Bring the End, An Unholy Alliance and what the Forever data shows so far."
 short: "Quests"
-updated: 2026-11-08
+updated: 2026-11-22
 lang: en
 sources:
   - name: "Wowhead, the dungeon quests"
@@ -12,7 +12,7 @@ dungeon:
   slug: "razorfen-downs"
   tab: "quests"
 ---
-All six quests of Razorfen Downs are in the Forever data now. Where they start and what they give follows Classic:
+Razorfen Downs has eight quests in the Forever data. Six follow Classic; The Coldbringer's Eye is new, from Dalaran for the Alliance and from Mulgore for the Horde:
 
 | Quest | Where it starts | Level | Reward |
 |---|---|---|---|
@@ -22,6 +22,8 @@ All six quests of Razorfen Downs are in the Forever data now. Where they start a
 | <a href="https://www.wowhead.com/forever/quest=3636">Bring the Light</a><br>Alliance | Stormwind, Cathedral of Light: Archbishop Benedictus | 39 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10823"><img class="wf-wh__icon" src="/wh/inv_sword_35.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vanquisher's Sword</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10824"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amberglow Talisman</a> |
 | <a href="https://www.wowhead.com/forever/quest=3341">Bring the End</a><br>Horde | Undercity, Magic Quarter: Andrew Brownell | 37 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10823"><img class="wf-wh__icon" src="/wh/inv_sword_35.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vanquisher's Sword</a> or <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10824"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_07.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Amberglow Talisman</a> |
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter: Varimathras<br><em>Complete An Unholy Alliance from Razorfen Kraul first.</em> | 28 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> or <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
+| <a href="https://www.wowhead.com/forever/quest=96773">The Coldbringer's Eye</a><br>Alliance | Alterac Mountains, Dalaran: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=20735">Archmage Lan'dalock</a> /way 15.4 73.8 | 34 | Reputation with the Kirin Tor and Stormwind |
+| <a href="https://www.wowhead.com/forever/quest=97196">The Coldbringer's Eye</a><br>Horde | Mulgore: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264078">Sutara Plainstalker</a> /way 34.4 22.8 | 34 | Reputation with the Earthen Ring and Thunder Bluff |
 
 The level is the lowest level at which the quest can be picked up. The Dragonclaw Ring is not in the Forever data yet.
 

@@ -334,8 +334,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-undead": "The Key to the City, the three ziggurats, Slaughter Square, all eight quests and every boss up to Baron Rivendare",
     "dungeons/the-drowned-city": "The underwater entrance off Stranglethorn Vale, the five known quests, the six bosses and the rare Umbra",
     "dungeons/kroldok-stronghold": "The ogre fortress in the Riverglades: the hidden cave entrance, its two keys and Overlord Mugg",
-    "dungeons/alcaz-prison": "The old prison off Dustwallow Marsh: the portal in the basement, the Defias and the naga, and Blazeroar",
-    "dungeons/blackmaw-hold": "The furbolg city behind the old gate in Azshara: the tunnel to Winterspring, its size and Varrox Bleakhoof",
+    "dungeons/alcaz-prison": "The old prison off Dustwallow Marsh: trash, five bosses, seven quests and the hidden Defias toy",
+    "dungeons/blackmaw-hold": "The furbolg city behind the old gate in Azshara: trash, seven bosses, four rares and nine quests",
     "dungeons/shapers-terrace": "The titan facility in Un'Goro Crater: the way up, the layout, the power crystals and four bosses by name"
   },
   "nl": {
@@ -449,8 +449,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-undead": "De Key to the City, de drie ziggurats, Slaughter Square, alle acht de quests en elke baas tot Baron Rivendare",
     "dungeons/the-drowned-city": "De ingang onder water voor Stranglethorn Vale, de vijf bekende quests, de zes bazen en de rare Umbra",
     "dungeons/kroldok-stronghold": "Het ogrefort in de Riverglades: de verstopte grot als ingang, de twee sleutels en Overlord Mugg",
-    "dungeons/alcaz-prison": "De oude gevangenis voor Dustwallow Marsh: het portaal in de kelder, de Defias en de naga, en Blazeroar",
-    "dungeons/blackmaw-hold": "De furbolgstad achter de oude poort in Azshara: de tunnel naar Winterspring, de grootte en Varrox Bleakhoof",
+    "dungeons/alcaz-prison": "De oude gevangenis voor Dustwallow Marsh: trash, vijf bazen, zeven quests en het verborgen Defias-speeltje",
+    "dungeons/blackmaw-hold": "De furbolgstad achter de oude poort in Azshara: trash, zeven bazen, vier rares en negen quests",
     "dungeons/shapers-terrace": "Het titancomplex in Un'Goro Crater: de weg erheen, de indeling, de power crystals en vier bazen bij naam"
   },
   "fr": {
@@ -564,8 +564,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-undead": "La Key to the City, les trois ziggourats, Slaughter Square, les huit quêtes et chaque boss jusqu’à Baron Rivendare",
     "dungeons/the-drowned-city": "L’entrée sous l’eau au large de Stranglethorn Vale, les cinq quêtes connues, les six boss et le rare Umbra",
     "dungeons/kroldok-stronghold": "La forteresse des ogres des Riverglades : l’entrée dans une grotte cachée, ses deux clés et Overlord Mugg",
-    "dungeons/alcaz-prison": "La vieille prison au large de Dustwallow Marsh : le portail au sous-sol, les Defias et les nagas, et Blazeroar",
-    "dungeons/blackmaw-hold": "La cité furbolg derrière l’ancienne porte d’Azshara : le tunnel vers Winterspring, sa taille et Varrox Bleakhoof",
+    "dungeons/alcaz-prison": "La vieille prison au large de Dustwallow Marsh : les monstres, cinq boss, sept quêtes et le jouet Defias caché",
+    "dungeons/blackmaw-hold": "La cité furbolg derrière l’ancienne porte d’Azshara : les monstres, sept boss, quatre rares et neuf quêtes",
     "dungeons/shapers-terrace": "Le site titan d’Un'Goro Crater : l’accès, le plan, les power crystals et quatre boss par leur nom"
   },
   "es": {
@@ -679,8 +679,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-undead": "La Key to the City, los tres zigurats, Slaughter Square, las ocho misiones y cada jefe hasta Baron Rivendare",
     "dungeons/the-drowned-city": "La entrada bajo el agua frente a Stranglethorn Vale, las cinco misiones conocidas, los seis jefes y el raro Umbra",
     "dungeons/kroldok-stronghold": "La fortaleza de los ogros de los Riverglades: la entrada por una cueva escondida, sus dos llaves y Overlord Mugg",
-    "dungeons/alcaz-prison": "La vieja prisión frente a Dustwallow Marsh: el portal en el sótano, los Defias y los naga, y Blazeroar",
-    "dungeons/blackmaw-hold": "La ciudad furbolg tras la vieja puerta de Azshara: el túnel hacia Winterspring, su tamaño y Varrox Bleakhoof",
+    "dungeons/alcaz-prison": "La vieja prisión frente a Dustwallow Marsh: enemigos, cinco jefes, siete misiones y el juguete Defias oculto",
+    "dungeons/blackmaw-hold": "La ciudad furbolg tras la vieja puerta de Azshara: enemigos, siete jefes, cuatro raros y nueve misiones",
     "dungeons/shapers-terrace": "La instalación titánica de Un'Goro Crater: la subida, la distribución, los power crystals y cuatro jefes por su nombre"
   },
   "it": {
@@ -794,8 +794,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-undead": "La Key to the City, i tre ziggurat, Slaughter Square, le otto missioni e ogni boss fino a Baron Rivendare",
     "dungeons/the-drowned-city": "L’ingresso sott’acqua al largo di Stranglethorn Vale, le cinque missioni note, i sei boss e il raro Umbra",
     "dungeons/kroldok-stronghold": "La fortezza degli ogre nelle Riverglades: l’ingresso in una grotta nascosta, le due chiavi e Overlord Mugg",
-    "dungeons/alcaz-prison": "La vecchia prigione al largo di Dustwallow Marsh: il portale nel seminterrato, i Defias e i naga, e Blazeroar",
-    "dungeons/blackmaw-hold": "La città dei furbolg dietro la vecchia porta di Azshara: il tunnel verso Winterspring, le dimensioni e Varrox Bleakhoof",
+    "dungeons/alcaz-prison": "La vecchia prigione al largo di Dustwallow Marsh: nemici, cinque boss, sette missioni e il giocattolo Defias nascosto",
+    "dungeons/blackmaw-hold": "La città dei furbolg dietro la vecchia porta di Azshara: nemici, sette boss, quattro rari e nove missioni",
     "dungeons/shapers-terrace": "Il complesso dei titani in Un'Goro Crater: la salita, la struttura, i power crystals e quattro boss per nome"
   },
   "de": {
@@ -909,8 +909,8 @@ export const hubBlurbs: Record<Locale, Record<string, string>> = {
     "dungeons/stratholme-undead": "Der Key to the City, die drei Zikkurats, der Slaughter Square, alle acht Quests und jeder Boss bis Baron Rivendare",
     "dungeons/the-drowned-city": "Der Eingang unter Wasser vor Stranglethorn Vale, die fünf bekannten Quests, die sechs Bosse und den Rare Umbra",
     "dungeons/kroldok-stronghold": "Die Ogerfestung in den Riverglades: der versteckte Höhleneingang, ihre zwei Schlüssel und Overlord Mugg",
-    "dungeons/alcaz-prison": "Das alte Gefängnis vor Dustwallow Marsh: das Portal im Keller, die Defias und die Naga, und Blazeroar",
-    "dungeons/blackmaw-hold": "Die Furbolg-Stadt hinter dem alten Tor in Azshara: der Tunnel nach Winterspring, ihre Größe und Varrox Bleakhoof",
+    "dungeons/alcaz-prison": "Das alte Gefängnis vor Dustwallow Marsh: Trash, fünf Bosse, sieben Quests und das versteckte Defias-Spielzeug",
+    "dungeons/blackmaw-hold": "Die Furbolg-Stadt hinter dem alten Tor in Azshara: Trash, sieben Bosse, vier Rares und neun Quests",
     "dungeons/shapers-terrace": "Die Titanenanlage in Un'Goro Crater: der Weg hinauf, der Aufbau, die Power Crystals und vier Bosse beim Namen"
   }
 };

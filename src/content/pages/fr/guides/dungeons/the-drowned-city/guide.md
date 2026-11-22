@@ -3,7 +3,7 @@ title: "The Drowned City"
 metaTitle: "Guide de The Drowned City pour WoW Forever : entrée, plan, boss"
 description: "Comment rejoindre The Drowned City sous l'eau au large de Stranglethorn Vale dans WoW Forever, les monstres à surveiller et comment battre ses six boss et deux rares."
 short: "Guide"
-updated: 2026-11-17
+updated: 2026-11-22
 lang: fr
 manual: true
 sources:
@@ -74,7 +74,7 @@ Umbra arrive avec cinq Saltscale Murlocs dont les saignements s'additionnent vit
 
 ### Gill (rare)
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264177">Gill</a> est le deuxième rare, un élite rare. Le déroulement de ce combat n'est pas encore connu. Il fait partie des trois rares qui laissent tomber les <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a>, des bottes pour marcher sous l'eau ; plus dans [l'article sur les bottes](/fr/news/linkens-boots-of-iron-let-you-walk-underwater/).
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264177">Gill</a> est le deuxième rare, un élite rare. Il se trouve sur le chemin du Primeval Elemental dans les Deep Archives et lance de la dynamite sur le tank. Un combat facile, tant que vous n'attirez pas les monstres à côté de lui. Il fait partie des trois rares qui laissent tomber les <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a>, des bottes pour marcher sous l'eau ; plus dans [l'article sur les bottes](/fr/news/linkens-boots-of-iron-let-you-walk-underwater/).
 
 ### Zin'aka
 
@@ -82,5 +82,4 @@ Umbra arrive avec cinq Saltscale Murlocs dont les saignements s'additionnent vit
 
 ## Ce qui n'est pas encore connu
 
-- **Le reste du butin** : pour l'instant, on connaît <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> du Primeval Elemental et <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> d'un des boss et de trois rares.
 - **Les récompenses** de quatre des huit quêtes.

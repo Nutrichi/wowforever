@@ -68,21 +68,37 @@
     6694,
     17008
    ]
+  },
+  {
+   "name": "Blind Hunter",
+   "slug": "blind-hunter",
+   "level": "",
+   "npc": 4425,
+   "items": [
+    6695,
+    6697,
+    6696
+   ]
+  },
+  {
+   "name": "Earthcaller Halmgar",
+   "slug": "earthcaller-halmgar",
+   "level": "",
+   "npc": 4842,
+   "items": [
+    6688,
+    6689
+   ]
   }
  ],
  "loose": [
   6679,
-  6695,
-  6697,
-  6696,
-  6688,
   2264,
   4438,
   1978,
   2039,
   1976,
   2549,
-  6689,
   1488,
   1727,
   776,

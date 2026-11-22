@@ -3,7 +3,7 @@ title: "Zul'Farrak"
 metaTitle: "Zul'Farrak guide for WoW Forever: route, event and bosses"
 description: "How to run Zul'Farrak in WoW Forever: the way in through Tanaris, the stairs event with Sergeant Bly, summoning Gahz'rilla with the Mallet and every boss and rare."
 short: "Guide"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: en
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
@@ -79,6 +79,4 @@ He waits behind the blown door with <a class="wf-wh wf-plain" href="https://www.
 
 ## What is not known yet
 
-- **The rewards** of the eight quests in the Forever data.
-- **Four items** of the Classic loot that are not in the Forever data yet.
 - **Changes for Forever**: not known yet. This page gets updated as soon as players find them.

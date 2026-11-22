@@ -3,14 +3,461 @@
  "levels": "48–53",
  "bosses": [
   {
+   "name": "Tidemistress Ca'zass",
+   "slug": "tidemistress-cazass",
+   "level": "",
+   "npc": 255997,
+   "items": [
+    276737,
+    276736,
+    276735,
+    273883
+   ]
+  },
+  {
+   "name": "Overseer Wrex",
+   "slug": "overseer-wrex",
+   "level": "",
+   "npc": 255391,
+   "items": [
+    276733,
+    276734,
+    276732,
+    263992
+   ]
+  },
+  {
+   "name": "The Questioner",
+   "slug": "the-questioner",
+   "level": "",
+   "npc": 256236,
+   "items": [
+    276741,
+    276742,
+    276743,
+    274029
+   ]
+  },
+  {
+   "name": "Katerina the Cleaner",
+   "slug": "katerina-the-cleaner",
+   "level": "",
+   "npc": 257016,
+   "items": [
+    276739,
+    276740,
+    276738
+   ]
+  },
+  {
    "name": "Blazeroar",
    "slug": "blazeroar",
    "level": "",
-   "npc": null,
-   "items": []
+   "npc": 255702,
+   "items": [
+    276745,
+    276746,
+    276744,
+    276890
+   ]
   }
  ],
- "loose": [],
- "quests": [],
- "cards": {}
+ "loose": [
+  287019,
+  287020,
+  287021,
+  287023,
+  287024,
+  287025
+ ],
+ "quests": [
+  {
+   "id": 96772,
+   "name": "The Dragon's Journal",
+   "level": 53,
+   "minLevel": 48,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 6550,
+   "rep": "Kirin Tor +300, Stormwind +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Archmage Lan'dalock",
+     "kind": "npc",
+     "npc": 20735,
+     "zone": "Alterac Mountains",
+     "place": "Dalaran",
+     "at": {
+      "x": 15.4,
+      "y": 73.8
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Archmage Lan'dalock",
+     "kind": "npc",
+     "npc": 20735,
+     "zone": "Alterac Mountains",
+     "place": "Dalaran",
+     "at": {
+      "x": 15.4,
+      "y": 73.8
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  },
+  {
+   "id": 95262,
+   "name": "The Secret Prison",
+   "level": 53,
+   "minLevel": 48,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 6550,
+   "rep": "Stormwind +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Sully McCleary",
+     "kind": "npc",
+     "npc": 260271,
+     "zone": "Dustwallow Marsh",
+     "at": {
+      "x": 63.4,
+      "y": 42.4
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Master Mathias Shaw",
+     "kind": "npc",
+     "npc": 332,
+     "zone": "Stormwind City",
+     "place": "Old Town",
+     "at": {
+      "x": 78.4,
+      "y": 70.6
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "Our Man in Theramore",
+     "id": 95194,
+     "optional": false
+    },
+    {
+     "name": "Watch Yer Back",
+     "id": 95196,
+     "optional": false
+    },
+    {
+     "name": "The Return of the King?",
+     "id": 95198,
+     "optional": false
+    }
+   ],
+   "next": [
+    {
+     "name": "Somber News",
+     "id": 95263,
+     "optional": false
+    },
+    {
+     "name": "Shaw Needs To Know",
+     "id": 95264,
+     "optional": false
+    }
+   ],
+   "rewards": [
+    279833,
+    279831,
+    279474
+   ],
+   "choice": true
+  },
+  {
+   "id": 96381,
+   "name": "A Bit of Wet Work",
+   "level": 53,
+   "minLevel": 48,
+   "faction": "alliance",
+   "classes": null,
+   "races": null,
+   "xp": 5250,
+   "rep": "Stormwind +100, Ironforge +100",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Sully McCleary",
+     "kind": "npc",
+     "npc": 260271,
+     "zone": "Dustwallow Marsh",
+     "at": {
+      "x": 63.4,
+      "y": 42.4
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Sully McCleary",
+     "kind": "npc",
+     "npc": 260271,
+     "zone": "Dustwallow Marsh",
+     "at": {
+      "x": 63.4,
+      "y": 42.4
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    279825,
+    279826,
+    279829
+   ],
+   "choice": true
+  },
+  {
+   "id": 95309,
+   "name": "No Orc Left Behind",
+   "level": 53,
+   "minLevel": 48,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 6550,
+   "rep": "Orgrimmar +150",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Sergeant Ulka",
+     "kind": "npc",
+     "npc": 260383,
+     "zone": "Dustwallow Marsh",
+     "place": "Alcaz Island",
+     "at": {
+      "x": 70.2,
+      "y": 19.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Thrall",
+     "kind": "npc",
+     "npc": 4949,
+     "zone": "Orgrimmar",
+     "place": "Grommash Hold",
+     "at": {
+      "x": 32.0,
+      "y": 37.8
+     }
+    }
+   ],
+   "chain": [
+    {
+     "name": "The Missing Kor'kron",
+     "id": 95283,
+     "optional": false
+    },
+    {
+     "name": "The Elite of the Elite",
+     "id": 95284,
+     "optional": false
+    },
+    {
+     "name": "Right Place, Wrong Time",
+     "id": 95285,
+     "optional": false
+    }
+   ],
+   "next": [
+    {
+     "name": "The Honor of the Kor'kron",
+     "id": 95454,
+     "optional": false
+    },
+    {
+     "name": "Bad News for Folkar",
+     "id": 96369,
+     "optional": false
+    },
+    {
+     "name": "Thrall Needs to Know",
+     "id": 95483,
+     "optional": false
+    }
+   ],
+   "rewards": [
+    279831,
+    279833,
+    279474
+   ],
+   "choice": true
+  },
+  {
+   "id": 96332,
+   "name": "A Little Payback",
+   "level": 53,
+   "minLevel": 48,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 5250,
+   "rep": "Orgrimmar +75",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Sergeant Ulka",
+     "kind": "npc",
+     "npc": 260383,
+     "zone": "Dustwallow Marsh",
+     "place": "Alcaz Island",
+     "at": {
+      "x": 70.2,
+      "y": 19.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Sergeant Ulka",
+     "kind": "npc",
+     "npc": 260383,
+     "zone": "Dustwallow Marsh",
+     "place": "Alcaz Island",
+     "at": {
+      "x": 70.2,
+      "y": 19.0
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    279824,
+    279826,
+    279829
+   ],
+   "choice": true
+  },
+  {
+   "id": 96334,
+   "name": "Blood Red Bandanas",
+   "level": 53,
+   "minLevel": 48,
+   "faction": "horde",
+   "classes": null,
+   "races": null,
+   "xp": 5250,
+   "rep": "Orgrimmar +75",
+   "site": "inside",
+   "from": [
+    {
+     "name": "Sergeant Ulka",
+     "kind": "npc",
+     "npc": 260383,
+     "zone": "Dustwallow Marsh",
+     "place": "Alcaz Island",
+     "at": {
+      "x": 70.2,
+      "y": 19.0
+     }
+    }
+   ],
+   "to": [
+    {
+     "name": "Eitrigg",
+     "kind": "npc",
+     "npc": 3144,
+     "zone": "Orgrimmar",
+     "place": "Valley of Strength",
+     "at": {
+      "x": 34.2,
+      "y": 39.0
+     }
+    }
+   ],
+   "chain": [],
+   "next": [],
+   "rewards": [
+    279448,
+    279473
+   ],
+   "choice": true
+  },
+  {
+   "id": 96335,
+   "name": "The Man in the Iron Chains",
+   "level": 53,
+   "minLevel": 48,
+   "faction": "both",
+   "classes": null,
+   "races": null,
+   "xp": 1300,
+   "rep": null,
+   "site": "inside",
+   "from": [
+    {
+     "name": "Mysterious Prisoner",
+     "kind": "npc",
+     "npc": 264770,
+     "zone": "Alcaz Prison"
+    }
+   ],
+   "to": [],
+   "chain": [],
+   "next": [],
+   "rewards": [],
+   "choice": false
+  }
+ ],
+ "cards": {
+  "263992": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_key_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=263992\">Overseer's Keyring</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique</span></div></div>",
+  "273883": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_nagafemale.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=273883\">Ca'zass's Head</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Quest Item</span><span class=\"wf-item__line\">Unique</span></div></div>",
+  "274029": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_key_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=274029\">Ornate Shackle Key</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Quest Item</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line wf-item__meta\">\"The Questioner had a variety of keys on his person, but this one is particularly ornate.\"</span></div></div>",
+  "276732": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_mace_04.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276732\">Alcaz Willcrusher</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Mace</span></span><span class=\"wf-item__row\"><span>115 - 173 Damage</span><span>Speed 3.20</span></span><span class=\"wf-item__line\">(45.00 damage per second)</span><span class=\"wf-item__line\">+20 Strength</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Increases your chance to Dodge an attack by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "276733": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_26.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276733\">Grips of Control</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">342 Armor</span><span class=\"wf-item__line\">+12 Stamina</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">Restores +5 mana per 5 sec.</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 47</span></div></div>",
+  "276734": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_ring_64.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276734\">Wrex's Pinky Ring</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Finger</span><span></span></span><span class=\"wf-item__line\">+11 Agility</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">Restores +9 health per 5 sec.</span><span class=\"wf-item__line\">Requires Level 47</span></div></div>",
+  "276735": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_wand_01.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276735\">Tidesong Wand</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Ranged</span><span>Wand</span></span><span class=\"wf-item__row\"><span>71 - 133 Frost Damage</span><span>Speed 2.00</span></span><span class=\"wf-item__line\">(51.00 damage per second)</span><span class=\"wf-item__line\">+3 Stamina</span><span class=\"wf-item__line\">+4 Intellect</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 0.5%.</span></div></div>",
+  "276736": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276736\">Seascale Bracers</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Wrist</span><span>Mail</span></span><span class=\"wf-item__line\">136 Armor</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done by magical spells and effects by up to 10.</span><span class=\"wf-item__line wf-item__use\">Equip: Your spells pierce 3 Magical Resistance.</span></div></div>",
+  "276737": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_cape_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276737\">Cloak of the Tidemistress</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Back</span><span class=\"wf-item__line\">37 Armor</span><span class=\"wf-item__line\">+13 Stamina</span><span class=\"wf-item__line\">+60 Armor</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 0.5%.</span></div></div>",
+  "276738": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_weapon_shortblade_19.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276738\">Katerina's Shanker</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>42 - 79 Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(35.59 damage per second)</span><span class=\"wf-item__line\">+7 Agility</span><span class=\"wf-item__line\">Durability 65 / 65</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Increases your chance to Dodge an attack by 0.5%.</span><span class=\"wf-item__line wf-item__use\">Equip: +21 Attack Power against Humanoids.</span></div></div>",
+  "276739": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_plate12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276739\">Cutthroat Chestguard</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Mail</span></span><span class=\"wf-item__line\">322 Armor</span><span class=\"wf-item__line\">+20 Stamina</span><span class=\"wf-item__line\">Durability 120 / 120</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: +32 Attack Power.</span></div></div>",
+  "276740": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_necklace_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276740\">Sentimental Locket</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+7 Strength</span><span class=\"wf-item__line\">+9 Shadow Resistance</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span></div></div>",
+  "276741": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276741\">Defias Enforcer's Shoulderpads</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Leather</span></span><span class=\"wf-item__line\">115 Armor</span><span class=\"wf-item__line\">+13 Stamina</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 0.5%.</span><span class=\"wf-item__line wf-item__use\">Equip: +28 Attack Power.</span><span class=\"wf-item__line wf-item__setname\">Defias Enforcer's Garb (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Fire Resistance.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +15 Stamina.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Increased Swords +1.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Melee attacks have a chance to increase your Critical Strike chance by 2% for 20 sec. This effect is doubled in swamps.</span></div></div>",
+  "276742": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_belt_12.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276742\">Girdle of Extracted Answers</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Plate</span></span><span class=\"wf-item__line\">313 Armor</span><span class=\"wf-item__line\">+12 Strength</span><span class=\"wf-item__line\">+15 Stamina</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Deals 20 to 30 Physical damage every time you block.</span></div></div>",
+  "276743": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_armorkit_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276743\">Fingerbreaker Stamp</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +6.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases Strength by 38 while affected by a Bleed.</span></div></div>",
+  "276744": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bag_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276744\">Zarla's Snack Pouch</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__line\">Unique-Equipped</span><span class=\"wf-item__row\"><span>Trinket</span><span></span></span><span class=\"wf-item__line\">+13 Nature Resistance</span><span class=\"wf-item__line\">Requires Level 50</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 11.</span><span class=\"wf-item__line wf-item__use\">Use: Calls forth a Black Dragon Whelp to protect you in battle for a short period of time. (15 Min Cooldown)</span></div></div>",
+  "276745": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_cloth_20.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276745\">Beastbond Robe</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Chest</span><span>Cloth</span></span><span class=\"wf-item__line\">78 Armor</span><span class=\"wf-item__line\">+16 Intellect</span><span class=\"wf-item__line\">+16 Spirit</span><span class=\"wf-item__line\">Durability 80 / 80</span><span class=\"wf-item__line\">Requires Level 50</span><span class=\"wf-item__line wf-item__use\">Equip: Your spells pierce 5 Magical Resistance.</span></div></div>",
+  "276746": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_06.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=276746\">Defias Enforcer's Legguards</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Leather</span></span><span class=\"wf-item__line\">138 Armor</span><span class=\"wf-item__line\">+20 Agility</span><span class=\"wf-item__line\">+16 Fire Resistance</span><span class=\"wf-item__line\">Durability 75 / 75</span><span class=\"wf-item__line\">Requires Level 50</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 1.0%.</span><span class=\"wf-item__line wf-item__setname\">Defias Enforcer's Garb (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Fire Resistance.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +15 Stamina.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Increased Swords +1.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Melee attacks have a chance to increase your Critical Strike chance by 2% for 20 sec. This effect is doubled in swamps.</span></div></div>",
+  "276890": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_10_specialization_professionbook_jewelcrafting_color1.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q1\" href=\"https://www.wowhead.com/forever/item=276890\">Zarla's Journal</a><span class=\"wf-item__line wf-item__meta\">Item Level 1</span><span class=\"wf-item__line\">Quest Item</span><span class=\"wf-item__line\">Unique</span><span class=\"wf-item__line wf-item__meta\">\"The text in this journal is written in a jagged draconic script.\"</span></div></div>",
+  "279448": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bandana_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279448\">Bloodsplattered Bandana</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Head</span><span>Leather</span></span><span class=\"wf-item__line\">117 Armor</span><span class=\"wf-item__line\">+17 Stamina</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 1.0%.</span></div></div>",
+  "279473": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_clothscrap_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279473\">Makeshift Belt</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Waist</span><span>Cloth</span></span><span class=\"wf-item__line\">40 Armor</span><span class=\"wf-item__line\">+12 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 25 / 25</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 6.</span></div></div>",
+  "279474": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_sword_13.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=279474\">Dustwallow Dirk</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>One-Hand</span><span>Dagger</span></span><span class=\"wf-item__row\"><span>43 - 81 Damage</span><span>Speed 1.70</span></span><span class=\"wf-item__line\">(36.47 damage per second)</span><span class=\"wf-item__line\">+6 Agility</span><span class=\"wf-item__line\">+10 Stamina</span><span class=\"wf-item__line\">Durability 65 / 65</span></div></div>",
+  "279824": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279824\">Kor'kron Battle Gauntlets</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">328 Armor</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 0.5%.</span></div></div>",
+  "279825": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_gauntlets_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279825\">Theramore Defender's Gauntlets</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Hands</span><span>Plate</span></span><span class=\"wf-item__line\">328 Armor</span><span class=\"wf-item__line\">+6 Strength</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">Durability 40 / 40</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to get a critical strike by 0.5%.</span></div></div>",
+  "279826": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_pants_10.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279826\">Marshdweller's Pants</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Legs</span><span>Cloth</span></span><span class=\"wf-item__line\">62 Armor</span><span class=\"wf-item__line\">+13 Stamina</span><span class=\"wf-item__line\">+8 Intellect</span><span class=\"wf-item__line\">+10 Spirit</span><span class=\"wf-item__line\">Durability 55 / 55</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 11.</span></div></div>",
+  "279829": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shoulder_07.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q2\" href=\"https://www.wowhead.com/forever/item=279829\">Naga Scale Spaulders</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Shoulder</span><span>Mail</span></span><span class=\"wf-item__line\">223 Armor</span><span class=\"wf-item__line\">+14 Stamina</span><span class=\"wf-item__line\">+3 Spirit</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line wf-item__use\">Equip: Improves your chance to hit by 0.8%.</span></div></div>",
+  "279831": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_shield_02.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=279831\">Fatebound Buckler</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Off Hand</span><span>Shield</span></span><span class=\"wf-item__line\">1898 Armor</span><span class=\"wf-item__line\">34 Block</span><span class=\"wf-item__line\">+8 Strength</span><span class=\"wf-item__line\">+5 Agility</span><span class=\"wf-item__line\">+9 Stamina</span><span class=\"wf-item__line\">+12 Block Value</span><span class=\"wf-item__line\">Durability 100 / 100</span></div></div>",
+  "279833": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_necklace_15.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=279833\">Courier's Clasp</a><span class=\"wf-item__line wf-item__meta\">Item Level 55</span><span class=\"wf-item__line\">Binds when picked up</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+10 Intellect</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 8.</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage done to Humanoids by magical spells and effects by up to 10.</span></div></div>",
+  "287019": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_misc_bandana_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=287019\">Defias Enforcer's Mask</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Head</span><span>Leather</span></span><span class=\"wf-item__line\">124 Armor</span><span class=\"wf-item__line\">+20 Stamina</span><span class=\"wf-item__line\">Durability 60 / 60</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Reduces chance to be Dodged or Parried by 1.0%.</span><span class=\"wf-item__line wf-item__use\">Equip: +30 Attack Power.</span><span class=\"wf-item__line wf-item__setname\">Defias Enforcer's Garb (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Fire Resistance.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +15 Stamina.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Increased Swords +1.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Melee attacks have a chance to increase your Critical Strike chance by 2% for 20 sec. This effect is doubled in swamps.</span></div></div>",
+  "287020": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_chest_leather_08.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=287020\">Defias Enforcer's Chest</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Chest</span><span>Leather</span></span><span class=\"wf-item__line\">156 Armor</span><span class=\"wf-item__line\">+14 Strength</span><span class=\"wf-item__line\">+22 Agility</span><span class=\"wf-item__line\">+11 Stamina</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__setname\">Defias Enforcer's Garb (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Fire Resistance.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +15 Stamina.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Increased Swords +1.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Melee attacks have a chance to increase your Critical Strike chance by 2% for 20 sec. This effect is doubled in swamps.</span></div></div>",
+  "287021": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_boots_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=287021\">Defias Enforcer's Prowlers</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Feet</span><span>Leather</span></span><span class=\"wf-item__line\">105 Armor</span><span class=\"wf-item__line\">+16 Stamina</span><span class=\"wf-item__line\">Durability 50 / 50</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: +28 Attack Power.</span><span class=\"wf-item__line wf-item__setname\">Defias Enforcer's Garb (0/5)</span><span class=\"wf-item__line wf-item__set\">(2) Set: +10 Fire Resistance.</span><span class=\"wf-item__line wf-item__set\">(3) Set: +15 Stamina.</span><span class=\"wf-item__line wf-item__set\">(4) Set: Increased Swords +1.</span><span class=\"wf-item__line wf-item__set\">(5) Set: Melee attacks have a chance to increase your Critical Strike chance by 2% for 20 sec. This effect is doubled in swamps.</span></div></div>",
+  "287023": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_bracer_16.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=287023\">Iron-Wrought Cuffs</a><span class=\"wf-item__line wf-item__meta\">Item Level 53</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Wrist</span><span>Plate</span></span><span class=\"wf-item__line\">244 Armor</span><span class=\"wf-item__line\">+8 Stamina</span><span class=\"wf-item__line\">+7 Spirit</span><span class=\"wf-item__line\">Durability 45 / 45</span><span class=\"wf-item__line\">Requires Level 48</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +8.</span></div></div>",
+  "287024": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_jewelry_talisman_05.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=287024\">Mark of Captivity</a><span class=\"wf-item__line wf-item__meta\">Item Level 52</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Neck</span><span></span></span><span class=\"wf-item__line\">+11 Stamina</span><span class=\"wf-item__line\">Requires Level 47</span><span class=\"wf-item__line wf-item__use\">Equip: Increased Defense +5.</span><span class=\"wf-item__line wf-item__use\">Equip: +15 Attack Power.</span></div></div>",
+  "287025": "<div class=\"wf-item\"><img class=\"wf-item__icon\" src=\"/wh/inv_staff_03.jpg\" alt=\"\" width=\"36\" height=\"36\" loading=\"lazy\"><div class=\"wf-item__tip\"><a class=\"wf-item__name wf-q3\" href=\"https://www.wowhead.com/forever/item=287025\">Enchantresses' Spire</a><span class=\"wf-item__line wf-item__meta\">Item Level 54</span><span class=\"wf-item__line\">Binds when equipped</span><span class=\"wf-item__row\"><span>Two-Hand</span><span>Staff</span></span><span class=\"wf-item__row\"><span>66 - 100 Damage</span><span>Speed 2.40</span></span><span class=\"wf-item__line\">(34.58 damage per second)</span><span class=\"wf-item__line\">+21 Stamina</span><span class=\"wf-item__line\">+21 Intellect</span><span class=\"wf-item__line\">Durability 100 / 100</span><span class=\"wf-item__line\">Requires Level 49</span><span class=\"wf-item__line wf-item__use\">Equip: Increases damage and healing done by magical spells and effects by up to 62.</span><span class=\"wf-item__line wf-item__use\">Equip: Reduces the cast time of Disenchant by 25%.</span></div></div>"
+ }
 }

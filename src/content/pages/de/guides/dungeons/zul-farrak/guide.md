@@ -3,7 +3,7 @@ title: "Zul'Farrak"
 metaTitle: "Guide zu Zul'Farrak für WoW Forever: Route, Event und Bosse"
 description: "So spielst du Zul'Farrak in WoW Forever: die Anreise durch Tanaris, das Treppenevent mit Sergeant Bly, Gahz'rilla mit dem Mallet beschwören und jeder Boss und Rare."
 short: "Guide"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: de
 manual: true
 sources:
@@ -80,6 +80,4 @@ Er wartet hinter der gesprengten Tür mit <a class="wf-wh wf-plain" href="https:
 
 ## Was noch nicht bekannt ist
 
-- **Die Belohnungen** der acht Quests in den Daten von Forever.
-- **Vier Gegenstände** der Beute aus Classic, die noch nicht in den Daten von Forever stehen.
 - **Änderungen für Forever**: noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler sie finden.

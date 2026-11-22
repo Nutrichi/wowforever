@@ -1,25 +1,29 @@
 ---
 title: "Blackmaw Hold"
-metaTitle: "Blackmaw Hold en WoW Forever: botín, jefes y drops"
-description: "Blackmaw Hold es una nueva mazmorra furbolg para los niveles 55 a 60 en Azshara en WoW Forever, más grande que Blackrock Depths. Su botín aún no se conoce."
+metaTitle: "Blackmaw Hold en WoW Forever: botín, jefes y objetos"
+description: "Blackmaw Hold es una mazmorra furbolg para los niveles 55 a 60 en Azshara en WoW Forever. Todo el botín de sus siete jefes y cuatro raros, con cuatro abalorios."
 short: "Blackmaw Hold"
-updated: 2026-10-30
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
-  - q: "¿De qué nivel es Blackmaw Hold?"
-    a: "De los niveles 55 a 60, según Blizzard."
+  - q: "¿Para qué nivel es Blackmaw Hold?"
+    a: "Niveles 55 a 60. Las misiones piden nivel 45 a 55."
   - q: "¿Dónde está Blackmaw Hold?"
-    a: "En Azshara, tras la vieja puerta de piedra que antes decía Timbermaw Hold, donde se abre un túnel de los furbolgs en /way 38.7 33.4. El túnel es tan profundo que el portal está en el mapa de Winterspring, en /way 66.6 84.4."
+    a: "En Azshara, justo al oeste de Timbermaw Hold, tras la vieja puerta de piedra donde se abre un túnel de los furbolgs en /way 38.7 33.4. El túnel es tan profundo que el portal está en el mapa de Winterspring, en /way 66.6 84.4."
   - q: "¿Qué tamaño tiene Blackmaw Hold?"
-    a: "Algo más grande que Blackrock Depths, dicen los desarrolladores. A diferencia de Blackrock Depths, un grupo debería completarla de principio a fin en una sola sesión."
+    a: "Más o menos el de Maraudon o Blackrock Depths, con siete jefes y cuatro raros. Aun así, un grupo debería terminarla en una sesión."
   - q: "¿Qué suelta Blackmaw Hold?"
-    a: "Aún no se sabe."
+    a: "Cada jefe suelta tres objetos, y cuatro de ellos un abalorio: Bonesnout the Unbroken, Unbound Spirit, Clawbert y Varrox Bleakhoof. Los cuatro raros sueltan dos objetos cada uno."
 sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/guide/blackmaw-hold-dungeon-overview-location-rewards"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/blackmaw-hold/"
 dungeon:
   slug: "blackmaw-hold"
   tab: "loot"
 ---
-Aún no se conoce botín de Blackmaw Hold. Los datos del juego sí tienen algunos objetos Blackmaw, que están en la [pestaña de misiones](/es/guides/dungeons/blackmaw-hold/quests/). Esta página se irá llenando a medida que los jugadores la hagan.
+Cada jefe de Blackmaw Hold suelta tres objetos, y cuatro de ellos un abalorio. Withermaw, Bonesnout the Unbroken, Elder Shaman Bloodmane y Varrox Bleakhoof sueltan también un objeto de misión. Los cuatro raros sueltan dos objetos cada uno, así que busca bien.
+
+La mejor recompensa de misión es un anillo a elegir entre cuatro con Blackmaw Reclamation, mira la [pestaña de misiones](/es/guides/dungeons/blackmaw-hold/quests/).

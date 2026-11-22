@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Razorfen Downs guide for WoW Forever: route, trash and bosses"
 description: "How to run Razorfen Downs in WoW Forever: the way in at the south of The Barrens, the gong of Tuten'kash, the escort of Belnistrasz and the bosses up to Amnennar the Coldbringer."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-22
 lang: en
 sources:
   - name: "Wowhead, the dungeon guide"
@@ -74,6 +74,5 @@ The last boss. Tank him facing the tent where he stands to block Amnennar's Wrat
 
 ## What is not known yet
 
-- **The quests**: the Forever data has none for Razorfen Downs yet.
-- **The missing loot**, such as X'caliboar and the Dragonclaw Ring: whether it still drops.
+- **The Dragonclaw Ring**: whether it still drops.
 - **The drop rates** of the boss loot.

@@ -1,9 +1,9 @@
 ---
 title: "The Drowned City"
 metaTitle: "The Drowned City in WoW Forever: loot, bazen en drops"
-description: "The Drowned City is een dungeon voor level 35 tot 40 voor de kust van Stranglethorn Vale in WoW Forever. De eerste bekende drop is Heart of the Primeval, plus vier questbeloningen."
+description: "The Drowned City is een dungeon voor level 35 tot 40 voor de kust van Stranglethorn Vale in WoW Forever. Alle buit van de zes bazen en twee rares, plus de questbeloningen."
 short: "The Drowned City"
-updated: 2026-11-12
+updated: 2026-11-22
 lang: nl
 faq:
   - q: "Welk level is The Drowned City?"
@@ -11,7 +11,7 @@ faq:
   - q: "Waar ligt The Drowned City?"
     a: "Onder water voor de kust van Stranglethorn Vale, rond /way 21.4 27.9, voorbij The Vile Reef. De ingang is een grot met een grote steen ernaast."
   - q: "Wat valt er in The Drowned City?"
-    a: "Twee drops van bazen zijn bekend: Heart of the Primeval van de Primeval Elemental, een trinket met 30 seconden tot 19 spell damage en healing, en Linken's Boots of Iron, mail-laarzen die van elke baas kunnen vallen. Vier quests geven een bekende beloning, zoals Intrepid Explorer's Chainmail en Saltseer's Helm."
+    a: "Elke baas laat drie items vallen en de twee rares elk twee. De trinkets zijn Heart of the Primeval van de Primeval Elemental en Gill's Gills van de rare Gill. Linken's Boots of Iron zijn een zeldzame extra drop, en vier quests geven een bekende beloning, zoals Intrepid Explorer's Chainmail en Saltseer's Helm."
 manual: true
 sources:
   - name: "Wowhead, Linken's Boots of Iron"
@@ -26,7 +26,7 @@ dungeon:
   slug: "the-drowned-city"
   tab: "loot"
 ---
-De eerste bekende drop van een baas is <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> van de Primeval Elemental: een trinket die 30 seconden tot 19 spell damage en healing geeft. De rest van de buit van de bazen is nog niet bekend.
+Elke baas laat drie items vallen en de twee rares, Umbra en Gill, elk twee. Er zijn twee trinkets: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> van de Primeval Elemental, die 30 seconden tot 19 spell damage en healing geeft, en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286646"><img class="wf-wh__icon" src="/wh/inv_misc_food_111_icefinfillet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gill's Gills</a> van Gill.
 
 Elke baas kan ook <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> laten vallen: mail-laarzen voor level 33 met 8 Agility en 12 Stamina, een knipoog naar de Iron Boots uit Zelda. Spelers melden dat je ermee over de bodem van het water loopt, maar traag op het land. [Meer in onze post](/nl/news/linkens-boots-of-iron-drop-in-the-drowned-city/).
 

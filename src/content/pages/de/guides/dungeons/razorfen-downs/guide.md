@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Guide zu Razorfen Downs für WoW Forever: Route, Trash und Bosse"
 description: "So spielst du Razorfen Downs in WoW Forever: der Weg hinein im Süden von The Barrens, der Gong von Tuten'kash, die Eskorte von Belnistrasz und die Bosse bis Amnennar the Coldbringer."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-22
 lang: de
 manual: true
 sources:
@@ -74,5 +74,5 @@ Der letzte Boss. Tank ihn mit Blick auf das Zelt, in dem er steht, um Amnennar's
 ## Was noch nicht bekannt ist
 
 - **Die Quests**: Die Forever-Daten haben noch keine für Razorfen Downs.
-- **Die fehlende Beute**, etwa X'caliboar und der Dragonclaw Ring: ob sie noch droppt.
+- **Der Dragonclaw Ring**: ob er noch droppt.
 - **Die Dropchancen** der Beute der Bosse.

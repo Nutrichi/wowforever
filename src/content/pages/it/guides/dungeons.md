@@ -3,7 +3,7 @@ title: "Guida ai dungeon: ogni missione dei dungeon in WoW Forever"
 metaTitle: "Missioni dei dungeon di WoW Forever: ogni dungeon, livello e PNG"
 description: "Ogni dungeon di WoW Forever con i suoi livelli e tutte le sue missioni: dove inizia ciascuna, per quale fazione, cosa serve prima, e le chiavi che alcuni dungeon richiedono."
 short: "Dungeon"
-updated: 2026-11-13
+updated: 2026-11-22
 lang: it
 manual: true
 faq:
@@ -55,8 +55,8 @@ Per i dungeon oltre il livello 30, le missioni vengono dai dati di Classic e pos
 - **[Stratholme Undead](/it/guides/dungeons/stratholme-undead/)**, livelli 58-60: la Key to the City, i tre ziggurat, Slaughter Square, le otto missioni e ogni boss fino a Baron Rivendare.
 - **[The Drowned City](/it/guides/dungeons/the-drowned-city/)**, livelli 35-40: l’ingresso sott’acqua al largo di Stranglethorn Vale, le sue otto missioni e come battere i sei boss e i rari Umbra e Gill.
 - **[Krol'dok Stronghold](/it/guides/dungeons/kroldok-stronghold/)**, livelli 40-45: la fortezza degli ogre nelle Riverglades: l’ingresso in una grotta nascosta, le due chiavi e Overlord Mugg.
-- **[Alcaz Prison](/it/guides/dungeons/alcaz-prison/)**, livelli 48-53: la vecchia prigione al largo di Dustwallow Marsh: il portale nel seminterrato, i Defias e i naga, e Blazeroar.
-- **[Blackmaw Hold](/it/guides/dungeons/blackmaw-hold/)**, livelli 55-60: la città dei furbolg dietro la vecchia porta di Azshara: il tunnel verso Winterspring, le dimensioni e Varrox Bleakhoof.
+- **[Alcaz Prison](/it/guides/dungeons/alcaz-prison/)**, livelli 48-53: la vecchia prigione al largo di Dustwallow Marsh: nemici, cinque boss, sette missioni e il giocattolo Defias nascosto.
+- **[Blackmaw Hold](/it/guides/dungeons/blackmaw-hold/)**, livelli 55-60: la città dei furbolg dietro la vecchia porta di Azshara: nemici, sette boss, quattro rari e nove missioni.
 - **[Shaper's Terrace](/it/guides/dungeons/shapers-terrace/)**, livelli 58-60: il complesso dei titani in Un'Goro Crater: la salita, la struttura, i power crystals e quattro boss per nome.
 
 ## Ogni dungeon per livello
@@ -78,21 +78,21 @@ L’intervallo è la fascia di livelli in cui un gruppo di solito affronta il du
 | [Blackfathom Deeps](/it/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
 | [City of Dalaran](/it/guides/dungeons/city-of-dalaran/) | 28-33 | non ancora note |
 | [Scarlet Monastery: Graveyard](/it/guides/dungeons/scarlet-monastery-graveyard/) | 28-38 | 2 |
-| [Gnomeregan](/it/guides/dungeons/gnomeregan/) | 29-38 | 13 |
+| [Gnomeregan](/it/guides/dungeons/gnomeregan/) | 29-38 | 12 |
 | [Scarlet Monastery: Library](/it/guides/dungeons/scarlet-monastery-library/) | 29-39 | 8 |
 | [Razorfen Kraul](/it/guides/dungeons/razorfen-kraul/) | 30-40 | 7 |
 | [Scarlet Monastery: Armory](/it/guides/dungeons/scarlet-monastery-armory/) | 32-42 | 3 |
 | [The Drowned City](/it/guides/dungeons/the-drowned-city/) | 35-40 | 8 |
 | [Scarlet Monastery: Cathedral](/it/guides/dungeons/scarlet-monastery-cathedral/) | 35-45 | 3 |
-| [Krol'dok Stronghold](/it/guides/dungeons/kroldok-stronghold/) | 40-45 | non ancora note |
-| [Razorfen Downs](/it/guides/dungeons/razorfen-downs/) | 40-50 | 6 |
+| [Krol'dok Stronghold](/it/guides/dungeons/kroldok-stronghold/) | 40-45 | 9 |
+| [Razorfen Downs](/it/guides/dungeons/razorfen-downs/) | 40-50 | 8 |
 | [Uldaman](/it/guides/dungeons/uldaman/) | 42-52 | 14 |
-| [Zul'Farrak](/it/guides/dungeons/zul-farrak/) | 44-54 | 8 |
-| [Maraudon](/it/guides/dungeons/maraudon/) | 45-57 | 11 |
-| [Alcaz Prison](/it/guides/dungeons/alcaz-prison/) | 48-53 | non ancora note |
+| [Zul'Farrak](/it/guides/dungeons/zul-farrak/) | 44-54 | 9 |
+| [Maraudon](/it/guides/dungeons/maraudon/) | 45-57 | 13 |
+| [Alcaz Prison](/it/guides/dungeons/alcaz-prison/) | 48-53 | 7 |
 | [Sunken Temple](/it/guides/dungeons/sunken-temple/) | 50-60 | 9 |
 | [Blackrock Depths](/it/guides/dungeons/blackrock-depths/) | 52-60 | 24 |
-| [Blackmaw Hold](/it/guides/dungeons/blackmaw-hold/) | 55-60 | non ancora note |
+| [Blackmaw Hold](/it/guides/dungeons/blackmaw-hold/) | 55-60 | 9 |
 | [Lower Blackrock Spire](/it/guides/dungeons/lower-blackrock-spire/) | 55-60 | 12 |
 | [Shaper's Terrace](/it/guides/dungeons/shapers-terrace/) | 58-60 | non ancora note |
 | [Upper Blackrock Spire](/it/guides/dungeons/upper-blackrock-spire/) | 58-60 | 12 |

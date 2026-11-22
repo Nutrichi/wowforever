@@ -3,7 +3,7 @@ title: "Maraudon"
 metaTitle: "Maraudon en WoW Forever: botín, jefes y drops"
 description: "El botín de Maraudon en WoW Forever: los drops de los ocho jefes, de Noxxion a Princess Theradras, comprobados en los datos de Forever, y lo que aún falta."
 short: "Maraudon"
-updated: 2026-11-13
+updated: 2026-11-22
 lang: es
 manual: true
 faq:
@@ -22,6 +22,6 @@ dungeon:
   slug: "maraudon"
   tab: "loot"
 ---
-La lista sigue el diario de mazmorras que Blizzard hizo para Maraudon en Classic, y solo muestra los objetos que existen en los datos de Forever. 30 de los 31 objetos ya están en esos datos; solo falta [Blade of Eternal Darkness](https://www.wowhead.com/classic/item=17780).
+La lista sigue el diario de mazmorras que Blizzard hizo para Maraudon en Classic, más el raro Meshlok the Harvester. Todos los objetos ya están en los datos de Forever, incluido <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=17780"><img class="wf-wh__icon" src="/wh/inv_sword_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blade of Eternal Darkness</a> de Princess Theradras.
 
 No se sabe si Blizzard quitó ese objeto para Forever o si simplemente aún no está en los datos. Meshlok the Harvester, el raro de Poison Falls, no está en la lista.

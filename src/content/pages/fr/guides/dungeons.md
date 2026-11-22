@@ -3,7 +3,7 @@ title: "Guide des donjons : chaque quête de donjon dans WoW Forever"
 metaTitle: "Quêtes de donjon de WoW Forever : donjons, niveaux et donneurs"
 description: "Chaque donjon de WoW Forever avec ses niveaux et toutes ses quêtes : où chaque quête commence, pour quelle faction, ce qu’il faut faire avant, et les clés que demandent certains donjons."
 short: "Donjons"
-updated: 2026-11-13
+updated: 2026-11-22
 lang: fr
 manual: true
 faq:
@@ -55,8 +55,8 @@ Pour les donjons au-delà du niveau 30, les quêtes viennent des données de Cla
 - **[Stratholme Undead](/fr/guides/dungeons/stratholme-undead/)**, niveaux 58-60: la Key to the City, les trois ziggourats, Slaughter Square, les huit quêtes et chaque boss jusqu’à Baron Rivendare.
 - **[The Drowned City](/fr/guides/dungeons/the-drowned-city/)**, niveaux 35-40: l’entrée sous l’eau au large de Stranglethorn Vale, ses huit quêtes et comment battre les six boss et les rares Umbra et Gill.
 - **[Krol'dok Stronghold](/fr/guides/dungeons/kroldok-stronghold/)**, niveaux 40-45: la forteresse des ogres des Riverglades : l’entrée dans une grotte cachée, ses deux clés et Overlord Mugg.
-- **[Alcaz Prison](/fr/guides/dungeons/alcaz-prison/)**, niveaux 48-53: la vieille prison au large de Dustwallow Marsh : le portail au sous-sol, les Defias et les nagas, et Blazeroar.
-- **[Blackmaw Hold](/fr/guides/dungeons/blackmaw-hold/)**, niveaux 55-60: la cité furbolg derrière l’ancienne porte d’Azshara : le tunnel vers Winterspring, sa taille et Varrox Bleakhoof.
+- **[Alcaz Prison](/fr/guides/dungeons/alcaz-prison/)**, niveaux 48-53: la vieille prison au large de Dustwallow Marsh : les monstres, cinq boss, sept quêtes et le jouet Defias caché.
+- **[Blackmaw Hold](/fr/guides/dungeons/blackmaw-hold/)**, niveaux 55-60: la cité furbolg derrière l’ancienne porte d’Azshara : les monstres, sept boss, quatre rares et neuf quêtes.
 - **[Shaper's Terrace](/fr/guides/dungeons/shapers-terrace/)**, niveaux 58-60: le site titan d’Un'Goro Crater : l’accès, le plan, les power crystals et quatre boss par leur nom.
 
 ## Chaque donjon par niveau
@@ -78,21 +78,21 @@ La fourchette est la tranche de niveaux dans laquelle un groupe fait d’habitud
 | [Blackfathom Deeps](/fr/guides/dungeons/blackfathom-deeps/) | 24-32 | 13 |
 | [City of Dalaran](/fr/guides/dungeons/city-of-dalaran/) | 28-33 | pas encore connues |
 | [Scarlet Monastery: Graveyard](/fr/guides/dungeons/scarlet-monastery-graveyard/) | 28-38 | 2 |
-| [Gnomeregan](/fr/guides/dungeons/gnomeregan/) | 29-38 | 13 |
+| [Gnomeregan](/fr/guides/dungeons/gnomeregan/) | 29-38 | 12 |
 | [Scarlet Monastery: Library](/fr/guides/dungeons/scarlet-monastery-library/) | 29-39 | 8 |
 | [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/) | 30-40 | 7 |
 | [Scarlet Monastery: Armory](/fr/guides/dungeons/scarlet-monastery-armory/) | 32-42 | 3 |
 | [The Drowned City](/fr/guides/dungeons/the-drowned-city/) | 35-40 | 8 |
 | [Scarlet Monastery: Cathedral](/fr/guides/dungeons/scarlet-monastery-cathedral/) | 35-45 | 3 |
-| [Krol'dok Stronghold](/fr/guides/dungeons/kroldok-stronghold/) | 40-45 | pas encore connues |
-| [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | 40-50 | 6 |
+| [Krol'dok Stronghold](/fr/guides/dungeons/kroldok-stronghold/) | 40-45 | 9 |
+| [Razorfen Downs](/fr/guides/dungeons/razorfen-downs/) | 40-50 | 8 |
 | [Uldaman](/fr/guides/dungeons/uldaman/) | 42-52 | 14 |
-| [Zul'Farrak](/fr/guides/dungeons/zul-farrak/) | 44-54 | 8 |
-| [Maraudon](/fr/guides/dungeons/maraudon/) | 45-57 | 11 |
-| [Alcaz Prison](/fr/guides/dungeons/alcaz-prison/) | 48-53 | pas encore connues |
+| [Zul'Farrak](/fr/guides/dungeons/zul-farrak/) | 44-54 | 9 |
+| [Maraudon](/fr/guides/dungeons/maraudon/) | 45-57 | 13 |
+| [Alcaz Prison](/fr/guides/dungeons/alcaz-prison/) | 48-53 | 7 |
 | [Sunken Temple](/fr/guides/dungeons/sunken-temple/) | 50-60 | 9 |
 | [Blackrock Depths](/fr/guides/dungeons/blackrock-depths/) | 52-60 | 24 |
-| [Blackmaw Hold](/fr/guides/dungeons/blackmaw-hold/) | 55-60 | pas encore connues |
+| [Blackmaw Hold](/fr/guides/dungeons/blackmaw-hold/) | 55-60 | 9 |
 | [Lower Blackrock Spire](/fr/guides/dungeons/lower-blackrock-spire/) | 55-60 | 12 |
 | [Shaper's Terrace](/fr/guides/dungeons/shapers-terrace/) | 58-60 | pas encore connues |
 | [Upper Blackrock Spire](/fr/guides/dungeons/upper-blackrock-spire/) | 58-60 | 12 |

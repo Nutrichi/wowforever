@@ -3,7 +3,7 @@ title: "Zul'Farrak"
 metaTitle: "De gids van Zul'Farrak voor WoW Forever: route, event en bazen"
 description: "Zo speel je Zul'Farrak in WoW Forever: de weg erheen door Tanaris, het trappenevent met Sergeant Bly, Gahz'rilla oproepen met de Mallet en elke baas en rare."
 short: "Gids"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: nl
 manual: true
 sources:
@@ -80,6 +80,4 @@ Hij wacht achter de opgeblazen deur met <a class="wf-wh wf-plain" href="https://
 
 ## Wat nog niet bekend is
 
-- **De beloningen** van de acht quests in de data van Forever.
-- **Vier items** van de loot van Classic die nog niet in de data van Forever staan.
 - **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden.

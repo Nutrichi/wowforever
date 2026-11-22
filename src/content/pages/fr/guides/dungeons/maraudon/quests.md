@@ -1,9 +1,9 @@
 ---
 title: "Maraudon"
 metaTitle: "Les quêtes de Maraudon dans WoW Forever : départ, étapes et chaînes"
-description: "Les onze quêtes de Maraudon dans WoW Forever : les quêtes de chaque faction en Desolace, le Scepter of Celebras, les cinq Khans et la Seed of Life pour Remulos."
+description: "Les treize quêtes de Maraudon dans WoW Forever : les quêtes de chaque faction en Desolace, le Scepter of Celebras, les cinq Khans et la Seed of Life pour Remulos."
 short: "Quêtes"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: fr
 manual: true
 sources:
@@ -14,6 +14,8 @@ dungeon:
   tab: "quests"
 ---
 Les deux factions ont les trois mêmes quêtes, chacune chez ses propres donneurs : Shadowshard Fragments, [Vyletongue Corruption](#quest-7029) et [Corruption of Earth and Seed](#quest-7064). Twisted Evils, The Pariah's Instructions et les deux quêtes de Celebras sont ouvertes à tous. Shadowshard Fragments et The Pariah's Instructions se font dans les grottes devant les portails.
+
+Deux quêtes sont nouvelles dans Forever : <a href="https://www.wowhead.com/forever/quest=96776">An'she's Radiance</a> d'Olana Brighthoof de l'Earthen Ring à Mulgore, pour la Horde, et <a href="https://www.wowhead.com/forever/quest=93404">Rot and Regret</a> de Woodwyrd aux Forlorn Gardens en Desolace, pour les deux factions.
 
 Legends of Maraudon mène à The Scepter of Celebras, qui vous donne le sceptre qui emmène directement à Earth Song Falls. Après Princess Theradras, Zaetar's Spirit donne la Seed of Life, à porter à Keeper Remulos dans Moonglade.
 

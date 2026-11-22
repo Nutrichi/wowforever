@@ -3,7 +3,7 @@ title: "Maraudon"
 metaTitle: "Maraudon in WoW Forever: loot, bazen en drops"
 description: "De loot van Maraudon in WoW Forever: de drops van alle acht de bazen, van Noxxion tot Princess Theradras, nagekeken in de data van Forever, en wat er nog ontbreekt."
 short: "Maraudon"
-updated: 2026-11-13
+updated: 2026-11-22
 lang: nl
 manual: true
 faq:
@@ -22,6 +22,6 @@ dungeon:
   slug: "maraudon"
   tab: "loot"
 ---
-De lijst volgt het dungeon journal dat Blizzard voor Maraudon maakte in Classic, en toont alleen items die in de data van Forever bestaan. 30 van de 31 items staan nu in die data; alleen [Blade of Eternal Darkness](https://www.wowhead.com/classic/item=17780) ontbreekt nog.
+De lijst volgt het dungeon journal dat Blizzard voor Maraudon maakte in Classic, plus de rare Meshlok the Harvester. Elk item staat nu in de data van Forever, ook <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=17780"><img class="wf-wh__icon" src="/wh/inv_sword_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blade of Eternal Darkness</a> van Princess Theradras.
 
 Of Blizzard dat item voor Forever heeft geschrapt of dat het gewoon nog niet in de data staat, is niet bekend. Meshlok the Harvester, de rare bij Poison Falls, staat niet in de lijst.

@@ -1,5 +1,41 @@
 {
  "location": "Azshara, dietro la vecchia porta di pietra",
  "entrance": "Dietro la vecchia porta di pietra di Azshara, dove si apre un tunnel dei furbolg a /way 38.7 33.4. Il tunnel è così profondo che il portale si trova sulla mappa di Winterspring, a /way 66.6 84.4.",
- "quests": {}
+ "quests": {
+  "96246": {
+   "objective": "Raccogli 5 Blackmaw Pouches.",
+   "note": "Da Ekkal presso le Ruins of Eldarath. Non condivisibile."
+  },
+  "92065": {
+   "objective": "Porta la testa di Varrox Bleakhoof a Gatekeeper Rageroar a Ursolan.",
+   "note": "Richiede Neutrale con Timbermaw Hold e la catena di Rageroar, che inizia con The Legashi Threat di Ekkal. Scegli uno di quattro anelli."
+  },
+  "92069": {
+   "objective": "Porta le Claws of the Great Bear e le Tusks of the Unbroken a Ogtinc.",
+   "note": "Withermaw lascia gli artigli, Bonesnout the Unbroken le zanne."
+  },
+  "92066": {
+   "objective": "Trova all'interno il Totem of Ursoc e il Totem of Ursol e portali a Lorekeeper Nok a Ursolan."
+  },
+  "92070": {
+   "objective": "Trova il proprietario della Feathered Charm Necklace.",
+   "note": "Mostri a caso all'interno lasciano la collana, per un solo giocatore. Portala a Unele a Ursolan."
+  },
+  "97173": {
+   "objective": "Recupera un Blackmaw Ritual Totem da Blackmaw Hold.",
+   "note": "Elder Shaman Bloodmane lascia il totem. Reputazione con il Kirin Tor e Darnassus."
+  },
+  "92344": {
+   "objective": "Raccogli 10 Nordrassil Root Caps dentro Blackmaw Hold.",
+   "note": "Inizia con Beneath Nordrassil ad Azshara."
+  },
+  "97198": {
+   "objective": "Recupera un Blackmaw Ritual Totem da Blackmaw Hold.",
+   "note": "Elder Shaman Bloodmane lascia il totem. Reputazione con l'Earthen Ring e Thunder Bluff."
+  },
+  "92343": {
+   "objective": "Raccogli 10 Nordrassil Root Caps dentro Blackmaw Hold.",
+   "note": "Inizia con Beneath Nordrassil di Jediga ad Azshara, /way 22.4 51.4."
+  }
+ }
 }

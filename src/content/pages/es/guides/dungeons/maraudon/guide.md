@@ -3,7 +3,7 @@ title: "Maraudon"
 metaTitle: "Guía de Maraudon para WoW Forever: portales, ruta y jefes"
 description: "Cómo hacer Maraudon en WoW Forever: la entrada por el Valley of Spears, los lados naranja y morado, el Scepter of Celebras y los ocho jefes hasta Theradras."
 short: "Guía"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: es
 manual: true
 sources:
@@ -82,6 +82,4 @@ Tras su muerte, Zaetar's Spirit aparece en el centro del anillo con la Seed of L
 
 ## Lo que aún no se sabe
 
-- **Las recompensas** de las once misiones en los datos de Forever.
-- **Catorce objetos** del botín de Classic que no están en los datos de Forever.
 - **Cambios para Forever**: aún no se conocen. Esta página se actualizará en cuanto los jugadores los encuentren.

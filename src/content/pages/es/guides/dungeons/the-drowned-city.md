@@ -1,9 +1,9 @@
 ---
 title: "The Drowned City"
 metaTitle: "The Drowned City en WoW Forever: botín, jefes y drops"
-description: "The Drowned City es una mazmorra para los niveles 35 a 40 frente a Stranglethorn Vale en WoW Forever. El primer botín conocido es Heart of the Primeval, más cuatro recompensas de misión."
+description: "The Drowned City es una mazmorra para los niveles 35 a 40 frente a Stranglethorn Vale en WoW Forever. Todo el botín de sus seis jefes y dos raros, más las recompensas de misión."
 short: "The Drowned City"
-updated: 2026-11-12
+updated: 2026-11-22
 lang: es
 faq:
   - q: "¿De qué nivel es The Drowned City?"
@@ -11,7 +11,7 @@ faq:
   - q: "¿Dónde está The Drowned City?"
     a: "Bajo el agua frente a la costa de Stranglethorn Vale, hacia /way 21.4 27.9, más allá de The Vile Reef. La entrada es una cueva con una gran losa al lado."
   - q: "¿Qué suelta The Drowned City?"
-    a: "Se conocen dos botines de jefe: Heart of the Primeval del Primeval Elemental, un abalorio que da hasta 19 de daño y sanación de hechizos durante 30 segundos, y Linken's Boots of Iron, unas botas de malla que puede soltar cualquier jefe. Cuatro misiones tienen una recompensa conocida, como Intrepid Explorer's Chainmail y Saltseer's Helm."
+    a: "Cada jefe suelta tres objetos y los dos raros dos cada uno. Los abalorios son Heart of the Primeval del Primeval Elemental y Gill's Gills del raro Gill. Linken's Boots of Iron son un botín raro extra, y cuatro misiones dan recompensas conocidas, como Intrepid Explorer's Chainmail y Saltseer's Helm."
 manual: true
 sources:
   - name: "Wowhead, Linken's Boots of Iron"
@@ -26,7 +26,7 @@ dungeon:
   slug: "the-drowned-city"
   tab: "loot"
 ---
-El primer botín de jefe conocido es <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental: un abalorio que da hasta 19 de daño y sanación de hechizos durante 30 segundos. El resto del botín de los jefes aún no se conoce.
+Cada jefe suelta tres objetos y los dos raros, Umbra y Gill, dos cada uno. Hay dos abalorios: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental, que da hasta 19 de daño y sanación de hechizos durante 30 segundos, y <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286646"><img class="wf-wh__icon" src="/wh/inv_misc_food_111_icefinfillet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gill's Gills</a> de Gill.
 
 Cada jefe también puede soltar <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a>: botas de malla de nivel 33 con 8 de Agilidad y 12 de Aguante, un guiño a las Iron Boots de Zelda. Los jugadores cuentan que con ellas caminas por el fondo del agua, pero despacio en tierra. [Más en nuestra noticia](/es/news/linkens-boots-of-iron-drop-in-the-drowned-city/).
 

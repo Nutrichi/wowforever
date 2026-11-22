@@ -3,7 +3,7 @@ title: "Zul'Farrak"
 metaTitle: "Guida a Zul'Farrak per WoW Forever: percorso, evento e boss"
 description: "Come fare Zul'Farrak in WoW Forever: l’ingresso da Tanaris, l’evento delle scale con Sergeant Bly, evocare Gahz'rilla con il Mallet e ogni boss e raro."
 short: "Guida"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: it
 manual: true
 sources:
@@ -80,6 +80,4 @@ Aspetta dietro la porta saltata con <a class="wf-wh wf-plain" href="https://www.
 
 ## Cosa non si sa ancora
 
-- **Le ricompense** delle otto missioni nei dati di Forever.
-- **Quattro oggetti** del bottino di Classic che non sono ancora nei dati di Forever.
 - **Le modifiche per Forever**: non ancora note. Questa pagina verrà aggiornata appena i giocatori le scopriranno.

@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Guide de Razorfen Downs pour WoW Forever : parcours, trash et boss"
 description: "Comment faire Razorfen Downs dans WoW Forever : l’accès au sud de The Barrens, le gong de Tuten'kash, l’escorte de Belnistrasz et les boss jusqu’à Amnennar the Coldbringer."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-22
 lang: fr
 manual: true
 sources:
@@ -74,5 +74,5 @@ Le dernier boss. Tankez-le face à la tente où il se tient pour bloquer Amnenna
 ## Ce qu’on ne sait pas encore
 
 - **Les quêtes** : les données de Forever n’en ont pas encore pour Razorfen Downs.
-- **Le butin manquant**, comme X'caliboar et le Dragonclaw Ring : s’il tombe encore.
+- **Le Dragonclaw Ring** : s’il tombe encore.
 - **Les taux de butin** des boss.

@@ -1,25 +1,29 @@
 ---
 title: "Blackmaw Hold"
-metaTitle: "Blackmaw Hold dans WoW Forever : butin, boss et drops"
-description: "Blackmaw Hold est un nouveau donjon furbolg pour les niveaux 55 à 60 en Azshara dans WoW Forever, plus grand que Blackrock Depths. Son butin n'est pas encore connu."
+metaTitle: "Blackmaw Hold dans WoW Forever : butin, boss et objets"
+description: "Blackmaw Hold est un donjon furbolg pour les niveaux 55 à 60 en Azshara dans WoW Forever. Tout le butin de ses sept boss et quatre rares, dont quatre bijoux."
 short: "Blackmaw Hold"
-updated: 2026-10-30
+updated: 2026-11-22
 lang: fr
 manual: true
 faq:
-  - q: "Quel niveau pour Blackmaw Hold ?"
-    a: "Les niveaux 55 à 60, selon Blizzard."
+  - q: "Pour quel niveau est Blackmaw Hold ?"
+    a: "Niveaux 55 à 60. Les quêtes demandent le niveau 45 à 55."
   - q: "Où se trouve Blackmaw Hold ?"
-    a: "En Azshara, derrière l'ancienne porte de pierre qui annonçait autrefois Timbermaw Hold, là où s'ouvre un tunnel des furbolgs en /way 38.7 33.4. Le tunnel est si profond que le portail lui-même se trouve sur la carte de Winterspring, en /way 66.6 84.4."
-  - q: "Quelle est la taille de Blackmaw Hold ?"
-    a: "Un peu plus grand que Blackrock Depths, disent les développeurs. Contrairement à Blackrock Depths, un groupe doit pouvoir le faire du début à la fin en une seule session."
+    a: "En Azshara, juste à l'ouest de Timbermaw Hold, derrière l'ancienne porte de pierre où s'ouvre un tunnel des furbolgs en /way 38.7 33.4. Le tunnel est si profond que le portail lui-même se trouve sur la carte de Winterspring, en /way 66.6 84.4."
+  - q: "Quelle taille fait Blackmaw Hold ?"
+    a: "À peu près celle de Maraudon ou Blackrock Depths, avec sept boss et quatre rares. Un groupe doit quand même pouvoir le finir en une session."
   - q: "Que lâche Blackmaw Hold ?"
-    a: "Pas encore connu."
+    a: "Chaque boss lâche trois objets, et quatre d'entre eux un bijou : Bonesnout the Unbroken, Unbound Spirit, Clawbert et Varrox Bleakhoof. Les quatre rares lâchent deux objets chacun."
 sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/guide/blackmaw-hold-dungeon-overview-location-rewards"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/blackmaw-hold/"
 dungeon:
   slug: "blackmaw-hold"
   tab: "loot"
 ---
-Aucun butin de Blackmaw Hold n'est encore connu. Les données du jeu contiennent toutefois quelques objets Blackmaw, présentés dans l'[onglet des quêtes](/fr/guides/dungeons/blackmaw-hold/quests/). Cette page se remplira à mesure que les joueurs le font.
+Chaque boss de Blackmaw Hold lâche trois objets, et quatre d'entre eux un bijou. Withermaw, Bonesnout the Unbroken, Elder Shaman Bloodmane et Varrox Bleakhoof lâchent aussi un objet de quête. Les quatre rares lâchent deux objets chacun, alors regardez bien autour de vous.
+
+La meilleure récompense de quête est un anneau au choix parmi quatre avec Blackmaw Reclamation, voir l'[onglet quêtes](/fr/guides/dungeons/blackmaw-hold/quests/).

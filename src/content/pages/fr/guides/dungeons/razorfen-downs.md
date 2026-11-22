@@ -1,9 +1,9 @@
 ---
 title: "Razorfen Downs"
 metaTitle: "Razorfen Downs dans WoW Forever : butin, boss et objets"
-description: "Tout le butin connu de Razorfen Downs dans WoW Forever : les objets de Tuten'kash, Mordresh Fire Eye, Glutton et Amnennar the Coldbringer, et les objets bleus des monstres."
+description: "Tout le butin de Razorfen Downs dans WoW Forever : celui des six boss, Plaguemaw the Rotting et Ragglesnout compris, et ce que lâchent les monstres."
 short: "Razorfen Downs"
-updated: 2026-11-13
+updated: 2026-11-22
 lang: fr
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Comment invoquer Tuten'kash ?"
     a: "Frappez le gong. Des vagues d’araignées arrivent d’abord ; frappez à nouveau après chaque vague jusqu’à l’apparition de Tuten'kash."
   - q: "Le butin de Razorfen Downs a-t-il changé dans WoW Forever ?"
-    a: "En partie. Glutton's Cleaver, Coldrage Dagger et plusieurs objets de lanceurs de sorts ont de nouvelles caractéristiques. Plaguemaw the Rotting et Ragglesnout n’ont pas encore de butin dans les données de Forever."
+    a: "Oui. Chaque boss a maintenant son propre butin, Plaguemaw the Rotting et Ragglesnout compris. Glutton's Cleaver, Coldrage Dagger et plusieurs objets de lanceurs de sorts ont de nouvelles statistiques, et Glutton, Plaguemaw et Amnennar lâchent chacun un objet nouveau dans Forever."
 sources:
   - name: "Wowhead, the dungeon guide"
     url: "https://www.wowhead.com/forever/guide/razorfen-downs-dungeon-overview-location-rewards"
@@ -22,4 +22,4 @@ dungeon:
   slug: "razorfen-downs"
   tab: "loot"
 ---
-Le butin de Razorfen Downs dans les données de Forever n’est pas encore complet. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10772"><img class="wf-wh__icon" src="/wh/inv_axe_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Glutton's Cleaver</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10761"><img class="wf-wh__icon" src="/wh/inv_sword_34.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Coldrage Dagger</a> et plusieurs objets de lanceurs de sorts ont de nouvelles caractéristiques. Plaguemaw the Rotting et Ragglesnout n’ont pas de butin propre dans les données, et certains objets du trash de Classic manquent.
+Chaque boss de Razorfen Downs a maintenant son propre butin dans les données de Forever, Plaguemaw the Rotting et Ragglesnout compris. <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10772"><img class="wf-wh__icon" src="/wh/inv_axe_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Glutton's Cleaver</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=10761"><img class="wf-wh__icon" src="/wh/inv_sword_34.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Coldrage Dagger</a> et plusieurs objets de lanceurs de sorts ont de nouvelles statistiques, et Glutton, Plaguemaw et Amnennar the Coldbringer lâchent chacun un objet nouveau dans Forever. Onze autres objets tombent des monstres.

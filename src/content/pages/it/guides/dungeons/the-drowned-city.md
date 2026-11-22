@@ -1,9 +1,9 @@
 ---
 title: "The Drowned City"
 metaTitle: "The Drowned City in WoW Forever: bottino, boss e drop"
-description: "The Drowned City è un dungeon per i livelli 35-40 al largo di Stranglethorn Vale in WoW Forever. Il primo bottino noto è Heart of the Primeval, più quattro ricompense delle missioni."
+description: "The Drowned City è un dungeon per i livelli da 35 a 40 al largo di Stranglethorn Vale in WoW Forever. Tutto il bottino dei sei boss e due rari, più le ricompense delle missioni."
 short: "The Drowned City"
-updated: 2026-11-12
+updated: 2026-11-22
 lang: it
 faq:
   - q: "Di che livello è The Drowned City?"
@@ -11,7 +11,7 @@ faq:
   - q: "Dove si trova The Drowned City?"
     a: "Sott'acqua al largo di Stranglethorn Vale, verso /way 21.4 27.9, oltre The Vile Reef. L'ingresso è una grotta con una grande lastra accanto."
   - q: "Cosa lascia The Drowned City?"
-    a: "Si conoscono due bottini dei boss: Heart of the Primeval del Primeval Elemental, un monile che dà fino a 19 di danni e cure magiche per 30 secondi, e Linken's Boots of Iron, stivali di maglia che può lasciare qualsiasi boss. Quattro missioni hanno una ricompensa nota, come Intrepid Explorer's Chainmail e Saltseer's Helm."
+    a: "Ogni boss lascia tre oggetti e i due rari due ciascuno. I monili sono Heart of the Primeval del Primeval Elemental e Gill's Gills del raro Gill. Linken's Boots of Iron sono un drop raro in più, e quattro missioni danno ricompense note, come Intrepid Explorer's Chainmail e Saltseer's Helm."
 manual: true
 sources:
   - name: "Wowhead, Linken's Boots of Iron"
@@ -26,7 +26,7 @@ dungeon:
   slug: "the-drowned-city"
   tab: "loot"
 ---
-Il primo bottino noto dei boss è <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental: un monile che dà fino a 19 di danni e cure magiche per 30 secondi. Il resto del bottino dei boss non è ancora noto.
+Ogni boss lascia tre oggetti e i due rari, Umbra e Gill, due ciascuno. Ci sono due monili: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> del Primeval Elemental, che dà fino a 19 di danni e cure magiche per 30 secondi, e <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286646"><img class="wf-wh__icon" src="/wh/inv_misc_food_111_icefinfillet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gill's Gills</a> di Gill.
 
 Ogni boss può anche lasciare <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a>: stivali di maglia di livello 33 con 8 di Agilità e 12 di Tempra, un omaggio agli Iron Boots di Zelda. I giocatori riferiscono che con questi cammini sul fondo dell'acqua, ma lentamente sulla terra. [Di più nella nostra notizia](/it/news/linkens-boots-of-iron-drop-in-the-drowned-city/).
 

@@ -1,9 +1,9 @@
 ---
 title: "Gnomeregan"
 metaTitle: "Le missioni di Gnomeregan in WoW Forever: inizio, passaggi e ricompense"
-description: "Le dieci missioni di Gnomeregan in WoW Forever: quelle dell’Alliance da Tinker Town e Kharanos, Rig Wars per la Horde, le tre missioni interne e le ricompense."
+description: "Le dodici missioni di Gnomeregan in WoW Forever: quelle dell’Alliance da Tinker Town e Kharanos, Rig Wars per la Horde, le tre missioni interne e le ricompense."
 short: "Missioni"
-updated: 2026-10-19
+updated: 2026-11-22
 lang: it
 manual: true
 sources:
@@ -14,6 +14,8 @@ dungeon:
   tab: "quests"
 ---
 Quasi tutte le missioni sono per l’Alliance e iniziano a Tinker Town, a Ironforge; danno anche reputazione con i Gnomeregan Exiles. The Only Cure is More Green Glow segue Gnogaine di Ozzie Togglevolt a Kharanos: usa la fiala accanto a un trogg irradiato vivo, e poi accanto a slimes, lurkers e horrors irradiati. La seconda fiala deve tornare da Ozzie entro 2 ore.
+
+<a href="https://www.wowhead.com/forever/quest=2947">Return of the Ring</a> inizia con il Brilliant Gold Ring che può dare la Sparklematic 5200: l'Alleanza lo porta a Talvash del Kissel a Ironforge, l'Orda a Nogg a Orgrimmar (<a href="https://www.wowhead.com/forever/quest=2949">Return of the Ring</a>).
 
 La Horde ha Rig Wars da Nogg a Orgrimmar. Sovik, accanto a lui, dà <a href="https://www.wowhead.com/forever/quest=2842">Chief Engineer Scooty</a>, che porta al <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9173"><img class="wf-wh__icon" src="/wh/inv_battery_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Goblin Transponder</a>: la via d’ingresso per la Horde.
 

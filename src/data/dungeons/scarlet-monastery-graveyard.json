@@ -23,18 +23,42 @@
     7684,
     274291
    ]
+  },
+  {
+   "name": "Azshir the Sleepless",
+   "slug": "azshir-the-sleepless",
+   "level": "",
+   "npc": 6490,
+   "items": [
+    7709,
+    7708,
+    7731
+   ]
+  },
+  {
+   "name": "Fallen Champion",
+   "slug": "fallen-champion",
+   "level": "",
+   "npc": 6488,
+   "items": [
+    7691,
+    7690,
+    7689
+   ]
+  },
+  {
+   "name": "Ironspine",
+   "slug": "ironspine",
+   "level": "",
+   "npc": 6489,
+   "items": [
+    7688,
+    7687,
+    7686
+   ]
   }
  ],
  "loose": [
-  7709,
-  7708,
-  7731,
-  7691,
-  7690,
-  7689,
-  7688,
-  7687,
-  7686,
   7754,
   10332,
   7752,

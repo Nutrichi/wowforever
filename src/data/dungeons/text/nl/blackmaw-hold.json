@@ -1,5 +1,41 @@
 {
  "location": "Azshara, achter de oude stenen poort",
  "entrance": "Achter de oude stenen poort in Azshara, waar een tunnel van de furbolgs opent op /way 38.7 33.4. De tunnel loopt zo diep dat het portaal zelf op de kaart van Winterspring ligt, op /way 66.6 84.4.",
- "quests": {}
+ "quests": {
+  "96246": {
+   "objective": "Verzamel 5 Blackmaw Pouches.",
+   "note": "Van Ekkal bij de Ruins of Eldarath. Niet te delen."
+  },
+  "92065": {
+   "objective": "Breng het hoofd van Varrox Bleakhoof naar Gatekeeper Rageroar in Ursolan.",
+   "note": "Vraagt Neutral bij Timbermaw Hold en de eigen reeks van Rageroar, die begint met The Legashi Threat van Ekkal. Kies een van vier ringen."
+  },
+  "92069": {
+   "objective": "Breng de Claws of the Great Bear en de Tusks of the Unbroken naar Ogtinc.",
+   "note": "Withermaw laat de klauwen vallen, Bonesnout the Unbroken de slagtanden."
+  },
+  "92066": {
+   "objective": "Zoek binnen de Totem of Ursoc en de Totem of Ursol en breng ze naar Lorekeeper Nok in Ursolan."
+  },
+  "92070": {
+   "objective": "Zoek de eigenaar van de Feathered Charm Necklace.",
+   "note": "Willekeurige monsters binnen laten de ketting vallen, voor één speler. Breng hem naar Unele in Ursolan."
+  },
+  "97173": {
+   "objective": "Haal een Blackmaw Ritual Totem uit Blackmaw Hold.",
+   "note": "Elder Shaman Bloodmane laat de totem vallen. Reputatie bij de Kirin Tor en Darnassus."
+  },
+  "92344": {
+   "objective": "Verzamel binnen in Blackmaw Hold 10 Nordrassil Root Caps.",
+   "note": "Begint met Beneath Nordrassil in Azshara."
+  },
+  "97198": {
+   "objective": "Haal een Blackmaw Ritual Totem uit Blackmaw Hold.",
+   "note": "Elder Shaman Bloodmane laat de totem vallen. Reputatie bij de Earthen Ring en Thunder Bluff."
+  },
+  "92343": {
+   "objective": "Verzamel binnen in Blackmaw Hold 10 Nordrassil Root Caps.",
+   "note": "Begint met Beneath Nordrassil van Jediga in Azshara, /way 22.4 51.4."
+  }
+ }
 }

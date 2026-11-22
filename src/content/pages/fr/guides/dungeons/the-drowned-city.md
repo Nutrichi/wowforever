@@ -1,9 +1,9 @@
 ---
 title: "The Drowned City"
 metaTitle: "The Drowned City dans WoW Forever : butin, boss et drops"
-description: "The Drowned City est un donjon pour les niveaux 35 à 40 au large de Stranglethorn Vale dans WoW Forever. Le premier butin connu est Heart of the Primeval, plus quatre récompenses de quête."
+description: "The Drowned City est un donjon pour les niveaux 35 à 40 au large de Stranglethorn Vale dans WoW Forever. Tout le butin de ses six boss et deux rares, plus les récompenses de quête."
 short: "The Drowned City"
-updated: 2026-11-12
+updated: 2026-11-22
 lang: fr
 faq:
   - q: "Quel est le niveau de The Drowned City ?"
@@ -11,7 +11,7 @@ faq:
   - q: "Où se trouve The Drowned City ?"
     a: "Sous l'eau au large de Stranglethorn Vale, vers /way 21.4 27.9, au-delà de The Vile Reef. L'entrée est une grotte avec une grande stèle à côté."
   - q: "Que lâche The Drowned City ?"
-    a: "Deux butins de boss sont connus : Heart of the Primeval du Primeval Elemental, un bijou qui donne jusqu'à 19 de dégâts et de soins des sorts pendant 30 secondes, et Linken's Boots of Iron, des bottes en mailles que tous les boss peuvent laisser. Quatre quêtes ont une récompense connue, comme Intrepid Explorer's Chainmail et Saltseer's Helm."
+    a: "Chaque boss lâche trois objets et les deux rares deux chacun. Les bijoux sont Heart of the Primeval sur le Primeval Elemental et Gill's Gills sur le rare Gill. Linken's Boots of Iron sont un butin rare en plus, et quatre quêtes donnent des récompenses connues, comme Intrepid Explorer's Chainmail et Saltseer's Helm."
 manual: true
 sources:
   - name: "Wowhead, Linken's Boots of Iron"
@@ -26,7 +26,7 @@ dungeon:
   slug: "the-drowned-city"
   tab: "loot"
 ---
-Le premier butin de boss connu est <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> du Primeval Elemental : un bijou qui donne jusqu'à 19 de dégâts et de soins des sorts pendant 30 secondes. Le reste du butin des boss n'est pas encore connu.
+Chaque boss lâche trois objets et les deux rares, Umbra et Gill, deux chacun. Il y a deux bijoux : <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> du Primeval Elemental, qui donne jusqu'à 19 de dégâts et de soins des sorts pendant 30 secondes, et <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286646"><img class="wf-wh__icon" src="/wh/inv_misc_food_111_icefinfillet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gill's Gills</a> de Gill.
 
 Chaque boss peut aussi laisser <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a> : des bottes en mailles de niveau 33 avec 8 d'Agilité et 12 d'Endurance, un clin d'œil aux Iron Boots de Zelda. Des joueurs rapportent qu'on marche avec au fond de l'eau, mais lentement sur terre. [Plus dans notre article](/fr/news/linkens-boots-of-iron-drop-in-the-drowned-city/).
 

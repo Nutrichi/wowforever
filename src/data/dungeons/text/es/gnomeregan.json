@@ -40,6 +40,14 @@
   "2945": {
    "objective": "Limpia el Grime-Encrusted Ring en The Sparklematic 5200.",
    "note": "El anillo cae de los Dark Iron Agents. Return of the Ring va luego a Talvash del Kissel en Ironforge o a Nogg en Orgrimmar."
+  },
+  "2947": {
+   "objective": "Quédate el Brilliant Gold Ring o llévalo a quien lo grabó.",
+   "note": "Empieza con el Brilliant Gold Ring que puede dar la Sparklematic 5200. Termina con Talvash del Kissel en Ironforge."
+  },
+  "2949": {
+   "objective": "Quédate el Brilliant Gold Ring o llévalo a quien lo grabó.",
+   "note": "Empieza con el Brilliant Gold Ring que puede dar la Sparklematic 5200. Termina con Nogg en Orgrimmar, seguida de Nogg's Ring Redo."
   }
  }
 }

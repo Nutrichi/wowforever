@@ -1,5 +1,41 @@
 {
  "location": "Azshara, hinter dem alten Steintor",
  "entrance": "Hinter dem alten Steintor in Azshara, wo sich ein Tunnel der Furbolgs bei /way 38.7 33.4 öffnet. Der Tunnel reicht so tief, dass das Portal selbst auf der Karte von Winterspring liegt, bei /way 66.6 84.4.",
- "quests": {}
+ "quests": {
+  "96246": {
+   "objective": "Sammle 5 Blackmaw Pouches.",
+   "note": "Von Ekkal bei den Ruins of Eldarath. Nicht teilbar."
+  },
+  "92065": {
+   "objective": "Bring den Kopf von Varrox Bleakhoof zu Gatekeeper Rageroar in Ursolan.",
+   "note": "Braucht Neutral bei Timbermaw Hold und die eigene Reihe von Rageroar, die mit The Legashi Threat von Ekkal beginnt. Wähle einen von vier Ringen."
+  },
+  "92069": {
+   "objective": "Bring die Claws of the Great Bear und die Tusks of the Unbroken zu Ogtinc.",
+   "note": "Withermaw lässt die Klauen fallen, Bonesnout the Unbroken die Hauer."
+  },
+  "92066": {
+   "objective": "Finde drinnen den Totem of Ursoc und den Totem of Ursol und bring sie zu Lorekeeper Nok in Ursolan."
+  },
+  "92070": {
+   "objective": "Finde den Besitzer der Feathered Charm Necklace.",
+   "note": "Zufällige Monster drinnen lassen die Kette fallen, nur für einen Spieler. Bring sie zu Unele in Ursolan."
+  },
+  "97173": {
+   "objective": "Hole einen Blackmaw Ritual Totem aus Blackmaw Hold.",
+   "note": "Elder Shaman Bloodmane lässt den Totem fallen. Ruf bei der Kirin Tor und Darnassus."
+  },
+  "92344": {
+   "objective": "Sammle in Blackmaw Hold 10 Nordrassil Root Caps.",
+   "note": "Beginnt mit Beneath Nordrassil in Azshara."
+  },
+  "97198": {
+   "objective": "Hole einen Blackmaw Ritual Totem aus Blackmaw Hold.",
+   "note": "Elder Shaman Bloodmane lässt den Totem fallen. Ruf beim Earthen Ring und Thunder Bluff."
+  },
+  "92343": {
+   "objective": "Sammle in Blackmaw Hold 10 Nordrassil Root Caps.",
+   "note": "Beginnt mit Beneath Nordrassil von Jediga in Azshara, /way 22.4 51.4."
+  }
+ }
 }

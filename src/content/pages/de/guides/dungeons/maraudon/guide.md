@@ -3,7 +3,7 @@ title: "Maraudon"
 metaTitle: "Guide zu Maraudon für WoW Forever: Portale, Route und Bosse"
 description: "So spielst du Maraudon in WoW Forever: die Anreise durch das Valley of Spears, die orange und die lila Seite, das Scepter of Celebras und alle acht Bosse bis Theradras."
 short: "Guide"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: de
 manual: true
 sources:
@@ -82,6 +82,4 @@ Nach ihrem Tod erscheint Zaetar's Spirit in der Mitte des Rings mit der Seed of 
 
 ## Was noch nicht bekannt ist
 
-- **Die Belohnungen** der elf Quests in den Daten von Forever.
-- **Vierzehn Gegenstände** der Beute aus Classic, die nicht in den Daten von Forever stehen.
 - **Änderungen für Forever**: noch nicht bekannt. Diese Seite wird aktualisiert, sobald Spieler sie finden.

@@ -3,7 +3,7 @@ title: "Maraudon"
 metaTitle: "Guide de Maraudon pour WoW Forever : portails, parcours et boss"
 description: "Comment faire Maraudon dans WoW Forever : l’accès par la Valley of Spears, les côtés orange et violet, le Scepter of Celebras et les huit boss jusqu’à Theradras."
 short: "Guide"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: fr
 manual: true
 sources:
@@ -82,6 +82,4 @@ Après sa mort, Zaetar's Spirit apparaît au milieu de l’anneau avec la Seed o
 
 ## Ce qu’on ne sait pas encore
 
-- **Les récompenses** des onze quêtes dans les données de Forever.
-- **Quatorze objets** du butin de Classic qui ne sont pas dans les données de Forever.
 - **Les changements pour Forever** : pas encore connus. Cette page sera mise à jour dès que les joueurs les trouveront.

@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Guía de Razorfen Downs para WoW Forever: ruta, trash y jefes"
 description: "Cómo hacer Razorfen Downs en WoW Forever: la entrada al sur de The Barrens, el gong de Tuten'kash, la escolta de Belnistrasz y los jefes hasta Amnennar the Coldbringer."
 short: "Guía"
-updated: 2026-10-19
+updated: 2026-11-22
 lang: es
 manual: true
 sources:
@@ -74,5 +74,5 @@ El último jefe. Tanquéalo de cara a la tienda donde está para bloquear Amnenn
 ## Lo que aún no se sabe
 
 - **Las misiones**: los datos de Forever aún no tienen ninguna para Razorfen Downs.
-- **El botín que falta**, como X'caliboar y el Dragonclaw Ring: si sigue cayendo.
+- **El Dragonclaw Ring**: si sigue cayendo.
 - **Las probabilidades de botín** de los jefes.

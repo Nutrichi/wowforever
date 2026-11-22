@@ -1,5 +1,34 @@
 {
  "location": "Dustwallow Marsh, auf Alcaz Island vor der Küste",
  "entrance": "Im Keller des großen Gebäudes auf Alcaz Island vor der Küste von Dustwallow Marsh, etwa bei /way 75 15. Vom Steg aus den Pfad links den Hügel hinauf.",
- "quests": {}
+ "quests": {
+  "96772": {
+   "objective": "Hole Zarla's Journal aus den Tiefen von Alcaz Prison.",
+   "note": "Von Archmage Lan'dalock in Dalaran. Zarla Ober lässt das Tagebuch fallen. Ruf bei der Kirin Tor und Stormwind."
+  },
+  "95262": {
+   "objective": "Betritt Alcaz Prison und finde heraus, was aus dem König von Stormwind wurde.",
+   "note": "Letzter Schritt der SI:7-Reihe, die mit Our Man in Theramore von Master Mathias Shaw in Stormwind beginnt. Die Belohnung gibt es mit Shaw Needs To Know, zurück in Stormwind."
+  },
+  "96381": {
+   "objective": "Töte 15 Strashaz Soldiers und 8 Strashaz Enchantresses und bring den Kopf von Tidemistress Ca'zass.",
+   "note": "Von Sully McCleary in Dustwallow Marsh, nach Our Man in Theramore."
+  },
+  "95309": {
+   "objective": "Betritt Alcaz Prison und finde Commander Folkar.",
+   "note": "Letzter Schritt der Reihe, die mit The Missing Kor'kron von Eitrigg in Orgrimmar beginnt. Drinnen geht es mit The Honor of the Kor'kron und Bad News for Folkar weiter, die Belohnung gibt es mit Thrall Needs to Know in Orgrimmar."
+  },
+  "96332": {
+   "objective": "Töte 15 Strashaz Soldiers und 8 Strashaz Enchantresses und bring den Kopf von Tidemistress Ca'zass.",
+   "note": "Von Sergeant Ulka auf Alcaz Island, nach The Missing Kor'kron. Die Horde-Version von A Bit of Wet Work."
+  },
+  "96334": {
+   "objective": "Sammle 8 Blood Red Bandanas von den menschlichen Wachen drinnen.",
+   "note": "Von Sergeant Ulka auf Alcaz Island; Abgabe bei Eitrigg in Orgrimmar."
+  },
+  "96335": {
+   "objective": "Hole den Ornate Shackle Key von The Questioner.",
+   "note": "Erscheint nur nach dem letzten Boss, wenn The Questioner noch lebt. Der Anfang des Defias-Verkleidungsspielzeugs, siehe Guide."
+  }
+ }
 }

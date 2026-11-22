@@ -1,25 +1,24 @@
 ---
 title: "Blackmaw Hold"
-metaTitle: "Misiones de Blackmaw Hold en WoW Forever: lo que se sabe"
-description: "Aún no se conocen misiones de Blackmaw Hold en WoW Forever. Los datos del juego tienen dos objetos de misión, entre ellos la cabeza del jefe, y dos para ganarse a los Blackmaw."
+metaTitle: "Misiones de Blackmaw Hold en WoW Forever: PNJ, tareas, premios"
+description: "Las nueve misiones de Blackmaw Hold en WoW Forever: cinco para ambas facciones de los Timbermaw de Ursolan, y Blackmaw Magic y Get to the Roots of It por facción."
 short: "Misiones"
-updated: 2026-10-30
+updated: 2026-11-22
 lang: es
 manual: true
 sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/guide/blackmaw-hold-dungeon-overview-location-rewards"
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/guides/blackmaw-hold/"
 dungeon:
   slug: "blackmaw-hold"
   tab: "quests"
 ---
-Aún no se conocen misiones de Blackmaw Hold. Los datos del juego dan algunas pistas.
+Blackmaw Hold tiene nueve misiones, o sea siete por personaje. Cinco son para ambas facciones y vienen de los Timbermaw en Azshara, la mayoría en Ursolan, al norte de las Ruins of Eldarath. Todas dan reputación con Timbermaw Hold. Cada facción recibe además Blackmaw Magic desde Dalaran o Thunder Bluff y Get to the Roots of It desde Darnassus o Thunder Bluff.
 
-| Objeto | Lo que se sabe |
-|---|---|
-| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=249692"><img class="wf-wh__icon" src="/wh/spell_shadow_zdemonformgreen.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Head of Varrox Bleakhoof</a> | Un objeto de misión, así que es probable una misión para matar al jefe. |
-| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=276893"><img class="wf-wh__icon" src="/wh/spell_nature_agitatingtotem.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blackmaw Ritual Totem</a> | Un objeto de misión. |
-| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=273050"><img class="wf-wh__icon" src="/wh/inv_misc_bag_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blackmaw Pouch</a> | Se recoge para los furbolgs Blackmaw de Ursolan, en Azshara, para ganarse su confianza. |
-| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=235256"><img class="wf-wh__icon" src="/wh/inv_misc_monsterhorn_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Severed Legashi Horn</a> | Se recoge para los furbolgs Blackmaw, para ganarse su confianza. |
+La mejor recompensa viene de Blackmaw Reclamation: un anillo a elegir entre cuatro por la cabeza de Varrox Bleakhoof. Gatekeeper Rageroar solo la da tras su propia cadena, que pide Neutral con Timbermaw Hold y empieza con The Legashi Threat de Ekkal. Haz esa cadena antes de tu primera visita.
 
-Ganarse su confianza apunta a una reputación con los Blackmaw, pero no está confirmado.
+A Lost Memento empieza con el Feathered Charm Necklace, que sueltan monstruos al azar dentro. No se comparte: solo un jugador puede recogerlo.
+
+Los jefes, los enemigos y la entrada están en la [guía](/es/guides/dungeons/blackmaw-hold/guide/).

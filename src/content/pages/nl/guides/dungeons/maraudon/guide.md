@@ -3,7 +3,7 @@ title: "Maraudon"
 metaTitle: "De gids van Maraudon voor WoW Forever: portalen, route en bazen"
 description: "Zo speel je Maraudon in WoW Forever: de weg erheen door de Valley of Spears, de oranje en de paarse kant, de Scepter of Celebras en alle acht de bazen tot Theradras."
 short: "Gids"
-updated: 2026-10-27
+updated: 2026-11-22
 lang: nl
 manual: true
 sources:
@@ -82,6 +82,4 @@ Na haar dood verschijnt Zaetar's Spirit in het midden van de ring met de Seed of
 
 ## Wat nog niet bekend is
 
-- **De beloningen** van de elf quests in de data van Forever.
-- **Veertien items** van de loot van Classic die niet in de data van Forever staan.
 - **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden.

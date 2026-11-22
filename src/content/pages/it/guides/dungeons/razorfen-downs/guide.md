@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Guida a Razorfen Downs per WoW Forever: percorso, trash e boss"
 description: "Come affrontare Razorfen Downs in WoW Forever: l’ingresso a sud di The Barrens, il gong di Tuten'kash, la scorta di Belnistrasz e i boss fino ad Amnennar the Coldbringer."
 short: "Guida"
-updated: 2026-10-19
+updated: 2026-11-22
 lang: it
 manual: true
 sources:
@@ -74,5 +74,5 @@ L’ultimo boss. Tankatelo rivolto verso la tenda dove si trova per bloccare Amn
 ## Cosa non si sa ancora
 
 - **Le missioni**: i dati di Forever non ne hanno ancora per Razorfen Downs.
-- **Il bottino mancante**, come X'caliboar e il Dragonclaw Ring: se cade ancora.
+- **Il Dragonclaw Ring**: se cade ancora.
 - **Le probabilità di drop** del bottino dei boss.

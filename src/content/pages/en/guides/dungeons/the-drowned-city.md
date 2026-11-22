@@ -1,9 +1,9 @@
 ---
 title: "The Drowned City"
 metaTitle: "The Drowned City in WoW Forever: loot, bosses and drops"
-description: "The Drowned City is a dungeon for levels 35 to 40 off Stranglethorn Vale in WoW Forever. The first known drop is Heart of the Primeval, plus four quest rewards."
+description: "The Drowned City is a dungeon for levels 35 to 40 off Stranglethorn Vale in WoW Forever. All loot of its six bosses and two rares, plus the quest rewards."
 short: "The Drowned City"
-updated: 2026-11-12
+updated: 2026-11-22
 lang: en
 faq:
   - q: "What level is The Drowned City?"
@@ -11,7 +11,7 @@ faq:
   - q: "Where is The Drowned City?"
     a: "Under water off the coast of Stranglethorn Vale, around /way 21.4 27.9, past The Vile Reef. The entrance is a cave with a large tablet beside it."
   - q: "What does The Drowned City drop?"
-    a: "Two boss drops are known: Heart of the Primeval from the Primeval Elemental, a trinket with up to 19 spell damage and healing for 30 seconds, and Linken's Boots of Iron, mail boots that can drop from any boss. Four quests give known rewards, such as Intrepid Explorer's Chainmail and Saltseer's Helm."
+    a: "Every boss drops three items and the two rares two each. The trinkets are Heart of the Primeval from the Primeval Elemental and Gill's Gills from the rare Gill. Linken's Boots of Iron are a rare extra drop, and four quests give known rewards, such as Intrepid Explorer's Chainmail and Saltseer's Helm."
 sources:
   - name: "Wowhead, Linken's Boots of Iron"
     url: "https://www.wowhead.com/forever/news/loot-ocarina-of-time-boots-from-drowned-city-in-wow-forever-383842"
@@ -25,7 +25,7 @@ dungeon:
   slug: "the-drowned-city"
   tab: "loot"
 ---
-The first known boss drop is <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> from the Primeval Elemental: a trinket that adds up to 19 spell damage and healing for 30 seconds. The rest of the boss loot is not known yet.
+Every boss drops three items and the two rares, Umbra and Gill, two each. There are two trinkets: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274615"><img class="wf-wh__icon" src="/wh/inv_elemental_primal_water.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Heart of the Primeval</a> from the Primeval Elemental, which adds up to 19 spell damage and healing for 30 seconds, and <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=286646"><img class="wf-wh__icon" src="/wh/inv_misc_food_111_icefinfillet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gill's Gills</a> from Gill.
 
 Every boss can also drop <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=271718"><img class="wf-wh__icon" src="/wh/inv_boots_chain_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Linken's Boots of Iron</a>: mail boots for level 33 with 8 Agility and 12 Stamina, a nod to the Iron Boots of Zelda. Players report that you walk along the bottom of the water with them, but slowly on land. [More in our post](/news/linkens-boots-of-iron-drop-in-the-drowned-city/).
 
