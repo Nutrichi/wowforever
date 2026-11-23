@@ -59,7 +59,7 @@ The [talent calculator](/talents/warlock/) has the Warlock trees of WoW Forever.
 | Spec | Stats, most important first |
 |---|---|
 | **Affliction** | Spell damage and Shadow damage, Stamina and Spirit, Intellect |
-| **Demonology** | Spell power, Shadow and Fire damage, Stamina and Spirit, Intellect |
+| **Demonology** | [BiS list](/bis/forever/preraid/warlock-demonology/) |
 | **Destruction** | Spell damage, critical strike chance, hit, Intellect |
 
 Stamina gives more health to tap, and Spirit more mana between fights.

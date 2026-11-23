@@ -65,7 +65,7 @@
    "items": [
     {
      "name": "Stalwart Cloak",
-     "source": "75x {currency:3469}"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Shifting Cloak",
@@ -133,7 +133,7 @@
    "items": [
     {
      "name": "Valiant's Waistguard",
-     "source": "100x {currency:3469}"
+     "source": "Reals vendor in Booty Bay (100 Reals)"
     },
     {
      "name": "Brigam Girdle",
@@ -218,7 +218,7 @@
    "items": [
     {
      "name": "Adaptive Combat Assistant",
-     "source": "125x {currency:3469}"
+     "source": "Reals vendor in Booty Bay (125 Reals)"
     },
     {
      "name": "Heart of Wyrmthalak",
@@ -256,7 +256,7 @@
     },
     {
      "name": "Persuader",
-     "source": "{skill:164}"
+     "source": "Crafted with Blacksmithing"
     },
     {
      "name": "Iceblade Hacker",

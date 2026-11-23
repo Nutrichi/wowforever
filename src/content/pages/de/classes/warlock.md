@@ -60,7 +60,7 @@ Der [Talentrechner](/de/talents/warlock/) hat die Warlock-Bäume von WoW Forever
 | Spec | Werte, wichtigster zuerst |
 |---|---|
 | **Affliction** | Spell damage und Shadow damage, Stamina und Spirit, Intellect |
-| **Demonology** | Zaubermacht, Shadow und Fire damage, Stamina und Spirit, Intellect |
+| **Demonology** | [BiS-Liste](/de/bis/forever/preraid/warlock-demonology/) |
 | **Destruction** | Spell damage, kritische Trefferchance, Trefferchance, Intellect |
 
 Stamina gibt mehr Health zum Tappen, und Spirit mehr Mana zwischen den Kämpfen.

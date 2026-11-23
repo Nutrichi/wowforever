@@ -30978,7 +30978,7 @@
     },
     "Ironbark Staff": {
       "kind": "item",
-      "id": 20220,
+      "id": 20069,
       "icon": "inv_wand_04",
       "quality": 4
     },
@@ -33885,6 +33885,42 @@
       "id": 22333,
       "icon": "inv_hammer_04",
       "quality": 3
+    },
+    "Feralheart Cowl": {
+      "kind": "item",
+      "id": 226773,
+      "icon": "inv_helmet_27",
+      "quality": 4
+    },
+    "Feralheart Vest": {
+      "kind": "item",
+      "id": 226776,
+      "icon": "inv_chest_plate06",
+      "quality": 4
+    },
+    "Feralheart Wraps": {
+      "kind": "item",
+      "id": 226775,
+      "icon": "inv_bracer_09",
+      "quality": 3
+    },
+    "Feralheart Hands": {
+      "kind": "item",
+      "id": 226777,
+      "icon": "inv_gauntlets_17",
+      "quality": 4
+    },
+    "Nanaya's Control Spire": {
+      "kind": "item",
+      "id": 280023,
+      "icon": "inv_jewelry_talisman_17",
+      "quality": 3
+    },
+    "Tome of Shadow Force": {
+      "kind": "item",
+      "id": 19309,
+      "icon": "inv_misc_book_06",
+      "quality": 4
     }
   }
 }

@@ -5,7 +5,7 @@
  "spec": "balance",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-17",
+ "updated": "2026-11-20",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -13,16 +13,16 @@
    "slot": "Head",
    "items": [
     {
+     "name": "Feralheart Cowl",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
      "name": "Spellweaver's Turban",
-     "source": "General Drakkisath in Blackrock Spire"
+     "source": "General Drakkisath in in Blackrock Spire"
     },
     {
      "name": "Master's Hat",
      "source": "World drop"
-    },
-    {
-     "name": "Mask of the Unforgiven",
-     "source": "The Unforgiven in Stratholme"
     }
    ]
   },
@@ -35,11 +35,11 @@
     },
     {
      "name": "Nacreous Shell Necklace",
-     "source": "Cannon Master Willey in Stratholme"
+     "source": "Cannon Master Willey in in Stratholme"
     },
     {
      "name": "Chains of the Lich",
-     "source": "Balzaphon in Stratholme"
+     "source": "Balzaphon in in Stratholme"
     }
    ]
   },
@@ -65,11 +65,11 @@
    "items": [
     {
      "name": "Arcanoweave Cloak",
-     "source": "Pix Xizzix in Stranglethorn Vale"
+     "source": "Pix Xizzix in in Stranglethorn Vale"
     },
     {
      "name": "Archivist Cape",
-     "source": "Archivist Galford in Stratholme"
+     "source": "Archivist Galford in in Stratholme"
     },
     {
      "name": "Master's Cloak",
@@ -81,16 +81,16 @@
    "slot": "Chest",
    "items": [
     {
+     "name": "Feralheart Vest",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
      "name": "Robes of Dark Summons",
-     "source": "Impaan the Imprisoner in Blackmaw Hold"
+     "source": "Impaan the Imprisoner in in Blackmaw Hold"
     },
     {
      "name": "Ironfeather Breastplate",
      "source": "Crafted with Leatherworking"
-    },
-    {
-     "name": "Robe of Everlasting Night",
-     "source": "Immol'thar in Dire Maul"
     }
    ]
   },
@@ -98,16 +98,16 @@
    "slot": "Wrists",
    "items": [
     {
+     "name": "Feralheart Wraps",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
      "name": "Master's Bracers",
      "source": "World drop"
     },
     {
      "name": "Tearfall Bracers",
-     "source": "The Unforgiven in Stratholme"
-    },
-    {
-     "name": "Darkwater Bracers",
-     "source": "Atal'alarion in The Temple of Atal'Hakkar"
+     "source": "The Unforgiven in in Stratholme"
     }
    ]
   },
@@ -115,16 +115,16 @@
    "slot": "Hands",
    "items": [
     {
+     "name": "Feralheart Hands",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
      "name": "Slaghide Gauntlets",
-     "source": "Urok Doomhowl in Blackrock Spire"
+     "source": "Urok Doomhowl in in Blackrock Spire"
     },
     {
      "name": "Hands of Power",
-     "source": "Quartermaster Zigris in Blackrock Spire"
-    },
-    {
-     "name": "Master's Gloves",
-     "source": "World drop"
+     "source": "Quartermaster Zigris in in Blackrock Spire"
     }
    ]
   },
@@ -137,7 +137,7 @@
     },
     {
      "name": "Ban'thok Sash",
-     "source": "Ok'thor the Breaker in Blackrock Depths"
+     "source": "Ok'thor the Breaker in in Blackrock Depths"
     },
     {
      "name": "Feralheart Sash",
@@ -158,7 +158,7 @@
     },
     {
      "name": "Skyshroud Leggings",
-     "source": "Highlord Omokk in Blackrock Spire"
+     "source": "Highlord Omokk in in Blackrock Spire"
     }
    ]
   },
@@ -175,7 +175,7 @@
     },
     {
      "name": "Waterspout Boots",
-     "source": "Hydrospawn in Dire Maul"
+     "source": "Hydrospawn in in Dire Maul"
     }
    ]
   },
@@ -184,11 +184,15 @@
    "items": [
     {
      "name": "Songstone of Ironforge",
-     "source": "The Princess's Surprise (Alliance) or The Princess Saved? (Horde), and Pix Xizzix in Stranglethorn Vale"
+     "source": "Reward from the quest The Princess's Surprise or The Princess Saved?"
     },
     {
-     "name": "Runed Ring",
-     "source": "Zul'Farrak trash"
+     "name": "Channeler's Ring",
+     "source": "Pix Xizzix in in Stranglethorn Vale"
+    },
+    {
+     "name": "Don Julio's Band",
+     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in in Alterac Valley"
     }
    ]
   },
@@ -196,12 +200,16 @@
    "slot": "Ring 2",
    "items": [
     {
-     "name": "Don Julio's Band",
-     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in Alterac Valley"
+     "name": "Rune Band of Wizardry",
+     "source": "Lord Valthalak in in Blackrock Spire"
     },
     {
-     "name": "Runed Ring",
-     "source": "Zul'Farrak trash"
+     "name": "Channeler's Ring",
+     "source": "Pix Xizzix in in Stranglethorn Vale"
+    },
+    {
+     "name": "Don Julio's Band",
+     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in in Alterac Valley"
     }
    ]
   },
@@ -210,11 +218,15 @@
    "items": [
     {
      "name": "Weakness Analyzer",
-     "source": "Pix Xizzix in Stranglethorn Vale and General Drakkisath's Demise"
+     "source": "Pix Xizzix in in Stranglethorn Vale"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher in in Blackrock Spire"
     },
     {
      "name": "Smolderweb's Eye",
-     "source": "Mother Smolderweb in Blackrock Spire"
+     "source": "Mother Smolderweb in in Blackrock Spire"
     }
    ]
   },
@@ -222,12 +234,16 @@
    "slot": "Trinket 2",
    "items": [
     {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest General Drakkisath's Demise"
+    },
+    {
      "name": "Briarwood Reed",
-     "source": "Jed Runewatcher in Blackrock Spire"
+     "source": "Jed Runewatcher in in Blackrock Spire"
     },
     {
      "name": "Smolderweb's Eye",
-     "source": "Mother Smolderweb in Blackrock Spire"
+     "source": "Mother Smolderweb in in Blackrock Spire"
     }
    ]
   },
@@ -236,7 +252,7 @@
    "items": [
     {
      "name": "Sageclaw",
-     "source": "Reputation reward (Exalted)"
+     "source": "The League of Arathor or The Defilers (Exalted)"
     },
     {
      "name": "Hand of Edward the Odd",
@@ -244,7 +260,7 @@
     },
     {
      "name": "Witchblade",
-     "source": "Darkmaster Gandling in Scholomance"
+     "source": "Darkmaster Gandling in in Scholomance"
     }
    ]
   },
@@ -253,11 +269,11 @@
    "items": [
     {
      "name": "Therazane's Touch",
-     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in Alterac Valley"
+     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in in Alterac Valley"
     },
     {
      "name": "Obsidian Bauble",
-     "source": "Pusillin in Dire Maul"
+     "source": "Pusillin in in Dire Maul"
     },
     {
      "name": "Spirit of Aquementas",
@@ -270,15 +286,15 @@
    "items": [
     {
      "name": "Ironbark Staff",
-     "source": "Reputation reward (Exalted)"
-    },
-    {
-     "name": "Crackling Staff",
-     "source": "Gaelden Hammersmith in Alterac Valley"
+     "source": "The League of Arathor or The Defilers (Exalted)"
     },
     {
      "name": "Headmaster's Charge",
-     "source": "Darkmaster Gandling in Scholomance"
+     "source": "Darkmaster Gandling in in Scholomance"
+    },
+    {
+     "name": "Nanaya's Control Spire",
+     "source": "Nanaya in in The Shaper's Terrace"
     }
    ]
   },
@@ -287,7 +303,315 @@
    "items": [
     {
      "name": "Swarming Idol",
-     "source": "Pix Xizzix in Stranglethorn Vale"
+     "source": "Pix Xizzix in in Stranglethorn Vale"
+    },
+    {
+     "name": "Idol of the Moon",
+     "source": "Dire Maul"
+    },
+    {
+     "name": "Talons of Wrath",
+     "source": "Crafted with Enchanting"
+    }
+   ]
+  }
+ ],
+ "horde": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Feralheart Cowl",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
+     "name": "Spellweaver's Turban",
+     "source": "General Drakkisath in in Blackrock Spire"
+    },
+    {
+     "name": "Master's Hat",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Orb of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Orb of the Darkmoon"
+    },
+    {
+     "name": "Nacreous Shell Necklace",
+     "source": "Cannon Master Willey in in Stratholme"
+    },
+    {
+     "name": "Chains of the Lich",
+     "source": "Balzaphon in in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Feralheart Spaulders",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
+     "name": "Mantle of the Timbermaw",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Argent Shoulders",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Pix Xizzix in in Stranglethorn Vale"
+    },
+    {
+     "name": "Archivist Cape",
+     "source": "Archivist Galford in in Stratholme"
+    },
+    {
+     "name": "Master's Cloak",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Feralheart Vest",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
+     "name": "Robes of Dark Summons",
+     "source": "Impaan the Imprisoner in in Blackmaw Hold"
+    },
+    {
+     "name": "Ironfeather Breastplate",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Feralheart Wraps",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
+     "name": "Master's Bracers",
+     "source": "World drop"
+    },
+    {
+     "name": "Tearfall Bracers",
+     "source": "The Unforgiven in in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Feralheart Hands",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
+     "name": "Slaghide Gauntlets",
+     "source": "Urok Doomhowl in in Blackrock Spire"
+    },
+    {
+     "name": "Hands of Power",
+     "source": "Quartermaster Zigris in in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Belt of the Archmage",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Ban'thok Sash",
+     "source": "Ok'thor the Breaker in in Blackrock Depths"
+    },
+    {
+     "name": "Feralheart Sash",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Ironfeather Leggings",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Master's Leggings",
+     "source": "World drop"
+    },
+    {
+     "name": "Skyshroud Leggings",
+     "source": "Highlord Omokk in in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Feralheart Galoshes",
+     "source": "Deliana (Alliance) or Mokvar (Horde)"
+    },
+    {
+     "name": "Supreme Shoes",
+     "source": "World drop"
+    },
+    {
+     "name": "Waterspout Boots",
+     "source": "Hydrospawn in in Dire Maul"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Eye of Orgrimmar",
+     "source": "Reward from the quest The Princess's Surprise or The Princess Saved?"
+    },
+    {
+     "name": "Channeler's Ring",
+     "source": "Pix Xizzix in in Stranglethorn Vale"
+    },
+    {
+     "name": "Don Julio's Band",
+     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in in Alterac Valley"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Rune Band of Wizardry",
+     "source": "Lord Valthalak in in Blackrock Spire"
+    },
+    {
+     "name": "Channeler's Ring",
+     "source": "Pix Xizzix in in Stranglethorn Vale"
+    },
+    {
+     "name": "Don Julio's Band",
+     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in in Alterac Valley"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Weakness Analyzer",
+     "source": "Pix Xizzix in in Stranglethorn Vale"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher in in Blackrock Spire"
+    },
+    {
+     "name": "Smolderweb's Eye",
+     "source": "Mother Smolderweb in in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest General Drakkisath's Demise"
+    },
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher in in Blackrock Spire"
+    },
+    {
+     "name": "Smolderweb's Eye",
+     "source": "Mother Smolderweb in in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Mindfang",
+     "source": "The League of Arathor or The Defilers (Exalted)"
+    },
+    {
+     "name": "Hand of Edward the Odd",
+     "source": "World drop"
+    },
+    {
+     "name": "Witchblade",
+     "source": "Darkmaster Gandling in in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Therazane's Touch",
+     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in in Alterac Valley"
+    },
+    {
+     "name": "Obsidian Bauble",
+     "source": "Pusillin in in Dire Maul"
+    },
+    {
+     "name": "Spirit of Aquementas",
+     "source": "Reward from the quest It's Dangerous to Go Alone"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Ironbark Staff",
+     "source": "The League of Arathor or The Defilers (Exalted)"
+    },
+    {
+     "name": "Headmaster's Charge",
+     "source": "Darkmaster Gandling in in Scholomance"
+    },
+    {
+     "name": "Nanaya's Control Spire",
+     "source": "Nanaya in in The Shaper's Terrace"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Swarming Idol",
+     "source": "Pix Xizzix in in Stranglethorn Vale"
     },
     {
      "name": "Idol of the Moon",

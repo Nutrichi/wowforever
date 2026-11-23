@@ -5,7 +5,7 @@
  "spec": "enhancement",
  "role": "Melee DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-17",
+ "updated": "2026-11-20",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -18,7 +18,7 @@
     },
     {
      "name": "Black Dragonscale Helm",
-     "source": "Crafted by"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Skyfury Helm",
@@ -65,11 +65,11 @@
    "items": [
     {
      "name": "Arcanoweave Cloak",
-     "source": "Sold by Pix Xizzix"
+     "source": "Pix Xizzix"
     },
     {
      "name": "Howler's Furs",
-     "source": "Sold by Pix Xizzix"
+     "source": "Pix Xizzix"
     },
     {
      "name": "Cape of the Black Baron",
@@ -86,7 +86,7 @@
     },
     {
      "name": "Timbermaw Tunic",
-     "source": "Crafted by"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Savage Gladiator Chain",
@@ -133,11 +133,11 @@
     },
     {
      "name": "Belt of the Archmage",
-     "source": "Crafted by"
+     "source": "Crafted with Tailoring"
     },
     {
      "name": "Windseeker's Belt",
-     "source": "Sold by Pix Xizzix"
+     "source": "Pix Xizzix"
     }
    ]
   },
@@ -146,11 +146,11 @@
    "items": [
     {
      "name": "Pristine Scorpid Leggings",
-     "source": "Crafted by"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Ironfeather Leggings",
-     "source": "Crafted by"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Bloodmail Legguards",
@@ -180,7 +180,7 @@
    "items": [
     {
      "name": "Don Julio's Band",
-     "source": "Sold by Thanthaldis Snowgleam"
+     "source": "Thanthaldis Snowgleam"
     },
     {
      "name": "Blackstone Ring",
@@ -193,7 +193,7 @@
    "items": [
     {
      "name": "Channeler's Ring",
-     "source": "Sold by Pix Xizzix"
+     "source": "Pix Xizzix"
     },
     {
      "name": "Blackstone Ring",
@@ -218,8 +218,8 @@
    "slot": "Trinket 2",
    "items": [
     {
-     "name": "Weakness Analyzer",
-     "source": "Sold by Pix Xizzix"
+     "name": "Adaptive Combat Assistant",
+     "source": "Pix Xizzix"
     },
     {
      "name": "Hand of Justice",
@@ -232,7 +232,7 @@
    "items": [
     {
      "name": "The Unstoppable Force",
-     "source": "Sold by Thanthaldis Snowgleam"
+     "source": "Thanthaldis Snowgleam"
     },
     {
      "name": "Flameslash Crescent",
@@ -245,7 +245,7 @@
    ]
   },
   {
-   "slot": "Idol",
+   "slot": "Totem",
    "items": [
     {
      "name": "Totem of the Storm",
@@ -257,7 +257,7 @@
     },
     {
      "name": "Totem of the Storm",
-     "source": "Sold by Pix Xizzix"
+     "source": "Pix Xizzix"
     }
    ]
   }

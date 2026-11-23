@@ -5,7 +5,7 @@
  "spec": "destruction",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-19",
+ "updated": "2026-11-21",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -14,7 +14,7 @@
    "items": [
     {
      "name": "Spellweaver's Turban",
-     "source": "General Drakkisath Blackrock Spire"
+     "source": "General Drakkisath in Blackrock Spire"
     }
    ]
   },
@@ -27,7 +27,7 @@
     },
     {
      "name": "Star of Mystaria",
-     "source": "Grand Crusader Dathrohan Stratholme"
+     "source": "Grand Crusader Dathrohan in Stratholme"
     },
     {
      "name": "Archlight Talisman",
@@ -57,7 +57,7 @@
    "items": [
     {
      "name": "Arcanoweave Cloak",
-     "source": "Pix Xizzix Stranglethorn Vale"
+     "source": "Pix Xizzix in Stranglethorn Vale"
     }
    ]
   },
@@ -66,7 +66,7 @@
    "items": [
     {
      "name": "Alanna's Embrace",
-     "source": "Ras Frostwhisper Scholomance"
+     "source": "Ras Frostwhisper in Scholomance"
     },
     {
      "name": "Master's Vest",
@@ -74,7 +74,7 @@
     },
     {
      "name": "Robe of Everlasting Night",
-     "source": "Immol'thar Dire Maul"
+     "source": "Immol'thar in Dire Maul"
     }
    ]
   },
@@ -83,7 +83,7 @@
    "items": [
     {
      "name": "Tearfall Bracers",
-     "source": "The Unforgiven Stratholme"
+     "source": "The Unforgiven in Stratholme"
     },
     {
      "name": "Premier Legionnaire's Felweave Bracers",
@@ -91,7 +91,7 @@
     },
     {
      "name": "Runecloth Cuffs",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     }
    ]
   },
@@ -108,7 +108,7 @@
     },
     {
      "name": "Inferno Gloves",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     }
    ]
   },
@@ -125,7 +125,7 @@
     },
     {
      "name": "Frostwolf Cloth Belt",
-     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley, Honored"
+     "source": "Grunnda Wolfheart or Gaelden Hammersmith in Alterac Valley, Honored"
     }
    ]
   },
@@ -138,11 +138,11 @@
     },
     {
      "name": "Ghostweave Pants",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     },
     {
      "name": "Spiritshroud Leggings",
-     "source": "The Beast Blackrock Spire"
+     "source": "The Beast in Blackrock Spire"
     }
    ]
   },
@@ -159,7 +159,7 @@
     },
     {
      "name": "Dragonrider Boots",
-     "source": "Warchief Rend Blackhand Blackrock Spire"
+     "source": "Warchief Rend Blackhand in Blackrock Spire"
     }
    ]
   },
@@ -176,7 +176,7 @@
     },
     {
      "name": "Blessed Band of Light",
-     "source": "Pix Xizzix Stranglethorn Vale"
+     "source": "Pix Xizzix in Stranglethorn Vale"
     }
    ]
   },
@@ -193,7 +193,7 @@
     },
     {
      "name": "Blessed Band of Light",
-     "source": "Pix Xizzix Stranglethorn Vale"
+     "source": "Pix Xizzix in Stranglethorn Vale"
     }
    ]
   },
@@ -202,7 +202,7 @@
    "items": [
     {
      "name": "Weakness Analyzer",
-     "source": "Pix Xizzix Stranglethorn Vale"
+     "source": "Pix Xizzix in Stranglethorn Vale"
     },
     {
      "name": "Eye of the Beast",
@@ -210,7 +210,7 @@
     },
     {
      "name": "Briarwood Reed",
-     "source": "Jed Runewatcher Blackrock Spire"
+     "source": "Jed Runewatcher in Blackrock Spire"
     }
    ]
   },
@@ -227,7 +227,7 @@
     },
     {
      "name": "Briarwood Reed",
-     "source": "Jed Runewatcher Blackrock Spire"
+     "source": "Jed Runewatcher in Blackrock Spire"
     }
    ]
   },
@@ -244,7 +244,7 @@
     },
     {
      "name": "Grove Subjugator's Blade",
-     "source": "Legashi demons Azshara"
+     "source": "Legashi demons in Azshara"
     }
    ]
   },
@@ -253,7 +253,7 @@
    "items": [
     {
      "name": "Tome of Fiery Arcana",
-     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley"
+     "source": "Grunnda Wolfheart or Gaelden Hammersmith in Alterac Valley"
     },
     {
      "name": "Premier High Warlord's Tome of Destruction",
@@ -274,11 +274,11 @@
     },
     {
      "name": "Whiteout Staff",
-     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley, Revered"
+     "source": "Grunnda Wolfheart or Gaelden Hammersmith in Alterac Valley, Revered"
     },
     {
      "name": "Headmaster's Charge",
-     "source": "Darkmaster Gandling Scholomance"
+     "source": "Darkmaster Gandling in Scholomance"
     }
    ]
   },
@@ -287,15 +287,15 @@
    "items": [
     {
      "name": "Bonecreeper Stylus",
-     "source": "Darkmaster Gandling Scholomance"
+     "source": "Darkmaster Gandling in Scholomance"
     },
     {
      "name": "Oblivion's Touch",
-     "source": "Death Knight Darkreaver Scholomance"
+     "source": "Death Knight Darkreaver in Scholomance"
     },
     {
      "name": "Brilliant Wand",
-     "source": "Crafted"
+     "source": "Crafted with Enchanting"
     }
    ]
   }

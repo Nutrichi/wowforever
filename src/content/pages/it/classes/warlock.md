@@ -60,7 +60,7 @@ Il [calcolatore dei talenti](/it/talents/warlock/) contiene gli alberi del Warlo
 | Spec | Statistiche, dalla più importante |
 |---|---|
 | **Affliction** | Spell damage e Shadow damage, Stamina e Spirit, Intellect |
-| **Demonology** | Potere degli incantesimi, Shadow e Fire damage, Stamina e Spirit, Intellect |
+| **Demonology** | [Lista BiS](/it/bis/forever/preraid/warlock-demonology/) |
 | **Destruction** | Spell damage, probabilità di critico, colpire, Intellect |
 
 Stamina dà più Health da convertire, e Spirit più mana tra un combattimento e l’altro.

@@ -18,7 +18,7 @@
     },
     {
      "name": "Spellweaver's Turban",
-     "source": "General Drakkisath Blackrock Spire"
+     "source": "General Drakkisath in Blackrock Spire"
     },
     {
      "name": "Blue Dragonscale Helm",
@@ -31,7 +31,7 @@
    "items": [
     {
      "name": "Nacreous Shell Necklace",
-     "source": "Cannon Master Willey Stratholme"
+     "source": "Cannon Master Willey in Stratholme"
     },
     {
      "name": "Orb of the Darkmoon",
@@ -39,7 +39,7 @@
     },
     {
      "name": "Star of Mystaria",
-     "source": "Balnazzar Stratholme"
+     "source": "Balnazzar in Stratholme"
     }
    ]
   },
@@ -69,7 +69,7 @@
     },
     {
      "name": "Archivist Cape",
-     "source": "Archivist Galford Stratholme"
+     "source": "Archivist Galford in Stratholme"
     },
     {
      "name": "Master's Cloak",
@@ -82,7 +82,7 @@
    "items": [
     {
      "name": "Robes of Dark Summons",
-     "source": "Impaan the Imprisoner Blackmaw Hold"
+     "source": "Impaan the Imprisoner in Blackmaw Hold"
     },
     {
      "name": "Ironfeather Breastplate",
@@ -90,7 +90,7 @@
     },
     {
      "name": "Alanna's Embrace",
-     "source": "Ras Frostwhisper Scholomance"
+     "source": "Ras Frostwhisper in Scholomance"
     }
    ]
   },
@@ -141,7 +141,7 @@
     },
     {
      "name": "Sash of the Windreaver",
-     "source": "The Windreaver Silithus"
+     "source": "The Windreaver in Silithus"
     }
    ]
   },
@@ -171,7 +171,7 @@
     },
     {
      "name": "Greaves of Withering Despair",
-     "source": "High Interrogator Gerstahn Blackrock Depths"
+     "source": "High Interrogator Gerstahn in Blackrock Depths"
     },
     {
      "name": "Masterwork Boots",
@@ -188,7 +188,7 @@
     },
     {
      "name": "Elemental Focus Band",
-     "source": "Prince Skaldrenox Silithus"
+     "source": "Prince Skaldrenox in Silithus"
     },
     {
      "name": "Songstone of Ironforge",
@@ -201,11 +201,11 @@
    "items": [
     {
      "name": "Rune Band of Wizardry",
-     "source": "Lord Valthalak Blackrock Spire"
+     "source": "Lord Valthalak in Blackrock Spire"
     },
     {
      "name": "Elemental Focus Band",
-     "source": "Prince Skaldrenox Silithus"
+     "source": "Prince Skaldrenox in Silithus"
     },
     {
      "name": "Songstone of Ironforge",
@@ -222,11 +222,11 @@
     },
     {
      "name": "Smolderweb's Eye",
-     "source": "Mother Smolderweb Blackrock Spire"
+     "source": "Mother Smolderweb in Blackrock Spire"
     },
     {
      "name": "Briarwood Reed",
-     "source": "Jed Runewatcher Blackrock Spire"
+     "source": "Jed Runewatcher in Blackrock Spire"
     }
    ]
   },
@@ -239,11 +239,11 @@
     },
     {
      "name": "Smolderweb's Eye",
-     "source": "Mother Smolderweb Blackrock Spire"
+     "source": "Mother Smolderweb in Blackrock Spire"
     },
     {
      "name": "Briarwood Reed",
-     "source": "Jed Runewatcher Blackrock Spire"
+     "source": "Jed Runewatcher in Blackrock Spire"
     }
    ]
   },
@@ -277,7 +277,7 @@
     },
     {
      "name": "Obsidian Bauble",
-     "source": "Pusillin Dire Maul"
+     "source": "Pusillin in Dire Maul"
     }
    ]
   },
@@ -294,7 +294,7 @@
     },
     {
      "name": "Staff of Sorrow",
-     "source": "Mopes Blackmaw Hold"
+     "source": "Mopes in Blackmaw Hold"
     }
    ]
   },

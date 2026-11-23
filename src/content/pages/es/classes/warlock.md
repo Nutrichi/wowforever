@@ -60,7 +60,7 @@ La [calculadora de talentos](/es/talents/warlock/) tiene los árboles del Warloc
 | Spec | Estadísticas, de más a menos importante |
 |---|---|
 | **Affliction** | Spell damage y Shadow damage, Stamina y Spirit, Intellect |
-| **Demonology** | Poder con hechizos, Shadow y Fire damage, Stamina y Spirit, Intellect |
+| **Demonology** | [Lista BiS](/es/bis/forever/preraid/warlock-demonology/) |
 | **Destruction** | Spell damage, probabilidad de crítico, golpe, Intellect |
 
 Stamina da más Health para convertir, y Spirit más maná entre combates.

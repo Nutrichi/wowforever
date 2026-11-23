@@ -14,7 +14,7 @@
    "items": [
     {
      "name": "Living Crown",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Crown of The Five Thunders",
@@ -22,7 +22,7 @@
     },
     {
      "name": "Mooncloth Circlet",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     }
    ]
   },
@@ -35,7 +35,7 @@
     },
     {
      "name": "Chains of the Lich",
-     "source": "Balzaphon Stratholme"
+     "source": "Balzaphon in Stratholme"
     },
     {
      "name": "Horn of Ve'han",
@@ -90,7 +90,7 @@
     },
     {
      "name": "Vest of Elements",
-     "source": "General Drakkisath Blackrock Spire"
+     "source": "General Drakkisath in Blackrock Spire"
     }
    ]
   },

@@ -5,7 +5,7 @@
  "spec": "survival",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -14,7 +14,7 @@
    "items": [
     {
      "name": "Black Dragonscale Helm",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Beastmaster's Cap",
@@ -31,7 +31,7 @@
     },
     {
      "name": "Amulet of the Darkmoon",
-     "source": "1200 Tickets in Amulet of the Darkmoon Gelvas Grimegate"
+     "source": "Darkmoon Faire (1200 tickets)"
     },
     {
      "name": "Beads of Ogre Might",
@@ -61,7 +61,7 @@
     },
     {
      "name": "Howler's Furs",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Heliotrope Cloak",
@@ -74,7 +74,7 @@
    "items": [
     {
      "name": "Dawn Armor",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Beastmaster's Tunic",
@@ -82,7 +82,7 @@
     },
     {
      "name": "Timbermaw Tunic",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     }
    ]
   },
@@ -108,7 +108,7 @@
    "items": [
     {
      "name": "Devilsaur Gauntlets",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Voone's Vice Grips",
@@ -125,7 +125,7 @@
    "items": [
     {
      "name": "Ranger's Belt",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (100 Reals)"
     },
     {
      "name": "Marksman's Girdle",
@@ -142,7 +142,7 @@
    "items": [
     {
      "name": "Devilsaur Leggings",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Plaguehound Leggings",
@@ -176,11 +176,11 @@
    "items": [
     {
      "name": "Cutthroat's Signet",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Channeler's Ring",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Blackstone Ring",
@@ -197,7 +197,7 @@
     },
     {
      "name": "Channeler's Ring",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Blackstone Ring",
@@ -218,7 +218,7 @@
     },
     {
      "name": "Adaptive Combat Assistant",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (125 Reals)"
     }
    ]
   },
@@ -235,7 +235,7 @@
     },
     {
      "name": "Adaptive Combat Assistant",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (125 Reals)"
     }
    ]
   },

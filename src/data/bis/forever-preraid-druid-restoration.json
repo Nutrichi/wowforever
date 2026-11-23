@@ -5,7 +5,7 @@
  "spec": "restoration",
  "role": "Healer",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-17",
+ "updated": "2026-11-22",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -14,7 +14,7 @@
    "items": [
     {
      "name": "Living Crown",
-     "source": "Pattern: Living Crown"
+     "source": "Crafted"
     },
     {
      "name": "Feralheart Headdress",
@@ -48,7 +48,7 @@
    "items": [
     {
      "name": "Mooncloth Shoulders",
-     "source": "Pattern: Mooncloth Shoulders"
+     "source": "Crafted"
     },
     {
      "name": "Feralheart Mantle",
@@ -56,7 +56,7 @@
     },
     {
      "name": "Living Shoulders",
-     "source": "Pattern: Living Shoulders"
+     "source": "Crafted"
     }
    ]
   },
@@ -65,7 +65,7 @@
    "items": [
     {
      "name": "Hide of the Wild",
-     "source": "Pattern: Hide of the Wild"
+     "source": "Crafted"
     },
     {
      "name": "Archivist Cape",
@@ -124,7 +124,7 @@
     },
     {
      "name": "Mender's Leather Gauntlets",
-     "source": "Pattern: Mender's Leather Gauntlets"
+     "source": "Crafted"
     }
    ]
   },
@@ -141,7 +141,7 @@
     },
     {
      "name": "Wisdom of the Timbermaw",
-     "source": "Pattern: Wisdom of the Timbermaw"
+     "source": "Crafted"
     }
    ]
   },
@@ -222,7 +222,7 @@
     },
     {
      "name": "Darkmoon Card: Blue Dragon",
-     "source": "Reward from the quest Darkmoon Beast Deck"
+     "source": "(Not Currently Available) Darkmoon Beast Deck"
     },
     {
      "name": "Weakness Analyzer",
@@ -239,7 +239,7 @@
     },
     {
      "name": "Darkmoon Card: Blue Dragon",
-     "source": "Reward from the quest Darkmoon Beast Deck"
+     "source": "(Not Currently Available) Darkmoon Beast Deck"
     },
     {
      "name": "Weakness Analyzer",
@@ -307,11 +307,11 @@
     },
     {
      "name": "Mystic Mushroom",
-     "source": "Formula: Mystic Mushroom"
+     "source": "Crafted with Enchanting"
     },
     {
      "name": "Talons of Wrath",
-     "source": "Formula: Talons of Wrath"
+     "source": "Crafted with Enchanting"
     }
    ]
   }

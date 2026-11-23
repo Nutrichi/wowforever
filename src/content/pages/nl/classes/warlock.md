@@ -60,7 +60,7 @@ De [talentcalculator](/nl/talents/warlock/) heeft de Warlock-bomen van WoW Forev
 | Spec | Stats, belangrijkste eerst |
 |---|---|
 | **Affliction** | Spell damage en Shadow damage, Stamina en Spirit, Intellect |
-| **Demonology** | Spell power, Shadow en Fire damage, Stamina en Spirit, Intellect |
+| **Demonology** | [BiS-lijst](/nl/bis/forever/preraid/warlock-demonology/) |
 | **Destruction** | Spell damage, critical strike-kans, hit, Intellect |
 
 Stamina geeft meer Health om te tappen, en Spirit meer mana tussen de gevechten.

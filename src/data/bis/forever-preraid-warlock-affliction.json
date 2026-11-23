@@ -5,7 +5,7 @@
  "spec": "affliction",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-19",
+ "updated": "2026-11-21",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -18,11 +18,11 @@
     },
     {
      "name": "Crimson Felt Hat",
-     "source": "Magistrate Barthilas Stratholme"
+     "source": "Magistrate Barthilas in Stratholme"
     },
     {
      "name": "Felcloth Hood",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     }
    ]
   },
@@ -31,7 +31,7 @@
    "items": [
     {
      "name": "Dark Advisor's Pendant",
-     "source": "Vectus Scholomance"
+     "source": "Vectus in Scholomance"
     },
     {
      "name": "Orb of the Darkmoon",
@@ -39,7 +39,7 @@
     },
     {
      "name": "Nacreous Shell Necklace",
-     "source": "Cannon Master Willey Stratholme"
+     "source": "Cannon Master Willey in Stratholme"
     }
    ]
   },
@@ -52,7 +52,7 @@
     },
     {
      "name": "Burial Shawl",
-     "source": "Several bosses Scholomance"
+     "source": "Several bosses in Scholomance"
     },
     {
      "name": "Argent Shoulders",
@@ -65,15 +65,15 @@
    "items": [
     {
      "name": "Arcanoweave Cloak",
-     "source": "Pix Xizzix Stranglethorn Vale"
+     "source": "Pix Xizzix in Stranglethorn Vale"
     },
     {
      "name": "Archivist Cape",
-     "source": "Archivist Galford Stratholme"
+     "source": "Archivist Galford in Stratholme"
     },
     {
      "name": "Hide of the Wild",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     }
    ]
   },
@@ -86,7 +86,7 @@
     },
     {
      "name": "Felcloth Robe",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     }
    ]
   },
@@ -95,11 +95,11 @@
    "items": [
     {
      "name": "Netherpearl Cuffs",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     },
     {
      "name": "Sublime Wristguards",
-     "source": "Guard Mol'dar, Guard Slip'kik Dire Maul"
+     "source": "Guard Mol'dar or Guard Slip'kik in Dire Maul"
     },
     {
      "name": "Premier Legionnaire's Felweave Bracers",
@@ -112,11 +112,11 @@
    "items": [
     {
      "name": "Felcloth Gloves",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     },
     {
      "name": "Gloves of Spell Mastery",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     },
     {
      "name": "Master's Gloves",
@@ -133,11 +133,11 @@
     },
     {
      "name": "Black Waistcord",
-     "source": "Crafted"
+     "source": "Crafted with Tailoring"
     },
     {
      "name": "Ban'thok Sash",
-     "source": "Ok'thor the Breaker Blackrock Depths"
+     "source": "Ok'thor the Breaker in Blackrock Depths"
     }
    ]
   },
@@ -154,7 +154,7 @@
     },
     {
      "name": "Skyshroud Leggings",
-     "source": "Highlord Omokk Blackrock Spire"
+     "source": "Highlord Omokk in Blackrock Spire"
     }
    ]
   },
@@ -167,11 +167,11 @@
     },
     {
      "name": "Omnicast Boots",
-     "source": "Golem Lord Argelmach Blackrock Depths"
+     "source": "Golem Lord Argelmach in Blackrock Depths"
     },
     {
      "name": "Dragonrider Boots",
-     "source": "Warchief Rend Blackhand Blackrock Spire"
+     "source": "Warchief Rend Blackhand in Blackrock Spire"
     }
    ]
   },
@@ -184,11 +184,11 @@
     },
     {
      "name": "Don Mauricio's Band of Domination",
-     "source": "Darkmaster Gandling Scholomance"
+     "source": "Darkmaster Gandling in Scholomance"
     },
     {
      "name": "Maiden's Circle",
-     "source": "Crimson Battle Mage Stratholme"
+     "source": "Crimson Battle Mage in Stratholme"
     }
    ]
   },
@@ -197,15 +197,15 @@
    "items": [
     {
      "name": "Emperor's Seal",
-     "source": "Emperor Dagran Thaurissan Blackrock Depths"
+     "source": "Emperor Dagran Thaurissan in Blackrock Depths"
     },
     {
      "name": "Don Mauricio's Band of Domination",
-     "source": "Darkmaster Gandling Scholomance"
+     "source": "Darkmaster Gandling in Scholomance"
     },
     {
      "name": "Maiden's Circle",
-     "source": "Crimson Battle Mage Stratholme"
+     "source": "Crimson Battle Mage in Stratholme"
     }
    ]
   },
@@ -214,7 +214,7 @@
    "items": [
     {
      "name": "Weakness Analyzer",
-     "source": "Pix Xizzix Stranglethorn Vale"
+     "source": "Pix Xizzix in Stranglethorn Vale"
     },
     {
      "name": "Eye of the Beast",
@@ -222,7 +222,7 @@
     },
     {
      "name": "Briarwood Reed",
-     "source": "Jed Runewatcher Blackrock Spire"
+     "source": "Jed Runewatcher in Blackrock Spire"
     }
    ]
   },
@@ -239,7 +239,7 @@
     },
     {
      "name": "Briarwood Reed",
-     "source": "Jed Runewatcher Blackrock Spire"
+     "source": "Jed Runewatcher in Blackrock Spire"
     }
    ]
   },
@@ -248,7 +248,7 @@
    "items": [
     {
      "name": "Sageblade",
-     "source": "Crafted"
+     "source": "Crafted with Blacksmithing"
     },
     {
      "name": "Mindfang",
@@ -261,7 +261,7 @@
    "items": [
     {
      "name": "Therazane's Touch",
-     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley, Exalted"
+     "source": "Grunnda Wolfheart or Gaelden Hammersmith in Alterac Valley, Exalted"
     },
     {
      "name": "High Councillor's Scepter",
@@ -278,7 +278,7 @@
    "items": [
     {
      "name": "Whiteout Staff",
-     "source": "Grunnda Wolfheart Gaelden Hammersmith Alterac Valley, Revered"
+     "source": "Grunnda Wolfheart or Gaelden Hammersmith in Alterac Valley, Revered"
     },
     {
      "name": "Premier High Warlord's War Staff",
@@ -286,7 +286,7 @@
     },
     {
      "name": "Headmaster's Charge",
-     "source": "Darkmaster Gandling Scholomance"
+     "source": "Darkmaster Gandling in Scholomance"
     }
    ]
   },
@@ -295,7 +295,7 @@
    "items": [
     {
      "name": "Skul's Ghastly Touch",
-     "source": "Skul Stratholme"
+     "source": "Skul in Stratholme"
     },
     {
      "name": "Lunar Wand",
@@ -303,7 +303,7 @@
     },
     {
      "name": "Bonecreeper Stylus",
-     "source": "Darkmaster Gandling Scholomance"
+     "source": "Darkmaster Gandling in Scholomance"
     }
    ]
   }

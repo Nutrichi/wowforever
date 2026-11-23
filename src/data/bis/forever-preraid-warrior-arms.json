@@ -65,7 +65,7 @@
    "items": [
     {
      "name": "Howler's Furs",
-     "source": "75x {currency:3469}"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Cape of the Black Baron",
@@ -82,7 +82,7 @@
    "items": [
     {
      "name": "Timbermaw Tunic",
-     "source": "{skill:165}"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Breastplate of Heroism",
@@ -116,7 +116,7 @@
    "items": [
     {
      "name": "Devilsaur Gauntlets",
-     "source": "{skill:165}"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Theramore Gauntlets",
@@ -133,7 +133,7 @@
    "items": [
     {
      "name": "Valiant's Waistguard",
-     "source": "100x {currency:3469}"
+     "source": "Reals vendor in Booty Bay (100 Reals)"
     },
     {
      "name": "Highlander's Plate Girdle",
@@ -150,7 +150,7 @@
    "items": [
     {
      "name": "Devilsaur Leggings",
-     "source": "{skill:165}"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Sentinel's Plate Legguards",
@@ -171,7 +171,7 @@
     },
     {
      "name": "Bloodmail Boots",
-     "source": "Multiple bosses insides Scholomance"
+     "source": "Multiple bosses insides in Scholomance"
     }
    ]
   },
@@ -180,7 +180,7 @@
    "items": [
     {
      "name": "Don Julio's Band",
-     "source": "Stormpike Guard (Exalted) - reputation"
+     "source": "Stormpike Guard (Exalted) - Frostwolf Clan"
     },
     {
      "name": "Magni's Will",

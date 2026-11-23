@@ -14,7 +14,7 @@
    "items": [
     {
      "name": "Black Dragonscale Helm",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Backwood Helm",
@@ -73,7 +73,7 @@
     },
     {
      "name": "Shifting Cloak",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     }
    ]
   },
@@ -82,7 +82,7 @@
    "items": [
     {
      "name": "Dawn Armor",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Beastmaster's Tunic",
@@ -112,7 +112,7 @@
    "items": [
     {
      "name": "Devilsaur Gauntlets",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Gauntlets of Accuracy",
@@ -146,7 +146,7 @@
    "items": [
     {
      "name": "Devilsaur Leggings",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Plaguehound Leggings",
@@ -265,7 +265,7 @@
    "items": [
     {
      "name": "Legionite Glaive",
-     "source": "Crafted"
+     "source": "Crafted with Blacksmithing"
     },
     {
      "name": "Beastslayer's Trident",

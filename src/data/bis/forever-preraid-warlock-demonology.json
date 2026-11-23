@@ -1,0 +1,286 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "warlock",
+ "spec": "demonology",
+ "role": "Ranged DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-21",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Spellweaver's Turban",
+     "source": "General Drakkisath in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Nacreous Shell Necklace",
+     "source": "Cannon Master Willey in Stratholme"
+    },
+    {
+     "name": "Orb of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Orb of the Darkmoon"
+    },
+    {
+     "name": "Star of Mystaria",
+     "source": "Grand Crusader Dathrohan in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Argent Shoulders",
+     "source": "Crafted, pattern from Argent Dawn (Revered)"
+    },
+    {
+     "name": "Master's Mantle",
+     "source": "World drop"
+    },
+    {
+     "name": "Shroud of the Nathrezim",
+     "source": "Balnazzar in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Pix Xizzix in Stranglethorn Vale"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Tearfall Bracers",
+     "source": "The Unforgiven in Stratholme"
+    },
+    {
+     "name": "Premier Legionnaire's Felweave Bracers",
+     "source": "PvP vendor Rank 8"
+    },
+    {
+     "name": "Runecloth Cuffs",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gloves of Spell Mastery",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Hands of Power",
+     "source": "Quartermaster Zigris in Blackrock Spire"
+    },
+    {
+     "name": "Master's Gloves",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Defiler's Cloth Girdle",
+     "source": "The Defilers or The League of Arathor (Honored)"
+    },
+    {
+     "name": "High Councillor's Sash",
+     "source": "World drop"
+    },
+    {
+     "name": "Frostwolf Cloth Belt",
+     "source": "Grunnda Wolfheart or Gaelden Hammersmith in Alterac Valley, Honored"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "High Councillor's Pants",
+     "source": "World drop"
+    },
+    {
+     "name": "Magister's Leggings",
+     "source": "Baron Rivendare in Stratholme"
+    },
+    {
+     "name": "Ghostweave Pants",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Master's Boots",
+     "source": "World drop"
+    },
+    {
+     "name": "Venomspew Footpads",
+     "source": "Crafted, pattern from Cenarion Circle (Honored)"
+    },
+    {
+     "name": "Dragonrider Boots",
+     "source": "Warchief Rend Blackhand in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Rune Band of Wizardry",
+     "source": "Lord Valthalak in Blackrock Spire"
+    },
+    {
+     "name": "Warden's Signet of Brilliance",
+     "source": "The Watchers (Exalted)"
+    },
+    {
+     "name": "Blessed Band of Light",
+     "source": "Pix Xizzix in Stranglethorn Vale"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Channeler's Ring",
+     "source": "Pix Xizzix in Stranglethorn Vale"
+    },
+    {
+     "name": "Warden's Signet of Brilliance",
+     "source": "The Watchers (Exalted)"
+    },
+    {
+     "name": "Blessed Band of Light",
+     "source": "Pix Xizzix in Stranglethorn Vale"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher in Blackrock Spire"
+    },
+    {
+     "name": "Frozen Heart of the Mountain",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Draconic Infused Emblem",
+     "source": "General Drakkisath in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Smolderweb's Eye",
+     "source": "Mother Smolderweb in Blackrock Spire"
+    },
+    {
+     "name": "Frozen Heart of the Mountain",
+     "source": "Crafted with Enchanting"
+    },
+    {
+     "name": "Draconic Infused Emblem",
+     "source": "General Drakkisath in Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Premier High Warlord's Spellblade",
+     "source": "PvP vendor Rank 14"
+    },
+    {
+     "name": "Mindfang",
+     "source": "The Defilers or The League of Arathor (Exalted)"
+    },
+    {
+     "name": "Grove Subjugator's Blade",
+     "source": "Legashi demons in Azshara"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Tome of Fiery Arcana",
+     "source": "Grunnda Wolfheart or Gaelden Hammersmith in Alterac Valley"
+    },
+    {
+     "name": "Tome of Shadow Force",
+     "source": "Frostwolf Clan or Stormpike Guard (Exalted)"
+    },
+    {
+     "name": "Premier High Warlord's Tome of Destruction",
+     "source": "PvP vendor Rank 14"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Whiteout Staff",
+     "source": "Grunnda Wolfheart or Gaelden Hammersmith in Alterac Valley, Revered"
+    },
+    {
+     "name": "Premier High Warlord's War Staff",
+     "source": "PvP vendor Rank 14"
+    },
+    {
+     "name": "Headmaster's Charge",
+     "source": "Darkmaster Gandling in Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Bonecreeper Stylus",
+     "source": "Darkmaster Gandling in Scholomance"
+    },
+    {
+     "name": "Skul's Ghastly Touch",
+     "source": "Skul in Stratholme"
+    },
+    {
+     "name": "Oblivion's Touch",
+     "source": "Death Knight Darkreaver in Scholomance"
+    }
+   ]
+  }
+ ]
+}

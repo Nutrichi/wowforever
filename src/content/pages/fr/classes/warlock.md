@@ -60,7 +60,7 @@ Le [calculateur de talents](/fr/talents/warlock/) contient les arbres du Warlock
 | Spé | Stats, de la plus importante à la moins importante |
 |---|---|
 | **Affliction** | Spell damage et Shadow damage, Stamina et Spirit, Intellect |
-| **Demonology** | Puissance des sorts, Shadow et Fire damage, Stamina et Spirit, Intellect |
+| **Demonology** | [Liste BiS](/fr/bis/forever/preraid/warlock-demonology/) |
 | **Destruction** | Spell damage, chance de coup critique, toucher, Intellect |
 
 Stamina donne plus de Health à convertir, et Spirit plus de mana entre les combats.

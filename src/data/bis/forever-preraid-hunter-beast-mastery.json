@@ -5,7 +5,7 @@
  "spec": "beast-mastery",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -14,7 +14,7 @@
    "items": [
     {
      "name": "Black Dragonscale Helm",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Backwood Helm",
@@ -35,7 +35,7 @@
     },
     {
      "name": "Amulet of the Darkmoon",
-     "source": "1200 Tickets in Amulet of the Darkmoon Gelvas Grimegate"
+     "source": "Darkmoon Faire (1200 tickets)"
     },
     {
      "name": "Prismatic Pendant",
@@ -69,7 +69,7 @@
     },
     {
      "name": "Shifting Cloak",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Shadow Prowler's Cloak",
@@ -82,7 +82,7 @@
    "items": [
     {
      "name": "Dawn Armor",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Beastmaster's Tunic",
@@ -116,7 +116,7 @@
    "items": [
     {
      "name": "Devilsaur Gauntlets",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Voone's Vice Grips",
@@ -137,7 +137,7 @@
     },
     {
      "name": "Ranger's Belt",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (100 Reals)"
     },
     {
      "name": "Marksman's Girdle",
@@ -150,7 +150,7 @@
    "items": [
     {
      "name": "Devilsaur Leggings",
-     "source": "Crafted"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Plaguehound Leggings",
@@ -184,7 +184,7 @@
    "items": [
     {
      "name": "Cutthroat's Signet",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Blackstone Ring",
@@ -269,7 +269,7 @@
     },
     {
      "name": "Heartseeker",
-     "source": "Crafted"
+     "source": "Crafted with Blacksmithing"
     }
    ]
   },
@@ -278,7 +278,7 @@
    "items": [
     {
      "name": "Legionite Glaive",
-     "source": "Crafted"
+     "source": "Crafted with Blacksmithing"
     }
    ]
   },

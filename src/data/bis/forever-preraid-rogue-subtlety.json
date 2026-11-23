@@ -82,11 +82,11 @@
    "items": [
     {
      "name": "Dawn Armor",
-     "source": "{skill:165}"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Timbermaw Tunic",
-     "source": "{skill:165}"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Darkmantle Tunic",
@@ -116,7 +116,7 @@
    "items": [
     {
      "name": "Devilsaur Gauntlets",
-     "source": "{skill:165}"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Darkmantle Grips",
@@ -124,7 +124,7 @@
     },
     {
      "name": "Stormshroud Gloves",
-     "source": "{skill:165}"
+     "source": "Crafted with Leatherworking"
     }
    ]
   },
@@ -141,7 +141,7 @@
     },
     {
      "name": "Might of the Timbermaw",
-     "source": "{skill:165}"
+     "source": "Crafted with Leatherworking"
     }
    ]
   },
@@ -150,7 +150,7 @@
    "items": [
     {
      "name": "Devilsaur Leggings",
-     "source": "{skill:165}"
+     "source": "Crafted with Leatherworking"
     },
     {
      "name": "Darkmantle Pants",
@@ -184,7 +184,7 @@
    "items": [
     {
      "name": "Don Julio's Band",
-     "source": "Stormpike Guard (Exalted) / reputation Vendor"
+     "source": "Stormpike Guard (Exalted) / Frostwolf Clan Vendor"
     },
     {
      "name": "Blackstone Ring",
@@ -256,7 +256,7 @@
     },
     {
      "name": "Persuader",
-     "source": "{skill:164}"
+     "source": "Crafted with Blacksmithing"
     },
     {
      "name": "Teebu's Blazing Longsword",
