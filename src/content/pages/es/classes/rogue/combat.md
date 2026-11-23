@@ -3,7 +3,7 @@ title: "Combat Rogue en WoW Forever: la guía"
 metaTitle: "WoW Forever Combat Rogue: builds de Hack and Slash hasta el 60"
 description: "El Combat Rogue en WoW Forever: Hack and Slash para cada tipo de arma, dos builds de nivel 60 (estándar y dagas), Blade Flurry, Adrenaline Rush, energía, venenos y razas."
 short: "Combat Rogue"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: es
 manual: true
 faq:
@@ -90,7 +90,7 @@ La build de Venom coge Venom y Cold Blood en Assassination y se apoya más en el
 
 ### Build para subir de nivel
 
-La [build de nivel del Rogue](/es/leveling/rogue/) da el talento de cada nivel del 10 al 35. El resto del orden llegará en cuanto se conozca.
+La [build de nivel del Rogue](/es/leveling/rogue/) da el talento de cada nivel del 10 al 60: una build Combat, 15/36/0, con Adrenaline Rush al 60. [Abre el resultado a nivel 60 en la calculadora de talentos](/es/talents/rogue/?t=025303002-3200330212012321551).
 
 #### Build de PvP
 

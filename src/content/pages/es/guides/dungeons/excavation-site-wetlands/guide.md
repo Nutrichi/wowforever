@@ -3,7 +3,7 @@ title: "Excavation Site: Wetlands"
 metaTitle: "Guía de la Excavation Site para WoW Forever: ruta, trash y jefes"
 description: "Cómo hacer la Excavation Site de los Wetlands en WoW Forever: la entrada para las dos facciones, la ruta por la hierba alta, los raptores que hay que vigilar y los cuatro jefes."
 short: "Guía"
-updated: 2026-10-26
+updated: 2026-11-23
 lang: es
 manual: true
 sources:
@@ -86,5 +86,4 @@ Inicia el combate con el Archival Panel a la derecha del guardián inactivo. El 
 ## Lo que aún no se sabe
 
 - **A dónde lleva la Bloody Map**, la recompensa de Open the Maw.
-- **Cuándo se arreglan Highland Hides y Prehistoric Prism**: las dos fallaban en la beta; no se sabe si ya funcionan.
 - **Las probabilidades de botín** de los jefes, salvo la Titan Relic.

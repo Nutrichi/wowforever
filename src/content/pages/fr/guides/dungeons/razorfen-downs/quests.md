@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Les quêtes de Razorfen Downs dans WoW Forever : départ et récompenses"
 description: "Les quêtes de Razorfen Downs dans WoW Forever : l’escorte de Belnistrasz, Bring the Light et Bring the End, An Unholy Alliance et ce que montrent les données de Forever."
 short: "Quêtes"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: fr
 manual: true
 sources:
@@ -13,7 +13,7 @@ dungeon:
   slug: "razorfen-downs"
   tab: "quests"
 ---
-Razorfen Downs compte huit quêtes dans les données de Forever. Six suivent Classic ; The Coldbringer's Eye est nouvelle, à Dalaran pour l'Alliance et à Mulgore pour la Horde :
+Razorfen Downs compte neuf quêtes dans les données de Forever. Six suivent Classic ; The Coldbringer's Eye est nouvelle, à Dalaran pour l'Alliance et à Mulgore pour la Horde, tout comme Agamaggan's Blood en Desolace :
 
 | Quête | Où elle commence | Niveau | Récompense |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Razorfen Downs compte huit quêtes dans les données de Forever. Six suivent Cla
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter : Varimathras<br><em>Terminez d’abord An Unholy Alliance de Razorfen Kraul.</em> | 28 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> ou <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
 | <a href="https://www.wowhead.com/forever/quest=96773">The Coldbringer's Eye</a><br>Alliance | Alterac Mountains, Dalaran : <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=20735">Archmage Lan'dalock</a> /way 15.4 73.8 | 34 | Réputation auprès du Kirin Tor et de Stormwind |
 | <a href="https://www.wowhead.com/forever/quest=97196">The Coldbringer's Eye</a><br>Horde | Mulgore : <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264078">Sutara Plainstalker</a> /way 34.4 22.8 | 34 | Réputation auprès de l'Earthen Ring et de Thunder Bluff |
+| <a href="https://www.wowhead.com/forever/quest=93604">Agamaggan's Blood</a><br>Les deux | Desolace, Bristleback Retreat : <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=253527">Kog'thug the Brave</a><br><em>Dernière étape après Word of the Woods, Rot and Regret et Passing the Blame.</em> | 35 | Expérience et 65 pièces d'argent |
 
 Le niveau est le niveau minimum pour prendre la quête. La Dragonclaw Ring ne figure pas encore dans les données de Forever.
 
@@ -32,3 +33,4 @@ Le niveau est le niveau minimum pour prendre la quête. La Dragonclaw Ring ne fi
 - **Scourge of the Downs et Extinguishing the Idol.** Chaque joueur parle deux fois à Belnistrasz pour la première quête ; la troisième fois lance l’escorte. Protégez-le pendant que son rituel éteint l’idole. Plaguemaw the Rotting arrive à la fin.
 - **Bring the Light et Bring the End.** Tuez Amnennar the Coldbringer ; la Horde rapporte la Skull of the Coldbringer.
 - **An Unholy Alliance.** Le Small Scroll de Charlga Razorflank dans [Razorfen Kraul](/fr/guides/dungeons/razorfen-kraul/) mène à Varimathras. Il veut la tête de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12865">Ambassador Malcin</a>, qui peut apparaître à plusieurs endroits juste devant l’instance.
+- **Agamaggan's Blood.** Le sang de Razorfen Kraul ne suffit pas. Passez par la grande gueule à l'entrée de Razorfen Downs, montez la rampe et traversez le pont : le <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=614524">Cauldron of Agamaggan's Blood</a> est sur votre gauche. Cliquez dessus, tuez l'élite Virulent Blood of Agamaggan qui apparaît et ramassez le <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=260237"><img class="wf-wh__icon" src="/wh/inv_potion_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Virulent Blood of Agamaggan</a>. La quête est élite, venez donc à plusieurs.

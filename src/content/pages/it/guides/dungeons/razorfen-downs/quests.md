@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Le missioni di Razorfen Downs in WoW Forever: inizio e ricompense"
 description: "Le missioni di Razorfen Downs in WoW Forever: la scorta di Belnistrasz, Bring the Light e Bring the End, An Unholy Alliance e cosa mostrano i dati di Forever."
 short: "Missioni"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: it
 manual: true
 sources:
@@ -13,7 +13,7 @@ dungeon:
   slug: "razorfen-downs"
   tab: "quests"
 ---
-Razorfen Downs ha otto missioni nei dati di Forever. Sei seguono Classic; The Coldbringer's Eye è nuova, da Dalaran per l'Alleanza e da Mulgore per l'Orda:
+Razorfen Downs ha nove missioni nei dati di Forever. Sei seguono Classic; The Coldbringer's Eye è nuova, da Dalaran per l'Alleanza e da Mulgore per l'Orda, come Agamaggan's Blood dalla Desolace:
 
 | Missione | Dove inizia | Livello | Ricompensa |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Razorfen Downs ha otto missioni nei dati di Forever. Sei seguono Classic; The Co
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter: Varimathras<br><em>Completa prima An Unholy Alliance di Razorfen Kraul.</em> | 28 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> o <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
 | <a href="https://www.wowhead.com/forever/quest=96773">The Coldbringer's Eye</a><br>Alleanza | Alterac Mountains, Dalaran: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=20735">Archmage Lan'dalock</a> /way 15.4 73.8 | 34 | Reputazione con il Kirin Tor e Stormwind |
 | <a href="https://www.wowhead.com/forever/quest=97196">The Coldbringer's Eye</a><br>Orda | Mulgore: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264078">Sutara Plainstalker</a> /way 34.4 22.8 | 34 | Reputazione con l'Earthen Ring e Thunder Bluff |
+| <a href="https://www.wowhead.com/forever/quest=93604">Agamaggan's Blood</a><br>Entrambe | Desolace, Bristleback Retreat: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=253527">Kog'thug the Brave</a><br><em>Ultimo passo dopo Word of the Woods, Rot and Regret e Passing the Blame.</em> | 35 | Esperienza e 65 d'argento |
 
 Il livello è il minimo per accettare la missione. Il Dragonclaw Ring non è ancora nei dati di Forever.
 
@@ -32,3 +33,4 @@ Il livello è il minimo per accettare la missione. Il Dragonclaw Ring non è anc
 - **Scourge of the Downs ed Extinguishing the Idol.** Ogni giocatore parla due volte con Belnistrasz per la prima missione; la terza volta avvia la scorta. Proteggilo mentre il suo rituale spegne l’idolo. Plaguemaw the Rotting arriva alla fine.
 - **Bring the Light e Bring the End.** Uccidi Amnennar the Coldbringer; la Horde riporta la Skull of the Coldbringer.
 - **An Unholy Alliance.** Lo Small Scroll di Charlga Razorflank a [Razorfen Kraul](/it/guides/dungeons/razorfen-kraul/) porta da Varimathras. Vuole la testa di <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12865">Ambassador Malcin</a>, che può comparire in vari punti appena fuori dall’istanza.
+- **Agamaggan's Blood.** Il sangue di Razorfen Kraul non basta. Entra dalla grande bocca all'ingresso di Razorfen Downs, sali la rampa e attraversa il ponte: il <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=614524">Cauldron of Agamaggan's Blood</a> è sulla sinistra. Cliccalo, uccidi l'élite Virulent Blood of Agamaggan che compare e raccogli il <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=260237"><img class="wf-wh__icon" src="/wh/inv_potion_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Virulent Blood of Agamaggan</a>. La missione è élite, quindi porta qualcuno.

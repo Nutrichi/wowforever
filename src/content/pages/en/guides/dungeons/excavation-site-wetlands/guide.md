@@ -3,7 +3,7 @@ title: "Excavation Site: Wetlands"
 metaTitle: "Excavation Site guide for WoW Forever: route, trash and bosses"
 description: "How to run the Excavation Site in the Wetlands in WoW Forever: the way in for both factions, the route through the tall grass, the raptors to watch and the four bosses."
 short: "Guide"
-updated: 2026-10-26
+updated: 2026-11-23
 lang: en
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
@@ -85,5 +85,4 @@ Start the fight with the Archival Panel on the right of the inactive guardian. T
 ## What is not known yet
 
 - **What the Bloody Map leads to**, the reward of Open the Maw.
-- **When Highland Hides and Prehistoric Prism are fixed**: both were bugged on the beta; whether they work now is not known.
 - **The drop rates** of the boss loot, apart from the Titan Relic.

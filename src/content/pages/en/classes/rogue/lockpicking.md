@@ -3,7 +3,7 @@ title: "Rogue Lockpicking guide for WoW Forever"
 metaTitle: "WoW Forever Lockpicking: quests, Thieves' Tools and 1 to 300"
 description: "How a Rogue learns Lockpicking in WoW Forever: Pick Lock at level 16, the Alliance and Horde quests for Thieves' Tools, the best spots from 1 to 300 and the dungeon doors you can open."
 short: "Rogue Lockpicking"
-updated: 2026-11-07
+updated: 2026-11-23
 lang: en
 faq:
   - q: "When can a Rogue learn Lockpicking in WoW Forever?"
@@ -17,6 +17,8 @@ faq:
   - q: "Do I need Lockpicking for Poisons?"
     a: "Yes. Both quest chains for Poisons at level 20 ask for 80 Lockpicking, so level it right after you learn Pick Lock."
 sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/news/the-best-way-to-level-lockpicking-to-max-in-wow-forever-383884"
   - name: "Warcraft Tavern, Lockpicking"
     url: "https://www.warcrafttavern.com/forever/classes/rogue/lockpicking/"
 ---
@@ -78,11 +80,10 @@ The starting quest of your faction is the fastest way. Both lead to Practice Loc
 | 225 to 250 | Bay of Storms, Azshara | Mossy Footlockers |
 | 225 to 250 | East of the Caverns of Time, Tanaris | Dented Footlockers |
 | 250 to 300 | Tyr's Hand, Eastern Plaguelands | Scarlet Footlockers, plus strongboxes from Pick Pocket from 280 |
-| 280 to 300 | Blackrock Depths | The three doors near the entrance |
 
 **Under water** in Desolace, bring a Draught of Water Breathing: the footlockers lie deep and the mobs there do not leave you alone. **Angor Fortress** is quick but often full of other Rogues. In **the Slag Pits**, pick the pockets of the mobs for extra boxes on top of the footlockers.
 
-**Tyr's Hand** is dangerous: the mobs are elite and hit hard, but their pockets hold boxes you can open from 280. From 280, **Blackrock Depths** is safer. Open the left gate as you enter, then the two doors after it, leave the dungeon, reset it and do it again.
+**Tyr's Hand** is the place to finish: the mobs are elite and hit hard, but the Scarlet Footlockers take you to 300 and their pockets hold boxes you can open from 280. Blackrock Depths no longer works for this: in Forever the Shadowforge lock turns grey around 265, so the old door loop there stops giving points long before 300.
 
 These are the classic spots. The lockboxes and footlockers are in the data of Forever, but the world has changed in places, so a spot can be emptier than it was in Classic.
 

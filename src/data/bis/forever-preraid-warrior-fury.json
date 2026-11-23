@@ -1,0 +1,311 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "warrior",
+ "spec": "fury",
+ "role": "Melee DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-23",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Lionheart Helm",
+     "source": "{skill:164}"
+    },
+    {
+     "name": "Eye of Rend",
+     "source": "Warchief Rend Blackhand"
+    },
+    {
+     "name": "Fury Visor",
+     "source": "Reward from the quest Voodoo Feathers"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Mark of Fordring",
+     "source": "Reward from the quest In Dreams"
+    },
+    {
+     "name": "Amulet of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Amulet of the Darkmoon"
+    },
+    {
+     "name": "Beads of Ogre Might",
+     "source": "Reward from the quest Falrin's Vendetta"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Dark Warder's Pauldrons",
+     "source": "Warder Stilgiss"
+    },
+    {
+     "name": "Truestrike Shoulders",
+     "source": "Pyroguard Emberseer"
+    },
+    {
+     "name": "Death's Clutch",
+     "source": "Ras Frostwhisper"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Howler's Furs",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare"
+    },
+    {
+     "name": "Blackveil Cape",
+     "source": "High Interrogator Gerstahn"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Timbermaw Tunic",
+     "source": "Crafted"
+    },
+    {
+     "name": "Dawn Armor",
+     "source": "Crafted"
+    },
+    {
+     "name": "Savage Gladiator Chain",
+     "source": "Gorosh the Dervish"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Battleborn Armbraces",
+     "source": "Warchief Rend Blackhand"
+    },
+    {
+     "name": "Berserker Bracers",
+     "source": "Illiyana Moonblaze/Kelm Hargunth"
+    },
+    {
+     "name": "Vambraces of the Sadist",
+     "source": "Timmy the Cruel"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Raider Gauntlets",
+     "source": "Creeg Bothunk"
+    },
+    {
+     "name": "Devilsaur Gauntlets",
+     "source": "Crafted"
+    },
+    {
+     "name": "Gauntlets of Heroism",
+     "source": "0.5 Questline"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Valiant's Waistguard",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "Marshal's Plate Girdle",
+     "source": "Rank 9 PvP"
+    },
+    {
+     "name": "Omokk's Girth Restrainer",
+     "source": "Reward from the quest Warlord's Command or Maxwell's Mission"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Devilsaur Leggings",
+     "source": "Crafted"
+    },
+    {
+     "name": "Outrider's Plate Legguards",
+     "source": "Warsong Gulch Exalted"
+    },
+    {
+     "name": "Handcrafted Mastersmith Leggings",
+     "source": "Goraluk Anvilcrack"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Furbolg Berserker's Boots",
+     "source": "Blackmaw Hold"
+    },
+    {
+     "name": "Battleboots of Heroism",
+     "source": "Warrior T0.5 questline"
+    },
+    {
+     "name": "Battlechaser's Greaves",
+     "source": "Blackrock Depths"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Cutthroat's Signet",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "Painweaver Band",
+     "source": "General Drakkisath"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Don Julio's Band",
+     "source": "Grunnda Wolfheart or Gaelden Hammersmith"
+    },
+    {
+     "name": "Painweaver Band",
+     "source": "General Drakkisath"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Blackhand's Breadth",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    },
+    {
+     "name": "Seal of the Dawn",
+     "source": "Reward from the quest The Active Agent"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak"
+    },
+    {
+     "name": "Seal of the Dawn",
+     "source": "Reward from the quest The Active Agent"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Persuader",
+     "source": "Crafted"
+    },
+    {
+     "name": "Ironfoe",
+     "source": "Emperor Dagran Thaurissan"
+    },
+    {
+     "name": "Dal'Rend's Sacred Charge",
+     "source": "Warchief Rend Blackhand"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Persuader",
+     "source": "Crafted"
+    },
+    {
+     "name": "Flurry Axe",
+     "source": "World drop"
+    },
+    {
+     "name": "Stormstrike Hammer",
+     "source": "Alterac Valley Revered"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Destiny",
+     "source": "World drop"
+    },
+    {
+     "name": "Blackblade of Shahram",
+     "source": "General Drakkisath"
+    },
+    {
+     "name": "The Unstoppable Force",
+     "source": "Exalted with Alterac Valley Reputation"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Bloodseeker",
+     "source": "Reward from the quest Hero of the Stormpike"
+    },
+    {
+     "name": "Blackcrow",
+     "source": "Shadow Hunter Vosh'gajin"
+    },
+    {
+     "name": "Satyr's Bow",
+     "source": "Zevrim Thornhoof"
+    }
+   ]
+  }
+ ]
+}

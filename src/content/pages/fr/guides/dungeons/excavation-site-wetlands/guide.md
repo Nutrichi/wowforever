@@ -3,7 +3,7 @@ title: "Excavation Site: Wetlands"
 metaTitle: "Guide de l’Excavation Site pour WoW Forever : parcours, trash et boss"
 description: "Comment faire l’Excavation Site dans les Wetlands dans WoW Forever : l’accès pour les deux factions, le parcours dans les hautes herbes, les raptors à surveiller et les quatre boss."
 short: "Guide"
-updated: 2026-10-26
+updated: 2026-11-23
 lang: fr
 manual: true
 sources:
@@ -86,5 +86,4 @@ Lancez le combat avec l’Archival Panel à droite du gardien inactif. Le dernie
 ## Ce qu’on ne sait pas encore
 
 - **Ce que montre la Bloody Map**, la récompense d’Open the Maw.
-- **Quand Highland Hides et Prehistoric Prism seront corrigées** : les deux étaient buguées sur la bêta ; on ne sait pas si elles marchent maintenant.
 - **Les taux de butin** des boss, sauf pour la Titan Relic.

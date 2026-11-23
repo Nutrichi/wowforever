@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "De quests van Razorfen Downs in WoW Forever: start en beloningen"
 description: "De quests van Razorfen Downs in WoW Forever: de begeleiding van Belnistrasz, Bring the Light en Bring the End, An Unholy Alliance en wat de data van Forever tot nu toe toont."
 short: "Quests"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: nl
 manual: true
 sources:
@@ -13,7 +13,7 @@ dungeon:
   slug: "razorfen-downs"
   tab: "quests"
 ---
-Razorfen Downs heeft acht quests in de data van Forever. Zes volgen Classic; The Coldbringer's Eye is nieuw, uit Dalaran voor de Alliance en uit Mulgore voor de Horde:
+Razorfen Downs heeft negen quests in de data van Forever. Zes volgen Classic; The Coldbringer's Eye is nieuw, uit Dalaran voor de Alliance en uit Mulgore voor de Horde, en ook Agamaggan's Blood uit Desolace:
 
 | Quest | Waar hij begint | Level | Beloning |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Razorfen Downs heeft acht quests in de data van Forever. Zes volgen Classic; The
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter: Varimathras<br><em>Doe eerst An Unholy Alliance uit Razorfen Kraul.</em> | 28 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> of <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
 | <a href="https://www.wowhead.com/forever/quest=96773">The Coldbringer's Eye</a><br>Alliance | Alterac Mountains, Dalaran: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=20735">Archmage Lan'dalock</a> /way 15.4 73.8 | 34 | Reputatie bij de Kirin Tor en Stormwind |
 | <a href="https://www.wowhead.com/forever/quest=97196">The Coldbringer's Eye</a><br>Horde | Mulgore: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264078">Sutara Plainstalker</a> /way 34.4 22.8 | 34 | Reputatie bij de Earthen Ring en Thunder Bluff |
+| <a href="https://www.wowhead.com/forever/quest=93604">Agamaggan's Blood</a><br>Beide | Desolace, Bristleback Retreat: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=253527">Kog'thug the Brave</a><br><em>Laatste stap na Word of the Woods, Rot and Regret en Passing the Blame.</em> | 35 | Ervaring en 65 zilver |
 
 Het level is het laagste level waarop je de quest kan aannemen. De Dragonclaw Ring staat nog niet in de data van Forever.
 
@@ -32,3 +33,4 @@ Het level is het laagste level waarop je de quest kan aannemen. De Dragonclaw Ri
 - **Scourge of the Downs en Extinguishing the Idol.** Elke speler praat twee keer met Belnistrasz voor de eerste quest; het derde gesprek start de escorte. Bescherm hem terwijl zijn ritueel het idool stillegt. Plaguemaw the Rotting komt op het eind.
 - **Bring the Light en Bring the End.** Dood Amnennar the Coldbringer; de Horde brengt de Skull of the Coldbringer terug.
 - **An Unholy Alliance.** De Small Scroll van Charlga Razorflank in [Razorfen Kraul](/nl/guides/dungeons/razorfen-kraul/) leidt naar Varimathras. Hij wil het hoofd van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12865">Ambassador Malcin</a>, die op verschillende plekken net buiten de instance kan verschijnen.
+- **Agamaggan's Blood.** Bloed uit Razorfen Kraul volstaat niet. Ga door de grote muil aan de ingang van Razorfen Downs, de helling op en over de brug: de <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=614524">Cauldron of Agamaggan's Blood</a> staat links. Klik erop, dood de elite Virulent Blood of Agamaggan die verschijnt en loot de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=260237"><img class="wf-wh__icon" src="/wh/inv_potion_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Virulent Blood of Agamaggan</a>. De quest is elite, neem dus iemand mee.

@@ -3,7 +3,7 @@ title: "Subtlety Rogue dans WoW Forever : le guide"
 metaTitle: "WoW Forever Subtlety Rogue : builds Ambush et saignements"
 description: "Le Subtlety Rogue dans WoW Forever : un build Ambush et un build saignements, tous deux avec Death Mark, au niveau 60, avec rotations, Énergie, Shank, poisons et races."
 short: "Subtlety Rogue"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: fr
 manual: true
 faq:
@@ -91,7 +91,7 @@ Une troisième option utilise Hemorrhage comme générateur avec Seal Fate, Cold
 
 ### Build de leveling
 
-Le [build de leveling du Rogue](/fr/leveling/rogue/) donne le talent de chaque niveau de 10 à 35. La suite de l’ordre viendra dès qu’elle sera connue.
+Le [build de leveling du Rogue](/fr/leveling/rogue/) donne le talent de chaque niveau de 10 à 60 : un build Combat, 15/36/0, avec Adrenaline Rush au 60.
 
 #### Build PvP
 

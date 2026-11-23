@@ -67,7 +67,9 @@ Agility dà potere d’attacco, probabilità di critico e schivata. In WoW Forev
 
 | Spec | Lista pre-raid |
 |---|---|
-| **Assassination, Combat e Subtlety** | In arrivo |
+| **Assassination** | In arrivo |
+| **Combat** | [Lista BiS](/it/bis/forever/preraid/rogue-combat/) |
+| **Subtlety** | [Lista BiS](/it/bis/forever/preraid/rogue-subtlety/) |
 
 Ogni lista mostra la data dell'ultimo aggiornamento. Tutte le liste di ogni classe sono nella [pagina BiS](/it/bis/).
 

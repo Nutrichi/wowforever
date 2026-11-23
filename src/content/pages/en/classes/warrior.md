@@ -68,8 +68,9 @@ The [talent calculator](/talents/warrior/) has the Warrior trees of WoW Forever.
 
 | Spec | Pre-raid list |
 |---|---|
+| **Arms** | [BiS list](/bis/forever/preraid/warrior-arms/) |
+| **Fury** | [BiS list](/bis/forever/preraid/warrior-fury/) |
 | **Protection** | [BiS list](/bis/forever/preraid/warrior-protection/) |
-| **Arms and Fury** | Coming soon |
 
 Every list shows the date of its last update. All lists for every class are on the [BiS page](/bis/).
 

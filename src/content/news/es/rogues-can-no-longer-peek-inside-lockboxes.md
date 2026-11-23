@@ -13,6 +13,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Actualización del 23 de noviembre:** Blizzard dice que este cambio es temporal. Un arreglo de verdad debe devolver el vistazo y el loot parcial. Más en [nuestro artículo](/es/news/peeking-inside-lockboxes-will-return/).
+
 Los Rogues de World of Warcraft: Forever ya no pueden echar un vistazo dentro de una lockbox antes de devolverla. Un hotfix reciente cierra un exploit que permitía volver a sortear el contenido.
 
 ## Cómo funcionaba

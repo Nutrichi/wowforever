@@ -3,7 +3,7 @@ title: "Assassination Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Assassination Rogue: poison-builds, Venom en rotatie"
 description: "De Assassination Rogue in WoW Forever: Venom en Shank, Mutilate vanaf level 40, de levelbuild voor de Rogue, de rotatie, Energy en poisons."
 short: "Assassination Rogue"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: nl
 manual: true
 faq:
@@ -75,7 +75,7 @@ De Mutilate PvP-build, 31/8/12, houdt Cold Blood, Mutilate en Seal Fate voor bur
 
 #### Levelbuild
 
-De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
+De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 60: een Combat-build, 15/36/0, met Adrenaline Rush op 60.
 
 ### Wat de belangrijkste talenten doen
 

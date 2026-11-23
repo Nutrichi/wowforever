@@ -3,7 +3,7 @@ title: "Uldaman"
 metaTitle: "Guide zu Uldaman für WoW Forever: Route, Trash und Bosse"
 description: "So spielst du Uldaman in WoW Forever: der Weg hinein über die Badlands, der Shaft of Tsol und das Gni'kiv Medallion für Ironaya, die Steinwächter und alle acht Bosse bis Archaedas."
 short: "Guide"
-updated: 2026-10-19
+updated: 2026-11-23
 lang: de
 manual: true
 sources:
@@ -55,6 +55,8 @@ Viel Rüstung, viel Gesundheit und immun gegen Schaden über Zeit. Knock Away sc
 ### Obsidian Sentinel
 
 Eine Bossversion der Stone Stewards. Er reflektiert Zauber und ruft bei 66 % und 33 % Gesundheit Obsidian Shards. Töte zuerst die Splitter und kehr dann zum Sentinel zurück.
+
+Seit einem Hotfix im November lässt er keine blauen Items mehr fallen, die <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274485"><img class="wf-wh__icon" src="/wh/inv_axe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Lingering Dread</a> für den <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9425"><img class="wf-wh__icon" src="/wh/inv_weapon_halberd_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pendulum of Doom</a> gibt es also nicht mehr. Siehe [unseren Beitrag](/de/news/obsidian-sentinel-in-uldaman-drops-no-more-loot/).
 
 ### Ancient Stone Keeper
 

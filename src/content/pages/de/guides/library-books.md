@@ -1,32 +1,34 @@
 ---
 title: "Bibliotheksbücher in WoW Forever: alle Fundorte und Belohnungen"
-metaTitle: "WoW Forever Bibliotheksbücher: alle 36 Fundorte mit /way, die Belohnungen und wo man sie abgibt"
-description: "Wo jedes Bibliotheksbuch in WoW Forever liegt: 36 Bücher mit /way in vier Levelstufen, wo Alliance und Horde sie abgeben, und die Belohnungen für 10, 20 und 25 Bücher."
+metaTitle: "WoW Forever Bibliotheksbücher: alle 39 Fundorte mit /way, die Belohnungen und wo man sie abgibt"
+description: "Wo jedes Bibliotheksbuch in WoW Forever liegt: 39 Bücher mit /way in vier Levelstufen, wo Alliance und Horde sie abgeben, und die Belohnungen für 10, 20, 25 und 35 Bücher."
 short: "Bibliotheksbücher"
-updated: 2026-11-14
+updated: 2026-11-23
 lang: de
 manual: true
 faq:
   - q: "Wie viele Bibliotheksbücher gibt es in WoW Forever?"
-    a: "36 Bücher, von Level 1 bis 60, in den Eastern Kingdoms und in Kalimdor."
+    a: "39 Bücher, von Level 1 bis 60, in den Eastern Kingdoms und in Kalimdor."
   - q: "Wo gibt man Bibliotheksbücher ab?"
     a: "Die Alliance bei Garion Wendell im Mage Quarter von Stormwind, die Horde bei Owen Thadd im Magic Quarter von Undercity."
   - q: "Was sind die Belohnungen für Bibliotheksbücher?"
-    a: "Bei 10 Büchern eine Halskette, bei 20 Büchern ein Ring ab Level 20, und bei 25 Büchern ein Bogen, Schild oder Nebenhandgegenstand ab Level 30, der Level 40 zum Tragen verlangt."
+    a: "Bei 10 Büchern eine Halskette, bei 20 Büchern ein Ring ab Level 20, und bei 25 Büchern ein Bogen, Schild oder Nebenhandgegenstand ab Level 30, der Level 40 zum Tragen verlangt. Bei 35 Büchern, ab Level 50, ein Schild oder eine von zwei Halsketten."
   - q: "Kann man ein Bibliotheksbuch erneut looten?"
     a: "Nein. Ein zerstörtes Buch lässt sich nach dem Stand der Beta nicht erneut looten."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/library-books/"
   - name: "Method"
     url: "https://www.method.gg/wow-forever/wow-forever-all-library-books-locations-and-rewards"
 ---
-In World of Warcraft: Forever liegen überall in Azeroth Bücher verstreut. Gebt sie in der Bibliothek eurer Fraktion ab, egal welche Klasse ihr spielt, und ihr schaltet drei Quests mit Belohnungen frei. Dieser Guide listet alle 36 Bücher mit /way auf.
+In World of Warcraft: Forever liegen überall in Azeroth Bücher verstreut. Gebt sie in der Bibliothek eurer Fraktion ab, egal welche Klasse ihr spielt, und ihr schaltet vier Quests mit Belohnungen frei. Dieser Guide listet alle 39 Bücher mit /way auf.
 
 | | |
 |---|---|
-| Bücher | 36, von Level 1 bis 60 |
+| Bücher | 39, von Level 1 bis 60 |
 | Alliance | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=211033">Garion Wendell</a>, Mage Quarter von Stormwind, /way 49.0 86.3 |
 | Horde | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=211022">Owen Thadd</a>, Magic Quarter von Undercity, /way 74.0 32.5 |
-| Belohnungen | Bei 10, 20 und 25 Büchern |
+| Belohnungen | Bei 10, 20, 25 und 35 Büchern |
 | Pro Buch | Erfahrung und etwas Silber |
 
 ## Belohnungen
@@ -36,12 +38,13 @@ In World of Warcraft: Forever liegen überall in Azeroth Bücher verstreut. Gebt
 | **10** | <a href="https://www.wowhead.com/forever/quest=78150">Friend of the Library</a> | keins | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> |
 | **20** | <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a> | 20 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281635"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Philanthropist's Ring</a> |
 | **25** | <a href="https://www.wowhead.com/forever/quest=82208">Greater Friend of the Library</a> | 30 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277254"><img class="wf-wh__icon" src="/wh/inv_weapon_bow_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Truthseeker's Bow</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277258"><img class="wf-wh__icon" src="/wh/spell_holy_powerwordshield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Crest of Elucidation</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277260"><img class="wf-wh__icon" src="/wh/inv_torch_lit.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Researcher's Night Light</a> |
+| **35** | <a href="https://www.wowhead.com/forever/quest=84394">Greater Friend of the Library</a> | 50 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281637"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Antique Bulwark</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277202"><img class="wf-wh__icon" src="/wh/trade_archaeology_pendant-of-the-aqir.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Artifact Seeker's Pendant</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281636"><img class="wf-wh__icon" src="/wh/trade_archaeology_mithrilnecklace.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Museum Keeper's Chain</a> |
 
 Die zwei Halsketten sanken in der Beta auf [grüne Qualität](/de/news/necklaces-for-10-books-drop-to-green-quality/), und [Field Researcher's Loop](/de/news/field-researchers-loop-now-fits-every-class/) passt zu jeder Klasse. Die Quest für 25 Bücher öffnet auf Level 30, aber alle drei Belohnungen [verlangen Level 40](/de/news/truthseekers-bow-now-requires-level-40/) zum Tragen.
 
 ## Wo man sie abgibt
 
-Die Alliance geht zum Mage Tower im Mage Quarter von Stormwind, die Horde ins Magic Quarter von Undercity. Die zwei Quests für 20 und 25 Bücher tragen denselben Namen, Greater Friend of the Library.
+Die Alliance geht zum Mage Tower im Mage Quarter von Stormwind, die Horde ins Magic Quarter von Undercity. Die drei Quests für 20, 25 und 35 Bücher tragen denselben Namen, Greater Friend of the Library.
 
 Bis zum 13. November lehnten beide Bibliothekare wegen eines Fehlers jedes Buch ab. Ein Hotfix hat das behoben, du kannst deine Bücher wieder abgeben.
 
@@ -51,7 +54,7 @@ Mages bekommen etwas extra: Das erste Buch gibt ihnen den Zauber Study, der in e
 
 **Achtung:** Ein zerstörtes Buch lässt sich nach dem Stand der Beta nicht erneut looten.
 
-## Eastern Kingdoms, Level 1 bis 20 (9 Bücher)
+## Eastern Kingdoms, Level 1 bis 20 (10 Bücher)
 
 | Zone | Buch | /way | Wo |
 |---|---|---|---|
@@ -65,6 +68,7 @@ Mages bekommen etwas extra: Das erste Buch gibt ihnen den Zauber Study, der in e
 | Ironforge | Archmage Antonidas: The Unabridged Autobiography | 75.7 10.5 | Hall of Explorers, auf dem großen Tisch |
 | Tirisfal Glades | The Apothecary's Metaphysical Primer | 59.4 52.3 | Brill, das Regal im Alchemieladen |
 | Silverpine Forest | The Dalaran Digest, Vol. 23 | 63.5 63.1 | Ambermill, Haupthalle, im Regal direkt vor euch |
+| Silverpine Forest | Ataeric: On Arcane Curiosities | 43.4 41.2 | The Sepulcher, unterstes Stockwerk, im Regal neben dem Rüstungsschmied; tief im Horde-Gebiet |
 
 Rumi of Gnomeregan liegt in den Gasthäusern von Westfall und Loch Modan, zählt aber nur einmal. Spieler der Alliance: Die NPCs in Ambermill in Silverpine Forest sind euch gegenüber neutral.
 
@@ -149,7 +153,7 @@ Diese Bücher liegen in Zonen von Level 30 bis 45. Manche liegen bei stärkeren 
 
 </div>
 
-## Ab Level 40 (14 Bücher)
+## Ab Level 40 (16 Bücher)
 
 | Zone | Buch | /way | Wo |
 |---|---|---|---|
@@ -159,11 +163,13 @@ Diese Bücher liegen in Zonen von Level 30 bis 45. Manche liegen bei stärkeren 
 | Eastern Plaguelands | The Knight and the Lady | 47.3 42.3 | Abgebranntes Haus am See |
 | Eastern Plaguelands | Scourge: Undead Menace or Misunderstood? | 26.6 14.5 | Die Zonenseite der Brücke vor Stratholme |
 | Swamp of Sorrows | Sanguine Sorcery | 70.2 51.9 | Oberste Ebene des Temple of Atal'Hakkar, an der Rückseite |
+| Swamp of Sorrows | A Luddite's Guide to Caring for Your Demonic Pet | 61.0 22.0 | Fallow Sanctuary, in einem Käfig: Holt euch einen Rusted Cage Key von den Lost Ones in der Nähe |
 | The Hinterlands | Venomous Journeys | 35.8 72.5 | Innerhalb der halbrunden Mauer an der ersten Pyramide links |
 | Felwood | Northern Kalimdor - A Comprehensive Guide | 65.1 3.2 | Tunnel von Timbermaw Hold, auf halbem Weg, links von der Brücke |
 | Winterspring | Ka-Boom! | 60.4 37.4 | Everlook |
 | Burning Steppes | Stonewrought Design | 31.1 30.1 | Blackrock Mountain, das Grab am Beschwörungsstein, neben Franclorn Forgewright |
 | Burning Steppes | Magma or Lava? | 31.1 30.1 | Blackrock Mountain, direkt hinter Lothos Riftwaker, vor den Gegnern von Blackrock Depths |
+| Blasted Lands | Conjurer's Codex | 55.3 32.2 | Im Schutt am Weg in der Mitte der Zone |
 | Searing Gorge | A Mind of Metal | 38.1 49.8 | Zelt mit einem Dark-Iron-Zwerg daneben |
 | Azshara | Everyday Etiquette | 20.4 62.3 | Nördlich des Flugpunkts, vor den Ruinen |
 | Tanaris | Legends of the Tidesages | 72.6 47.5 | Lost Rigger Cove, Bücherregal im mittleren der drei Gebäude |

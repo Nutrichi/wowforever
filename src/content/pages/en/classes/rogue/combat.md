@@ -3,7 +3,7 @@ title: "Combat Rogue guide for WoW Forever"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash builds to level 60"
 description: "The Combat Rogue in WoW Forever: Hack and Slash for every weapon type, two level 60 builds (standard and daggers), Blade Flurry, Adrenaline Rush, Energy, poisons and races."
 short: "Combat Rogue"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: en
 faq:
   - q: "Is Combat Rogue good in WoW Forever?"
@@ -89,7 +89,7 @@ The Venom build takes Venom and Cold Blood in Assassination and relies more on p
 
 ### Leveling build
 
-The [Rogue level build](/leveling/rogue/) gives the talent for every level from 10 to 35. The rest of the order follows once it is known.
+The [Rogue level build](/leveling/rogue/) gives the talent for every level from 10 to 60: a Combat build, 15/36/0, with Adrenaline Rush at 60. [Open the level 60 result in the talent calculator](/talents/rogue/?t=025303002-3200330212012321551).
 
 #### PvP build
 

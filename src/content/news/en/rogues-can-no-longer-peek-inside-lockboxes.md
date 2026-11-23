@@ -12,6 +12,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Update 23 November:** Blizzard says this change is temporary. A proper fix should bring back peeking and partial looting. More in [our post](/news/peeking-inside-lockboxes-will-return/).
+
 Rogues in World of Warcraft: Forever can no longer take a look inside a lockbox before they hand it back. A recent hotfix closes an exploit that let players reroll what was inside.
 
 ## How it worked

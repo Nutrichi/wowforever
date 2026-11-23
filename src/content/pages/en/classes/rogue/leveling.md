@@ -3,7 +3,7 @@ title: "Rogue leveling guide for WoW Forever"
 metaTitle: "WoW Forever Rogue leveling: builds for all three specs to 60"
 description: "How to level a Rogue in WoW Forever: level 60 builds for Assassination, Combat and Subtlety, the rotation, key levels, poison quests, weapons and professions."
 short: "Rogue leveling"
-updated: 2026-11-12
+updated: 2026-11-23
 lang: en
 faq:
   - q: "What is the best spec to level a Rogue in WoW Forever?"
@@ -19,7 +19,7 @@ faq:
   - q: "Which professions suit a Rogue?"
     a: "Skinning with Leatherworking is the natural pair: you kill many beasts, and Forever has new leather recipes such as Dark Leather Boots and Brawler's Leather Belt. Cooking is worth it for every class, because buff food gives extra experience and you need it for a camp."
   - q: "Is there a level 60 build?"
-    a: "The Rogue level build gives a talent for every level to 35 for now. Every spec guide has its own builds for level 60."
+    a: "Yes. The Rogue level build gives a talent for every level from 10 to 60, a Combat build with 15/36/0. Every spec guide also has its own builds for level 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/classes/rogue/leveling/"
@@ -36,7 +36,7 @@ The Rogue was never the easiest class to level, but WoW Forever helps. Poisons c
 | Weakness | Low health, depends on gear, little utility |
 | Talent order per level | [Rogue level build](/leveling/rogue/) |
 | Spec guides | [Assassination Rogue](/classes/rogue/assassination/), [Combat Rogue](/classes/rogue/combat/), [Subtlety Rogue](/classes/rogue/subtlety/) |
-| Builds to level 60 | Not yet, the [level build](/leveling/rogue/) goes to 35 |
+| Builds to level 60 | The [level build](/leveling/rogue/), Combat 15/36/0 |
 
 ## Which spec to level with
 
@@ -59,7 +59,7 @@ Stats at these levels: Agility, then Attack Power, Strength, Stamina and armor.
 
 ### Talent builds
 
-The [Rogue level build](/leveling/rogue/) gives the talent for every level from 10 to 35. The rest of the order follows once it is known.
+The [Rogue level build](/leveling/rogue/) gives the talent for every level from 10 to 60: a Combat build, 15/36/0, with Adrenaline Rush at 60.
 
 For level 60, every spec guide has its own builds for raids, leveling and PvP: [Assassination](/classes/rogue/assassination/), [Combat](/classes/rogue/combat/) and [Subtlety](/classes/rogue/subtlety/).
 

@@ -67,7 +67,9 @@ Agility da poder de ataque, probabilidad de crítico y esquiva. En WoW Forever e
 
 | Spec | Lista pre-raid |
 |---|---|
-| **Assassination, Combat y Subtlety** | Próximamente |
+| **Assassination** | Próximamente |
+| **Combat** | [Lista BiS](/es/bis/forever/preraid/rogue-combat/) |
+| **Subtlety** | [Lista BiS](/es/bis/forever/preraid/rogue-subtlety/) |
 
 Cada lista muestra la fecha de su última actualización. Todas las listas de cada clase están en la [página de BiS](/es/bis/).
 

@@ -3,7 +3,7 @@ title: "Guía del Assassination Rogue en WoW Forever"
 metaTitle: "WoW Forever Assassination Rogue: builds de venenos, Venom y rotación"
 description: "El Assassination Rogue en WoW Forever: Venom y Shank, Mutilate desde el nivel 40, la build de nivel del Rogue, la rotación y los venenos."
 short: "Assassination Rogue"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: es
 manual: true
 faq:
@@ -75,7 +75,7 @@ La build de PvP de Mutilate, 31/8/12, conserva Cold Blood, Mutilate y Seal Fate 
 
 #### Build para subir de nivel
 
-La [build de nivel del Rogue](/es/leveling/rogue/) da el talento de cada nivel del 10 al 35. El resto del orden llegará en cuanto se conozca.
+La [build de nivel del Rogue](/es/leveling/rogue/) da el talento de cada nivel del 10 al 60: una build Combat, 15/36/0, con Adrenaline Rush al 60.
 
 ### Qué hacen los talentos clave
 

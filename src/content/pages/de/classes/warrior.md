@@ -69,8 +69,9 @@ Der [Talentrechner](/de/talents/warrior/) hat die Warrior-Bäume von WoW Forever
 
 | Spec | Pre-Raid-Liste |
 |---|---|
+| **Arms** | [BiS-Liste](/de/bis/forever/preraid/warrior-arms/) |
+| **Fury** | [BiS-Liste](/de/bis/forever/preraid/warrior-fury/) |
 | **Protection** | [BiS-Liste](/de/bis/forever/preraid/warrior-protection/) |
-| **Arms und Fury** | Folgt bald |
 
 Jede Liste zeigt das Datum ihrer letzten Aktualisierung. Alle Listen für jede Klasse stehen auf der [BiS-Seite](/de/bis/).
 

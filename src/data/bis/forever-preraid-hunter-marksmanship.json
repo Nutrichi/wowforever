@@ -5,7 +5,7 @@
  "spec": "marksmanship",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-18",
+ "updated": "2026-11-22",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -30,16 +30,16 @@
    "slot": "Neck",
    "items": [
     {
+     "name": "Pendant of Celerity",
+     "source": "Lord Valthalak (Blackrock Spire)"
+    },
+    {
+     "name": "Beads of Ogre Might",
+     "source": "Reward from the quest Falrin's Vendetta"
+    },
+    {
      "name": "Mark of Fordring",
      "source": "Reward from the quest In Dreams"
-    },
-    {
-     "name": "Amulet of the Darkmoon",
-     "source": "1200 Tickets in Amulet of the Darkmoon Gelvas Grimegate"
-    },
-    {
-     "name": "Prismatic Pendant",
-     "source": "Baron Rivendare (Stratholme)"
     }
    ]
   },
@@ -51,12 +51,12 @@
      "source": "Bryanna Embreeze (The Barrens), Theramore Expeditionary Force (Exalted)"
     },
     {
-     "name": "Shadowcraft Spaulders",
-     "source": "Cannon Master Willey (Stratholme) Black Market"
+     "name": "Darkspear Epaulets",
+     "source": "Creeg Bothunk (The Barrens), Darkspear Raiders (Exalted)"
     },
     {
-     "name": "Stratholme Militia Shoulderguard",
-     "source": "Zone Drop (Stratholme)"
+     "name": "Shadowcraft Spaulders",
+     "source": "Cannon Master Willey (Stratholme) Black Market"
     }
    ]
   },
@@ -68,12 +68,12 @@
      "source": "Baron Rivendare (Stratholme)"
     },
     {
-     "name": "Shifting Cloak",
-     "source": "Crafted"
+     "name": "Heliotrope Cloak",
+     "source": "Zone Drop (Dire Maul)"
     },
     {
-     "name": "Shadow Prowler's Cloak",
-     "source": "General Drakkisath (Blackrock Spire)"
+     "name": "Shifting Cloak",
+     "source": "Crafted"
     }
    ]
   },
@@ -98,12 +98,12 @@
      "source": "Quest"
     },
     {
-     "name": "Bracers of the Eclipse",
-     "source": "Prince Tortheldrin (Dire Maul)"
-    },
-    {
      "name": "Satyrhide Armbands",
      "source": "Quest (Dire Maul)"
+    },
+    {
+     "name": "Bracers of the Eclipse",
+     "source": "Prince Tortheldrin (Dire Maul)"
     }
    ]
   },
@@ -129,15 +129,15 @@
    "items": [
     {
      "name": "Ranger's Belt",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (100 Reals)"
     },
     {
      "name": "Warpwood Binding",
      "source": "Tendris Warpwood (Dire Maul)"
     },
     {
-     "name": "Marksman's Girdle",
-     "source": "Urok Doomhowl (Blackrock Spire)"
+     "name": "Highlander's Chain Girdle",
+     "source": "Samuel Hawke (Arathi Highlands), The League of Arathor (Honored)"
     }
    ]
   },
@@ -170,8 +170,8 @@
      "source": "Quest Vendor"
     },
     {
-     "name": "Shadowcraft Boots",
-     "source": "Rattlegore (Scholomance) Black Market"
+     "name": "Bloodmail Boots",
+     "source": "Zone Drop (Scholomance)"
     }
    ]
   },
@@ -180,15 +180,15 @@
    "items": [
     {
      "name": "Cutthroat's Signet",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Blackstone Ring",
      "source": "Princess Theradras (Maraudon)"
     },
     {
-     "name": "Painweaver Band",
-     "source": "General Drakkisath (Blackrock Spire)"
+     "name": "Channeler's Ring",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     }
    ]
   },
@@ -204,8 +204,8 @@
      "source": "Princess Theradras (Maraudon)"
     },
     {
-     "name": "Painweaver Band",
-     "source": "General Drakkisath (Blackrock Spire)"
+     "name": "Channeler's Ring",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     }
    ]
   },
@@ -217,8 +217,8 @@
      "source": "Quest (Blackrock Spire)"
     },
     {
-     "name": "Heart of Wyrmthalak",
-     "source": "Overlord Wyrmthalak (Blackrock Spire)"
+     "name": "Highborne Research Tablet",
+     "source": "Reward from the quest Your Final Reward"
     },
     {
      "name": "Flamebreak Talisman",
@@ -230,12 +230,12 @@
    "slot": "Trinket 2",
    "items": [
     {
-     "name": "Cleansed Vilebranch Medallion",
-     "source": "Reward from the quest Saving Sharpbeak"
-    },
-    {
      "name": "Heart of Wyrmthalak",
      "source": "Overlord Wyrmthalak (Blackrock Spire)"
+    },
+    {
+     "name": "Highborne Research Tablet",
+     "source": "Reward from the quest Your Final Reward"
     },
     {
      "name": "Flamebreak Talisman",
@@ -251,6 +251,10 @@
      "source": "Source not listed yet"
     },
     {
+     "name": "Tooth of the Matriarch",
+     "source": "Direhorn Matriarch"
+    },
+    {
      "name": "King Mosh's Tooth",
      "source": "King Mosh (Un'Goro Crater)"
     }
@@ -262,6 +266,10 @@
     {
      "name": "Legionite Glaive",
      "source": "Crafted"
+    },
+    {
+     "name": "Beastslayer's Trident",
+     "source": "Reward from the quest Mapping the Way Forward or The Dark Crystal"
     }
    ]
   },
@@ -269,15 +277,11 @@
    "slot": "Ranged",
    "items": [
     {
-     "name": "Bloodseeker",
-     "source": "Quest (Alterac Valley)"
-    },
-    {
-     "name": "Eaglehorn Long Bow",
+     "name": "Dwarven Hand Cannon",
      "source": "Source not listed yet"
     },
     {
-     "name": "Dwarven Hand Cannon",
+     "name": "Hawkeye Bow",
      "source": "Source not listed yet"
     }
    ]

@@ -3,7 +3,7 @@ title: "Gids voor Lockpicking van de Rogue in WoW Forever"
 metaTitle: "WoW Forever Lockpicking: quests, Thieves' Tools en 1 tot 300"
 description: "Zo leert een Rogue Lockpicking in WoW Forever: Pick Lock op level 16, de quests van Alliance en Horde voor Thieves' Tools, de beste plekken van 1 tot 300 en de dungeondeuren die je opent."
 short: "Rogue Lockpicking"
-updated: 2026-11-07
+updated: 2026-11-23
 lang: nl
 manual: true
 faq:
@@ -18,6 +18,8 @@ faq:
   - q: "Heb ik Lockpicking nodig voor Poisons?"
     a: "Ja. Beide questreeksen voor Poisons op level 20 vragen 80 Lockpicking, dus level het meteen nadat je Pick Lock leert."
 sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/news/the-best-way-to-level-lockpicking-to-max-in-wow-forever-383884"
   - name: "Warcraft Tavern, Lockpicking"
     url: "https://www.warcrafttavern.com/forever/classes/rogue/lockpicking/"
 ---
@@ -79,11 +81,10 @@ De startquest van je factie is de snelste weg. Beide leiden naar Practice Lockbo
 | 225 tot 250 | Bay of Storms, Azshara | Mossy Footlockers |
 | 225 tot 250 | Ten oosten van de Caverns of Time, Tanaris | Dented Footlockers |
 | 250 tot 300 | Tyr's Hand, Eastern Plaguelands | Scarlet Footlockers, plus strongboxes uit Pick Pocket vanaf 280 |
-| 280 tot 300 | Blackrock Depths | De drie deuren bij de ingang |
 
 Neem **onder water** in Desolace een Draught of Water Breathing mee: de footlockers liggen diep en de mobs laten je daar niet met rust. **Angor Fortress** gaat snel, maar staat vaak vol andere Rogues. Rol in **the Slag Pits** de zakken van de mobs voor extra kistjes naast de footlockers.
 
-**Tyr's Hand** is gevaarlijk: de mobs zijn elite en slaan hard, maar in hun zakken zitten kistjes die je vanaf 280 opent. Vanaf 280 is **Blackrock Depths** veiliger. Open de linkerpoort bij de ingang en daarna de twee deuren erachter, verlaat de dungeon, reset hem en doe het opnieuw.
+**Tyr's Hand** is de plek om af te werken: de mobs zijn elite en slaan hard, maar de Scarlet Footlockers brengen je tot 300 en in hun zakken zitten kistjes die je vanaf 280 opent. Blackrock Depths werkt hier niet meer voor: in Forever wordt de Shadowforge-slot grijs rond 265, dus het oude rondje langs de deuren geeft al lang voor 300 geen punten meer.
 
 Dit zijn de klassieke plekken. De lockboxes en footlockers zitten in de data van Forever, maar de wereld is hier en daar veranderd, dus een plek kan leger zijn dan in Classic.
 

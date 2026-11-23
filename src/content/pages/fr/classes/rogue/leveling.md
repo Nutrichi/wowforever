@@ -3,7 +3,7 @@ title: "Monter un Rogue dans WoW Forever : le guide"
 metaTitle: "Leveling Rogue WoW Forever : builds de chaque spé jusqu'au 60"
 description: "Monter un Rogue dans WoW Forever : builds niveau 60 pour Assassination, Combat et Subtlety, la rotation, les niveaux clés, les quêtes de poisons et les armes."
 short: "Leveling Rogue"
-updated: 2026-11-12
+updated: 2026-11-23
 lang: fr
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Quels métiers conviennent à un Rogue ?"
     a: "Skinning avec Leatherworking est la paire naturelle : vous tuez beaucoup de bêtes, et Forever a de nouvelles recettes en cuir comme Dark Leather Boots et Brawler's Leather Belt. Cooking vaut le coup pour toutes les classes, car la nourriture à buff donne de l'expérience en plus et il en faut pour un camp."
   - q: "Existe-t-il un build pour le niveau 60 ?"
-    a: "Le build de leveling du Rogue donne pour l’instant un talent pour chaque niveau jusqu’à 35. Chaque guide de spécialisation a ses propres builds pour le niveau 60."
+    a: "Oui. Le build de leveling du Rogue donne un talent pour chaque niveau de 10 à 60, un build Combat en 15/36/0. Chaque guide de spécialisation a aussi ses propres builds pour le niveau 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/classes/rogue/leveling/"
@@ -37,7 +37,7 @@ Le Rogue n'a jamais été la classe la plus simple à monter, mais WoW Forever a
 | Points faibles | Peu de vie, dépend de l'équipement, peu d'utilitaire |
 | Talent par niveau | [Build de leveling du Rogue](/fr/leveling/rogue/) |
 | Guides par spé | [Assassination Rogue](/fr/classes/rogue/assassination/), [Combat Rogue](/fr/classes/rogue/combat/), [Subtlety Rogue](/fr/classes/rogue/subtlety/) |
-| Builds jusqu'au niveau 60 | Pas encore, le [build de leveling](/fr/leveling/rogue/) va jusqu’au 35 |
+| Builds jusqu'au niveau 60 | Le [build de leveling](/fr/leveling/rogue/), Combat 15/36/0 |
 
 ## Quelle spé pour monter
 
@@ -60,7 +60,7 @@ Caractéristiques à ces niveaux : Agility, puis Attack Power, Strength, Stamina
 
 ### Les builds de talents
 
-Le [build de leveling du Rogue](/fr/leveling/rogue/) donne le talent de chaque niveau de 10 à 35. La suite de l’ordre viendra dès qu’elle sera connue.
+Le [build de leveling du Rogue](/fr/leveling/rogue/) donne le talent de chaque niveau de 10 à 60 : un build Combat, 15/36/0, avec Adrenaline Rush au 60.
 
 Pour le niveau 60, chaque guide de spécialisation a ses propres builds pour les raids, le leveling et le PvP : [Assassination](/fr/classes/rogue/assassination/), [Combat](/fr/classes/rogue/combat/) et [Subtlety](/fr/classes/rogue/subtlety/).
 

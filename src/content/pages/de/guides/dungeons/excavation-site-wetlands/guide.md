@@ -3,7 +3,7 @@ title: "Excavation Site: Wetlands"
 metaTitle: "Guide zur Excavation Site für WoW Forever: Route, Trash und Bosse"
 description: "So spielst du die Excavation Site in den Wetlands in WoW Forever: der Weg hinein für beide Fraktionen, die Route durch das hohe Gras, die Raptoren, auf die du achten musst, und die vier Bosse."
 short: "Guide"
-updated: 2026-10-26
+updated: 2026-11-23
 lang: de
 manual: true
 sources:
@@ -86,5 +86,4 @@ Starte den Kampf mit dem Archival Panel rechts vom inaktiven Wächter. Der letzt
 ## Was noch nicht bekannt ist
 
 - **Wohin die Bloody Map führt**, die Belohnung von Open the Maw.
-- **Wann Highland Hides und Prehistoric Prism behoben werden**: Beide waren auf der Beta fehlerhaft; ob sie jetzt funktionieren, ist nicht bekannt.
 - **Die Dropchancen** der Beute der Bosse, außer der Titan Relic.

@@ -13,6 +13,8 @@ tags: ["forever"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 23 novembre :** Blizzard dit que ce changement est temporaire. Un vrai correctif doit ramener le coup d'œil et le loot partiel. Plus de détails dans [notre article](/fr/news/peeking-inside-lockboxes-will-return/).
+
 Dans World of Warcraft: Forever, les Rogues ne peuvent plus jeter un œil dans une lockbox avant de la rendre. Un hotfix récent ferme un exploit qui permettait de relancer le tirage du contenu.
 
 ## Comment ça marchait

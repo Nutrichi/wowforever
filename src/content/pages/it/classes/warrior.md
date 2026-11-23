@@ -69,8 +69,9 @@ Il [calcolatore dei talenti](/it/talents/warrior/) contiene gli alberi del Warri
 
 | Spec | Lista pre-raid |
 |---|---|
+| **Arms** | [Lista BiS](/it/bis/forever/preraid/warrior-arms/) |
+| **Fury** | [Lista BiS](/it/bis/forever/preraid/warrior-fury/) |
 | **Protection** | [Lista BiS](/it/bis/forever/preraid/warrior-protection/) |
-| **Arms e Fury** | In arrivo |
 
 Ogni lista mostra la data dell'ultimo aggiornamento. Tutte le liste di ogni classe sono nella [pagina BiS](/it/bis/).
 

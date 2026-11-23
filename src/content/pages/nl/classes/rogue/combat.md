@@ -3,7 +3,7 @@ title: "Combat Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Combat Rogue: Hack and Slash-builds tot level 60"
 description: "De Combat Rogue in WoW Forever: Hack and Slash voor elk wapentype, twee builds voor level 60 (standaard en dolken), Blade Flurry, Adrenaline Rush, Energy, poisons en races."
 short: "Combat Rogue"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: nl
 manual: true
 faq:
@@ -90,7 +90,7 @@ De Venombuild neemt Venom en Cold Blood in Assassination en leunt meer op schade
 
 ### Levelbuild
 
-De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
+De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 60: een Combat-build, 15/36/0, met Adrenaline Rush op 60. [Open het resultaat op level 60 in de talentcalculator](/nl/talents/rogue/?t=025303002-3200330212012321551).
 
 #### PvP-build
 

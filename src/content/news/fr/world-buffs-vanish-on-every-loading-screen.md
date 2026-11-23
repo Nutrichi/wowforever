@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 23 novembre :** Blizzard dit que c'est un bug, causé par un correctif pour un autre bug, et la solution doit suivre le lendemain. Plus de détails dans [notre article](/fr/news/losing-world-buffs-on-loading-screens-is-a-bug/).
+
 Dans World of Warcraft: Forever, les world buffs disparaissent désormais dès qu'un écran de chargement apparaît. Blizzard n'a pas annoncé le changement, mais les buffs ne vous suivent donc plus dans un donjon, de l'autre côté de la mer ou après une déconnexion.
 
 ## Quels buffs

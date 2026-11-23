@@ -31242,7 +31242,7 @@
     },
     "Royal Seal of Eldre'Thalas": {
       "kind": "item",
-      "id": 18467,
+      "id": 18466,
       "icon": "inv_jewelry_talisman_10",
       "quality": 3
     },
@@ -31314,7 +31314,7 @@
     },
     "Beastmaster's Cap": {
       "kind": "item",
-      "id": 22013,
+      "id": 226887,
       "icon": "inv_helmet_24",
       "quality": 4
     },
@@ -31356,7 +31356,7 @@
     },
     "Beastmaster's Tunic": {
       "kind": "item",
-      "id": 22060,
+      "id": 226886,
       "icon": "inv_chest_chain_03",
       "quality": 4
     },
@@ -31374,7 +31374,7 @@
     },
     "Beastmaster's Bindings": {
       "kind": "item",
-      "id": 226885,
+      "id": 22011,
       "icon": "inv_bracer_17",
       "quality": 3
     },
@@ -31632,7 +31632,7 @@
     },
     "Dryad's Wrist Bindings": {
       "kind": "item",
-      "id": 19595,
+      "id": 19596,
       "icon": "inv_bracer_13",
       "quality": 4
     },
@@ -32178,7 +32178,7 @@
     },
     "Pauldrons of The Five Thunders": {
       "kind": "item",
-      "id": 227003,
+      "id": 22101,
       "icon": "inv_shoulder_29",
       "quality": 3
     },
@@ -32208,7 +32208,7 @@
     },
     "Vest of The Five Thunders": {
       "kind": "item",
-      "id": 227004,
+      "id": 22102,
       "icon": "inv_chest_chain_11",
       "quality": 4
     },
@@ -32220,7 +32220,7 @@
     },
     "Bindings of The Five Thunders": {
       "kind": "item",
-      "id": 227001,
+      "id": 22095,
       "icon": "inv_bracer_02",
       "quality": 3
     },
@@ -32238,13 +32238,13 @@
     },
     "Gauntlets of The Five Thunders": {
       "kind": "item",
-      "id": 227006,
+      "id": 22099,
       "icon": "inv_gauntlets_11",
       "quality": 4
     },
     "Cord of The Five Thunders": {
       "kind": "item",
-      "id": 227008,
+      "id": 22098,
       "icon": "inv_belt_16",
       "quality": 3
     },
@@ -32634,7 +32634,7 @@
     },
     "Breastplate of Heroism": {
       "kind": "item",
-      "id": 21997,
+      "id": 226862,
       "icon": "inv_chest_plate03",
       "quality": 4
     },
@@ -32658,7 +32658,7 @@
     },
     "Berserker Bracers": {
       "kind": "item",
-      "id": 19580,
+      "id": 19578,
       "icon": "inv_bracer_06",
       "quality": 4
     },
@@ -32670,7 +32670,7 @@
     },
     "Gauntlets of Heroism": {
       "kind": "item",
-      "id": 21998,
+      "id": 226861,
       "icon": "inv_gauntlets_26",
       "quality": 4
     },
@@ -32694,7 +32694,7 @@
     },
     "Legplates of Heroism": {
       "kind": "item",
-      "id": 22000,
+      "id": 226859,
       "icon": "inv_pants_04",
       "quality": 3
     },
@@ -33278,6 +33278,612 @@
       "kind": "item",
       "id": 12940,
       "icon": "inv_sword_43",
+      "quality": 3
+    },
+    "Highlander's Chain Girdle": {
+      "kind": "item",
+      "id": 20043,
+      "icon": "inv_belt_20",
+      "quality": 3
+    },
+    "Pendant of Celerity": {
+      "kind": "item",
+      "id": 22340,
+      "icon": "inv_jewelry_necklace_04",
+      "quality": 3
+    },
+    "Highborne Research Tablet": {
+      "kind": "item",
+      "id": 260205,
+      "icon": "inv_misc_stonetablet_10",
+      "quality": 2
+    },
+    "Beastslayer's Trident": {
+      "kind": "item",
+      "id": 279910,
+      "icon": "inv_spear_04",
+      "quality": 3
+    },
+    "Ritssyn's Wand of Bad Mojo": {
+      "kind": "item",
+      "id": 22408,
+      "icon": "inv_wand_07",
+      "quality": 3
+    },
+    "Tribal War Feathers": {
+      "kind": "item",
+      "id": 12960,
+      "icon": "inv_helmet_24",
+      "quality": 3
+    },
+    "Insightful Hood": {
+      "kind": "item",
+      "id": 18490,
+      "icon": "inv_helmet_41",
+      "quality": 3
+    },
+    "Premier Luminous Shoulders": {
+      "kind": "item",
+      "id": 272855,
+      "icon": "inv_shoulder_28",
+      "quality": 3
+    },
+    "Royal Cap Spaulders": {
+      "kind": "item",
+      "id": 14548,
+      "icon": "inv_shoulder_11",
+      "quality": 3
+    },
+    "Battle Healer's Cloak": {
+      "kind": "item",
+      "id": 19526,
+      "icon": "inv_misc_cape_18",
+      "quality": 3
+    },
+    "Cloak of the Cosmos": {
+      "kind": "item",
+      "id": 18389,
+      "icon": "inv_misc_cape_01",
+      "quality": 3
+    },
+    "Crownroar Chestplate": {
+      "kind": "item",
+      "id": 280027,
+      "icon": "inv_chest_plate09",
+      "quality": 3
+    },
+    "Frostfang Mail Vest": {
+      "kind": "item",
+      "id": 280013,
+      "icon": "inv_chest_chain_07",
+      "quality": 3
+    },
+    "Loomguard Armbraces": {
+      "kind": "item",
+      "id": 13969,
+      "icon": "inv_bracer_16",
+      "quality": 3
+    },
+    "Bracers of Prosperity": {
+      "kind": "item",
+      "id": 18525,
+      "icon": "inv_bracer_12",
+      "quality": 3
+    },
+    "Premier Luminous Gauntlets": {
+      "kind": "item",
+      "id": 273363,
+      "icon": "inv_gauntlets_29",
+      "quality": 3
+    },
+    "Harmonious Gauntlets": {
+      "kind": "item",
+      "id": 18527,
+      "icon": "inv_gauntlets_10",
+      "quality": 3
+    },
+    "Gilded Gauntlets": {
+      "kind": "item",
+      "id": 13244,
+      "icon": "inv_gauntlets_29",
+      "quality": 3
+    },
+    "Whipvine Cord": {
+      "kind": "item",
+      "id": 18327,
+      "icon": "inv_belt_17",
+      "quality": 3
+    },
+    "Eyestalk Cord": {
+      "kind": "item",
+      "id": 18391,
+      "icon": "inv_belt_26",
+      "quality": 3
+    },
+    "Belt of the Ordained": {
+      "kind": "item",
+      "id": 18702,
+      "icon": "inv_belt_28",
+      "quality": 3
+    },
+    "Ghoul Skin Leggings": {
+      "kind": "item",
+      "id": 18682,
+      "icon": "inv_pants_02",
+      "quality": 3
+    },
+    "Tanglemoss Leggings": {
+      "kind": "item",
+      "id": 18390,
+      "icon": "inv_pants_14",
+      "quality": 3
+    },
+    "Verdant Footpads": {
+      "kind": "item",
+      "id": 13954,
+      "icon": "inv_boots_08",
+      "quality": 3
+    },
+    "Band of Mending": {
+      "kind": "item",
+      "id": 22334,
+      "icon": "inv_jewelry_ring_05",
+      "quality": 3
+    },
+    "Dormant Heart of the Mountain": {
+      "kind": "item",
+      "id": 249473,
+      "icon": "inv_misc_gem_diamond_01",
+      "quality": 3
+    },
+    "Second Wind": {
+      "kind": "item",
+      "id": 11819,
+      "icon": "inv_jewelry_talisman_06",
+      "quality": 3
+    },
+    "Brightly Glowing Stone": {
+      "kind": "item",
+      "id": 18523,
+      "icon": "inv_misc_orb_01",
+      "quality": 3
+    },
+    "Rattlecage Buckler": {
+      "kind": "item",
+      "id": 14528,
+      "icon": "inv_shield_02",
+      "quality": 3
+    },
+    "Libram of Divinity": {
+      "kind": "item",
+      "id": 23201,
+      "icon": "inv_relics_libramofhope",
+      "quality": 3
+    },
+    "Darkmantle Cap": {
+      "kind": "item",
+      "id": 226829,
+      "icon": "inv_helmet_41",
+      "quality": 4
+    },
+    "Eye of Rend": {
+      "kind": "item",
+      "id": 12587,
+      "icon": "inv_helmet_46",
+      "quality": 3
+    },
+    "Theramore Pauldrons": {
+      "kind": "item",
+      "id": 271955,
+      "icon": "inv_shoulder_06",
+      "quality": 4
+    },
+    "Darkmantle Spaulders": {
+      "kind": "item",
+      "id": 22008,
+      "icon": "inv_shoulder_07",
+      "quality": 3
+    },
+    "Truestrike Shoulders": {
+      "kind": "item",
+      "id": 12927,
+      "icon": "inv_shoulder_10",
+      "quality": 3
+    },
+    "Cloak of the Honor Guard": {
+      "kind": "item",
+      "id": 20073,
+      "icon": "inv_misc_cape_02",
+      "quality": 4
+    },
+    "Darkmantle Tunic": {
+      "kind": "item",
+      "id": 226825,
+      "icon": "inv_chest_leather_07",
+      "quality": 4
+    },
+    "Darkmantle Bracers": {
+      "kind": "item",
+      "id": 226830,
+      "icon": "inv_bracer_07",
+      "quality": 3
+    },
+    "Deepfury Bracers": {
+      "kind": "item",
+      "id": 13120,
+      "icon": "inv_bracer_07",
+      "quality": 3
+    },
+    "Darkmantle Grips": {
+      "kind": "item",
+      "id": 226828,
+      "icon": "inv_gauntlets_24",
+      "quality": 4
+    },
+    "Stormshroud Gloves": {
+      "kind": "item",
+      "id": 21278,
+      "icon": "inv_gauntlets_05",
+      "quality": 3
+    },
+    "Assassin's Waistguard": {
+      "kind": "item",
+      "id": 272395,
+      "icon": "inv_belt_26",
+      "quality": 4
+    },
+    "Highlander's Leather Girdle": {
+      "kind": "item",
+      "id": 20045,
+      "icon": "inv_belt_17",
+      "quality": 3
+    },
+    "Might of the Timbermaw": {
+      "kind": "item",
+      "id": 19044,
+      "icon": "inv_belt_09",
+      "quality": 3
+    },
+    "Darkmantle Pants": {
+      "kind": "item",
+      "id": 226827,
+      "icon": "inv_pants_02",
+      "quality": 3
+    },
+    "Shadowcraft Pants": {
+      "kind": "item",
+      "id": 16709,
+      "icon": "inv_pants_02",
+      "quality": 3
+    },
+    "Darkmantle Footpads": {
+      "kind": "item",
+      "id": 226831,
+      "icon": "inv_boots_08",
+      "quality": 4
+    },
+    "Swiftwalker Boots": {
+      "kind": "item",
+      "id": 12553,
+      "icon": "inv_boots_02",
+      "quality": 3
+    },
+    "Persuader": {
+      "kind": "item",
+      "id": 22384,
+      "icon": "inv_hammer_08",
+      "quality": 4
+    },
+    "Ironfoe": {
+      "kind": "item",
+      "id": 11684,
+      "icon": "spell_frost_frostbrand",
+      "quality": 4
+    },
+    "Precisely Calibrated Boomstick": {
+      "kind": "item",
+      "id": 2100,
+      "icon": "inv_weapon_rifle_06",
+      "quality": 4
+    },
+    "Deep Jungle Rifle": {
+      "kind": "item",
+      "id": 280020,
+      "icon": "inv_weapon_rifle_04",
+      "quality": 3
+    },
+    "Felstriker": {
+      "kind": "item",
+      "id": 12590,
+      "icon": "inv_weapon_shortblade_25",
+      "quality": 4
+    },
+    "Crown of The Five Thunders": {
+      "kind": "item",
+      "id": 227013,
+      "icon": "inv_helmet_04",
+      "quality": 4
+    },
+    "Fury Visor": {
+      "kind": "item",
+      "id": 20521,
+      "icon": "inv_helmet_01",
+      "quality": 3
+    },
+    "Dark Warder's Pauldrons": {
+      "kind": "item",
+      "id": 22241,
+      "icon": "inv_shoulder_07",
+      "quality": 3
+    },
+    "Shroud of Domination": {
+      "kind": "item",
+      "id": 22337,
+      "icon": "inv_misc_cape_19",
+      "quality": 3
+    },
+    "Vambraces of the Sadist": {
+      "kind": "item",
+      "id": 13400,
+      "icon": "inv_bracer_17",
+      "quality": 3
+    },
+    "Battleborn Armbraces": {
+      "kind": "item",
+      "id": 12936,
+      "icon": "inv_bracer_17",
+      "quality": 3
+    },
+    "Spike Crested Bracers": {
+      "kind": "item",
+      "id": 280061,
+      "icon": "inv_bracer_08",
+      "quality": 3
+    },
+    "Theramore Gauntlets": {
+      "kind": "item",
+      "id": 271940,
+      "icon": "inv_gauntlets_29",
+      "quality": 4
+    },
+    "Valiant's Waistguard": {
+      "kind": "item",
+      "id": 272403,
+      "icon": "inv_belt_33",
+      "quality": 4
+    },
+    "Highlander's Plate Girdle": {
+      "kind": "item",
+      "id": 20041,
+      "icon": "inv_belt_14",
+      "quality": 3
+    },
+    "Brigam Girdle": {
+      "kind": "item",
+      "id": 13142,
+      "icon": "inv_belt_33",
+      "quality": 3
+    },
+    "Magni's Will": {
+      "kind": "item",
+      "id": 12548,
+      "icon": "inv_jewelry_ring_05",
+      "quality": 3
+    },
+    "Destiny": {
+      "kind": "item",
+      "id": 647,
+      "icon": "inv_sword_19",
+      "quality": 4
+    },
+    "Blackblade of Shahram": {
+      "kind": "item",
+      "id": 12592,
+      "icon": "inv_sword_29",
+      "quality": 4
+    },
+    "Runeblade of Baron Rivendare": {
+      "kind": "item",
+      "id": 13505,
+      "icon": "inv_sword_17",
+      "quality": 4
+    },
+    "Blackveil Cape": {
+      "kind": "item",
+      "id": 11626,
+      "icon": "inv_misc_cape_18",
+      "quality": 3
+    },
+    "Raider Gauntlets": {
+      "kind": "item",
+      "id": 272095,
+      "icon": "inv_gauntlets_29",
+      "quality": 4
+    },
+    "Marshal's Plate Girdle": {
+      "kind": "item",
+      "id": 16482,
+      "icon": "inv_belt_27",
+      "quality": 4
+    },
+    "Omokk's Girth Restrainer": {
+      "kind": "item",
+      "id": 13959,
+      "icon": "inv_belt_13",
+      "quality": 3
+    },
+    "Outrider's Plate Legguards": {
+      "kind": "item",
+      "id": 22651,
+      "icon": "inv_pants_plate_20",
+      "quality": 4
+    },
+    "Handcrafted Mastersmith Leggings": {
+      "kind": "item",
+      "id": 13498,
+      "icon": "inv_pants_04",
+      "quality": 3
+    },
+    "Furbolg Berserker's Boots": {
+      "kind": "item",
+      "id": 287033,
+      "icon": "inv_boots_chain_08",
+      "quality": 3
+    },
+    "Battleboots of Heroism": {
+      "kind": "item",
+      "id": 226857,
+      "icon": "inv_boots_plate_03",
+      "quality": 4
+    },
+    "Battlechaser's Greaves": {
+      "kind": "item",
+      "id": 12555,
+      "icon": "inv_boots_plate_06",
+      "quality": 3
+    },
+    "Seal of the Dawn": {
+      "kind": "item",
+      "id": 13209,
+      "icon": "inv_misc_armorkit_18",
+      "quality": 3
+    },
+    "Stormstrike Hammer": {
+      "kind": "item",
+      "id": 19104,
+      "icon": "inv_hammer_21",
+      "quality": 3
+    },
+    "Blackcrow": {
+      "kind": "item",
+      "id": 12651,
+      "icon": "inv_weapon_crossbow_04",
+      "quality": 3
+    },
+    "Helm of the Executioner": {
+      "kind": "item",
+      "id": 22411,
+      "icon": "inv_helmet_01",
+      "quality": 3
+    },
+    "Faceguard of Heroism": {
+      "kind": "item",
+      "id": 226869,
+      "icon": "inv_helmet_02",
+      "quality": 4
+    },
+    "Pauldrons of Heroism": {
+      "kind": "item",
+      "id": 226867,
+      "icon": "inv_shoulder_30",
+      "quality": 3
+    },
+    "Ebonsteel Spaulders": {
+      "kind": "item",
+      "id": 12557,
+      "icon": "inv_shoulder_25",
+      "quality": 3
+    },
+    "Razorsteel Shoulders": {
+      "kind": "item",
+      "id": 20517,
+      "icon": "inv_shoulder_16",
+      "quality": 3
+    },
+    "Stalwart Cloak": {
+      "kind": "item",
+      "id": 272415,
+      "icon": "inv_misc_cape_16",
+      "quality": 3
+    },
+    "Stoneskin Gargoyle Cape": {
+      "kind": "item",
+      "id": 13397,
+      "icon": "inv_misc_cape_19",
+      "quality": 3
+    },
+    "Chestguard of Heroism": {
+      "kind": "item",
+      "id": 226872,
+      "icon": "inv_chest_plate03",
+      "quality": 4
+    },
+    "Wristguards of Heroism": {
+      "kind": "item",
+      "id": 226865,
+      "icon": "inv_bracer_18",
+      "quality": 3
+    },
+    "Gargantuan Wristguards": {
+      "kind": "item",
+      "id": 280010,
+      "icon": "inv_bracer_14",
+      "quality": 3
+    },
+    "Handguards of Heroism": {
+      "kind": "item",
+      "id": 226870,
+      "icon": "inv_gauntlets_26",
+      "quality": 4
+    },
+    "Reiver Claws": {
+      "kind": "item",
+      "id": 13162,
+      "icon": "inv_gauntlets_29",
+      "quality": 3
+    },
+    "Octofinger Gauntlets": {
+      "kind": "item",
+      "id": 280086,
+      "icon": "inv_gauntlets_21",
+      "quality": 3
+    },
+    "Waistguard of Heroism": {
+      "kind": "item",
+      "id": 226866,
+      "icon": "inv_belt_34",
+      "quality": 3
+    },
+    "Legguards of Heroism": {
+      "kind": "item",
+      "id": 226868,
+      "icon": "inv_pants_04",
+      "quality": 3
+    },
+    "Sabatons of Heroism": {
+      "kind": "item",
+      "id": 226871,
+      "icon": "inv_boots_plate_03",
+      "quality": 4
+    },
+    "Ribsteel Footguards": {
+      "kind": "item",
+      "id": 13259,
+      "icon": "inv_boots_plate_08",
+      "quality": 3
+    },
+    "Iceblade Hacker": {
+      "kind": "item",
+      "id": 13952,
+      "icon": "inv_axe_03",
+      "quality": 3
+    },
+    "Intricately Runed Shield": {
+      "kind": "item",
+      "id": 18696,
+      "icon": "inv_shield_02",
+      "quality": 3
+    },
+    "Avalanchion's Stony Hide": {
+      "kind": "item",
+      "id": 18673,
+      "icon": "inv_shield_03",
+      "quality": 3
+    },
+    "Hammer of Divine Might": {
+      "kind": "item",
+      "id": 22333,
+      "icon": "inv_hammer_04",
       "quality": 3
     }
   }

@@ -1,0 +1,285 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "rogue",
+ "spec": "subtlety",
+ "role": "Melee DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-23",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Darkmantle Cap",
+     "source": "Reward from the quest Saving the Best for Last"
+    },
+    {
+     "name": "Eye of Rend",
+     "source": "Warchief Rend Blackhand (Blackrock Spire)"
+    },
+    {
+     "name": "Mask of the Unforgiven",
+     "source": "The Unforgiven (Stratholme)"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Mark of Fordring",
+     "source": "Reward from the quest In Dreams"
+    },
+    {
+     "name": "Beads of Ogre Might",
+     "source": "Reward from the quest Falrin's Vendetta"
+    },
+    {
+     "name": "Pendant of Celerity",
+     "source": "Lord Valthalak (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Theramore Pauldrons",
+     "source": "Theramore Expeditionary Force (Exalted) / Darkspear Raiders"
+    },
+    {
+     "name": "Darkmantle Spaulders",
+     "source": "Reward from the quest Anthion's Parting Words"
+    },
+    {
+     "name": "Truestrike Shoulders",
+     "source": "Pyroguard Emberseer (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Howler's Furs",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare (Stratholme)"
+    },
+    {
+     "name": "Cloak of the Honor Guard",
+     "source": "The League of Arathor (Exalted) / The Defilers"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Dawn Armor",
+     "source": "{skill:165}"
+    },
+    {
+     "name": "Timbermaw Tunic",
+     "source": "{skill:165}"
+    },
+    {
+     "name": "Darkmantle Tunic",
+     "source": "Reward from the quest Saving the Best for Last"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Bracers of the Eclipse",
+     "source": "Prince Tortheldrin (Dire Maul)"
+    },
+    {
+     "name": "Darkmantle Bracers",
+     "source": "Reward from the quest An Earnest Proposition"
+    },
+    {
+     "name": "Deepfury Bracers",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Devilsaur Gauntlets",
+     "source": "{skill:165}"
+    },
+    {
+     "name": "Darkmantle Grips",
+     "source": "Reward from the quest Just Compensation"
+    },
+    {
+     "name": "Stormshroud Gloves",
+     "source": "{skill:165}"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Assassin's Waistguard",
+     "source": "Reals vendor in Booty Bay (100 Reals)"
+    },
+    {
+     "name": "Highlander's Leather Girdle",
+     "source": "Honored with The League of Arathor / The Defilers"
+    },
+    {
+     "name": "Might of the Timbermaw",
+     "source": "{skill:165}"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Devilsaur Leggings",
+     "source": "{skill:165}"
+    },
+    {
+     "name": "Darkmantle Pants",
+     "source": "Reward from the quest Anthion's Parting Words"
+    },
+    {
+     "name": "Shadowcraft Pants",
+     "source": "Baron Rivendare (Stratholme)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Darkmantle Footpads",
+     "source": "Reward from the quest Anthion's Parting Words"
+    },
+    {
+     "name": "Swiftwalker Boots",
+     "source": "Princess Moira Bronzebeard (Blackrock Depths)"
+    },
+    {
+     "name": "Shadowcraft Boots",
+     "source": "Rattlegore (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Don Julio's Band",
+     "source": "Stormpike Guard (Exalted) / reputation Vendor"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras (Maraudon)"
+    },
+    {
+     "name": "Tarnished Elven Ring",
+     "source": "Gordok Tribute (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Cutthroat's Signet",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras (Maraudon)"
+    },
+    {
+     "name": "Tarnished Elven Ring",
+     "source": "Gordok Tribute (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak (Blackrock Spire)"
+    },
+    {
+     "name": "Hand of Justice",
+     "source": "Emperor Dagran Thaurissan (Blackrock Depths)"
+    },
+    {
+     "name": "Blackhand's Breadth",
+     "source": "Reward from the quest General Drakkisath's Demise or For The Horde!"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Highborne Research Tablet",
+     "source": "Reward from the quest Your Final Reward"
+    },
+    {
+     "name": "Hand of Justice",
+     "source": "Emperor Dagran Thaurissan (Blackrock Depths)"
+    },
+    {
+     "name": "Blackhand's Breadth",
+     "source": "Reward from the quest General Drakkisath's Demise or For The Horde!"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Felstriker",
+     "source": "Warchief Rend Blackhand (Blackrock Spire)"
+    },
+    {
+     "name": "Persuader",
+     "source": "{skill:164}"
+    },
+    {
+     "name": "Teebu's Blazing Longsword",
+     "source": "World drop"
+    }
+   ]
+  },
+  {
+   "slot": "Ranged",
+   "items": [
+    {
+     "name": "Precisely Calibrated Boomstick",
+     "source": "World drop"
+    },
+    {
+     "name": "Satyr's Bow",
+     "source": "Zevrim Thornhoof (Dire Maul)"
+    },
+    {
+     "name": "Deep Jungle Rifle",
+     "source": "Thunderhoof (The Shaper's Terrace)"
+    }
+   ]
+  }
+ ]
+}

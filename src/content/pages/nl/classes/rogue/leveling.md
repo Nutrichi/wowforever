@@ -3,7 +3,7 @@ title: "Rogue levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Rogue levelgids: builds voor elke spec tot 60"
 description: "Zo level je een Rogue in WoW Forever: builds voor level 60 voor Assassination, Combat en Subtlety, de rotatie, belangrijke levels, gifquests, wapens en beroepen."
 short: "Rogue levelen"
-updated: 2026-11-12
+updated: 2026-11-23
 lang: nl
 manual: true
 faq:
@@ -20,7 +20,7 @@ faq:
   - q: "Welk beroeps passen bij een Rogue?"
     a: "Skinning met Leatherworking is het natuurlijke paar: je doodt veel beesten, en Forever heeft nieuwe lederrecepten zoals Dark Leather Boots en Brawler's Leather Belt. Cooking loont voor elke class, want buff food geeft extra ervaring en je hebt het nodig voor een kamp."
   - q: "Is er een build voor level 60?"
-    a: "De levelbuild voor de Rogue geeft voorlopig een talent voor elk level tot 35. Elke specgids heeft zijn eigen builds voor level 60."
+    a: "Ja. De levelbuild voor de Rogue geeft een talent voor elk level van 10 tot 60, een Combat-build met 15/36/0. Elke specgids heeft daarnaast eigen builds voor level 60."
 sources:
   - name: "Warcraft Tavern"
     url: "https://www.warcrafttavern.com/forever/classes/rogue/leveling/"
@@ -37,7 +37,7 @@ De Rogue was nooit de makkelijkste class om te levelen, maar WoW Forever helpt. 
 | Zwak in | Weinig leven, afhankelijk van gear, weinig utility |
 | Talent per level | [Levelbuild voor de Rogue](/nl/leveling/rogue/) |
 | Gidsen per spec | [Assassination Rogue](/nl/classes/rogue/assassination/), [Combat Rogue](/nl/classes/rogue/combat/), [Subtlety Rogue](/nl/classes/rogue/subtlety/) |
-| Builds tot level 60 | Nog niet, de [levelbuild](/nl/leveling/rogue/) gaat tot 35 |
+| Builds tot level 60 | De [levelbuild](/nl/leveling/rogue/), Combat 15/36/0 |
 
 ## Met welke spec levelen
 
@@ -60,7 +60,7 @@ Stats op deze levels: Agility, dan Attack Power, Strength, Stamina en armor.
 
 ### Talentbuilds
 
-De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
+De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 60: een Combat-build, 15/36/0, met Adrenaline Rush op 60.
 
 Voor level 60 heeft elke specgids zijn eigen builds voor raids, levelen en PvP: [Assassination](/nl/classes/rogue/assassination/), [Combat](/nl/classes/rogue/combat/) en [Subtlety](/nl/classes/rogue/subtlety/).
 

@@ -66,7 +66,9 @@ Agility gives attack power, critical strike chance and dodge. In WoW Forever att
 
 | Spec | Pre-raid list |
 |---|---|
-| **Assassination, Combat and Subtlety** | Coming soon |
+| **Assassination** | Coming soon |
+| **Combat** | [BiS list](/bis/forever/preraid/rogue-combat/) |
+| **Subtlety** | [BiS list](/bis/forever/preraid/rogue-subtlety/) |
 
 Every list shows the date of its last update. All lists for every class are on the [BiS page](/bis/).
 

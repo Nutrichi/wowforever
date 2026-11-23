@@ -5,7 +5,7 @@
  "spec": "protection",
  "role": "Tank",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-14",
+ "updated": "2026-11-22",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -17,12 +17,12 @@
      "source": "Crafted"
     },
     {
-     "name": "Enchanted Thorium Helm",
-     "source": "Crafted"
+     "name": "Helm of the Executioner",
+     "source": "Baron Rivendare"
     },
     {
-     "name": "Helm of Valor",
-     "source": "Darkmaster Gandling"
+     "name": "Faceguard of Heroism",
+     "source": "Tier 0.5 Questline"
     }
    ]
   },
@@ -30,16 +30,16 @@
    "slot": "Neck",
    "items": [
     {
-     "name": "Horn of Ve'han",
-     "source": "Datamined in Unknown"
+     "name": "Amulet of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Amulet of the Darkmoon"
     },
     {
      "name": "Beads of Ogre Might",
      "source": "Reward from the quest Falrin's Vendetta"
     },
     {
-     "name": "Woven Ivy Necklace",
-     "source": "Reward from the quest WANTED: Vile Priestess Hexx and Her Minions"
+     "name": "Mark of Fordring",
+     "source": "Reward from the quest In Dreams"
     }
    ]
   },
@@ -47,16 +47,16 @@
    "slot": "Shoulders",
    "items": [
     {
-     "name": "Spaulders of Heroism",
-     "source": "Reward from the quest Anthion's Parting Words"
+     "name": "Pauldrons of Heroism",
+     "source": "Tier 0.5 Questline"
     },
     {
-     "name": "Spaulders of Valor",
-     "source": "Warchief Rend Blackhand"
+     "name": "Ebonsteel Spaulders",
+     "source": "Princess Moira Bronzebeard"
     },
     {
-     "name": "Sentinel's Pauldrons",
-     "source": "Crafted"
+     "name": "Razorsteel Shoulders",
+     "source": "Reward from the quest Voodoo Feathers"
     }
    ]
   },
@@ -64,16 +64,16 @@
    "slot": "Back",
    "items": [
     {
+     "name": "Stalwart Cloak",
+     "source": "75x {currency:3469}"
+    },
+    {
      "name": "Shifting Cloak",
      "source": "Crafted"
     },
     {
-     "name": "Premier Sergeant's Cloak",
-     "source": "Rank 3 PVP"
-    },
-    {
-     "name": "Master's Cloak",
-     "source": "World drop"
+     "name": "Stoneskin Gargoyle Cape",
+     "source": "Stonespine"
     }
    ]
   },
@@ -81,16 +81,16 @@
    "slot": "Chest",
    "items": [
     {
-     "name": "Enchanted Thorium Breastplate",
-     "source": "Crafted"
+     "name": "Breastplate of the Chromatic Flight",
+     "source": "Reward from the quest Breastplate of the Chromatic Flight"
     },
     {
-     "name": "Breastplate of Heroism",
-     "source": "Reward from the quest Saving the Best for Last"
+     "name": "Savage Gladiator Chain",
+     "source": "Gorosh the Dervish"
     },
     {
-     "name": "Darksoul Breastplate",
-     "source": "Crafted"
+     "name": "Chestguard of Heroism",
+     "source": "Tier 0.5 Questline"
     }
    ]
   },
@@ -98,16 +98,16 @@
    "slot": "Wrists",
    "items": [
     {
-     "name": "Bracers of Heroism",
-     "source": "Reward from the quest An Earnest Proposition"
+     "name": "Wristguards of Heroism",
+     "source": "Tier 0.5 Questline"
     },
     {
-     "name": "Sentinel's Wristguards",
-     "source": "Crafted"
+     "name": "Gargantuan Wristguards",
+     "source": "Titanosaur"
     },
     {
-     "name": "Berserker Bracers",
-     "source": "Reputation reward (Exalted with)"
+     "name": "Vambraces of the Sadist",
+     "source": "Timmy the Cruel"
     }
    ]
   },
@@ -115,16 +115,16 @@
    "slot": "Hands",
    "items": [
     {
-     "name": "Stronghold Gauntlets",
-     "source": "Crafted"
+     "name": "Handguards of Heroism",
+     "source": "Tier 0.5 Questline"
     },
     {
-     "name": "Sentinel's Gloves",
-     "source": "Crafted"
+     "name": "Reiver Claws",
+     "source": "Overlord Wyrmthalak"
     },
     {
-     "name": "Gauntlets of Heroism",
-     "source": "Reward from the quest Just Compensation"
+     "name": "Octofinger Gauntlets",
+     "source": "Tunnelweb Matriarch"
     }
    ]
   },
@@ -132,16 +132,16 @@
    "slot": "Waist",
    "items": [
     {
-     "name": "Belt of Heroism",
-     "source": "Reward from the quest Just Compensation"
+     "name": "Valiant's Waistguard",
+     "source": "100x {currency:3469}"
     },
     {
-     "name": "Defiler's Plate Girdle",
-     "source": "Honored with"
+     "name": "Brigam Girdle",
+     "source": "General Drakkisath"
     },
     {
-     "name": "Belt of Valor",
-     "source": "BOE from LBRS/Stratholm"
+     "name": "Waistguard of Heroism",
+     "source": "Tier 0.5 Questline"
     }
    ]
   },
@@ -149,16 +149,16 @@
    "slot": "Legs",
    "items": [
     {
-     "name": "Legplates of Heroism",
-     "source": "Reward from the quest Anthion's Parting Words"
+     "name": "Handcrafted Mastersmith Leggings",
+     "source": "Goraluk Anvilcrack"
     },
     {
      "name": "Sentinel's Plate Legguards",
-     "source": "Reputation reward (Exalted with)"
+     "source": "Silverwing Sentinels (Exalted)"
     },
     {
-     "name": "Titanic Leggings",
-     "source": "Crafted"
+     "name": "Legguards of Heroism",
+     "source": "Tier 0.5 Questline"
     }
    ]
   },
@@ -166,16 +166,16 @@
    "slot": "Feet",
    "items": [
     {
-     "name": "Boots of Heroism",
-     "source": "Reward from the quest Anthion's Parting Words"
+     "name": "Furbolg Berserker's Boots",
+     "source": "Blackmaw Hold"
     },
     {
-     "name": "Sentinel's Sabatons",
-     "source": "Crafted"
+     "name": "Sabatons of Heroism",
+     "source": "Tier 0.5 Questline"
     },
     {
-     "name": "Boots of Valor",
-     "source": "Kirtonos the Herald"
+     "name": "Ribsteel Footguards",
+     "source": "Urok Doomhowl"
     }
    ]
   },
@@ -183,12 +183,16 @@
    "slot": "Ring 1",
    "items": [
     {
-     "name": "Warden's Signet of Vigilance",
-     "source": "Exalted with (currently unobtainable)"
+     "name": "Don Julio's Band",
+     "source": "Stormpike Guard (Exalted)"
     },
     {
-     "name": "Cutthroat's Signet",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras"
+    },
+    {
+     "name": "Magni's Will",
+     "source": "Reward from the quest The Princess's Surprise"
     }
    ]
   },
@@ -196,12 +200,16 @@
    "slot": "Ring 2",
    "items": [
     {
-     "name": "Don Julio's Band",
-     "source": "Reputation reward (Exalted with)"
-    },
-    {
      "name": "Cutthroat's Signet",
      "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras"
+    },
+    {
+     "name": "Magni's Will",
+     "source": "Reward from the quest The Princess's Surprise"
     }
    ]
   },
@@ -210,11 +218,15 @@
    "items": [
     {
      "name": "Adaptive Combat Assistant",
-     "source": "Reals vendor in Booty Bay (125 Reals)"
+     "source": "125x {currency:3469}"
     },
     {
-     "name": "Defender's Grip Stabilizer",
-     "source": "Reals vendor in Booty Bay (125 Reals)"
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak"
+    },
+    {
+     "name": "Darkmoon Card: Maelstrom",
+     "source": "Elementals Deck"
     }
    ]
   },
@@ -222,12 +234,16 @@
    "slot": "Trinket 2",
    "items": [
     {
-     "name": "Stormpike Insignia Rank 6",
-     "source": "Reputation reward (Exalted with)"
+     "name": "Royal Seal of Eldre'Thalas",
+     "source": "Reward from the quest Codex of Defense"
     },
     {
-     "name": "Defender's Grip Stabilizer",
-     "source": "Reals vendor in Booty Bay (125 Reals)"
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak"
+    },
+    {
+     "name": "Darkmoon Card: Maelstrom",
+     "source": "Elementals Deck"
     }
    ]
   },
@@ -235,16 +251,16 @@
    "slot": "Main-Hand",
    "items": [
     {
-     "name": "Thrash Blade",
-     "source": "Reward from the quest Corruption of Earth and Seed"
+     "name": "Ironfoe",
+     "source": "Emperor Dagran Thaurissan"
     },
     {
-     "name": "Flurry Axe",
-     "source": "World drop"
+     "name": "Persuader",
+     "source": "{skill:164}"
     },
     {
-     "name": "Bagh Nakh",
-     "source": "Source not listed yet"
+     "name": "Iceblade Hacker",
+     "source": "Ras Frostwhisper"
     }
    ]
   },
@@ -252,16 +268,16 @@
    "slot": "Off-Hand",
    "items": [
     {
-     "name": "Antique Bulwark",
-     "source": "Datamined in Unknown"
+     "name": "The Immovable Object",
+     "source": "Stormpike Guard (Exalted)"
     },
     {
-     "name": "Sacred Protector",
-     "source": "Reward from the quest The Scarlet Oracle, Demetria or Order Must Be Restored"
+     "name": "Intricately Runed Shield",
+     "source": "Ras Frostwhisper"
     },
     {
-     "name": "A Bigger Shield",
-     "source": "Datamined in Unknown"
+     "name": "Avalanchion's Stony Hide",
+     "source": "Avalanchion"
     }
    ]
   },
@@ -269,12 +285,12 @@
    "slot": "Ranged",
    "items": [
     {
-     "name": "Fahrad's Reloading Repeater",
-     "source": "Reward from the quest The Perfect Poison"
+     "name": "Satyr's Bow",
+     "source": "Zevrim Thornhoof"
     },
     {
-     "name": "Gorewood Bow",
-     "source": "Reward from the quest The Scarlet Oracle, Demetria"
+     "name": "Deep Jungle Rifle",
+     "source": "Thunderhoof"
     },
     {
      "name": "Bloodseeker",

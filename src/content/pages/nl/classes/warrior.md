@@ -69,8 +69,9 @@ De [talentcalculator](/nl/talents/warrior/) heeft de Warrior-bomen van WoW Forev
 
 | Spec | Pre-raid-lijst |
 |---|---|
+| **Arms** | [BiS-lijst](/nl/bis/forever/preraid/warrior-arms/) |
+| **Fury** | [BiS-lijst](/nl/bis/forever/preraid/warrior-fury/) |
 | **Protection** | [BiS-lijst](/nl/bis/forever/preraid/warrior-protection/) |
-| **Arms en Fury** | Binnenkort |
 
 Elke lijst toont de datum van de laatste update. Alle lijsten voor elke class staan op de [BiS-pagina](/nl/bis/).
 

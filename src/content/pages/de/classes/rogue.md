@@ -67,7 +67,9 @@ Agility gibt Angriffskraft, kritische Trefferchance und Ausweichen. In WoW Forev
 
 | Spec | Pre-Raid-Liste |
 |---|---|
-| **Assassination, Combat und Subtlety** | Folgt bald |
+| **Assassination** | Folgt bald |
+| **Combat** | [BiS-Liste](/de/bis/forever/preraid/rogue-combat/) |
+| **Subtlety** | [BiS-Liste](/de/bis/forever/preraid/rogue-subtlety/) |
 
 Jede Liste zeigt das Datum ihrer letzten Aktualisierung. Alle Listen für jede Klasse stehen auf der [BiS-Seite](/de/bis/).
 

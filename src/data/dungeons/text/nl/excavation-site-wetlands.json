@@ -40,7 +40,7 @@
   },
   "95664": {
    "objective": "Breng de Titan Relic naar Bashana Runetotem in een tent op de Elder Rise van Thunder Bluff.",
-   "note": "De relic valt volgens de tooltip in 25% van de gevallen bij Relic Guardian. Bashana geeft daarna Earthen Echo: breng de relic naar Muln Earthfury in de grootste tent van het Skywatcher Plateau, het nieuwe gebied ten noorden van Thunder Bluff, op /way 33.4 22.5. Het pad omhoog begint rond /way 40.3 17.6.",
+   "note": "De relic valt volgens de tooltip in 25% van de gevallen bij Relic Guardian. Bashana geeft daarna Earthen Echo: breng de relic naar Muln Earthfury in de grootste tent van het Skywatcher Plateau, het nieuwe gebied ten noorden van Thunder Bluff, op /way 33.4 22.5. Het pad omhoog begint rond /way 40.3 17.6. Earthen Echo geeft dezelfde keuze als de Alliance-quest: Healer's Staff of Heavehammer.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-elder-knowledge.jpg",
@@ -70,7 +70,7 @@
   },
   "95772": {
    "objective": "Vind Daewyn, de broer van Dorin Songblade, in de dungeon.",
-   "note": "Daewyn ligt dood in een tent in het kamp van de Dragonmaw, kort na Shadetooth. Klik op zijn lichaam voor Fallen in the Fen, die je na de dungeon bij Dorin in Lakeshire inlevert.",
+   "note": "Daewyn ligt dood in een tent in het kamp van de Dragonmaw, kort na Shadetooth. Klik op zijn lichaam voor Fallen in the Fen, die je na de dungeon bij Dorin in Lakeshire inlevert. Om af te ronden dood je 15 Enraged Apparitions en 10 Tormented Souls, de elite undead rond hem.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-dorin.jpg",
@@ -84,7 +84,7 @@
   },
   "95647": {
    "objective": "Vind Ardin Grassman, de man van Caitlin, in de dungeon.",
-   "note": "Seeking Caitlin van Llana, de verkoper van reagents in Astranaar, leidt voor wat extra ervaring naar Caitlin. Ardin staat op een houten bouwsel bij de Site of the Guardian; zijn Heartwoven vraagt alleen dat je Caitlin opnieuw bezoekt.",
+   "note": "Seeking Caitlin van Llana, de reagentverkoper in Astranaar, leidt naar Caitlin voor wat extra ervaring. Ardin staat op een houten constructie bij de Site of the Guardian; zijn Heartwoven stuurt je terug naar Caitlin, en het trinket Satchel of Potions zit bij de beloningen.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-caitlin.jpg",
@@ -102,7 +102,7 @@
   },
   "98815": {
    "objective": "Breng James Halloran 4 Thicket Raptor Hides van de raptors rond Shadetooth.",
-   "note": "Op de beta werkt deze quest nu niet goed: hij telt niet als dungeonquest en geeft maar een beetje ervaring en wat zilver.",
+   "note": "Shadetooth laat meer huiden vallen dan de andere raptors, maar vaak zijn er in één run niet genoeg voor de hele groep.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-james.jpg",
@@ -138,7 +138,7 @@
   },
   "95810": {
    "objective": "Breng de Titan Relic naar Prospector Whelgar in zijn grot in Whelgar's Excavation Site.",
-   "note": "De relic valt volgens de tooltip in 28% van de gevallen bij Relic Guardian. Whelgar geeft daarna Prehistoric Prism voor High Explorer Magellas in Ironforge, op /way 69.4 19.1. Die quest kun je op de beta nu niet afronden.",
+   "note": "Het relikwie valt bij Relic Guardian, volgens de tooltip 28% van de keren. Whelgar geeft daarna Prehistoric Prism voor High Explorer Magellas in Ironforge, op /way 69.4 19.1. Die beloont met een sterk blauw tweehandswapen: Healer's Staff of Heavehammer, allebei item level 33.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-titan-relic.jpg",

@@ -12,6 +12,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 23 November:** Blizzard says this is a bug, caused by a fix for another bug, and a fix should follow the next day. More in [our post](/news/losing-world-buffs-on-loading-screens-is-a-bug/).
+
 World buffs in World of Warcraft: Forever now disappear as soon as you see a loading screen. Blizzard did not announce the change, but it means the buffs no longer follow you into a dungeon, across the sea or past a log out.
 
 ## Which buffs

@@ -4,8 +4,8 @@
  "class": "paladin",
  "spec": "holy",
  "role": "Healer",
- "notes": "Pre-raid gear at level 60, the best item per slot and an alternative where there is one.",
- "updated": "2026-11-04",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-22",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -13,12 +13,16 @@
    "slot": "Head",
    "items": [
     {
-     "name": "Living Crown",
-     "source": "Crafted with Leatherworking"
+     "name": "Bad Hat",
+     "source": "Reward from the quest Deadliest Catch"
     },
     {
-     "name": "Whitesoul Helm",
-     "source": "Crafted with Blacksmithing"
+     "name": "Tribal War Feathers",
+     "source": "Gyth (Blackrock Spire)"
+    },
+    {
+     "name": "Insightful Hood",
+     "source": "Cho'Rush the Observer (Dire Maul)"
     }
    ]
   },
@@ -26,12 +30,12 @@
    "slot": "Neck",
    "items": [
     {
-     "name": "Glowing Eye of Mordresh",
-     "source": "Razorfen Downs"
+     "name": "Animated Chain Necklace",
+     "source": "Ramstein the Gorger (Stratholme)"
     },
     {
-     "name": "Orb of the Darkmoon",
-     "source": "Reward from the Darkmoon Faire"
+     "name": "Heart of the Fiend",
+     "source": "Kirtonos the Herald (Scholomance)"
     }
    ]
   },
@@ -39,12 +43,16 @@
    "slot": "Shoulders",
    "items": [
     {
-     "name": "Theramore Mantle",
-     "source": "Theramore Expeditionary Force, Exalted"
+     "name": "Premier Luminous Shoulders",
+     "source": "PvP"
     },
     {
-     "name": "Dawnbringer Shoulders",
-     "source": "Crafted with Blacksmithing"
+     "name": "Royal Cap Spaulders",
+     "source": "Jandice Barov (Scholomance)"
+    },
+    {
+     "name": "Mantle of the Scarlet Crusade",
+     "source": "Cannon Master Willey (Stratholme)"
     }
    ]
   },
@@ -52,8 +60,16 @@
    "slot": "Back",
    "items": [
     {
-     "name": "Hide of the Wild",
-     "source": "Crafted with Leatherworking"
+     "name": "Drape of Recovery",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Battle Healer's Cloak",
+     "source": "Vendor"
+    },
+    {
+     "name": "Cloak of the Cosmos",
+     "source": "Immol'thar (Dire Maul)"
     }
    ]
   },
@@ -61,12 +77,16 @@
    "slot": "Chest",
    "items": [
     {
-     "name": "Breastplate of Salvation",
-     "source": "Crafted with Blacksmithing"
+     "name": "Crownroar Chestplate",
+     "source": "Source not listed yet"
     },
     {
-     "name": "Soulforge Breastplate",
-     "source": "Reward from the quest Saving the Best for Last (Tier 0.5 quest chain)"
+     "name": "Robes of the Exalted",
+     "source": "Baron Rivendare (Stratholme)"
+    },
+    {
+     "name": "Frostfang Mail Vest",
+     "source": "Tor'Rel (The Shaper's Terrace)"
     }
    ]
   },
@@ -74,12 +94,12 @@
    "slot": "Wrists",
    "items": [
     {
-     "name": "Dryad's Wrist Bindings",
-     "source": "Silverwing Sentinels or Warsong Outriders, Exalted"
+     "name": "Loomguard Armbraces",
+     "source": "Kirtonos the Herald (Scholomance)"
     },
     {
-     "name": "Prefect's Wristguards",
-     "source": "Crafted with Blacksmithing"
+     "name": "Bracers of Prosperity",
+     "source": "King Gordok (Dire Maul)"
     }
    ]
   },
@@ -87,12 +107,16 @@
    "slot": "Hands",
    "items": [
     {
-     "name": "Theramore Handwraps",
-     "source": "Theramore Expeditionary Force, Exalted"
+     "name": "Premier Luminous Gauntlets",
+     "source": "PvP"
     },
     {
-     "name": "Prefect's Gloves",
-     "source": "Crafted with Blacksmithing"
+     "name": "Harmonious Gauntlets",
+     "source": "King Gordok (Dire Maul)"
+    },
+    {
+     "name": "Gilded Gauntlets",
+     "source": "Mother Smolderweb (Blackrock Spire)"
     }
    ]
   },
@@ -100,12 +124,16 @@
    "slot": "Waist",
    "items": [
     {
-     "name": "Belt of the Archmage",
-     "source": "Crafted with Tailoring"
+     "name": "Whipvine Cord",
+     "source": "Alzzin the Wildshaper (Dire Maul)"
     },
     {
-     "name": "Prefect's Waistguard",
-     "source": "Crafted with Blacksmithing"
+     "name": "Eyestalk Cord",
+     "source": "Immol'thar (Dire Maul)"
+    },
+    {
+     "name": "Belt of the Ordained",
+     "source": "Zone Drop (Scholomance)"
     }
    ]
   },
@@ -113,8 +141,16 @@
    "slot": "Legs",
    "items": [
     {
-     "name": "Martyr's Legplates",
-     "source": "Crafted with Blacksmithing"
+     "name": "Padre's Trousers",
+     "source": "Illyanna Ravenoak (Dire Maul)"
+    },
+    {
+     "name": "Ghoul Skin Leggings",
+     "source": "Scholomance"
+    },
+    {
+     "name": "Tanglemoss Leggings",
+     "source": "Tendris Warpwood (Dire Maul)"
     }
    ]
   },
@@ -122,12 +158,16 @@
    "slot": "Feet",
    "items": [
     {
-     "name": "Mooncloth Boots",
-     "source": "Crafted with Tailoring"
+     "name": "Verdant Footpads",
+     "source": "Stonespine (Stratholme)"
     },
     {
-     "name": "Soulforge Boots",
-     "source": "Reward from the quest Anthion's Parting Words (Tier 0.5 quest chain)"
+     "name": "Boots of the Full Moon",
+     "source": "Captain Kromcrush (Dire Maul)"
+    },
+    {
+     "name": "Ogreseer Tower Boots",
+     "source": "Spirestone Lord Magus (Blackrock Spire)"
     }
    ]
   },
@@ -135,14 +175,22 @@
    "slot": "Ring 1",
    "items": [
     {
-     "name": "Warden's Signet of Resolve",
-     "source": "The Watchers, Exalted"
+     "name": "Band of Mending",
+     "source": "Zone Drop (Stratholme)"
+    },
+    {
+     "name": "Blessed Band of Light",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     }
    ]
   },
   {
    "slot": "Ring 2",
    "items": [
+    {
+     "name": "Fordring's Seal",
+     "source": "Reward from the quest In Dreams"
+    },
     {
      "name": "Blessed Band of Light",
      "source": "Reals vendor in Booty Bay (75 Reals)"
@@ -155,6 +203,10 @@
     {
      "name": "Serenity Field",
      "source": "Reals vendor in Booty Bay (125 Reals)"
+    },
+    {
+     "name": "Dormant Heart of the Mountain",
+     "source": "Crafted"
     }
    ]
   },
@@ -162,8 +214,12 @@
    "slot": "Trinket 2",
    "items": [
     {
-     "name": "Uther's Strength",
-     "source": "World drop"
+     "name": "Second Wind",
+     "source": "Golem Lord Argelmach (Blackrock Depths)"
+    },
+    {
+     "name": "Dormant Heart of the Mountain",
+     "source": "Crafted"
     }
    ]
   },
@@ -171,12 +227,16 @@
    "slot": "Main-Hand",
    "items": [
     {
-     "name": "Hand of Edward the Odd",
-     "source": "World drop"
+     "name": "Masterwork Crimson Hammer",
+     "source": "Crimson Hammersmith (Stratholme)"
     },
     {
-     "name": "Sageblade",
-     "source": "Crafted with Blacksmithing"
+     "name": "Hammer of the Grand Crusader",
+     "source": "Grand Crusader Dathrohan (Stratholme)"
+    },
+    {
+     "name": "Hammer of Divine Might",
+     "source": "Kormok (Scholomance)"
     }
    ]
   },
@@ -185,11 +245,15 @@
    "items": [
     {
      "name": "Lei of the Lifegiver",
-     "source": "Stormpike Guard or Frostwolf Clan, Exalted"
+     "source": "Vendor"
     },
     {
-     "name": "Evergreen Shield",
-     "source": "Crafted with Blacksmithing"
+     "name": "Brightly Glowing Stone",
+     "source": "King Gordok (Dire Maul)"
+    },
+    {
+     "name": "Rattlecage Buckler",
+     "source": "Rattlegore (Scholomance)"
     }
    ]
   },
@@ -197,211 +261,12 @@
    "slot": "Libram",
    "items": [
     {
-     "name": "Libram of Infusion",
-     "source": "Crafted with Enchanting"
-    },
-    {
      "name": "Libram of Economy",
      "source": "Reals vendor in Booty Bay (50 Reals)"
-    }
-   ]
-  }
- ],
- "horde": [
-  {
-   "slot": "Head",
-   "items": [
-    {
-     "name": "Living Crown",
-     "source": "Crafted with Leatherworking"
     },
     {
-     "name": "Whitesoul Helm",
-     "source": "Crafted with Blacksmithing"
-    }
-   ]
-  },
-  {
-   "slot": "Neck",
-   "items": [
-    {
-     "name": "Glowing Eye of Mordresh",
-     "source": "Razorfen Downs"
-    },
-    {
-     "name": "Orb of the Darkmoon",
-     "source": "Reward from the Darkmoon Faire"
-    }
-   ]
-  },
-  {
-   "slot": "Shoulders",
-   "items": [
-    {
-     "name": "Darkspear Mantle",
-     "source": "Darkspear Raiders, Exalted"
-    },
-    {
-     "name": "Dawnbringer Shoulders",
-     "source": "Crafted with Blacksmithing"
-    }
-   ]
-  },
-  {
-   "slot": "Back",
-   "items": [
-    {
-     "name": "Hide of the Wild",
-     "source": "Crafted with Leatherworking"
-    }
-   ]
-  },
-  {
-   "slot": "Chest",
-   "items": [
-    {
-     "name": "Breastplate of Salvation",
-     "source": "Crafted with Blacksmithing"
-    },
-    {
-     "name": "Soulforge Breastplate",
-     "source": "Reward from the quest Saving the Best for Last (Tier 0.5 quest chain)"
-    }
-   ]
-  },
-  {
-   "slot": "Wrists",
-   "items": [
-    {
-     "name": "Dryad's Wrist Bindings",
-     "source": "Silverwing Sentinels or Warsong Outriders, Exalted"
-    },
-    {
-     "name": "Prefect's Wristguards",
-     "source": "Crafted with Blacksmithing"
-    }
-   ]
-  },
-  {
-   "slot": "Hands",
-   "items": [
-    {
-     "name": "Raider Handwraps",
-     "source": "Darkspear Raiders, Exalted"
-    },
-    {
-     "name": "Prefect's Gloves",
-     "source": "Crafted with Blacksmithing"
-    }
-   ]
-  },
-  {
-   "slot": "Waist",
-   "items": [
-    {
-     "name": "Belt of the Archmage",
-     "source": "Crafted with Tailoring"
-    },
-    {
-     "name": "Prefect's Waistguard",
-     "source": "Crafted with Blacksmithing"
-    }
-   ]
-  },
-  {
-   "slot": "Legs",
-   "items": [
-    {
-     "name": "Martyr's Legplates",
-     "source": "Crafted with Blacksmithing"
-    }
-   ]
-  },
-  {
-   "slot": "Feet",
-   "items": [
-    {
-     "name": "Mooncloth Boots",
-     "source": "Crafted with Tailoring"
-    },
-    {
-     "name": "Soulforge Boots",
-     "source": "Reward from the quest Anthion's Parting Words (Tier 0.5 quest chain)"
-    }
-   ]
-  },
-  {
-   "slot": "Ring 1",
-   "items": [
-    {
-     "name": "Warden's Signet of Resolve",
-     "source": "The Watchers, Exalted"
-    }
-   ]
-  },
-  {
-   "slot": "Ring 2",
-   "items": [
-    {
-     "name": "Blessed Band of Light",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
-    }
-   ]
-  },
-  {
-   "slot": "Trinket 1",
-   "items": [
-    {
-     "name": "Serenity Field",
-     "source": "Reals vendor in Booty Bay (125 Reals)"
-    }
-   ]
-  },
-  {
-   "slot": "Trinket 2",
-   "items": [
-    {
-     "name": "Uther's Strength",
-     "source": "World drop"
-    }
-   ]
-  },
-  {
-   "slot": "Main-Hand",
-   "items": [
-    {
-     "name": "Hand of Edward the Odd",
-     "source": "World drop"
-    },
-    {
-     "name": "Sageblade",
-     "source": "Crafted with Blacksmithing"
-    }
-   ]
-  },
-  {
-   "slot": "Off-Hand",
-   "items": [
-    {
-     "name": "Lei of the Lifegiver",
-     "source": "Stormpike Guard or Frostwolf Clan, Exalted"
-    },
-    {
-     "name": "Evergreen Shield",
-     "source": "Crafted with Blacksmithing"
-    }
-   ]
-  },
-  {
-   "slot": "Libram",
-   "items": [
-    {
-     "name": "Libram of Infusion",
-     "source": "Crafted with Enchanting"
-    },
-    {
-     "name": "Libram of Economy",
-     "source": "Reals vendor in Booty Bay (50 Reals)"
+     "name": "Libram of Divinity",
+     "source": "Scholomance"
     }
    ]
   }

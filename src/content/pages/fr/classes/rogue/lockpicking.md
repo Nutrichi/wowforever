@@ -3,7 +3,7 @@ title: "Guide du Lockpicking du Rogue dans WoW Forever"
 metaTitle: "WoW Forever Lockpicking : quêtes, Thieves' Tools et 1 à 300"
 description: "Comment un Rogue apprend le Lockpicking dans WoW Forever : Pick Lock au niveau 16, les quêtes Alliance et Horde pour les Thieves' Tools, les meilleurs endroits de 1 à 300 et les portes de donjon."
 short: "Rogue Lockpicking"
-updated: 2026-11-07
+updated: 2026-11-23
 lang: fr
 manual: true
 faq:
@@ -18,6 +18,8 @@ faq:
   - q: "Ai-je besoin du Lockpicking pour les Poisons ?"
     a: "Oui. Les deux suites de quêtes des Poisons au niveau 20 demandent 80 en Lockpicking : montez-le dès que vous apprenez Pick Lock."
 sources:
+  - name: "Wowhead"
+    url: "https://www.wowhead.com/forever/news/the-best-way-to-level-lockpicking-to-max-in-wow-forever-383884"
   - name: "Warcraft Tavern, Lockpicking"
     url: "https://www.warcrafttavern.com/forever/classes/rogue/lockpicking/"
 ---
@@ -79,11 +81,10 @@ La quête de départ de votre faction est le moyen le plus rapide. Les deux mèn
 | 225 à 250 | Bay of Storms, Azshara | Mossy Footlockers |
 | 225 à 250 | À l'est des Caverns of Time, Tanaris | Dented Footlockers |
 | 250 à 300 | Tyr's Hand, Eastern Plaguelands | Scarlet Footlockers, plus les strongboxes de Pick Pocket dès 280 |
-| 280 à 300 | Blackrock Depths | Les trois portes près de l'entrée |
 
 **Sous l'eau** à Desolace, prenez un Draught of Water Breathing : les footlockers sont profonds et les monstres ne vous laissent pas tranquille. **Angor Fortress** va vite, mais est souvent pleine d'autres Rogues. Dans **the Slag Pits**, faites les poches des monstres pour des coffrets en plus des footlockers.
 
-**Tyr's Hand** est dangereux : les monstres sont élites et frappent fort, mais leurs poches contiennent des coffrets que vous ouvrez dès 280. Dès 280, **Blackrock Depths** est plus sûr. Ouvrez la grille de gauche à l'entrée, puis les deux portes suivantes, quittez le donjon, réinitialisez-le et recommencez.
+**Tyr's Hand** est l'endroit pour finir : les monstres sont élites et frappent fort, mais les Scarlet Footlockers vous mènent à 300 et leurs poches contiennent des coffrets que vous ouvrez dès 280. Blackrock Depths ne marche plus pour ça : dans Forever, la serrure Shadowforge devient grise vers 265, donc l'ancienne boucle des portes ne donne plus de points bien avant 300.
 
 Ce sont les endroits classiques. Les lockboxes et footlockers sont dans les données de Forever, mais le monde a changé par endroits : un lieu peut être plus vide que dans Classic.
 

@@ -5,7 +5,7 @@
  "spec": "restoration",
  "role": "Healer",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-14",
+ "updated": "2026-11-23",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -13,16 +13,16 @@
    "slot": "Head",
    "items": [
     {
-     "name": "Blue Dragonscale Helm",
-     "source": "Crafted with Leatherworking"
+     "name": "Living Crown",
+     "source": "Crafted"
     },
     {
-     "name": "Master's Hat",
-     "source": "World drop"
+     "name": "Crown of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
     },
     {
-     "name": "Premier Warlord's Mail Helm",
-     "source": "PVP Vendor"
+     "name": "Mooncloth Circlet",
+     "source": "Crafted"
     }
    ]
   },
@@ -184,15 +184,15 @@
    "items": [
     {
      "name": "Warden's Signet of Brilliance",
-     "source": "Exalted"
+     "source": "The Watchers (Exalted)"
     },
     {
      "name": "Watcher's Signet of Brilliance",
-     "source": "Reputation reward (Revered)"
+     "source": "The Watchers (Revered)"
     },
     {
      "name": "Tracker's Signet of Brilliance",
-     "source": "Honored"
+     "source": "The Watchers (Honored)"
     }
    ]
   },
@@ -201,15 +201,15 @@
    "items": [
     {
      "name": "Blessed Band of Light",
-     "source": "Pix Xizzix 75 Copper Chain Boots"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Watcher's Signet of Brilliance",
-     "source": "Reputation reward (Revered)"
+     "source": "The Watchers (Revered)"
     },
     {
      "name": "Tracker's Signet of Brilliance",
-     "source": "Honored"
+     "source": "The Watchers (Honored)"
     }
    ]
   },
@@ -218,7 +218,7 @@
    "items": [
     {
      "name": "Weakness Analyzer",
-     "source": "Pix Xizzix 125 Copper Chain Boots"
+     "source": "Reals vendor in Booty Bay (125 Reals)"
     },
     {
      "name": "Arcanite Dragonling",
@@ -290,7 +290,7 @@
     },
     {
      "name": "Wisepaw Totem",
-     "source": "Reputation reward (Revered)"
+     "source": "reputation (Revered)"
     }
    ]
   }

@@ -3,7 +3,7 @@ title: "Subtlety Rogue in WoW Forever: de gids"
 metaTitle: "WoW Forever Subtlety Rogue: Ambush- en bleedbuilds tot 60"
 description: "De Subtlety Rogue in WoW Forever: een Ambush-build en een bleedbuild, allebei met Death Mark, voor level 60, met rotaties, Energy, Shank, poisons en races."
 short: "Subtlety Rogue"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: nl
 manual: true
 faq:
@@ -91,7 +91,7 @@ Een derde optie gebruikt Hemorrhage als builder met Seal Fate, Cold Blood en Rel
 
 ### Levelbuild
 
-De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 35. De rest van de volgorde volgt zodra die bekend is.
+De [levelbuild voor de Rogue](/nl/leveling/rogue/) geeft het talent voor elk level van 10 tot 60: een Combat-build, 15/36/0, met Adrenaline Rush op 60.
 
 #### PvP-build
 

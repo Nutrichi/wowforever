@@ -67,7 +67,9 @@ Agility donne de la puissance d’attaque, de la chance de coup critique et de l
 
 | Spé | Liste pré-raid |
 |---|---|
-| **Assassination, Combat et Subtlety** | Bientôt |
+| **Assassination** | Bientôt |
+| **Combat** | [Liste BiS](/fr/bis/forever/preraid/rogue-combat/) |
+| **Subtlety** | [Liste BiS](/fr/bis/forever/preraid/rogue-subtlety/) |
 
 Chaque liste affiche la date de sa dernière mise à jour. Toutes les listes de chaque classe sont sur la [page BiS](/fr/bis/).
 

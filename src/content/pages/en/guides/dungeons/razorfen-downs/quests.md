@@ -3,7 +3,7 @@ title: "Razorfen Downs"
 metaTitle: "Razorfen Downs quests in WoW Forever: start, steps and rewards"
 description: "The quests of Razorfen Downs in WoW Forever: the escort of Belnistrasz, Bring the Light and Bring the End, An Unholy Alliance and what the Forever data shows so far."
 short: "Quests"
-updated: 2026-11-22
+updated: 2026-11-23
 lang: en
 sources:
   - name: "Wowhead, the dungeon quests"
@@ -12,7 +12,7 @@ dungeon:
   slug: "razorfen-downs"
   tab: "quests"
 ---
-Razorfen Downs has eight quests in the Forever data. Six follow Classic; The Coldbringer's Eye is new, from Dalaran for the Alliance and from Mulgore for the Horde:
+Razorfen Downs has nine quests in the Forever data. Six follow Classic; The Coldbringer's Eye is new, from Dalaran for the Alliance and from Mulgore for the Horde, and so is Agamaggan's Blood from Desolace:
 
 | Quest | Where it starts | Level | Reward |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Razorfen Downs has eight quests in the Forever data. Six follow Classic; The Col
 | <a href="https://www.wowhead.com/forever/quest=6521">An Unholy Alliance</a><br>Horde | Undercity, Royal Quarter: Varimathras<br><em>Complete An Unholy Alliance from Razorfen Kraul first.</em> | 28 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17039"><img class="wf-wh__icon" src="/wh/inv_misc_bone_dwarfskull_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Skullbreaker</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17042"><img class="wf-wh__icon" src="/wh/inv_weapon_rifle_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nail Spitter</a> or <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=17043"><img class="wf-wh__icon" src="/wh/inv_chest_cloth_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Zealot's Robe</a> |
 | <a href="https://www.wowhead.com/forever/quest=96773">The Coldbringer's Eye</a><br>Alliance | Alterac Mountains, Dalaran: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=20735">Archmage Lan'dalock</a> /way 15.4 73.8 | 34 | Reputation with the Kirin Tor and Stormwind |
 | <a href="https://www.wowhead.com/forever/quest=97196">The Coldbringer's Eye</a><br>Horde | Mulgore: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=264078">Sutara Plainstalker</a> /way 34.4 22.8 | 34 | Reputation with the Earthen Ring and Thunder Bluff |
+| <a href="https://www.wowhead.com/forever/quest=93604">Agamaggan's Blood</a><br>Both | Desolace, Bristleback Retreat: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=253527">Kog'thug the Brave</a><br><em>Last step of Word of the Woods, Rot and Regret and Passing the Blame.</em> | 35 | Experience and 65 silver |
 
 The level is the lowest level at which the quest can be picked up. The Dragonclaw Ring is not in the Forever data yet.
 
@@ -31,3 +32,4 @@ The level is the lowest level at which the quest can be picked up. The Dragoncla
 - **Scourge of the Downs and Extinguishing the Idol.** Every player talks to Belnistrasz twice for the first quest; the third talk starts the escort. Protect him while his ritual shuts down the idol. Plaguemaw the Rotting comes at the end.
 - **Bring the Light and Bring the End.** Kill Amnennar the Coldbringer; the Horde brings back the Skull of the Coldbringer.
 - **An Unholy Alliance.** The Small Scroll from Charlga Razorflank in [Razorfen Kraul](/guides/dungeons/razorfen-kraul/) leads to Varimathras. He wants the head of <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12865">Ambassador Malcin</a>, who can spawn in several places just outside the instance.
+- **Agamaggan's Blood.** Blood from Razorfen Kraul will not do. Go in through the big mouth at the entrance of Razorfen Downs, up the ramp and across the bridge: the <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/object=614524">Cauldron of Agamaggan's Blood</a> is on your left. Click it, kill the elite Virulent Blood of Agamaggan that appears and loot the <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=260237"><img class="wf-wh__icon" src="/wh/inv_potion_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Virulent Blood of Agamaggan</a>. The quest is elite, so bring a friend.

@@ -1,32 +1,34 @@
 ---
 title: "Bibliotheekboeken in WoW Forever: elke plek en beloning"
-metaTitle: "WoW Forever bibliotheekboeken: alle 36 plekken met /way, de beloningen en waar je ze inlevert"
-description: "Waar je elk bibliotheekboek in WoW Forever vindt: 36 boeken met /way in vier levelgroepen, waar de Alliance en de Horde ze inleveren, en de beloningen voor 10, 20 en 25 boeken."
+metaTitle: "WoW Forever bibliotheekboeken: alle 39 plekken met /way, de beloningen en waar je ze inlevert"
+description: "Waar je elk bibliotheekboek in WoW Forever vindt: 39 boeken met /way in vier levelgroepen, waar de Alliance en de Horde ze inleveren, en de beloningen voor 10, 20, 25 en 35 boeken."
 short: "Bibliotheekboeken"
-updated: 2026-11-14
+updated: 2026-11-23
 lang: nl
 manual: true
 faq:
   - q: "Hoeveel bibliotheekboeken zijn er in WoW Forever?"
-    a: "36 boeken, van level 1 tot 60, in Eastern Kingdoms en Kalimdor."
+    a: "39 boeken, van level 1 tot 60, in Eastern Kingdoms en Kalimdor."
   - q: "Waar lever je bibliotheekboeken in?"
     a: "De Alliance bij Garion Wendell in de Mage Quarter van Stormwind, de Horde bij Owen Thadd in de Magic Quarter van Undercity."
   - q: "Wat zijn de beloningen voor bibliotheekboeken?"
-    a: "Bij 10 boeken een ketting, bij 20 boeken een ring vanaf level 20, en bij 25 boeken een boog, schild of off-hand vanaf level 30, die level 40 vraagt om te dragen."
+    a: "Bij 10 boeken een ketting, bij 20 boeken een ring vanaf level 20, en bij 25 boeken een boog, schild of off-hand vanaf level 30, die level 40 vraagt om te dragen. Bij 35 boeken, vanaf level 50, een schild of een van twee kettingen."
   - q: "Kun je een bibliotheekboek opnieuw looten?"
     a: "Nee. Een boek dat je weggooit, kun je niet opnieuw looten, zoals het op de beta was."
 sources:
+  - name: "Warcraft Tavern"
+    url: "https://www.warcrafttavern.com/forever/guides/library-books/"
   - name: "Method"
     url: "https://www.method.gg/wow-forever/wow-forever-all-library-books-locations-and-rewards"
 ---
-Overal in Azeroth liggen boeken in World of Warcraft: Forever. Lever ze in bij de bibliotheek van je factie, welke class je ook speelt, en je opent drie quests met beloningen. Deze gids zet alle 36 boeken op een rij met hun /way.
+Overal in Azeroth liggen boeken in World of Warcraft: Forever. Lever ze in bij de bibliotheek van je factie, welke class je ook speelt, en je opent vier quests met beloningen. Deze gids zet alle 39 boeken op een rij met hun /way.
 
 | | |
 |---|---|
-| Boeken | 36, van level 1 tot 60 |
+| Boeken | 39, van level 1 tot 60 |
 | Alliance | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=211033">Garion Wendell</a>, Mage Quarter van Stormwind, /way 49.0 86.3 |
 | Horde | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=211022">Owen Thadd</a>, Magic Quarter van Undercity, /way 74.0 32.5 |
-| Beloningen | Bij 10, 20 en 25 boeken |
+| Beloningen | Bij 10, 20, 25 en 35 boeken |
 | Per boek | Experience en wat zilver |
 
 ## Beloningen
@@ -36,12 +38,13 @@ Overal in Azeroth liggen boeken in World of Warcraft: Forever. Lever ze in bij d
 | **10** | <a href="https://www.wowhead.com/forever/quest=78150">Friend of the Library</a> | geen | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277203"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_11.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scholarly Pendant</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277204"><img class="wf-wh__icon" src="/wh/inv_jewelry_necklace_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Erudite's Amulet</a> |
 | **20** | <a href="https://www.wowhead.com/forever/quest=79536">Greater Friend of the Library</a> | 20 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281634"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Field Researcher's Loop</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281635"><img class="wf-wh__icon" src="/wh/inv_jewelry_ring_14.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Philanthropist's Ring</a> |
 | **25** | <a href="https://www.wowhead.com/forever/quest=82208">Greater Friend of the Library</a> | 30 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277254"><img class="wf-wh__icon" src="/wh/inv_weapon_bow_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Truthseeker's Bow</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277258"><img class="wf-wh__icon" src="/wh/spell_holy_powerwordshield.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Crest of Elucidation</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277260"><img class="wf-wh__icon" src="/wh/inv_torch_lit.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Researcher's Night Light</a> |
+| **35** | <a href="https://www.wowhead.com/forever/quest=84394">Greater Friend of the Library</a> | 50 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281637"><img class="wf-wh__icon" src="/wh/inv_shield_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Antique Bulwark</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277202"><img class="wf-wh__icon" src="/wh/trade_archaeology_pendant-of-the-aqir.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Artifact Seeker's Pendant</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=281636"><img class="wf-wh__icon" src="/wh/trade_archaeology_mithrilnecklace.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Museum Keeper's Chain</a> |
 
 De twee kettingen zakten op de beta naar [groene kwaliteit](/nl/news/necklaces-for-10-books-drop-to-green-quality/), en [Field Researcher's Loop](/nl/news/field-researchers-loop-now-fits-every-class/) past bij elke class. De quest voor 25 boeken opent op level 30, maar alle drie de beloningen [vragen level 40](/nl/news/truthseekers-bow-now-requires-level-40/) om te dragen.
 
 ## Waar je ze inlevert
 
-De Alliance gaat naar de Mage Tower in de Mage Quarter van Stormwind, de Horde naar de Magic Quarter van Undercity. De twee quests voor 20 en 25 boeken dragen dezelfde naam, Greater Friend of the Library.
+De Alliance gaat naar de Mage Tower in de Mage Quarter van Stormwind, de Horde naar de Magic Quarter van Undercity. De drie quests voor 20, 25 en 35 boeken dragen dezelfde naam, Greater Friend of the Library.
 
 Tot 13 november weigerden beide bibliothecarissen door een bug elk boek. Een hotfix loste dat op, dus lever je boeken gerust weer in.
 
@@ -51,7 +54,7 @@ Mages krijgen iets extra: het eerste boek geeft hen de spell Study, die in een b
 
 **Let op:** een boek dat je weggooit, kun je niet opnieuw looten, zoals het op de beta was.
 
-## Eastern Kingdoms, level 1 tot 20 (9 boeken)
+## Eastern Kingdoms, level 1 tot 20 (10 boeken)
 
 | Zone | Boek | /way | Waar |
 |---|---|---|---|
@@ -65,6 +68,7 @@ Mages krijgen iets extra: het eerste boek geeft hen de spell Study, die in een b
 | Ironforge | Archmage Antonidas: The Unabridged Autobiography | 75.7 10.5 | Hall of Explorers, op de grote tafel |
 | Tirisfal Glades | The Apothecary's Metaphysical Primer | 59.4 52.3 | Brill, het rek van de alchemiewinkel |
 | Silverpine Forest | The Dalaran Digest, Vol. 23 | 63.5 63.1 | Ambermill, grote zaal, op het rek recht voor je |
+| Silverpine Forest | Ataeric: On Arcane Curiosities | 43.4 41.2 | The Sepulcher, onderste verdieping, op het rek naast de armorer; diep in Horde-gebied |
 
 Rumi of Gnomeregan ligt in de herberg van zowel Westfall als Loch Modan, maar telt één keer. Spelers van de Alliance: de NPC's in Ambermill in Silverpine Forest zijn voor jou neutraal.
 
@@ -149,7 +153,7 @@ Deze boeken liggen in zones van level 30 tot 45. Sommige liggen bij sterkere mon
 
 </div>
 
-## Vanaf level 40 (14 boeken)
+## Vanaf level 40 (16 boeken)
 
 | Zone | Boek | /way | Waar |
 |---|---|---|---|
@@ -159,11 +163,13 @@ Deze boeken liggen in zones van level 30 tot 45. Sommige liggen bij sterkere mon
 | Eastern Plaguelands | The Knight and the Lady | 47.3 42.3 | Afgebrand huis bij het meer |
 | Eastern Plaguelands | Scourge: Undead Menace or Misunderstood? | 26.6 14.5 | De zonekant van de brug voor Stratholme |
 | Swamp of Sorrows | Sanguine Sorcery | 70.2 51.9 | Bovenste niveau van de Temple of Atal'Hakkar, aan de achterkant |
+| Swamp of Sorrows | A Luddite's Guide to Caring for Your Demonic Pet | 61.0 22.0 | Fallow Sanctuary, in een kooi: loot een Rusted Cage Key van de Lost Ones in de buurt |
 | The Hinterlands | Venomous Journeys | 35.8 72.5 | Binnen de halfronde muur bij de eerste piramide links |
 | Felwood | Northern Kalimdor - A Comprehensive Guide | 65.1 3.2 | Tunnel van Timbermaw Hold, halverwege, links van de brug |
 | Winterspring | Ka-Boom! | 60.4 37.4 | Everlook |
 | Burning Steppes | Stonewrought Design | 31.1 30.1 | Blackrock Mountain, de tombe bij de summoning stone, naast Franclorn Forgewright |
 | Burning Steppes | Magma or Lava? | 31.1 30.1 | Blackrock Mountain, net voorbij Lothos Riftwaker, voor de mobs van Blackrock Depths |
+| Blasted Lands | Conjurer's Codex | 55.3 32.2 | In het puin langs de weg in het midden van de zone |
 | Searing Gorge | A Mind of Metal | 38.1 49.8 | Tent met een Dark Iron-dwerg ernaast |
 | Azshara | Everyday Etiquette | 20.4 62.3 | Ten noorden van het vliegpunt, voor de ruïnes |
 | Tanaris | Legends of the Tidesages | 72.6 47.5 | Lost Rigger Cove, boekenkast in het middelste van de drie gebouwen |

@@ -40,7 +40,7 @@
   },
   "95664": {
    "objective": "Bring die Titan Relic zu Bashana Runetotem in einem Zelt auf der Elder Rise von Thunder Bluff.",
-   "note": "Die Reliquie fällt laut Tooltip in 25 % der Fälle bei Relic Guardian. Bashana gibt danach Earthen Echo: Bring die Reliquie zu Muln Earthfury im größten Zelt des Skywatcher Plateau, des neuen Gebiets nördlich von Thunder Bluff, bei /way 33.4 22.5. Der Pfad hinauf beginnt um /way 40.3 17.6.",
+   "note": "Die Reliquie fällt laut Tooltip in 25 % der Fälle bei Relic Guardian. Bashana gibt danach Earthen Echo: Bring die Reliquie zu Muln Earthfury im größten Zelt des Skywatcher Plateau, des neuen Gebiets nördlich von Thunder Bluff, bei /way 33.4 22.5. Der Pfad hinauf beginnt um /way 40.3 17.6. Earthen Echo bietet dieselbe Wahl wie die Allianz-Quest: Healer's Staff oder Heavehammer.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-elder-knowledge.jpg",
@@ -70,7 +70,7 @@
   },
   "95772": {
    "objective": "Finde Daewyn, den Bruder von Dorin Songblade, im Dungeon.",
-   "note": "Daewyn liegt tot in einem Zelt im Lager der Dragonmaw, kurz nach Shadetooth. Klick auf seinen Körper für Fallen in the Fen, das du nach dem Dungeon bei Dorin in Lakeshire abgibst.",
+   "note": "Daewyn liegt tot in einem Zelt im Lager der Dragonmaw, kurz nach Shadetooth. Klick auf seinen Körper für Fallen in the Fen, das du nach dem Dungeon bei Dorin in Lakeshire abgibst. Zum Abschluss tötest du 15 Enraged Apparitions und 10 Tormented Souls, die Elite-Untoten um ihn herum.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-dorin.jpg",
@@ -84,7 +84,7 @@
   },
   "95647": {
    "objective": "Finde Ardin Grassman, den Mann von Caitlin, im Dungeon.",
-   "note": "Seeking Caitlin von Llana, der Reagenzienhändlerin in Astranaar, führt für etwas mehr Erfahrung zu Caitlin. Ardin steht auf einem Holzgerüst nahe der Site of the Guardian; sein Heartwoven verlangt nur, dass du Caitlin wieder besuchst.",
+   "note": "Seeking Caitlin von Llana, der Reagenzienhändlerin in Astranaar, führt für etwas Extra-Erfahrung zu Caitlin. Ardin steht auf einem Holzgerüst bei der Site of the Guardian; sein Heartwoven schickt dich zurück zu Caitlin, und das Schmuckstück Satchel of Potions gehört zu den Belohnungen.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-caitlin.jpg",
@@ -102,7 +102,7 @@
   },
   "98815": {
    "objective": "Bring James Halloran 4 Thicket Raptor Hides von den Raptoren rund um Shadetooth.",
-   "note": "Auf der Beta gerade fehlerhaft: Die Quest zählt nicht als Dungeonquest und gibt nur etwas Erfahrung und ein paar Silber.",
+   "note": "Shadetooth lässt mehr Häute fallen als die anderen Raptoren, aber oft reichen sie in einem Durchgang nicht für die ganze Gruppe.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-james.jpg",
@@ -138,7 +138,7 @@
   },
   "95810": {
    "objective": "Bring die Titan Relic zu Prospector Whelgar in seiner Höhle in Whelgar's Excavation Site.",
-   "note": "Die Reliquie fällt laut Tooltip in 28 % der Fälle bei Relic Guardian. Whelgar gibt danach Prehistoric Prism für High Explorer Magellas in Ironforge, bei /way 69.4 19.1. Diese Quest lässt sich auf der Beta gerade nicht abschließen.",
+   "note": "Das Relikt droppt bei Relic Guardian, laut Tooltip in 28 % der Fälle. Whelgar gibt danach Prehistoric Prism für High Explorer Magellas in Ironforge, bei /way 69.4 19.1. Als Belohnung gibt es eine starke blaue Zweihandwaffe: Healer's Staff oder Heavehammer, beide Itemlevel 33.",
    "shots": [
     {
      "file": "2026-10-06-wow-forever-excavation-site-titan-relic.jpg",

@@ -1,0 +1,248 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "warrior",
+ "spec": "arms",
+ "role": "Melee DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-22",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Lionheart Helm",
+     "source": "Crafted"
+    },
+    {
+     "name": "Fury Visor",
+     "source": "Reward from the quest Voodoo Feathers"
+    },
+    {
+     "name": "Eye of Rend",
+     "source": "Warchief Rend Blackhand"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Mark of Fordring",
+     "source": "Reward from the quest In Dreams"
+    },
+    {
+     "name": "Amulet of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Amulet of the Darkmoon"
+    },
+    {
+     "name": "Beads of Ogre Might",
+     "source": "Reward from the quest Falrin's Vendetta"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Dark Warder's Pauldrons",
+     "source": "Warder Stilgiss"
+    },
+    {
+     "name": "Theramore Epaulets",
+     "source": "Theramore Expeditionary Force (Exalted) - Darkspear Raiders"
+    },
+    {
+     "name": "Truestrike Shoulders",
+     "source": "Princess Moira Bronzebeard"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Howler's Furs",
+     "source": "75x {currency:3469}"
+    },
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Baron Rivendare"
+    },
+    {
+     "name": "Shroud of Domination",
+     "source": "Lord Valthalak"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Timbermaw Tunic",
+     "source": "{skill:165}"
+    },
+    {
+     "name": "Breastplate of Heroism",
+     "source": "Tier 0.5 Questline"
+    },
+    {
+     "name": "Savage Gladiator Chain",
+     "source": "Gorosh the Dervish"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Vambraces of the Sadist",
+     "source": "Timmy the Cruel"
+    },
+    {
+     "name": "Battleborn Armbraces",
+     "source": "Warchief Rend Blackhand"
+    },
+    {
+     "name": "Spike Crested Bracers",
+     "source": "Bonesnout the Unbroken"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Devilsaur Gauntlets",
+     "source": "{skill:165}"
+    },
+    {
+     "name": "Theramore Gauntlets",
+     "source": "Theramore Expeditionary Force (Exalted) - Darkspear Raiders"
+    },
+    {
+     "name": "Gauntlets of Heroism",
+     "source": "Tier 0.5 Questline"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Valiant's Waistguard",
+     "source": "100x {currency:3469}"
+    },
+    {
+     "name": "Highlander's Plate Girdle",
+     "source": "Honored with The League of Arathor in The Defilers"
+    },
+    {
+     "name": "Brigam Girdle",
+     "source": "General Drakkisath"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Devilsaur Leggings",
+     "source": "{skill:165}"
+    },
+    {
+     "name": "Sentinel's Plate Legguards",
+     "source": "Silverwing Sentinels (Exalted) - Warsong Outriders"
+    },
+    {
+     "name": "Legplates of Heroism",
+     "source": "Tier 0.5 Questline"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Boots of Heroism",
+     "source": "Tier 0.5 Questline"
+    },
+    {
+     "name": "Bloodmail Boots",
+     "source": "Multiple bosses insides Scholomance"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Don Julio's Band",
+     "source": "Stormpike Guard (Exalted) - reputation"
+    },
+    {
+     "name": "Magni's Will",
+     "source": "Reward from the quest The Princess's Surprise"
+    },
+    {
+     "name": "Painweaver Band",
+     "source": "General Drakkisath"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Cutthroat's Signet",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Magni's Will",
+     "source": "Reward from the quest The Princess's Surprise"
+    },
+    {
+     "name": "Painweaver Band",
+     "source": "General Drakkisath"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Blackhand's Breadth",
+     "source": "Reward from the quest General Drakkisath's Demise"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Destiny",
+     "source": "World drop"
+    },
+    {
+     "name": "Blackblade of Shahram",
+     "source": "General Drakkisath"
+    },
+    {
+     "name": "Runeblade of Baron Rivendare",
+     "source": "Baron Rivendare"
+    }
+   ]
+  }
+ ]
+}
