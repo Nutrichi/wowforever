@@ -3,7 +3,7 @@ title: "Hunter levelen in WoW Forever: de gids"
 metaTitle: "WoW Forever Hunter-levelgids: builds en route tot 60"
 description: "Een Hunter levelen in WoW Forever: de eerste levels, builds voor level 60 voor Beast Mastery, Marksmanship en Survival, de rotatie, de belangrijke levels, de temquest, wapens, gear, beroepen, pets, traps, tracking en Aspects."
 short: "Hunter levelen"
-updated: 2026-11-19
+updated: 2026-11-24
 lang: nl
 manual: true
 faq:
@@ -133,7 +133,7 @@ Een Hunter kan meer soorten wapens gebruiken dan elke andere class. De meeste le
 
 | Wapen | Alliance | Horde |
 |---|---|---|
-| **Daggers** | Bekend vanaf de start | Bekend vanaf de start |
+| **Daggers** | Ilyenia Moonfire (Darnassus), Bixi Wobblebonk (Ironforge), Woo Ping (Stormwind) | Sayoc (Orgrimmar), Archibald (Undercity) |
 | **Een- en tweehandige axes** | Buliwyf Stonehand (Ironforge) | Hanashi, Sayoc (Orgrimmar) |
 | **Een- en tweehandige swords** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Fist weapons** | Ilyenia Moonfire (Darnassus), Buliwyf Stonehand (Ironforge) | Sayoc (Orgrimmar) |

@@ -3,7 +3,7 @@ title: "PvP in WoW Forever uitgelegd: Rank Points, Honor en elke rank"
 metaTitle: "WoW Forever PvP: Rank Points (RP), Honor en alle 14 ranks"
 description: "Zo werkt PvP in WoW Forever: Rank Points (RP) en de weeklimiet, Honor, Marks of Honor, alle 14 ranks met hun beloningen, battlegrounds, brackets en Darkspear Islands."
 short: "PvP"
-updated: 2026-11-16
+updated: 2026-11-24
 lang: nl
 manual: true
 faq:
@@ -42,9 +42,19 @@ PvP in WoW Forever draait om twee getallen: Rank Points (RP) en Honor. Met Rank 
 
 Rank Points verdien je in battlegrounds en PvP-quests, met een bonus voor de battleground van de feestweek. Ze brengen je door de ranks, tot Grand Marshal bij de Alliance en High Warlord bij de Horde. Voor Rank 1 heb je 750 punten nodig.
 
-Er is een limiet. Die stijgt elke week, zodat niemand in de eerste dagen naar de top kan racen. De laatste stap, Rank 14, ligt op 24.750 Rank Points. Je rank en punten zie je in het personagevenster: druk op C en open Player vs. Player rechts.
+Er is een limiet. Die stijgt elke week, zodat niemand in de eerste dagen naar de top kan racen. De laatste stap, Rank 14, ligt op 24.750 Rank Points. Je rank en punten zie je in het PvP-venster: druk op H. Een week gemist, of een nieuw personage? Je kunt altijd bijbenen tot de huidige limiet: je kunt evenveel hebben als iemand die elke week aan de limiet zat. Spelers melden dat ze voor level 40 niet voorbij Rank 3 raken; of dat zo bedoeld is, is niet bekend.
 
 PvP loopt in seizoenen. Elk seizoen heeft wekelijkse taken die Honor en Rank Points geven, en drie ervan geven ook een [Legacy Point](/nl/news/legacy-points-one-per-challenge/). De ranking wordt naar verwachting om de paar maanden gereset.
+
+### Wekelijkse Season's Journey-quests
+
+Op level 60 geeft <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=267525">Wizzik Dustfizz</a> in Gadgetzan, Tanaris (/way 51.8 27.2) elke week een nieuwe PvP-quest. Eentje gemist? Hij blijft beschikbaar, dus je kunt later bijbenen.
+
+| Quest | Doel | Honor | Rank Points |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=96912">Field of Honor: Week 1</a> | Win 10 duels | 300 | 500 |
+| <a href="https://www.wowhead.com/forever/quest=96913">Field of Honor: Week 2</a> | Speel 3 Warsong Gulch-gevechten uit | 300 | 500 |
+| <a href="https://www.wowhead.com/forever/quest=96914">Field of Honor: Week 3</a> | Dood 25 spelers van de andere faction in Warsong Gulch | 300 | 500 |
 
 ## Honor
 
@@ -59,9 +69,9 @@ De beloningen koop je bij de PvP-verkopers in Stormwind en Orgrimmar, zie [waar 
 | Rank | Alliance | Horde | Beloning |
 |---|---|---|---|
 | **1** | Private | Scout | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=15196"><img class="wf-wh__icon" src="/wh/inv_misc_tabardpvp_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Private's Tabard</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=15197"><img class="wf-wh__icon" src="/wh/inv_misc_tabardpvp_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scout's Tabard</a> |
-| **2** | Corporal | Grunt | Insignia-trinket |
-| **3** | Sergeant | Sergeant | Mantel van je factie |
-| **4** | Master Sergeant | Senior Sergeant | Halsketting van je factie |
+| **2** | Corporal | Grunt | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274445"><img class="wf-wh__icon" src="/wh/inv_jewelry_trinketpvp_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Insignia of the Alliance</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274444"><img class="wf-wh__icon" src="/wh/inv_jewelry_trinketpvp_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Insignia of the Horde</a> |
+| **3** | Sergeant | Sergeant | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=272698"><img class="wf-wh__icon" src="/wh/inv_misc_cape_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Sergeant's Cloak</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=272699"><img class="wf-wh__icon" src="/wh/inv_misc_cape_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Sergeant's Cape</a> |
+| **4** | Master Sergeant | Senior Sergeant | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274969"><img class="wf-wh__icon" src="/wh/inv_misc_monsterscales_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Master Sergeant's Insignia</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274968"><img class="wf-wh__icon" src="/wh/inv_misc_monsterscales_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Senior Sergeant's Insignia</a> |
 | **5** | Sergeant Major | First Sergeant | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18841"><img class="wf-wh__icon" src="/wh/inv_potion_81.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Combat Mana Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18839"><img class="wf-wh__icon" src="/wh/inv_potion_39.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Combat Healing Potion</a> |
 | **6** | Knight | Stone Guard | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=15198"><img class="wf-wh__icon" src="/wh/inv_misc_tabardpvp_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Knight's Colors</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=15199"><img class="wf-wh__icon" src="/wh/inv_misc_tabardpvp_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Stone Guard's Herald</a> |
 | **7** | Knight-Lieutenant | Blood Guard | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18606"><img class="wf-wh__icon" src="/wh/inv_bannerpvp_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alliance Battle Standard</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18607"><img class="wf-wh__icon" src="/wh/inv_bannerpvp_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horde Battle Standard</a> |
@@ -80,7 +90,7 @@ De PvP-verkopers staan op drie plekken. Elke stad heeft een verkoper voor armor,
 | Waar | /way | Verkopers |
 |---|---|---|
 | Champion's Hall, Old Town, Stormwind (Alliance) | 76.0 66.2 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12777">Captain Dirgehammer</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12782">Captain O'Neal</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12781">Master Sergeant Biggins</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12783">Lieutenant Karter</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12784">Lieutenant Jackspring</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12785">Sergeant Major Clate</a> |
-| Hall of Legends, Orgrimmar (Horde), op de bovenste verdieping tussen de flight master en de Valley of Spirits | 40.6 68.5 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12792">Lady Palanseer</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14581">Sergeant Thunderhorn</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12793">Brave Stonehide</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12796">Raider Bork</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12795">First Sergeant Hola'mahi</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12794">Stone Guard Zarg</a> |
+| Hall of Legends, Orgrimmar (Horde), op de bovenste verdieping tussen de flight master en de Valley of Spirits | 40.6 68.5 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12792">Lady Palanseer</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12799">Sergeant Ba'sha</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14581">Sergeant Thunderhorn</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12793">Brave Stonehide</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12796">Raider Bork</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12795">First Sergeant Hola'mahi</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12794">Stone Guard Zarg</a> |
 | The Underbelly, de riolen van Dalaran (beide factions, /way op de kaart van Alterac Mountains) | 16.1 70.6 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=30885">Blazik Fireclaw</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=32334">Nixi Fireclaw</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=32333">&quot;Dapper&quot; Danik Blackshaft</a> |
 
 Elke klassieke battleground heeft ook een eigen reputatie en supply officer, bij het portaal naar die battleground. Ze vragen Honor en de Marks of Honor van hun battleground. De quartermasters van Darkspear Islands staan in het deel hieronder.
@@ -93,7 +103,7 @@ Elke klassieke battleground heeft ook een eigen reputatie en supply officer, bij
 
 ## Battlegrounds en brackets
 
-Forever heeft vier battlegrounds. Je gaat alleen of als groep in de wachtrij, maar [premades treffen alleen andere premades](/nl/news/solo-players-never-face-a-premade/). Winst geeft drie Marks of Honor en extra Honor, verlies één Mark. Battlegrounds kunnen spelers van meerdere [rulesets](/nl/guides/rulesets/) mengen, maar nooit Hardcore.
+Forever heeft vier battlegrounds. Je gaat alleen of als groep in de wachtrij, maar [premades treffen alleen andere premades](/nl/news/solo-players-never-face-a-premade/). Winst geeft drie Marks of Honor en extra Honor, verlies één Mark. Battlegrounds kunnen spelers van meerdere [rulesets](/nl/guides/rulesets/) mengen, maar nooit Hardcore. Alterac Valley geeft geen Rank Points; de andere drie wel, meer bij winst dan bij verlies.
 
 | Battleground | Brackets |
 |---|---|
@@ -114,6 +124,8 @@ Praat met een battlemaster in een hoofdstad, of loop naar het toegangsportaal va
 | **Orgrimmar** | Valley of Honor | 79 30.5 |
 | **Undercity** | Rond de troonzaal | 57 91 |
 | **Thunder Bluff** | Hunter Rise | 57 78 |
+| **Dalaran** | Vlak bij het centrum van de stad | 16 66 |
+| **Thunder Bluff**, Arathi Basin | Pools of Vision, onder Spirit Rise | 29 21 |
 
 ## Darkspear Islands
 

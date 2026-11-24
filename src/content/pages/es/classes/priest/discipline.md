@@ -94,7 +94,7 @@ La build para subir de nivel toma primero los talentos que ayudan a matar en sol
 
 ### Build de PvP, 29/17/5
 
-La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/priest/?t=0053002013332115-320501320001-05).
+La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP en la calculadora de talentos](/es/talents/priest/?t=0053002013332115-320500330001-05).
 
 ## Qué hacen los talentos clave
 

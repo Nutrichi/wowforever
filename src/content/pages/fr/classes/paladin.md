@@ -69,7 +69,7 @@ Le [calculateur de talents](/fr/talents/paladin/) contient les arbres du Paladin
 |---|---|
 | **Holy** | [Liste BiS](/fr/bis/forever/preraid/paladin-holy/) |
 | **Protection** | [Liste BiS](/fr/bis/forever/preraid/paladin-protection/) |
-| **Retribution** | Bientôt |
+| **Retribution** | [Liste BiS](/fr/bis/forever/preraid/paladin-retribution/) |
 
 Chaque liste affiche la date de sa dernière mise à jour. Toutes les listes de chaque classe sont sur la [page BiS](/fr/bis/).
 

@@ -1,0 +1,273 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "paladin",
+ "spec": "retribution",
+ "role": "Melee DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-23",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Lionheart Helm",
+     "source": "Crafted with Blacksmithing"
+    },
+    {
+     "name": "Black Dragonscale Helm",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Blue Dragonscale Helm",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Nacreous Shell Necklace",
+     "source": "Cannon Master Willey (Stratholme)"
+    },
+    {
+     "name": "Lady Maye's Pendant",
+     "source": "World drop (BoE)"
+    },
+    {
+     "name": "Emberfury Talisman",
+     "source": "Pyroguard Emberseer (Upper Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Defiler's Lamellar Spaulders",
+     "source": "The Defilers (Exalted) The League of Arathor (Exalted)"
+    },
+    {
+     "name": "Theramore Pauldrons",
+     "source": "Theramore Expeditionary Force (Exalted) Darkspear Raiders (Exalted)"
+    },
+    {
+     "name": "Lightforge Spaulders",
+     "source": "The Beast (Lower Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Arcanoweave Cloak",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Stalwart Cloak",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Heliotrope Cloak",
+     "source": "Guard Slip'kik or Guard Mol'dar (Dire Maul North)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Timbermaw Tunic",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Savage Gladiator Chain",
+     "source": "Gorosh the Dervish (Blackrock Depths)"
+    },
+    {
+     "name": "Ogre Forged Hauberk",
+     "source": "Tribute Cache (Dire Maul North)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Berserker Bracers",
+     "source": "Silverwing Sentinels (Exalted) Warsong Outriders (Exalted)"
+    },
+    {
+     "name": "Forest Stalker's Bracers",
+     "source": "Silverwing Sentinels (Exalted) Warsong Outriders (Exalted)"
+    },
+    {
+     "name": "Vambraces of the Sadist",
+     "source": "Timmy the Cruel (Stratholme)"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Gordok's Gauntlets",
+     "source": "Reward from the quest Unfinished Gordok Business"
+    },
+    {
+     "name": "Bloodmail Gauntlets",
+     "source": "Various Bosses (Scholomance)"
+    },
+    {
+     "name": "Devilsaur Gauntlets",
+     "source": "Crafted with Leatherworking"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Highlander's Lamellar Girdle",
+     "source": "The League of Arathor or The Defilers (Honored)"
+    },
+    {
+     "name": "Might of the Timbermaw",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Omokk's Girth Restrainer",
+     "source": "Reward from the quest Warlord's Command or Maxwell's Mission"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Pristine Scorpid Leggings",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Outrider's Plate Legguards",
+     "source": "Warsong Outriders (Exalted)"
+    },
+    {
+     "name": "Handcrafted Mastersmith Leggings",
+     "source": "Goraluk Anvilcrack (Upper Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Soulforge Warboots",
+     "source": "Reward from the quest Anthion's Parting Words"
+    },
+    {
+     "name": "Highlander's Lamellar Greaves",
+     "source": "The League of Arathor or The Defilers (Revered)"
+    },
+    {
+     "name": "Death Knight Sabatons",
+     "source": "Marduk Blackpool (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Elemental Focus Band",
+     "source": "Prince Skaldrenox (Silithus)"
+    },
+    {
+     "name": "Magni's Will",
+     "source": "Reward from the quest The Princess's Surprise"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Don Mauricio's Band of Domination",
+     "source": "Darkmaster Gandling (Scholomance)"
+    },
+    {
+     "name": "Magni's Will",
+     "source": "Reward from the quest The Princess's Surprise"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak (Lower Blackrock Spire)"
+    },
+    {
+     "name": "Darkmoon Card: Maelstrom",
+     "source": "Darkmoon Card: Maelstrom"
+    },
+    {
+     "name": "Hand of Justice",
+     "source": "Emperor Dagran Thaurissan (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Adaptive Combat Assistant",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    },
+    {
+     "name": "Darkmoon Card: Maelstrom",
+     "source": "Darkmoon Card: Maelstrom"
+    },
+    {
+     "name": "Hand of Justice",
+     "source": "Emperor Dagran Thaurissan (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Destiny",
+     "source": "World drop (BoE)"
+    },
+    {
+     "name": "The Blackrock Slicer",
+     "source": "Spirestone Battle Lord (Lower Blackrock Spire)"
+    },
+    {
+     "name": "Blackblade of Shahram",
+     "source": "General Drakkisath (Upper Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Libram",
+   "items": [
+    {
+     "name": "Libram of Fervor",
+     "source": "World drop (BoE)"
+    },
+    {
+     "name": "Libram of Law",
+     "source": "Reals vendor in Booty Bay (50 Reals)"
+    }
+   ]
+  }
+ ]
+}

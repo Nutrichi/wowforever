@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 24 novembre :** le correctif est en ligne. Les world buffs survivent de nouveau aux écrans de chargement, et Fengus' Ferocity donne moitié moins. Plus de détails dans [notre article](/fr/news/world-buffs-survive-loading-screens-again/).
+
 Les world buffs de World of Warcraft: Forever ne doivent pas disparaître à un écran de chargement. Le Senior Game Designer Aidan "Zirene" Moon dit que c'est un bug, et que le correctif arrive le lendemain.
 
 ## Ce qui n'allait pas

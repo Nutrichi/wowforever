@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Aggiornamento 24 novembre:** la correzione è attiva. I world buff sopravvivono di nuovo alle schermate di caricamento, e Fengus' Ferocity ora dà la metà. Di più nel [nostro articolo](/it/news/world-buffs-survive-loading-screens-again/).
+
 > **Aggiornamento del 23 novembre:** Blizzard dice che è un bug, causato dalla correzione di un altro bug, e la soluzione deve arrivare il giorno dopo. Di più nel [nostro articolo](/it/news/losing-world-buffs-on-loading-screens-is-a-bug/).
 
 In World of Warcraft: Forever i world buff ora spariscono appena vedi una schermata di caricamento. Blizzard non ha annunciato la modifica, ma significa che i buff non ti seguono più in un dungeon, oltre il mare o dopo un logout.

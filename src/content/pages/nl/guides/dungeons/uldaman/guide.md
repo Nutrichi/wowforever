@@ -3,7 +3,7 @@ title: "Uldaman"
 metaTitle: "De gids van Uldaman voor WoW Forever: route, trash en bazen"
 description: "Zo speel je Uldaman in WoW Forever: de weg erheen vanuit de Badlands, de Shaft of Tsol en het Gni'kiv Medallion voor Ironaya, de stenen wachters en alle acht de bazen tot Archaedas."
 short: "Gids"
-updated: 2026-11-23
+updated: 2026-11-24
 lang: nl
 manual: true
 sources:
@@ -56,7 +56,7 @@ Veel armor, veel health en immuun voor damage over time. Knock Away gooit de tan
 
 Een baasversie van de Stone Stewards. Hij kaatst spreuken terug en roept bij 66% en 33% health Obsidian Shards op. Dood de scherven eerst en ga dan terug naar de Sentinel.
 
-Sinds een hotfix in november laat hij geen blauwe items meer vallen, dus de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274485"><img class="wf-wh__icon" src="/wh/inv_axe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Lingering Dread</a> voor de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9425"><img class="wf-wh__icon" src="/wh/inv_weapon_halberd_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pendulum of Doom</a> krijg je niet meer. Zie [onze post](/nl/news/obsidian-sentinel-in-uldaman-drops-no-more-loot/).
+Sinds de hotfixes van 23 november laat hij zijn blauwe items weer vallen, dus de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274485"><img class="wf-wh__icon" src="/wh/inv_axe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Lingering Dread</a> voor de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9425"><img class="wf-wh__icon" src="/wh/inv_weapon_halberd_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pendulum of Doom</a> is terug. Bij een vendor brengen ze nog maar de helft op. Zie [onze post](/nl/news/obsidian-sentinel-drops-loot-again-at-half-price/).
 
 ### Ancient Stone Keeper
 

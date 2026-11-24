@@ -60,7 +60,7 @@ Due build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon 
 
 ### Build da raid, 12/8/31
 
-12 punti in Assassination, 8 in Combat e 31 in Subtlety. [Apri la build da raid nel calcolatore di talenti](/it/talents/rogue/?t=00530301-320003-305230031321001151).
+12 punti in Assassination, 8 in Combat e 31 in Subtlety. [Apri la build da raid nel calcolatore di talenti](/it/talents/rogue/?t=00530301-320003-005233031321001151).
 
 | Talento | Punti |
 |---|---|
@@ -71,10 +71,10 @@ Due build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon 
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
 | **Precision** | 3/3 |
-| **Setup** | 3/3 |
 | **Opportunity** | 5/5 |
 | **Dirty Deeds** | 2/2 |
 | **Camouflage** | 3/3 |
+| **Improved Ambush** | 3/3 |
 | **Initiative** | 3/3 |
 | **Premeditation** | 1/1 |
 | **Serrated Blades** | 3/3 |
@@ -87,7 +87,7 @@ Due build, ognuna con i 51 punti talento del livello 60: una per raid e dungeon 
 
 La build sanguinamento scambia i grandi Ambush con Hemorrhage e un Rupture più forte: [apri la build sanguinamento](/it/talents/rogue/?t=015303-302003-332210231321001151).
 
-Una terza opzione usa Hemorrhage come generatore con Seal Fate, Cold Blood e Relentless Strikes da Assassination, senza Death Mark (28/2/21). [Aprila nel calcolatore di talenti](/it/talents/rogue/?t=0053031121135102-02-0352000313210001).
+Una terza opzione usa Hemorrhage come generatore con Seal Fate, Cold Blood e Relentless Strikes da Assassination, senza Death Mark (28/2/21). [Aprila nel calcolatore di talenti](/it/talents/rogue/?t=0053031121135102-02-0052030313210001).
 
 ### Build per livellare
 

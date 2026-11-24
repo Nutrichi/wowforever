@@ -1,0 +1,295 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "priest",
+ "spec": "discipline",
+ "role": "Healer",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-23",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Virtuous Crown",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Mooncloth Circlet",
+     "source": "Crafted"
+    },
+    {
+     "name": "Bad Hat",
+     "source": "Reward from the quest Deadliest Catch"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Animated Chain Necklace",
+     "source": "Ramstein the Gorger (Stratholme in Undead)"
+    },
+    {
+     "name": "Jeweled Amulet of Cainwyn",
+     "source": "World drop"
+    },
+    {
+     "name": "Orb of the Darkmoon",
+     "source": "1200 Darkmoon Faire Tickets"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Virtuous Mantle",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Mantle of the Scarlet Crusade",
+     "source": "Cannon Master Willey (Stratholme Live)"
+    },
+    {
+     "name": "Mantle of Lost Hope",
+     "source": "Lord Roccor (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Hide of the Wild",
+     "source": "Crafted"
+    },
+    {
+     "name": "Drape of Recovery",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "Soulwoven Drape",
+     "source": "Vectus (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Truefaith Vestments",
+     "source": "Crafted"
+    },
+    {
+     "name": "Robes of the Exalted",
+     "source": "Baron Rivendare (Stratholme)"
+    },
+    {
+     "name": "Virtuous Robe",
+     "source": "T0.5 Questline"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Virtuous Bracers",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Wyrmthalak's Shackles",
+     "source": "Reward from the quest Warlord's Command or Maxwell's Mission"
+    },
+    {
+     "name": "Earthenweave Cuffs",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Virtuous Mitts",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Hands of the Exalted Herald",
+     "source": "Princess Moira Bronzebeard (Blackrock Depths)"
+    },
+    {
+     "name": "Gilded Gloves",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Penitent's Cinch",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "Virtuous Belt",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Whipvine Cord",
+     "source": "Alzzin the Wildshaper (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Virtuous Skirt",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Padre's Trousers",
+     "source": "Illyanna Ravenoak (Dire Maul)"
+    },
+    {
+     "name": "Senior Designer's Pantaloons",
+     "source": "Fineous Darkvire (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Virtuous Sandals",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Ogreseer Tower Boots",
+     "source": "Spirestone Lord Magus (Lower Blackrock Spire, Rare)"
+    },
+    {
+     "name": "Mooncloth Boots",
+     "source": "Crafted with Tailoring"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Blessed Band of Light",
+     "source": "Pix Xizzix"
+    },
+    {
+     "name": "Rosewine Circle",
+     "source": "Urok Doomhowl (Lower Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Fordring's Seal",
+     "source": "Reward from the quest In Dreams"
+    },
+    {
+     "name": "Rosewine Circle",
+     "source": "Urok Doomhowl (Lower Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Royal Seal of Eldre'Thalas",
+     "source": "Reward from the quest Holy Bologna: What the Light Won't Tell You"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Serenity Field",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "Gift of the Elven Magi",
+     "source": "Balnazzar (Stratholme in Live)"
+    },
+    {
+     "name": "Lorespinner",
+     "source": "Reward from the quest Lethtendris's Web"
+    },
+    {
+     "name": "Masterwork Crimson Hammer",
+     "source": "Crimson Hammersmith (Stratholme in Live)"
+    }
+   ]
+  },
+  {
+   "slot": "Off-Hand",
+   "items": [
+    {
+     "name": "Penelope's Rose",
+     "source": "Reward from the quest Kirtonos the Herald"
+    },
+    {
+     "name": "Lei of the Lifegiver",
+     "source": "Alterac Valley Reputation"
+    },
+    {
+     "name": "Thaurissan's Royal Scepter",
+     "source": "Emperor Dagran Thaurissan (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Glowing Brightwood Staff",
+     "source": "World drop"
+    },
+    {
+     "name": "Hammer of the Grand Crusader",
+     "source": "Balnazzar (Stratholme Live)"
+    },
+    {
+     "name": "Staff of Metanoia",
+     "source": "Jandice Barov (Scholomance)"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Wand of Eternal Light",
+     "source": "Secret Safe (Blackrock Depths)"
+    },
+    {
+     "name": "Oblivion's Touch",
+     "source": "Death Knight Darkreaver (Scholomance)"
+    },
+    {
+     "name": "Brilliant Wand",
+     "source": "Crafted with Enchanting"
+    }
+   ]
+  }
+ ]
+}

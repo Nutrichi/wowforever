@@ -8,7 +8,7 @@
   },
   "914": {
    "objective": "Kill the four Lords of the Fang, Lady Anacondra, Lord Cobrahn, Lord Pythas and Lord Serpentis, and bring their gems to Nara Wildmane.",
-   "note": "The last quest of a chain that starts with The Barrens Oases from Tonga Runetotem in the Crossroads."
+   "note": "The last quest of a chain that starts with The Barrens Oases from Tonga Runetotem in the Crossroads; Arch Druid Hamuul Runetotem in Thunder Bluff sends you to him."
   },
   "1486": {
    "objective": "Collect 20 Deviate Hides. Most beasts in the dungeon drop them.",
@@ -20,7 +20,7 @@
   },
   "959": {
    "objective": "Kill Mad Magglish and bring the bottle of 99-Year-Old Port back to Crane Operator Bigglefuzz.",
-   "note": "Mad Magglish is an elite in the cave outside the portal, near Nalpak, at /way 46.1 35.8."
+   "note": "Mad Magglish is an elite in stealth in the cave outside the portal. He spawns at one of several spots in its narrow parts, for example near Nalpak at /way 46.1 35.8."
   },
   "1487": {
    "objective": "Kill 7 Deviate Ravagers, 7 Deviate Vipers, 7 Deviate Shamblers and 7 Deviate Dreadfangs.",
@@ -28,7 +28,7 @@
   },
   "6981": {
    "objective": "Mutanus the Devourer drops the Glowing Shard. Take it to Sputtervalve in Ratchet, who sends you to Falla Sagewind on the hill above the entrance.",
-   "note": "It continues with In Nightmares, for Arch Druid Hamuul Runetotem in Thunder Bluff."
+   "note": "It continues with In Nightmares: for the Horde Arch Druid Hamuul Runetotem in Thunder Bluff, for the Alliance Mathrengyl Bearwalker in the Cenarion Enclave of Darnassus."
   }
  }
 }

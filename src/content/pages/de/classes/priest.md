@@ -69,7 +69,7 @@ Der [Talentrechner](/de/talents/priest/) hat die Priest-Bäume von WoW Forever. 
 |---|---|
 | **Holy** | [BiS-Liste](/de/bis/forever/preraid/priest-holy/) |
 | **Shadow** | [BiS-Liste](/de/bis/forever/preraid/priest-shadow/) |
-| **Discipline** | Folgt bald |
+| **Discipline** | [BiS-Liste](/de/bis/forever/preraid/priest-discipline/) |
 
 Jede Liste zeigt das Datum ihrer letzten Aktualisierung. Alle Listen für jede Klasse stehen auf der [BiS-Seite](/de/bis/).
 

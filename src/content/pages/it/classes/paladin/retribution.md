@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: la guida"
 metaTitle: "WoW Forever Retribution Paladin: build, rotazione e sigilli"
 description: "Il Retribution Paladin in WoW Forever: la build di livello 60, la rotazione con Seal of Command, i Judgement, le benedizioni, le stats e le razze."
 short: "Retribution Paladin"
-updated: 2026-11-22
+updated: 2026-11-24
 lang: it
 manual: true
 faq:
@@ -135,7 +135,7 @@ Prima di uno scontro, dai a ciascuno la benedizione giusta, e a tutti tranne il 
 
 ## Stats ed equipaggiamento
 
-Al livello 60 l’ordine è: abilità con l’arma, danni e velocità dell’arma, colpo fino al 9%, maestria fino al 6,5%, danni magici, Intelletto, Forza, potere d’attacco, Agilità, probabilità di critico, Tempra. Cosa fa ogni statistica:
+Al livello 60 l’ordine è: colpo fino all'8% (17% per gli incantesimi Sacri), maestria fino al 6,5% (14% se attacchi da davanti, contro le parate), probabilità di critico, celerità, abilità con l’arma, danni dell’arma, Forza, danni magici, Agilità, Intelletto, potere d’attacco, penetrazione magica, Tempra. In potere d’attacco, l'1% di colpo vale circa 71, l'1% di maestria 53, l'1% di critico 38 e l'1% di celerità 37. Cosa fa ogni statistica:
 
 - **Indice di colpo**, perché attacchi e incantesimi vadano a segno. Judgement usa la tua probabilità di colpire a distanza dall'11 novembre.
 - **Probabilità di critico**, che lavora con Conviction e Vengeance.
@@ -145,7 +145,7 @@ Al livello 60 l’ordine è: abilità con l’arma, danni e velocità dell’arm
 
 **Armatura.** Guarda le stats, non il tipo. Cuoio o persino stoffa possono battere le piastre se le stats sono giuste. Ai livelli bassi Blacksmithing è quasi indispensabile, perché piastre e maglia con potere magico sono rare. Anche i dungeon hanno buoni pezzi.
 
-**Arma.** Un'arma a due mani lenta con molti danni, per Seal of Command e Holy Strike.
+**Arma.** Un'arma a due mani lenta con molti danni, per Seal of Command e Holy Strike. Con la build Shockadin e Seal of Righteousness scegli invece un'arma a due mani più veloce.
 
 **Librams.** I Paladin portano un libram nello slot a distanza, con un piccolo bonus passivo. Scegline uno adatto ai tuoi incantesimi.
 

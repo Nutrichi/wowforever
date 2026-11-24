@@ -3,7 +3,7 @@ title: "Mage-Schriftrollen, Comprehension und Study"
 metaTitle: "WoW Forever Mage-Schriftrollen: Comprehension, Study, alle 28"
 description: "So funktionieren Mage-Schriftrollen in WoW Forever: Comprehend Scroll auf Level 6, die Fertigkeit Comprehension, Study mit einer Light Feather in einer Bibliothek und alle 28 Schriftrollen in vier Stufen."
 short: "Mage-Schriftrollen"
-updated: 2026-11-12
+updated: 2026-11-24
 lang: de
 manual: true
 faq:
@@ -77,7 +77,7 @@ Diese liest du, sobald du Comprehension hast.
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277488"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Iceknife</a> | Dolch: friert das Ziel bei einem Treffer manchmal ein, 1 Stunde |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277489"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Spark</a> | Schwert: Fire Blast wird manchmal zurückgesetzt, wenn du im Nahkampf getroffen wirst, 1 Stunde |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277486"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Striking</a> | Stab: schießt manchmal ein Arcane Missile auf Ziele, die du mit einem Zauber triffst, 1 Stunde |
-| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Macht aus der Blade of Silverlaine eine stärkere Waffe |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Macht aus der <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273637"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blade of Silverlaine</a> den <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276631"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Coldflame Saber</a> ([so geht's](/de/news/mages-turn-the-blade-of-silverlaine-into-a-coldflame-saber/)) |
 
 ## Schriftrollen der Stufe 3: Fertigkeit 50, Level 25
 

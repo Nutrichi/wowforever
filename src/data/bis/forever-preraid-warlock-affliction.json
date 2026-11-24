@@ -5,7 +5,7 @@
  "spec": "affliction",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-21",
+ "updated": "2026-11-23",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -72,8 +72,8 @@
      "source": "Archivist Galford in Stratholme"
     },
     {
-     "name": "Hide of the Wild",
-     "source": "Crafted with Leatherworking"
+     "name": "Master's Cloak",
+     "source": "World drop"
     }
    ]
   },
@@ -94,16 +94,16 @@
    "slot": "Wrists",
    "items": [
     {
+     "name": "Tearfall Bracers",
+     "source": "The Unforgiven in Stratholme"
+    },
+    {
+     "name": "High Councillor's Bracers",
+     "source": "World drop"
+    },
+    {
      "name": "Netherpearl Cuffs",
      "source": "Crafted with Tailoring"
-    },
-    {
-     "name": "Sublime Wristguards",
-     "source": "Guard Mol'dar or Guard Slip'kik in Dire Maul"
-    },
-    {
-     "name": "Premier Legionnaire's Felweave Bracers",
-     "source": "PvP vendor Rank 8"
     }
    ]
   },
@@ -128,16 +128,16 @@
    "slot": "Waist",
    "items": [
     {
+     "name": "Master's Belt",
+     "source": "World drop"
+    },
+    {
      "name": "Defiler's Cloth Girdle",
      "source": "The Defilers or The League of Arathor (Honored)"
     },
     {
      "name": "Black Waistcord",
      "source": "Crafted with Tailoring"
-    },
-    {
-     "name": "Ban'thok Sash",
-     "source": "Ok'thor the Breaker in Blackrock Depths"
     }
    ]
   },
@@ -162,16 +162,16 @@
    "slot": "Feet",
    "items": [
     {
-     "name": "Master's Boots",
-     "source": "World drop"
-    },
-    {
-     "name": "Omnicast Boots",
-     "source": "Golem Lord Argelmach in Blackrock Depths"
-    },
-    {
      "name": "Dragonrider Boots",
      "source": "Warchief Rend Blackhand in Blackrock Spire"
+    },
+    {
+     "name": "Black Sandals",
+     "source": "Crafted with Tailoring"
+    },
+    {
+     "name": "Venomspew Footpads",
+     "source": "Crafted, pattern from Cenarion Circle (Honored)"
     }
    ]
   },

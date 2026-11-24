@@ -59,7 +59,7 @@ Two builds, each with the 51 talent points of level 60: one for raids and dungeo
 
 ### Raid build, 12/8/31
 
-12 points in Assassination, 8 in Combat and 31 in Subtlety. [Open the raid build in the talent calculator](/talents/rogue/?t=00530301-320003-305230031321001151).
+12 points in Assassination, 8 in Combat and 31 in Subtlety. [Open the raid build in the talent calculator](/talents/rogue/?t=00530301-320003-005233031321001151).
 
 | Talent | Points |
 |---|---|
@@ -70,10 +70,10 @@ Two builds, each with the 51 talent points of level 60: one for raids and dungeo
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
 | **Precision** | 3/3 |
-| **Setup** | 3/3 |
 | **Opportunity** | 5/5 |
 | **Dirty Deeds** | 2/2 |
 | **Camouflage** | 3/3 |
+| **Improved Ambush** | 3/3 |
 | **Initiative** | 3/3 |
 | **Premeditation** | 1/1 |
 | **Serrated Blades** | 3/3 |
@@ -86,7 +86,7 @@ Two builds, each with the 51 talent points of level 60: one for raids and dungeo
 
 The bleed build trades the big Ambushes for Hemorrhage and a stronger Rupture: [open the bleed build](/talents/rogue/?t=015303-302003-332210231321001151).
 
-A third option uses Hemorrhage as builder with Seal Fate, Cold Blood and Relentless Strikes from Assassination, without Death Mark (28/2/21). [Open it in the talent calculator](/talents/rogue/?t=0053031121135102-02-0352000313210001).
+A third option uses Hemorrhage as builder with Seal Fate, Cold Blood and Relentless Strikes from Assassination, without Death Mark (28/2/21). [Open it in the talent calculator](/talents/rogue/?t=0053031121135102-02-0052030313210001).
 
 ### Leveling build
 

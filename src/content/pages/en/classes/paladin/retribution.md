@@ -3,7 +3,7 @@ title: "Retribution Paladin guide for WoW Forever"
 metaTitle: "WoW Forever Retribution Paladin: build, rotation and seals"
 description: "The Retribution Paladin in WoW Forever: the level 60 build, the rotation with Seal of Command, Judgements, blessings, stats and races."
 short: "Retribution Paladin"
-updated: 2026-11-22
+updated: 2026-11-24
 lang: en
 faq:
   - q: "Is Retribution Paladin good in WoW Forever?"
@@ -134,7 +134,7 @@ Before a fight, give everyone the right blessing, and everyone except the tank a
 
 ## Stats and gear
 
-At level 60 the priority is: weapon skill, weapon damage and speed, hit up to 9%, expertise up to 6.5%, spell damage, Intellect, Strength, attack power, Agility, critical strike chance, Stamina. What each stat does:
+At level 60 the priority is: hit up to 8% (17% for Holy spells), expertise up to 6.5% (14% if you attack from the front, against parries), critical strike chance, haste, weapon skill, weapon damage, Strength, spell damage, Agility, Intellect, attack power, spell penetration, Stamina. In attack power, 1% hit is worth about 71, 1% expertise 53, 1% critical strike 38 and 1% haste 37. What each stat does:
 
 - **Hit**, so your attacks and spells land. Judgement uses your ranged hit chance since 11 November.
 - **Critical strike chance**, which works with Conviction and Vengeance.
@@ -144,7 +144,7 @@ At level 60 the priority is: weapon skill, weapon damage and speed, hit up to 9%
 
 **Armor.** Look at the stats, not the armor type. Leather or even cloth can be better than plate if the stats fit. At low levels, Blacksmithing is almost a must, because plate and mail with spell power are rare. Dungeons have good pieces too.
 
-**Weapon.** A slow two-handed weapon with high weapon damage, for Seal of Command and Holy Strike.
+**Weapon.** A slow two-handed weapon with high weapon damage, for Seal of Command and Holy Strike. With the Shockadin build and Seal of Righteousness, pick a faster two-hander instead.
 
 **Librams.** Paladins carry a libram in the ranged slot, with a small passive bonus. Pick one that fits your spells.
 

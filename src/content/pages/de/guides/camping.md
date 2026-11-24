@@ -3,7 +3,7 @@ title: "Camping in WoW Forever: Lagerfeuer, Lagerobjekte und Buffs"
 metaTitle: "WoW Forever Camping-Guide: Lagerfeuer, jedes Lagerobjekt und sein Buff"
 description: "So funktioniert Camping in WoW Forever: die drei Lagerfeuer, der Buff jedes Berufs, was jedes Lagerobjekt kostet, die Werkbänke von Stufe 2 und 3 und wo die Blueprints droppen."
 short: "Camping"
-updated: 2026-11-20
+updated: 2026-11-24
 lang: de
 video: kYvgaUnDl7A
 faq:
@@ -61,7 +61,7 @@ Jedes Lager beginnt mit einem Lagerfeuer aus Cooking. Du brauchst <a class="wf-w
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1283400"><img class="wf-wh__icon" src="/wh/inv_camelot_camping_welcomingcampfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Journeyman Campfire</a> | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273087"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Journeyman Campfire</a> (Cooking 90) | Cooking 140 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=11291"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Star Wood</a> | 5 Objekte |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1291341"><img class="wf-wh__icon" src="/wh/inv_camelot_camping_welcomingcampfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert Campfire</a> | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273101"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Expert Campfire</a> (Cooking 200) | Cooking 220 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=272941"><img class="wf-wh__icon" src="/wh/inv_tradeskillitem_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Thick Logs</a> | 10 Objekte |
 
-Der Journeyman-Blueprint droppt in The Deadmines und Wailing Caverns. Für den Expert-Blueprint ist noch keine Quelle bekannt.
+Der Journeyman-Blueprint droppt in The Deadmines und Wailing Caverns, der Expert-Blueprint bei <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258966">Slavecrusher Grox</a> in [Krol'dok Stronghold](/de/guides/dungeons/kroldok-stronghold/).
 
 ## So funktionieren die Buffs
 
@@ -130,7 +130,7 @@ Was der Arcane Salvager beim Entzaubern bewirkt und wozu die Falle der Trapper�
 
 ## Wo die Blueprints droppen
 
-Stufe 2 und 3 lernst du aus Blueprints. Die meisten Quellen sind noch nicht bekannt; diese schon.
+Stufe 2 und 3 lernst du aus Blueprints. Jeder Tier-3-Blueprint droppt bei einem Boss in einem Level-60-Dungeon. Für Stufe 2 sind die meisten Quellen noch nicht bekannt; diese schon.
 
 | Blueprint | Wo |
 |---|---|
@@ -139,6 +139,19 @@ Stufe 2 und 3 lernst du aus Blueprints. Die meisten Quellen sind noch nicht beka
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273085"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fermenter</a> | [Ruins of Lordaeron](/de/guides/dungeons/ruins-of-lordaeron/) |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273096"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Tanning Rack</a> | Razorclaw the Butcher in Shadowfang Keep |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a> | Aus Fischschwärmen geangelt |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273112"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Alchemy Laboratory</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=10508">Ras Frostwhisper</a> in [Scholomance](/de/guides/dungeons/scholomance/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273113"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Master Forge</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8983">Golem Lord Argelmach</a> in [Blackrock Depths](/de/guides/dungeons/blackrock-depths/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273116"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Arcane Forge</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=261809">Nanaya</a> in [The Shaper's Terrace](/de/guides/dungeons/shapers-terrace/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273117"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Anarchist's Workbench</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11058">Ezra Grimm</a> in [Stratholme](/de/guides/dungeons/stratholme-living/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273120"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Seed Hybridizer</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11489">Tendris Warpwood</a> in [Dire Maul](/de/guides/dungeons/dire-maul-west/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273121"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Sewing Machine</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=10432">Vectus</a> in [Scholomance](/de/guides/dungeons/scholomance/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273122"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Molten Foundry</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=9156">Ambassador Flamelash</a> in [Blackrock Depths](/de/guides/dungeons/blackrock-depths/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273109"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Trapper's Workbench</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=10430">The Beast</a> in [Upper Blackrock Spire](/de/guides/dungeons/upper-blackrock-spire/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273124"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Loom</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=10436">Baroness Anastari</a> in [Stratholme](/de/guides/dungeons/stratholme-undead/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273115"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Iron Oven</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=9736">Quartermaster Zigris</a> in [Blackrock Spire](/de/guides/dungeons/lower-blackrock-spire/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273101"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Expert Campfire</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=258966">Slavecrusher Grox</a> in [Krol'dok Stronghold](/de/guides/dungeons/kroldok-stronghold/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273118"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Plague Doctor's Laboratory</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=11261">Doctor Theolen Krastinov</a> in [Scholomance](/de/guides/dungeons/scholomance/) |
+| <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273119"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Hut</a> | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=5710">Jammal'an the Prophet</a> in [Sunken Temple](/de/guides/dungeons/sunken-temple/) |
 
 ## Das Scarlet Banner
 

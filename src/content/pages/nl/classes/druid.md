@@ -76,7 +76,8 @@ De [talentcalculator](/nl/talents/druid/) heeft de Druid-bomen van WoW Forever. 
 |---|---|
 | **Balance** | [BiS-lijst](/nl/bis/forever/preraid/druid-balance/) |
 | **Restoration** | [BiS-lijst](/nl/bis/forever/preraid/druid-restoration/) |
-| **Feral, Cat en Bear** | Binnenkort |
+| **Feral, Cat** | [BiS-lijst](/nl/bis/forever/preraid/druid-feral/) |
+| **Feral, Bear** | Binnenkort |
 
 Elke lijst toont de datum van de laatste update. Alle lijsten voor elke class staan op de [BiS-pagina](/nl/bis/).
 

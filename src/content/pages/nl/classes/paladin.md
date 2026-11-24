@@ -69,7 +69,7 @@ De [talentcalculator](/nl/talents/paladin/) heeft de Paladin-bomen van WoW Forev
 |---|---|
 | **Holy** | [BiS-lijst](/nl/bis/forever/preraid/paladin-holy/) |
 | **Protection** | [BiS-lijst](/nl/bis/forever/preraid/paladin-protection/) |
-| **Retribution** | Binnenkort |
+| **Retribution** | [BiS-lijst](/nl/bis/forever/preraid/paladin-retribution/) |
 
 Elke lijst toont de datum van de laatste update. Alle lijsten voor elke class staan op de [BiS-pagina](/nl/bis/).
 

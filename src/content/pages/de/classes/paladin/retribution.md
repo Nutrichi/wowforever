@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: der Guide"
 metaTitle: "WoW Forever Retribution Paladin: Build, Rotation und Siegel"
 description: "Der Retribution Paladin in WoW Forever: der Build für Level 60, die Rotation mit Seal of Command, Judgements, Segen, Werte und Völker."
 short: "Retribution Paladin"
-updated: 2026-11-22
+updated: 2026-11-24
 lang: de
 manual: true
 faq:
@@ -135,7 +135,7 @@ Gib vor einem Kampf jedem den richtigen Segen, und allen außer dem Tank auch Bl
 
 ## Werte und Ausrüstung
 
-Auf Level 60 ist die Reihenfolge: Waffenfertigkeit, Waffenschaden und -tempo, Trefferchance bis 9 %, Waffenkunde bis 6,5 %, Zauberschaden, Intelligenz, Stärke, Angriffskraft, Beweglichkeit, kritische Trefferchance, Ausdauer. Was jeder Wert bringt:
+Auf Level 60 ist die Reihenfolge: Trefferchance bis 8 % (17 % für Heilig-Zauber), Waffenkunde bis 6,5 % (14 %, wenn du von vorn angreifst, gegen Parieren), kritische Trefferchance, Tempo, Waffenfertigkeit, Waffenschaden, Stärke, Zauberschaden, Beweglichkeit, Intelligenz, Angriffskraft, Zauberdurchschlag, Ausdauer. In Angriffskraft umgerechnet ist 1 % Trefferchance etwa 71 wert, 1 % Waffenkunde 53, 1 % kritische Trefferchance 38 und 1 % Tempo 37. Was jeder Wert bringt:
 
 - **Trefferwertung**, damit Angriffe und Zauber sitzen.
 - **Kritische Trefferchance**, die mit Conviction und Vengeance zusammenwirkt.
@@ -145,7 +145,7 @@ Auf Level 60 ist die Reihenfolge: Waffenfertigkeit, Waffenschaden und -tempo, Tr
 
 **Rüstung.** Schau auf die Werte, nicht auf den Rüstungstyp. Leder oder sogar Stoff kann besser als Platte sein, wenn die Werte passen. Auf niedrigen Stufen ist Blacksmithing fast Pflicht, weil Platte und Kette mit Zaubermacht selten sind. Auch Dungeons haben gute Teile.
 
-**Waffe.** Eine langsame Zweihandwaffe mit hohem Waffenschaden, für Seal of Command und Holy Strike.
+**Waffe.** Eine langsame Zweihandwaffe mit hohem Waffenschaden, für Seal of Command und Holy Strike. Mit dem Shockadin-Build und Seal of Righteousness nimmst du dagegen eine schnellere Zweihandwaffe.
 
 **Librams.** Paladins tragen ein Libram im Fernkampfplatz, mit einem kleinen passiven Bonus. Wähl eins, das zu deinen Zaubern passt.
 

@@ -76,7 +76,8 @@ Der [Talentrechner](/de/talents/druid/) hat die Druid-Bäume von WoW Forever. Je
 |---|---|
 | **Balance** | [BiS-Liste](/de/bis/forever/preraid/druid-balance/) |
 | **Restoration** | [BiS-Liste](/de/bis/forever/preraid/druid-restoration/) |
-| **Feral, Cat und Bear** | Folgt bald |
+| **Feral, Cat** | [BiS-Liste](/de/bis/forever/preraid/druid-feral/) |
+| **Feral, Bear** | Folgt bald |
 
 Jede Liste zeigt das Datum ihrer letzten Aktualisierung. Alle Listen für jede Klasse stehen auf der [BiS-Seite](/de/bis/).
 

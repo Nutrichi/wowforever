@@ -68,7 +68,7 @@ The [talent calculator](/talents/paladin/) has the Paladin trees of WoW Forever.
 |---|---|
 | **Holy** | [BiS list](/bis/forever/preraid/paladin-holy/) |
 | **Protection** | [BiS list](/bis/forever/preraid/paladin-protection/) |
-| **Retribution** | Coming soon |
+| **Retribution** | [BiS list](/bis/forever/preraid/paladin-retribution/) |
 
 Every list shows the date of its last update. All lists for every class are on the [BiS page](/bis/).
 

@@ -69,7 +69,7 @@ Der [Talentrechner](/de/talents/paladin/) hat die Paladin-Bäume von WoW Forever
 |---|---|
 | **Holy** | [BiS-Liste](/de/bis/forever/preraid/paladin-holy/) |
 | **Protection** | [BiS-Liste](/de/bis/forever/preraid/paladin-protection/) |
-| **Retribution** | Folgt bald |
+| **Retribution** | [BiS-Liste](/de/bis/forever/preraid/paladin-retribution/) |
 
 Jede Liste zeigt das Datum ihrer letzten Aktualisierung. Alle Listen für jede Klasse stehen auf der [BiS-Seite](/de/bis/).
 

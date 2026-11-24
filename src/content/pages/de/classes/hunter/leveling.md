@@ -3,7 +3,7 @@ title: "Hunter leveln in WoW Forever: der Guide"
 metaTitle: "WoW Forever Hunter-Levelguide: Builds und Route bis 60"
 description: "Einen Hunter leveln in WoW Forever: die ersten Level, Builds für Level 60 für Beast Mastery, Marksmanship und Survival, die Rotation, wichtige Level, die Zähmungsquest, Waffen, Ausrüstung, Berufe, Begleiter, Fallen, Aufspüren und Aspects."
 short: "Hunter leveln"
-updated: 2026-11-19
+updated: 2026-11-24
 lang: de
 manual: true
 faq:
@@ -133,7 +133,7 @@ Ein Hunter kann mehr Waffenarten nutzen als jede andere Klasse. Die meisten lern
 
 | Waffe | Allianz | Horde |
 |---|---|---|
-| **Daggers** | Von Anfang an bekannt | Von Anfang an bekannt |
+| **Daggers** | Ilyenia Moonfire (Darnassus), Bixi Wobblebonk (Ironforge), Woo Ping (Stormwind) | Sayoc (Orgrimmar), Archibald (Undercity) |
 | **Ein- und zweihändige Axes** | Buliwyf Stonehand (Ironforge) | Hanashi, Sayoc (Orgrimmar) |
 | **Ein- und zweihändige Swords** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Fist weapons** | Ilyenia Moonfire (Darnassus), Buliwyf Stonehand (Ironforge) | Sayoc (Orgrimmar) |

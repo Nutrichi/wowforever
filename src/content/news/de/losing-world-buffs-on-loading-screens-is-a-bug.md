@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 24. November:** Der Fix ist live. World Buffs überstehen Ladebildschirme wieder, und Fengus' Ferocity gibt jetzt nur noch die Hälfte. Mehr in [unserem Beitrag](/de/news/world-buffs-survive-loading-screens-again/).
+
 World Buffs in World of Warcraft: Forever sollen bei einem Ladebildschirm nicht verschwinden. Senior Game Designer Aidan "Zirene" Moon sagt, es ist ein Bug, und der Fix kommt am nächsten Tag.
 
 ## Was schiefging

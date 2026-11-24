@@ -5,7 +5,7 @@
  "spec": "restoration",
  "role": "Healer",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -30,16 +30,16 @@
    "slot": "Neck",
    "items": [
     {
+     "name": "Animated Chain Necklace",
+     "source": "Ramstein the Gorger (Stratholme)"
+    },
+    {
+     "name": "Heart of the Fiend",
+     "source": "Kirtonos the Herald (Scholomance)"
+    },
+    {
      "name": "Orb of the Darkmoon",
-     "source": "Darkmoon Faire 1200 Tickets in Orb of the Darkmoon"
-    },
-    {
-     "name": "Chains of the Lich",
-     "source": "Balzaphon in Stratholme"
-    },
-    {
-     "name": "Horn of Ve'han",
-     "source": "Source not listed yet"
+     "source": "Darkmoon Faire (1200 tickets)"
     }
    ]
   },
@@ -47,16 +47,16 @@
    "slot": "Shoulders",
    "items": [
     {
-     "name": "Mantle of the Timbermaw",
-     "source": "Crafted with Tailoring"
+     "name": "Premier Linkmail Pauldrons",
+     "source": "PvP"
     },
     {
-     "name": "Pauldrons of The Five Thunders",
+     "name": "Mantle of The Five Thunders",
      "source": "Tier 0.5 Quest Chain"
     },
     {
-     "name": "Premier General's Mail Spaulders",
-     "source": "Tier 0.5 Quest Chain"
+     "name": "Living Shoulders",
+     "source": "Crafted with Leatherworking"
     }
    ]
   },
@@ -64,16 +64,16 @@
    "slot": "Back",
    "items": [
     {
-     "name": "Master's Cloak",
-     "source": "World drop"
+     "name": "Hide of the Wild",
+     "source": "Crafted with Leatherworking"
     },
     {
-     "name": "Cloak of Earth and Sky",
-     "source": "Crafted with Tailoring"
+     "name": "Drape of Recovery",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
-     "name": "Frostwolf Advisor's Cloak",
-     "source": "Alterac Valley Vendors"
+     "name": "Cloak of the Cosmos",
+     "source": "Immol'thar (Dire Maul)"
     }
    ]
   },
@@ -81,16 +81,16 @@
    "slot": "Chest",
    "items": [
     {
-     "name": "Masterwork Breastplate",
-     "source": "World drop"
+     "name": "Robes of the Exalted",
+     "source": "Baron Rivendare (Stratholme)"
     },
     {
-     "name": "Vest of The Five Thunders",
+     "name": "Red Dragonscale Breastplate",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Tunic of The Five Thunders",
      "source": "Tier 0.5 Quest Chain"
-    },
-    {
-     "name": "Vest of Elements",
-     "source": "General Drakkisath in Blackrock Spire"
     }
    ]
   },
@@ -98,16 +98,16 @@
    "slot": "Wrists",
    "items": [
     {
-     "name": "Dryad's Wrist Bindings",
-     "source": "Warsong Gulch Vendors Exalted"
+     "name": "Loomguard Armbraces",
+     "source": "Kirtonos the Herald (Scholomance)"
     },
     {
-     "name": "Dryad's Wrist Bindings",
-     "source": "Warsong Gulch Vendors Revered"
+     "name": "Bracers of The Five Thunders",
+     "source": "Reward from the quest An Earnest Proposition (Tier 0.5 quest chain)"
     },
     {
-     "name": "Bindings of The Five Thunders",
-     "source": "Tier 0.5 Quest Chain"
+     "name": "Bleak Howler Armguards",
+     "source": "Gizrul the Slavener (Blackrock Spire)"
     }
    ]
   },
@@ -115,16 +115,16 @@
    "slot": "Hands",
    "items": [
     {
-     "name": "Gloves of the Greatfather",
-     "source": "Crafted with Leatherworking"
+     "name": "Hands of the Exalted Herald",
+     "source": "Final Boss of in Blackrock Depths"
     },
     {
-     "name": "Storm Gauntlets",
-     "source": "Crafted with Leatherworking"
-    },
-    {
-     "name": "Gauntlets of The Five Thunders",
+     "name": "Grasp of The Five Thunders",
      "source": "Tier 0.5 Quest Chain"
+    },
+    {
+     "name": "Mender's Mail Gauntlets",
+     "source": "Crafted with Leatherworking"
     }
    ]
   },
@@ -132,16 +132,16 @@
    "slot": "Waist",
    "items": [
     {
-     "name": "Belt of the Archmage",
+     "name": "Sash of Mercy",
+     "source": "World drop"
+    },
+    {
+     "name": "Wisdom of the Timbermaw",
      "source": "Crafted with Tailoring"
     },
     {
-     "name": "Cord of The Five Thunders",
-     "source": "Arathi Basin Vendors"
-    },
-    {
-     "name": "Highlander's Cloth Girdle",
-     "source": "Arathi Basin Vendors"
+     "name": "Eyestalk Cord",
+     "source": "Immol'thar (Dire Maul)"
     }
    ]
   },
@@ -149,16 +149,16 @@
    "slot": "Legs",
    "items": [
     {
-     "name": "Ironfeather Leggings",
-     "source": "Crafted with Leatherworking"
+     "name": "Padre's Trousers",
+     "source": "Illyanna Ravenoak (Dire Maul)"
     },
     {
-     "name": "Pristine Scorpid Leggings",
-     "source": "Crafted with Leatherworking"
+     "name": "Leggings of The Five Thunders",
+     "source": "Tier 0.5 Quest Chain"
     },
     {
-     "name": "General's Mail Leggings",
-     "source": "PVP Vendors"
+     "name": "Tanglemoss Leggings",
+     "source": "Tendris Warpwood (Dire Maul)"
     }
    ]
   },
@@ -166,16 +166,16 @@
    "slot": "Feet",
    "items": [
     {
-     "name": "Earthen Silk Slippers",
-     "source": "Crafted with Tailoring"
+     "name": "Premier Linkmail Walkers",
+     "source": "Vendor"
     },
     {
-     "name": "Boots of The Five Thunders",
+     "name": "Greaves of The Five Thunders",
      "source": "Tier 0.5 Quest Chain"
     },
     {
-     "name": "General's Mail Boots",
-     "source": "PVP Vendors"
+     "name": "Ogreseer Tower Boots",
+     "source": "Spirestone Lord Magus (Blackrock Spire)"
     }
    ]
   },
@@ -183,16 +183,16 @@
    "slot": "Ring 1",
    "items": [
     {
-     "name": "Warden's Signet of Brilliance",
-     "source": "The Watchers (Exalted)"
+     "name": "Fordring's Seal",
+     "source": "Reward from the quest In Dreams"
     },
     {
-     "name": "Watcher's Signet of Brilliance",
-     "source": "The Watchers (Revered)"
+     "name": "Emerald Flame Ring",
+     "source": "Prince Tortheldrin (Dire Maul)"
     },
     {
-     "name": "Tracker's Signet of Brilliance",
-     "source": "The Watchers (Honored)"
+     "name": "High Clerist's Seal",
+     "source": "Scarlet High Clerist (Western Plaguelands)"
     }
    ]
   },
@@ -200,16 +200,16 @@
    "slot": "Ring 2",
    "items": [
     {
-     "name": "Blessed Band of Light",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
+     "name": "Band of Mending",
+     "source": "Zone Drop (Stratholme)"
     },
     {
-     "name": "Watcher's Signet of Brilliance",
-     "source": "The Watchers (Revered)"
+     "name": "Emerald Flame Ring",
+     "source": "Prince Tortheldrin (Dire Maul)"
     },
     {
-     "name": "Tracker's Signet of Brilliance",
-     "source": "The Watchers (Honored)"
+     "name": "High Clerist's Seal",
+     "source": "Scarlet High Clerist (Western Plaguelands)"
     }
    ]
   },
@@ -217,16 +217,16 @@
    "slot": "Trinket 1",
    "items": [
     {
-     "name": "Weakness Analyzer",
+     "name": "Serenity Field",
      "source": "Reals vendor in Booty Bay (125 Reals)"
     },
     {
-     "name": "Arcanite Dragonling",
-     "source": "Crafted with Engineering"
+     "name": "Burst of Knowledge",
+     "source": "Ambassador Flamelash (Blackrock Depths)"
     },
     {
-     "name": "Jewel of the Guard Captain",
-     "source": "Source not listed yet"
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher (Blackrock Spire)"
     }
    ]
   },
@@ -234,16 +234,16 @@
    "slot": "Trinket 2",
    "items": [
     {
-     "name": "Frozen Heart of the Mountain",
-     "source": "Crafted with Enchanting"
+     "name": "Second Wind",
+     "source": "Golem Lord Argelmach (Blackrock Depths)"
     },
     {
-     "name": "Arcanite Dragonling",
-     "source": "Crafted with Engineering"
+     "name": "Burst of Knowledge",
+     "source": "Ambassador Flamelash (Blackrock Depths)"
     },
     {
-     "name": "Jewel of the Guard Captain",
-     "source": "Source not listed yet"
+     "name": "Briarwood Reed",
+     "source": "Jed Runewatcher (Blackrock Spire)"
     }
    ]
   },
@@ -251,16 +251,16 @@
    "slot": "Main-Hand",
    "items": [
     {
-     "name": "Sageclaw",
-     "source": "Arathi Basin Vendors Exalted"
+     "name": "Gift of the Elven Magi",
+     "source": "Zone Drop (Stratholme)"
     },
     {
-     "name": "Elderwild Construction Hammer",
-     "source": "Source not listed yet"
+     "name": "Lorespinner",
+     "source": "Reward from the quest Lethtendris's Web"
     },
     {
-     "name": "Bloodstrike Dagger",
-     "source": "World drop"
+     "name": "Masterwork Crimson Hammer",
+     "source": "Crimson Hammersmith (Stratholme)"
     }
    ]
   },
@@ -268,12 +268,16 @@
    "slot": "Off-Hand",
    "items": [
     {
-     "name": "Master's Rod",
-     "source": "World drop"
+     "name": "Lei of the Lifegiver",
+     "source": "Alterac Valley (Exalted)"
     },
     {
-     "name": "Evergreen Shield",
-     "source": "Crafted with Blacksmithing"
+     "name": "Penelope's Rose",
+     "source": "Reward from the quest Kirtonos the Herald"
+    },
+    {
+     "name": "Thaurissan's Royal Scepter",
+     "source": "Emperor Dagran Thaurissan (Blackrock Depths)"
     }
    ]
   },
@@ -281,16 +285,16 @@
    "slot": "Two-Hand",
    "items": [
     {
-     "name": "Resurgence Rod",
-     "source": "Reward from the quest Corruption of Earth and Seed"
+     "name": "Glowing Brightwood Staff",
+     "source": "World drop"
     },
     {
-     "name": "Crackling Staff",
-     "source": "Alterac Valley Vendors"
+     "name": "Hammer of the Grand Crusader",
+     "source": "Zone Drop (Stratholme)"
     },
     {
-     "name": "Wisepaw Totem",
-     "source": "reputation (Revered)"
+     "name": "Staff of Metanoia",
+     "source": "Jandice Barov (Scholomance)"
     }
    ]
   }

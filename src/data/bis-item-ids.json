@@ -30978,7 +30978,7 @@
     },
     "Ironbark Staff": {
       "kind": "item",
-      "id": 20069,
+      "id": 20220,
       "icon": "inv_wand_04",
       "quality": 4
     },
@@ -31242,7 +31242,7 @@
     },
     "Royal Seal of Eldre'Thalas": {
       "kind": "item",
-      "id": 18466,
+      "id": 18467,
       "icon": "inv_jewelry_talisman_10",
       "quality": 3
     },
@@ -31632,7 +31632,7 @@
     },
     "Dryad's Wrist Bindings": {
       "kind": "item",
-      "id": 19596,
+      "id": 19595,
       "icon": "inv_bracer_13",
       "quality": 4
     },
@@ -32178,7 +32178,7 @@
     },
     "Pauldrons of The Five Thunders": {
       "kind": "item",
-      "id": 22101,
+      "id": 227003,
       "icon": "inv_shoulder_29",
       "quality": 3
     },
@@ -32220,7 +32220,7 @@
     },
     "Bindings of The Five Thunders": {
       "kind": "item",
-      "id": 22095,
+      "id": 227001,
       "icon": "inv_bracer_02",
       "quality": 3
     },
@@ -32238,13 +32238,13 @@
     },
     "Gauntlets of The Five Thunders": {
       "kind": "item",
-      "id": 22099,
+      "id": 227006,
       "icon": "inv_gauntlets_11",
       "quality": 4
     },
     "Cord of The Five Thunders": {
       "kind": "item",
-      "id": 22098,
+      "id": 227008,
       "icon": "inv_belt_16",
       "quality": 3
     },
@@ -32833,8 +32833,8 @@
     "Mooncloth Boots": {
       "kind": "item",
       "id": 15802,
-      "icon": null,
-      "quality": null
+      "icon": "inv_boots_05",
+      "quality": 3
     },
     "Warden's Signet of Resolve": {
       "kind": "item",
@@ -33921,6 +33921,372 @@
       "id": 19309,
       "icon": "inv_misc_book_06",
       "quality": 4
+    },
+    "Feralheart Cap": {
+      "kind": "item",
+      "id": 226792,
+      "icon": "inv_helmet_27",
+      "quality": 4
+    },
+    "Ghostshroud": {
+      "kind": "item",
+      "id": 11925,
+      "icon": "inv_helmet_41",
+      "quality": 3
+    },
+    "Highlander's Leather Shoulders": {
+      "kind": "item",
+      "id": 20059,
+      "icon": "inv_shoulder_24",
+      "quality": 4
+    },
+    "Feralheart Tunic": {
+      "kind": "item",
+      "id": 226795,
+      "icon": "inv_chest_plate06",
+      "quality": 4
+    },
+    "Defias Enforcer's Chest": {
+      "kind": "item",
+      "id": 287020,
+      "icon": "inv_chest_leather_08",
+      "quality": 3
+    },
+    "Forest Stalker's Bracers": {
+      "kind": "item",
+      "id": 19587,
+      "icon": "inv_bracer_12",
+      "quality": 4
+    },
+    "Warpwood Bracers": {
+      "kind": "item",
+      "id": 270124,
+      "icon": "inv_bracer_16",
+      "quality": 3
+    },
+    "Theramore Gloves": {
+      "kind": "item",
+      "id": 271948,
+      "icon": "inv_gauntlets_27",
+      "quality": 4
+    },
+    "Panic Hands": {
+      "kind": "item",
+      "id": 260211,
+      "icon": "inv_gauntlets_19",
+      "quality": 3
+    },
+    "Shifter's Belt": {
+      "kind": "item",
+      "id": 272396,
+      "icon": "inv_belt_16",
+      "quality": 4
+    },
+    "Cloudrunner Girdle": {
+      "kind": "item",
+      "id": 13252,
+      "icon": "inv_belt_10",
+      "quality": 3
+    },
+    "Warbear Woolies": {
+      "kind": "item",
+      "id": 15065,
+      "icon": "inv_pants_wolf",
+      "quality": 3
+    },
+    "Outrider's Leather Pants": {
+      "kind": "item",
+      "id": 22740,
+      "icon": "inv_pants_leather_12",
+      "quality": 4
+    },
+    "Mongoose Boots": {
+      "kind": "item",
+      "id": 18506,
+      "icon": "inv_boots_08",
+      "quality": 3
+    },
+    "Sandstalker Ankleguards": {
+      "kind": "item",
+      "id": 12470,
+      "icon": "inv_bracer_04",
+      "quality": 3
+    },
+    "Band of the Cultist": {
+      "kind": "item",
+      "id": 20721,
+      "icon": "inv_jewelry_ring_27",
+      "quality": 3
+    },
+    "Magma Forged Band": {
+      "kind": "item",
+      "id": 22255,
+      "icon": "inv_jewelry_ring_04",
+      "quality": 3
+    },
+    "Bolt's Charged Eyeball": {
+      "kind": "item",
+      "id": 280032,
+      "icon": "inv_misc_eye_01",
+      "quality": 3
+    },
+    "Behemoth Bones": {
+      "kind": "item",
+      "id": 280065,
+      "icon": "inv_misc_bone_01",
+      "quality": 3
+    },
+    "Ice Barbed Spear": {
+      "kind": "item",
+      "id": 19106,
+      "icon": "inv_spear_04",
+      "quality": 3
+    },
+    "Bonecrusher": {
+      "kind": "item",
+      "id": 18420,
+      "icon": "inv_mace_02",
+      "quality": 3
+    },
+    "Idol of the Dream": {
+      "kind": "item",
+      "id": 220606,
+      "icon": "inv_relics_idolofferocity",
+      "quality": 3
+    },
+    "Idol of Ferocity": {
+      "kind": "item",
+      "id": 22397,
+      "icon": "inv_relics_idolofferocity",
+      "quality": 3
+    },
+    "Howling Idol": {
+      "kind": "item",
+      "id": 272427,
+      "icon": "inv_relics_idolofferocity",
+      "quality": 3
+    },
+    "Beaststalker's Boots": {
+      "kind": "item",
+      "id": 16675,
+      "icon": "inv_boots_plate_07",
+      "quality": 3
+    },
+    "Defiler's Lamellar Spaulders": {
+      "kind": "item",
+      "id": 20184,
+      "icon": "inv_shoulder_01",
+      "quality": 4
+    },
+    "Ogre Forged Hauberk": {
+      "kind": "item",
+      "id": 18530,
+      "icon": "inv_chest_chain_12",
+      "quality": 3
+    },
+    "Gordok's Gauntlets": {
+      "kind": "item",
+      "id": 18367,
+      "icon": "inv_gauntlets_09",
+      "quality": 3
+    },
+    "Highlander's Lamellar Girdle": {
+      "kind": "item",
+      "id": 20042,
+      "icon": "inv_belt_14",
+      "quality": 3
+    },
+    "Highlander's Lamellar Greaves": {
+      "kind": "item",
+      "id": 20049,
+      "icon": "inv_boots_plate_04",
+      "quality": 3
+    },
+    "Death Knight Sabatons": {
+      "kind": "item",
+      "id": 18692,
+      "icon": "inv_boots_plate_08",
+      "quality": 3
+    },
+    "Lady Maye's Pendant": {
+      "kind": "item",
+      "id": 14558,
+      "icon": "inv_jewelry_necklace_08",
+      "quality": 4
+    },
+    "The Blackrock Slicer": {
+      "kind": "item",
+      "id": 13285,
+      "icon": "inv_weapon_halberd_11",
+      "quality": 3
+    },
+    "Virtuous Crown": {
+      "kind": "item",
+      "id": 226947,
+      "icon": "inv_crown_01",
+      "quality": 4
+    },
+    "Virtuous Mantle": {
+      "kind": "item",
+      "id": 226951,
+      "icon": "inv_shoulder_02",
+      "quality": 3
+    },
+    "Mantle of Lost Hope": {
+      "kind": "item",
+      "id": 22234,
+      "icon": "inv_shoulder_09",
+      "quality": 3
+    },
+    "Soulwoven Drape": {
+      "kind": "item",
+      "id": 276072,
+      "icon": "inv_misc_cape_20",
+      "quality": 3
+    },
+    "Virtuous Robe": {
+      "kind": "item",
+      "id": 226945,
+      "icon": "inv_chest_cloth_11",
+      "quality": 4
+    },
+    "Virtuous Bracers": {
+      "kind": "item",
+      "id": 226949,
+      "icon": "inv_belt_31",
+      "quality": 3
+    },
+    "Earthenweave Cuffs": {
+      "kind": "item",
+      "id": 254131,
+      "icon": "inv_bracer_13",
+      "quality": 2
+    },
+    "Virtuous Mitts": {
+      "kind": "item",
+      "id": 226950,
+      "icon": "inv_gauntlets_14",
+      "quality": 4
+    },
+    "Gilded Gloves": {
+      "kind": "item",
+      "id": 254095,
+      "icon": "inv_gauntlets_11",
+      "quality": 3
+    },
+    "Penitent's Cinch": {
+      "kind": "item",
+      "id": 272394,
+      "icon": "inv_belt_37b",
+      "quality": 4
+    },
+    "Virtuous Belt": {
+      "kind": "item",
+      "id": 226948,
+      "icon": "inv_belt_10",
+      "quality": 3
+    },
+    "Virtuous Skirt": {
+      "kind": "item",
+      "id": 226946,
+      "icon": "inv_pants_08",
+      "quality": 3
+    },
+    "Virtuous Sandals": {
+      "kind": "item",
+      "id": 226952,
+      "icon": "inv_boots_05",
+      "quality": 4
+    },
+    "Rosewine Circle": {
+      "kind": "item",
+      "id": 13178,
+      "icon": "inv_jewelry_ring_22",
+      "quality": 3
+    },
+    "Wand of Eternal Light": {
+      "kind": "item",
+      "id": 22254,
+      "icon": "inv_wand_02",
+      "quality": 3
+    },
+    "Premier Linkmail Pauldrons": {
+      "kind": "item",
+      "id": 274222,
+      "icon": "inv_shoulder_04",
+      "quality": 3
+    },
+    "Mantle of The Five Thunders": {
+      "kind": "item",
+      "id": 227011,
+      "icon": "inv_shoulder_29",
+      "quality": 3
+    },
+    "Red Dragonscale Breastplate": {
+      "kind": "item",
+      "id": 15047,
+      "icon": "inv_chest_chain_06",
+      "quality": 3
+    },
+    "Tunic of The Five Thunders": {
+      "kind": "item",
+      "id": 227016,
+      "icon": "inv_chest_chain_11",
+      "quality": 4
+    },
+    "Bracers of The Five Thunders": {
+      "kind": "item",
+      "id": 227009,
+      "icon": "inv_bracer_02",
+      "quality": 3
+    },
+    "Grasp of The Five Thunders": {
+      "kind": "item",
+      "id": 227014,
+      "icon": "inv_gauntlets_11",
+      "quality": 4
+    },
+    "Mender's Mail Gauntlets": {
+      "kind": "item",
+      "id": 252587,
+      "icon": "inv_gauntlets_25",
+      "quality": 3
+    },
+    "Leggings of The Five Thunders": {
+      "kind": "item",
+      "id": 227012,
+      "icon": "inv_pants_03",
+      "quality": 3
+    },
+    "Premier Linkmail Walkers": {
+      "kind": "item",
+      "id": 274217,
+      "icon": "inv_boots_07",
+      "quality": 3
+    },
+    "Greaves of The Five Thunders": {
+      "kind": "item",
+      "id": 227015,
+      "icon": "inv_boots_wolf",
+      "quality": 4
+    },
+    "Burst of Knowledge": {
+      "kind": "item",
+      "id": 11832,
+      "icon": "inv_jewelry_amulet_07",
+      "quality": 3
+    },
+    "High Councillor's Bracers": {
+      "kind": "item",
+      "id": 10136,
+      "icon": "inv_bracer_05",
+      "quality": 2
+    },
+    "Black Sandals": {
+      "kind": "item",
+      "id": 254113,
+      "icon": "inv_boots_05",
+      "quality": 3
     }
   }
 }

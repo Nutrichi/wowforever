@@ -94,7 +94,7 @@ Der Leveling-Build nimmt zuerst die Talente, die beim Töten allein helfen. [Im 
 
 ### PvP-Build, 29/17/5
 
-Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/priest/?t=0053002013332115-320501320001-05).
+Der PvP-Build tauscht Schaden gegen Kontrolle und Überleben. [PvP-Build im Talentrechner öffnen](/de/talents/priest/?t=0053002013332115-320500330001-05).
 
 ## Was die wichtigsten Talente tun
 

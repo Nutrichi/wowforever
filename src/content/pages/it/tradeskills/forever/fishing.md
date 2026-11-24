@@ -3,7 +3,7 @@ title: "Fishing in WoW Forever: istruttori, livellamento ed equipaggiamento"
 metaTitle: "Guida a Fishing di WoW Forever: istruttori, livellamento da 1 a 225, zone ed equipaggiamento"
 description: "Fishing in WoW Forever: ogni istruttore, come salire da 1 a 225, l’abilità che chiede ogni zona, la missione Artisan, canne, esche, cibo con un buff di Fishing, la nuova Fishing Extravaganza e gli oggetti da campo."
 short: "Fishing"
-updated: 2026-11-19
+updated: 2026-11-24
 video: 0Su2_6eVSpU
 lang: it
 faq:
@@ -37,7 +37,7 @@ Fishing è una professione secondaria, quindi non ti costa mai uno dei tuoi due 
 |---|---|---|
 | Apprentice | da 1 a 75 | Un istruttore di Fishing |
 | Journeyman | da 75 a 150 | Un istruttore di Fishing |
-| Expert | da 150 a 225 | Il libro <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16083"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert Fishing - The Bass and You</a>, da <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2626">Old Man Heming</a> a Booty Bay (/way 27.4 77.0) |
+| Expert | da 150 a 225 | Il libro <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16083"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert Fishing - The Bass and You</a>, da <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2626">Old Man Heming</a> a Booty Bay (/way 27.4 77.0). È scambiabile, quindi lo trovi anche alla casa d'aste. |
 | Artisan | da 225 a 300 | La missione <a href="https://www.wowhead.com/forever/quest=6607">Nat Pagle, Angler Extreme</a>, dal livello 35 |
 
 **La missione Artisan** parte da <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12919">Nat Pagle</a> a Dustwallow Marsh (/way 58.6 60.0). Vuole quattro pesci che abboccano solo mentre hai la missione, in posti fissi e senza banco.
@@ -118,6 +118,7 @@ Da 150 ti serve 225 di abilità per prendere sempre qualcosa in quelle zone, qui
 |---|---|---|
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12225"><img class="wf-wh__icon" src="/wh/inv_fishingpole_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blump Family Fishing Pole</a> | +3 | 1 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6365"><img class="wf-wh__icon" src="/wh/inv_fishingpole_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Strong Fishing Pole</a> | +5 | 10 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=285094"><img class="wf-wh__icon" src="/wh/inv_fishingpole_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ravaged Fishing Pole</a> | +15 | 50 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6367"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big Iron Fishing Pole</a> | +20 | 100 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19022"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nat Pagle's Extreme Angler FC-5000</a> | +25 | 100 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> | +35 | 300 |
@@ -135,6 +136,7 @@ La FC-5000 è riservata all’Orda. La Strong Fishing Pole la vendono i venditor
 
 | Altro equipaggiamento | Abilità |
 |---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=287031"><img class="wf-wh__icon" src="/wh/inv_pants_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearfisher's Waders</a> | +8 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19972"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lucky Fishing Hat</a> | +5 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19969"><img class="wf-wh__icon" src="/wh/inv_boots_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nat Pagle's Extreme Anglin' Boots</a> | +5 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19971"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">High Test Eternium Fishing Line</a> | +5 |
@@ -157,9 +159,8 @@ Alcuni piatti di pesce di Classic ora alzano per un po’ la tua abilità di Fis
 
 Il torneo di pesca di Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, cambia in due punti in Forever:
 
-- **Vincono i primi 50 giocatori**, non solo il primo che consegna.
+- **Vincono i primi 250 giocatori**, non solo il primo che consegna.
 - **Ogni vincitore riceve** la <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> e una <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.
-- **Più vincitori dal 13 novembre:** molti più giocatori per ruleset possono vincere. Blizzard non dà il nuovo numero.
 
 La moneta si scambia con un premio a scelta: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19979"><img class="wf-wh__icon" src="/wh/trade_fishing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hook of the Master Angler</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276274"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Surfer Shoes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276272"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Angler's Fishing Hat</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276273"><img class="wf-wh__icon" src="/wh/inv_misc_1h_bucket_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Empty Fish Bucket</a> o <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276275"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_worm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bitter Baitling</a>.
 
@@ -169,6 +170,16 @@ La moneta si scambia con un premio a scelta: <a class="wf-wh wf-q3" href="https:
 |---|---|---|---|
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a> | 20 | Istruttore | 8% a tutte le stat all’accampamento |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a>, bottino di <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6243">Gelihast</a> in Blackfathom Deeps | Esche e pesci non comuni vicino |
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273119"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Hut</a> | Esche e pesci rari vicino |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273119"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Hut</a>, un drop di <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=5710">Jammal'an the Prophet</a> in [Sunken Temple](/it/guides/dungeons/sunken-temple/) | Esche e pesci rari vicino |
 
 Come funziona un accampamento è nella [guida al camping](/it/guides/camping/). Cosa cucinare con il pescato è nella [guida a Cooking](/it/tradeskills/forever/cooking/).
+
+## Talenti Legacy
+
+| Perk | Effetto |
+|---|---|
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Più probabilità di un punto abilità in ogni professione |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225455"><img class="wf-wh__icon" src="/wh/inv_misc_basket_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Luremaster</a> | Probabilità di un pesce in più usando un'esca |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Una volta al giorno un punto gratis nella professione più bassa |
+
+I perk sono nel [calcolatore Legacy](/it/talents/legacy/).

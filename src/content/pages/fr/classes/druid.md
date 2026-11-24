@@ -76,7 +76,8 @@ Le [calculateur de talents](/fr/talents/druid/) contient les arbres du Druid de 
 |---|---|
 | **Balance** | [Liste BiS](/fr/bis/forever/preraid/druid-balance/) |
 | **Restoration** | [Liste BiS](/fr/bis/forever/preraid/druid-restoration/) |
-| **Feral, Cat et Bear** | Bientôt |
+| **Feral, Cat** | [Liste BiS](/fr/bis/forever/preraid/druid-feral/) |
+| **Feral, Bear** | Bientôt |
 
 Chaque liste affiche la date de sa dernière mise à jour. Toutes les listes de chaque classe sont sur la [page BiS](/fr/bis/).
 

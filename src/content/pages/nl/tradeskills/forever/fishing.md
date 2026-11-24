@@ -3,7 +3,7 @@ title: "Fishing in WoW Forever: trainers, levelen en uitrusting"
 metaTitle: "WoW Forever Fishing-gids: trainers, levelen van 1 tot 225, zones en uitrusting"
 description: "Fishing in WoW Forever: elke trainer, levelen van 1 tot 225, de skill die elke zone vraagt, de Artisan-quest, hengels, lures, eten met een Fishing-buff, de nieuwe Fishing Extravaganza en de kampobjecten."
 short: "Fishing"
-updated: 2026-11-19
+updated: 2026-11-24
 video: 0Su2_6eVSpU
 lang: nl
 faq:
@@ -37,7 +37,7 @@ Fishing is een secundair beroep, dus het kost je nooit een van je twee hoofdplaa
 |---|---|---|
 | Apprentice | 1 tot 75 | Een Fishing-trainer |
 | Journeyman | 75 tot 150 | Een Fishing-trainer |
-| Expert | 150 tot 225 | Het boek <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16083"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert Fishing - The Bass and You</a>, van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2626">Old Man Heming</a> in Booty Bay (/way 27.4 77.0) |
+| Expert | 150 tot 225 | Het boek <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16083"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Expert Fishing - The Bass and You</a>, van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2626">Old Man Heming</a> in Booty Bay (/way 27.4 77.0). Het is verhandelbaar, dus je vindt het ook in het Auction House. |
 | Artisan | 225 tot 300 | De quest <a href="https://www.wowhead.com/forever/quest=6607">Nat Pagle, Angler Extreme</a>, vanaf level 35 |
 
 **De Artisan-quest** begint bij <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12919">Nat Pagle</a> in Dustwallow Marsh (/way 58.6 60.0). Hij wil vier vissen die alleen bijten zolang je de quest hebt, op vaste plekken en zonder pool.
@@ -118,6 +118,7 @@ Vanaf 150 heb je in die zones 225 skill nodig om altijd iets te vangen, dus gebr
 |---|---|---|
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=12225"><img class="wf-wh__icon" src="/wh/inv_fishingpole_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blump Family Fishing Pole</a> | +3 | 1 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6365"><img class="wf-wh__icon" src="/wh/inv_fishingpole_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Strong Fishing Pole</a> | +5 | 10 |
+| <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=285094"><img class="wf-wh__icon" src="/wh/inv_fishingpole_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ravaged Fishing Pole</a> | +15 | 50 |
 | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=6367"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Big Iron Fishing Pole</a> | +20 | 100 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19022"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nat Pagle's Extreme Angler FC-5000</a> | +25 | 100 |
 | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> | +35 | 300 |
@@ -135,6 +136,7 @@ De FC-5000 is alleen voor de Horde. De Strong Fishing Pole verkopen de visverkop
 
 | Andere uitrusting | Skill |
 |---|---|
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=287031"><img class="wf-wh__icon" src="/wh/inv_pants_06.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Spearfisher's Waders</a> | +8 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19972"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lucky Fishing Hat</a> | +5 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19969"><img class="wf-wh__icon" src="/wh/inv_boots_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nat Pagle's Extreme Anglin' Boots</a> | +5 |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=19971"><img class="wf-wh__icon" src="/wh/inv_fabric_mageweave_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">High Test Eternium Fishing Line</a> | +5 |
@@ -157,9 +159,8 @@ Sommige visgerechten uit Classic verhogen in Forever een tijdje je Fishing-skill
 
 Het vistoernooi in Stranglethorn Vale, <a href="https://www.wowhead.com/forever/quest=8193">Master Angler</a>, verandert in Forever op twee punten:
 
-- **De eerste 50 spelers winnen**, niet alleen de eerste die inlevert.
+- **De eerste 250 spelers winnen**, niet alleen de eerste die inlevert.
 - **Elke winnaar krijgt** de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19970"><img class="wf-wh__icon" src="/wh/inv_fishingpole_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanite Fishing Pole</a> en een <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274026"><img class="wf-wh__icon" src="/wh/inv_misc_coin_16.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Extravagant Extravaganza Coin</a>.
-- **Meer winnaars sinds 13 november:** veel meer spelers per ruleset kunnen nu winnen. Blizzard noemt het nieuwe aantal niet.
 
 Met de munt kies je één prijs: <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=19979"><img class="wf-wh__icon" src="/wh/trade_fishing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Hook of the Master Angler</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276274"><img class="wf-wh__icon" src="/wh/inv_boots_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Surfer Shoes</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276272"><img class="wf-wh__icon" src="/wh/inv_helmet_50.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Master Angler's Fishing Hat</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276273"><img class="wf-wh__icon" src="/wh/inv_misc_1h_bucket_b_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Empty Fish Bucket</a> of <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276275"><img class="wf-wh__icon" src="/wh/ability_hunter_pet_worm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Bitter Baitling</a>.
 
@@ -169,6 +170,16 @@ Met de munt kies je één prijs: <a class="wf-wh wf-q3" href="https://www.wowhea
 |---|---|---|---|
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1229745"><img class="wf-wh__icon" src="/wh/inv_magicalfishpet.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fish Bowl</a> | 20 | Trainer | 8% alle stats bij het kamp |
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262990"><img class="wf-wh__icon" src="/wh/inv_misc_2h_draenorfishingpole_a_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Rack</a> | 140 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273141"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Rack</a>, een drop van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=6243">Gelihast</a> in Blackfathom Deeps | Lures en uncommon vissen in de buurt |
-| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273119"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Hut</a> | Lures en rare vissen in de buurt |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1262998"><img class="wf-wh__icon" src="/wh/inv_fishingchair.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Fishing Hut</a> | 300 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=273119"><img class="wf-wh__icon" src="/wh/inv_garrison_blueprints3.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blueprint: Fishing Hut</a>, een drop van <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=5710">Jammal'an the Prophet</a> in [Sunken Temple](/nl/guides/dungeons/sunken-temple/) | Lures en rare vissen in de buurt |
 
 Hoe een kampplaats werkt, staat in de [gids over camping](/nl/guides/camping/). Wat je met je vangst kookt, staat in de [Cooking-gids](/nl/tradeskills/forever/cooking/).
+
+## Legacy-talenten
+
+| Perk | Effect |
+|---|---|
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225451"><img class="wf-wh__icon" src="/wh/inv_misc_pocketwatch_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Working Overtime</a> | Meer kans op een skillpunt in elk beroep |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225455"><img class="wf-wh__icon" src="/wh/inv_misc_basket_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Luremaster</a> | Kans op een extra vis als je een lure gebruikt |
+| <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1225469"><img class="wf-wh__icon" src="/wh/inv_misc_book_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dedicated Study</a> | Eén keer per dag een gratis skillpunt in je laagste beroep |
+
+De perks staan in de [Legacy-calculator](/nl/talents/legacy/).

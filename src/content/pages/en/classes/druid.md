@@ -75,7 +75,8 @@ The [talent calculator](/talents/druid/) has the Druid trees of WoW Forever. Eac
 |---|---|
 | **Balance** | [BiS list](/bis/forever/preraid/druid-balance/) |
 | **Restoration** | [BiS list](/bis/forever/preraid/druid-restoration/) |
-| **Feral, Cat and Bear** | Coming soon |
+| **Feral, Cat** | [BiS list](/bis/forever/preraid/druid-feral/) |
+| **Feral, Bear** | Coming soon |
 
 Every list shows the date of its last update. All lists for every class are on the [BiS page](/bis/).
 

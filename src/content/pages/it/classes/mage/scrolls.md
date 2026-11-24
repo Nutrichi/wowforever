@@ -3,7 +3,7 @@ title: "Pergamene del Mage, Comprehension e Study"
 metaTitle: "WoW Forever pergamene del Mage: Comprehension, Study e tutte le 28"
 description: "Come funzionano le pergamene del Mage in WoW Forever: Comprehend Scroll al livello 6, l'abilità Comprehension, Study con una Light Feather in biblioteca e tutte le 28 pergamene in quattro livelli."
 short: "Pergamene del Mage"
-updated: 2026-11-12
+updated: 2026-11-24
 lang: it
 manual: true
 faq:
@@ -77,7 +77,7 @@ Puoi leggerle appena hai Comprehension.
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277488"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Iceknife</a> | Pugnale: a volte congela il bersaglio quando colpisci, 1 ora |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277489"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Spark</a> | Spada: Fire Blast a volte si ricarica quando vieni colpito in mischia, 1 ora |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277486"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Striking</a> | Bastone: a volte lancia un Arcane Missile sui bersagli colpiti con un incantesimo, 1 ora |
-| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Trasforma la Blade of Silverlaine in un'arma più forte |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Trasforma la <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273637"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blade of Silverlaine</a> nella <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276631"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Coldflame Saber</a> ([come](/it/news/mages-turn-the-blade-of-silverlaine-into-a-coldflame-saber/)) |
 
 ## Pergamene di livello 3: 50 punti, livello 25
 

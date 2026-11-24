@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 24 november:** De fix is live. World buffs overleven laadschermen weer, en Fengus' Ferocity geeft nu de helft. Meer in [onze post](/nl/news/world-buffs-survive-loading-screens-again/).
+
 > **Update 23 november:** Blizzard zegt dat dit een bug is, veroorzaakt door een fix voor een andere bug, en de oplossing zou de volgende dag volgen. Meer in [onze post](/nl/news/losing-world-buffs-on-loading-screens-is-a-bug/).
 
 World buffs in World of Warcraft: Forever verdwijnen nu zodra je een laadscherm ziet. Blizzard kondigde de wijziging niet aan, maar het betekent dat de buffs je niet meer volgen naar een dungeon, over zee of na het uitloggen.

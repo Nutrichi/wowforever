@@ -69,7 +69,7 @@ La [calculadora de talentos](/es/talents/paladin/) tiene los árboles del Paladi
 |---|---|
 | **Holy** | [Lista BiS](/es/bis/forever/preraid/paladin-holy/) |
 | **Protection** | [Lista BiS](/es/bis/forever/preraid/paladin-protection/) |
-| **Retribution** | Próximamente |
+| **Retribution** | [Lista BiS](/es/bis/forever/preraid/paladin-retribution/) |
 
 Cada lista muestra la fecha de su última actualización. Todas las listas de cada clase están en la [página de BiS](/es/bis/).
 

@@ -3,7 +3,7 @@ title: "Parchemins du Mage, Comprehension et Study"
 metaTitle: "WoW Forever parchemins du Mage : Comprehension, Study, les 28"
 description: "Le fonctionnement des parchemins du Mage dans WoW Forever : Comprehend Scroll au niveau 6, la compétence Comprehension, Study avec une Light Feather en bibliothèque, et les 28 parchemins en quatre paliers."
 short: "Parchemins du Mage"
-updated: 2026-11-12
+updated: 2026-11-24
 lang: fr
 manual: true
 faq:
@@ -77,7 +77,7 @@ Vous pouvez les lire dès que vous avez Comprehension.
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277488"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Iceknife</a> | Dague: gèle parfois la cible quand vous touchez, 1 heure |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277489"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Spark</a> | Épée: Fire Blast se recharge parfois quand vous êtes touché en mêlée, 1 heure |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277486"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Striking</a> | Bâton: lance parfois un Arcane Missile sur les cibles touchées par un sort, 1 heure |
-| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Transforme la Blade of Silverlaine en arme plus puissante |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Transforme la <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273637"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blade of Silverlaine</a> en <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276631"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Coldflame Saber</a> ([comment](/fr/news/mages-turn-the-blade-of-silverlaine-into-a-coldflame-saber/)) |
 
 ## Parchemins du palier 3 : 50 points, niveau 25
 

@@ -3,7 +3,7 @@ title: "Mage scrolls and Comprehension in WoW Forever"
 metaTitle: "WoW Forever Mage scrolls: Comprehension, Study and all 28 scrolls"
 description: "How Mage scrolls work in WoW Forever: Comprehend Scroll at level 6, the Comprehension skill, Study with a Light Feather in a library, and all 28 scrolls in four tiers."
 short: "Mage scrolls"
-updated: 2026-11-12
+updated: 2026-11-24
 lang: en
 faq:
   - q: "How does a Mage read scrolls in WoW Forever?"
@@ -76,7 +76,7 @@ You can read these as soon as you have Comprehension.
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277488"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Iceknife</a> | Dagger: sometimes freezes the target on a hit, 1 hour |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277489"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Spark</a> | Sword: Fire Blast sometimes resets when you are hit in melee, 1 hour |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277486"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Striking</a> | Staff: sometimes fires an Arcane Missile at targets you hit with a spell, 1 hour |
-| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Turns the Blade of Silverlaine into a stronger weapon |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Turns the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273637"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blade of Silverlaine</a> into the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276631"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Coldflame Saber</a> ([how](/news/mages-turn-the-blade-of-silverlaine-into-a-coldflame-saber/)) |
 
 ## Tier 3 scrolls: skill 50, level 25
 

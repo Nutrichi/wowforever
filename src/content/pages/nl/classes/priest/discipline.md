@@ -94,7 +94,7 @@ De levelbuild neemt eerst de talenten die je helpen om alleen te doden. [Open he
 
 ### PvP-build, 29/17/5
 
-De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/priest/?t=0053002013332115-320501320001-05).
+De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in de talentcalculator](/nl/talents/priest/?t=0053002013332115-320500330001-05).
 
 ## Wat de belangrijkste talenten doen
 

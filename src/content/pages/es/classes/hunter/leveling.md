@@ -3,7 +3,7 @@ title: "Subir un Hunter en WoW Forever: la guía"
 metaTitle: "Guía de subida del Hunter en WoW Forever: builds hasta el 60"
 description: "Cómo subir un Hunter en WoW Forever: los primeros niveles, builds de nivel 60 para Beast Mastery, Marksmanship y Survival, la rotación, los niveles clave, la misión de doma, armas, equipo, profesiones, mascotas, trampas, rastreo y Aspects."
 short: "Subir un Hunter"
-updated: 2026-11-19
+updated: 2026-11-24
 lang: es
 manual: true
 faq:
@@ -133,7 +133,7 @@ Un Hunter puede usar más tipos de armas que cualquier otra clase. La mayoría l
 
 | Arma | Alianza | Horda |
 |---|---|---|
-| **Daggers** | Conocidas desde el inicio | Conocidas desde el inicio |
+| **Daggers** | Ilyenia Moonfire (Darnassus), Bixi Wobblebonk (Ironforge), Woo Ping (Stormwind) | Sayoc (Orgrimmar), Archibald (Undercity) |
 | **Axes de una y dos manos** | Buliwyf Stonehand (Ironforge) | Hanashi, Sayoc (Orgrimmar) |
 | **Swords de una y dos manos** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Fist weapons** | Ilyenia Moonfire (Darnassus), Buliwyf Stonehand (Ironforge) | Sayoc (Orgrimmar) |

@@ -3,7 +3,7 @@ title: "Retribution Paladin en WoW Forever: la guía"
 metaTitle: "WoW Forever Retribution Paladin: build, rotación y sellos"
 description: "El Retribution Paladin en WoW Forever: la build de nivel 60, la rotación con Seal of Command, los Judgements, las bendiciones, los stats y las razas."
 short: "Retribution Paladin"
-updated: 2026-11-22
+updated: 2026-11-24
 lang: es
 manual: true
 faq:
@@ -135,7 +135,7 @@ Antes de un combate, dale a cada uno la bendición adecuada, y a todos salvo al 
 
 ## Stats y equipo
 
-A nivel 60 el orden es: habilidad con armas, daño y velocidad del arma, golpe hasta el 9 %, pericia hasta el 6,5 %, daño de hechizos, Intelecto, Fuerza, poder de ataque, Agilidad, probabilidad de crítico, Aguante. Lo que hace cada stat:
+A nivel 60 el orden es: golpe hasta el 8 % (17 % para hechizos Sagrados), pericia hasta el 6,5 % (14 % si atacas de frente, contra paradas), probabilidad de crítico, celeridad, habilidad con armas, daño del arma, Fuerza, daño de hechizos, Agilidad, Intelecto, poder de ataque, penetración de hechizos, Aguante. En poder de ataque, un 1 % de golpe vale unos 71, un 1 % de pericia 53, un 1 % de crítico 38 y un 1 % de celeridad 37. Lo que hace cada stat:
 
 - **Índice de golpe**, para que tus ataques y hechizos impacten.
 - **Probabilidad de crítico**, que funciona con Conviction y Vengeance.
@@ -145,7 +145,7 @@ A nivel 60 el orden es: habilidad con armas, daño y velocidad del arma, golpe h
 
 **Armadura.** Mira los stats, no el tipo. El cuero, o incluso la tela, puede superar a la placa si los stats encajan. A nivel bajo, Blacksmithing es casi obligatorio, porque la placa y la malla con poder con hechizos son raras. Las mazmorras también tienen buenas piezas.
 
-**Arma.** Un arma de dos manos lenta con mucho daño, para Seal of Command y Holy Strike.
+**Arma.** Un arma de dos manos lenta con mucho daño, para Seal of Command y Holy Strike. Con la build Shockadin y Seal of Righteousness, elige en cambio un arma de dos manos más rápida.
 
 **Librams.** Los Paladins llevan un libram en la ranura a distancia, con una pequeña bonificación pasiva. Elige uno que encaje con tus hechizos.
 

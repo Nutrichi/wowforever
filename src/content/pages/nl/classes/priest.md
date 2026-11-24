@@ -69,7 +69,7 @@ De [talentcalculator](/nl/talents/priest/) heeft de Priest-bomen van WoW Forever
 |---|---|
 | **Holy** | [BiS-lijst](/nl/bis/forever/preraid/priest-holy/) |
 | **Shadow** | [BiS-lijst](/nl/bis/forever/preraid/priest-shadow/) |
-| **Discipline** | Binnenkort |
+| **Discipline** | [BiS-lijst](/nl/bis/forever/preraid/priest-discipline/) |
 
 Elke lijst toont de datum van de laatste update. Alle lijsten voor elke class staan op de [BiS-pagina](/nl/bis/).
 

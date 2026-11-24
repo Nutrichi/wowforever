@@ -12,6 +12,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 24 November:** The fix is live. World buffs survive loading screens again, and Fengus' Ferocity now gives half as much. More in [our post](/news/world-buffs-survive-loading-screens-again/).
+
 World buffs in World of Warcraft: Forever should not disappear on a loading screen. Senior Game Designer Aidan "Zirene" Moon says it is a bug, and that a fix comes the next day.
 
 ## What went wrong

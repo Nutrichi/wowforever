@@ -1,0 +1,277 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "druid",
+ "spec": "feral",
+ "role": "Melee DPS",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-23",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Feralheart Cap",
+     "source": "End of Tier 0.5 Questchain"
+    },
+    {
+     "name": "Ghostshroud",
+     "source": "Blackrock Depths: Chest of The Seven"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Amulet of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Amulet of the Darkmoon"
+    },
+    {
+     "name": "Mark of Fordring",
+     "source": "Reward from the quest In Dreams"
+    },
+    {
+     "name": "Pendant of Celerity",
+     "source": "Lord Valthalak (Blackrock Spire)"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Theramore Pauldrons",
+     "source": "Theramore Expeditionary Force (Exalted)/Darkspear Raiders (Darkspear Islands)"
+    },
+    {
+     "name": "Highlander's Leather Shoulders",
+     "source": "The League of Arathor (Exalted)/The Defilers (Arathi Basin)"
+    },
+    {
+     "name": "Dark Warder's Pauldrons",
+     "source": "Blackrock Depths: Warder Stilgiss"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Cape of the Black Baron",
+     "source": "Stratholme: Baron Rivendare"
+    },
+    {
+     "name": "Blackveil Cape",
+     "source": "Blackrock Depths: High Interrogator Gerstahn"
+    },
+    {
+     "name": "Howler's Furs",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Timbermaw Tunic",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Feralheart Tunic",
+     "source": "End of Tier 0.5 Questchain"
+    },
+    {
+     "name": "Defias Enforcer's Chest",
+     "source": "Zone Drop (Alcaz Prison)"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Forest Stalker's Bracers",
+     "source": "Silverwing Sentinels (Exalted)/Warsong Outriders (Warsong Gulch)"
+    },
+    {
+     "name": "Warpwood Bracers",
+     "source": "Reward from the quest Lethtendris's Web"
+    },
+    {
+     "name": "Bracers of the Eclipse",
+     "source": "Dire Maul West: Prince Tortheldrin"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Theramore Gloves",
+     "source": "Bryanna Embreeze (The Barrens), Theramore Expeditionary Force (Exalted)"
+    },
+    {
+     "name": "Panic Hands",
+     "source": "Reward from the quest Deadliest Catch"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Shifter's Belt",
+     "source": "Reals vendor in Booty Bay (100 Reals)"
+    },
+    {
+     "name": "Might of the Timbermaw",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Cloudrunner Girdle",
+     "source": "Quartermaster Zigris in Lower Blackrock Spire"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Warbear Woolies",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Outrider's Leather Pants",
+     "source": "Warsong Outriders (Exalted)"
+    },
+    {
+     "name": "Plaguehound Leggings",
+     "source": "Trash in Stratholme"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Swiftwalker Boots",
+     "source": "Princess Moira Bronzebeard (Blackrock Depths)"
+    },
+    {
+     "name": "Mongoose Boots",
+     "source": "Crafted with Leatherworking"
+    },
+    {
+     "name": "Sandstalker Ankleguards",
+     "source": "Zerillis in Zul'Farrak"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Don Julio's Band",
+     "source": "Stormpike Guard (Exalted) / Frostwolf Clan Vendor"
+    },
+    {
+     "name": "Band of the Cultist",
+     "source": "Chest of Spoils"
+    },
+    {
+     "name": "Magma Forged Band",
+     "source": "Secret Safe (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Cutthroat's Signet",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Band of the Cultist",
+     "source": "Chest of Spoils"
+    },
+    {
+     "name": "Magma Forged Band",
+     "source": "Secret Safe (Blackrock Depths)"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Blackhand's Breadth",
+     "source": "Reward from the quest General Drakkisath's Demise or For The Horde!"
+    },
+    {
+     "name": "Adaptive Combat Assistant",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    },
+    {
+     "name": "Bolt's Charged Eyeball",
+     "source": "Bolt or Vitrix"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Behemoth Bones",
+     "source": "Blackmaw Behemoth in Blackmaw Hold"
+    },
+    {
+     "name": "Adaptive Combat Assistant",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    },
+    {
+     "name": "Bolt's Charged Eyeball",
+     "source": "Bolt or Vitrix"
+    }
+   ]
+  },
+  {
+   "slot": "Main-Hand",
+   "items": [
+    {
+     "name": "The Unstoppable Force",
+     "source": "Thanthaldis Snowgleam"
+    },
+    {
+     "name": "Ice Barbed Spear",
+     "source": "Reward from the quest The Legend of Korrak"
+    },
+    {
+     "name": "Bonecrusher",
+     "source": "Reward from the quest The Treasure of the Shen'dralar"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Idol of the Dream",
+     "source": "Crafted"
+    },
+    {
+     "name": "Idol of Ferocity",
+     "source": "Lord Roccor in Blackrock Depths"
+    },
+    {
+     "name": "Howling Idol",
+     "source": "Reals vendor in Booty Bay (50 Reals)"
+    }
+   ]
+  }
+ ]
+}

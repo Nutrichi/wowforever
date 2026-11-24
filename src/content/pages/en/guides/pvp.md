@@ -3,7 +3,7 @@ title: "PvP in WoW Forever explained: Rank Points, Honor and every rank"
 metaTitle: "WoW Forever PvP: Rank Points (RP), Honor and all 14 ranks"
 description: "How PvP works in WoW Forever: Rank Points (RP) and the weekly cap, Honor, Marks of Honor, all 14 ranks and their rewards, battlegrounds, brackets and Darkspear Islands."
 short: "PvP"
-updated: 2026-11-16
+updated: 2026-11-24
 lang: en
 faq:
   - q: "What are Rank Points (RP) in WoW Forever?"
@@ -41,9 +41,19 @@ PvP in WoW Forever rests on two numbers: Rank Points (RP) and Honor. Rank Points
 
 You earn Rank Points in battlegrounds and PvP quests, with a bonus for the battleground of the holiday week. They move you through the ranks, up to Grand Marshal for the Alliance and High Warlord for the Horde. Rank 1 asks for 750 points.
 
-There is a cap. It rises each week, so nobody can race to the top in the first days. The last step, Rank 14, sits at 24,750 Rank Points. You see your rank and points in the character pane: press C and open Player vs. Player on the right.
+There is a cap. It rises each week, so nobody can race to the top in the first days. The last step, Rank 14, sits at 24,750 Rank Points. You see your rank and points in the PvP window: press H. Missed a week, or started a new character? You can always catch up to the current cap: the most you can have is the same as for someone who hit the cap every week. Players report that they cannot go past Rank 3 before level 40; whether that is intended is not known.
 
 PvP runs in seasons. Each season has weekly tasks that give Honor and Rank Points, and three of them also give a [Legacy Point](/news/legacy-points-one-per-challenge/). The ranking is expected to reset every few months.
+
+### Weekly Season's Journey quests
+
+At level 60, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=267525">Wizzik Dustfizz</a> in Gadgetzan, Tanaris (/way 51.8 27.2) gives a new PvP quest every week. Missed one? It stays available, so you can catch up later.
+
+| Quest | Objective | Honor | Rank Points |
+|---|---|---|---|
+| <a href="https://www.wowhead.com/forever/quest=96912">Field of Honor: Week 1</a> | Win 10 duels | 300 | 500 |
+| <a href="https://www.wowhead.com/forever/quest=96913">Field of Honor: Week 2</a> | Complete 3 Warsong Gulch battles | 300 | 500 |
+| <a href="https://www.wowhead.com/forever/quest=96914">Field of Honor: Week 3</a> | Kill 25 players of the other faction in Warsong Gulch | 300 | 500 |
 
 ## Honor
 
@@ -58,9 +68,9 @@ You buy the rewards from the PvP vendors in Stormwind and Orgrimmar, see [where 
 | Rank | Alliance | Horde | Reward |
 |---|---|---|---|
 | **1** | Private | Scout | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=15196"><img class="wf-wh__icon" src="/wh/inv_misc_tabardpvp_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Private's Tabard</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=15197"><img class="wf-wh__icon" src="/wh/inv_misc_tabardpvp_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scout's Tabard</a> |
-| **2** | Corporal | Grunt | Insignia trinket |
-| **3** | Sergeant | Sergeant | Faction cloak |
-| **4** | Master Sergeant | Senior Sergeant | Faction necklace |
+| **2** | Corporal | Grunt | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274445"><img class="wf-wh__icon" src="/wh/inv_jewelry_trinketpvp_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Insignia of the Alliance</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274444"><img class="wf-wh__icon" src="/wh/inv_jewelry_trinketpvp_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Insignia of the Horde</a> |
+| **3** | Sergeant | Sergeant | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=272698"><img class="wf-wh__icon" src="/wh/inv_misc_cape_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Sergeant's Cloak</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=272699"><img class="wf-wh__icon" src="/wh/inv_misc_cape_21.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Sergeant's Cape</a> |
+| **4** | Master Sergeant | Senior Sergeant | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274969"><img class="wf-wh__icon" src="/wh/inv_misc_monsterscales_09.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Master Sergeant's Insignia</a>, <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274968"><img class="wf-wh__icon" src="/wh/inv_misc_monsterscales_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Premier Senior Sergeant's Insignia</a> |
 | **5** | Sergeant Major | First Sergeant | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18841"><img class="wf-wh__icon" src="/wh/inv_potion_81.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Combat Mana Potion</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18839"><img class="wf-wh__icon" src="/wh/inv_potion_39.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Combat Healing Potion</a> |
 | **6** | Knight | Stone Guard | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=15198"><img class="wf-wh__icon" src="/wh/inv_misc_tabardpvp_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Knight's Colors</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=15199"><img class="wf-wh__icon" src="/wh/inv_misc_tabardpvp_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Stone Guard's Herald</a> |
 | **7** | Knight-Lieutenant | Blood Guard | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18606"><img class="wf-wh__icon" src="/wh/inv_bannerpvp_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Alliance Battle Standard</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=18607"><img class="wf-wh__icon" src="/wh/inv_bannerpvp_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horde Battle Standard</a> |
@@ -79,7 +89,7 @@ The PvP vendors sit in three places. Each city has a vendor for armor, weapons, 
 | Where | /way | Vendors |
 |---|---|---|
 | Champion's Hall, Old Town, Stormwind (Alliance) | 76.0 66.2 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12777">Captain Dirgehammer</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12782">Captain O'Neal</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12781">Master Sergeant Biggins</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12783">Lieutenant Karter</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12784">Lieutenant Jackspring</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12785">Sergeant Major Clate</a> |
-| Hall of Legends, Orgrimmar (Horde), on the upper level between the flight master and the Valley of Spirits | 40.6 68.5 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12792">Lady Palanseer</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14581">Sergeant Thunderhorn</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12793">Brave Stonehide</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12796">Raider Bork</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12795">First Sergeant Hola'mahi</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12794">Stone Guard Zarg</a> |
+| Hall of Legends, Orgrimmar (Horde), on the upper level between the flight master and the Valley of Spirits | 40.6 68.5 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12792">Lady Palanseer</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12799">Sergeant Ba'sha</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=14581">Sergeant Thunderhorn</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12793">Brave Stonehide</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12796">Raider Bork</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12795">First Sergeant Hola'mahi</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=12794">Stone Guard Zarg</a> |
 | The Underbelly, the sewers of Dalaran (both factions, /way on the Alterac Mountains map) | 16.1 70.6 | <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=30885">Blazik Fireclaw</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=32334">Nixi Fireclaw</a>, <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=32333">&quot;Dapper&quot; Danik Blackshaft</a> |
 
 Each classic battleground also has its own reputation and supply officer, near the portal to that battleground. They take Honor and the Marks of Honor of their battleground. The Darkspear Islands quartermasters are in the section below.
@@ -92,7 +102,7 @@ Each classic battleground also has its own reputation and supply officer, near t
 
 ## Battlegrounds and brackets
 
-Forever has four battlegrounds. You queue alone or as a group, but [premades only meet other premades](/news/solo-players-never-face-a-premade/). A win gives three Marks of Honor and bonus Honor, a loss one Mark. Battlegrounds can mix players from several [rulesets](/guides/rulesets/), but never Hardcore.
+Forever has four battlegrounds. You queue alone or as a group, but [premades only meet other premades](/news/solo-players-never-face-a-premade/). A win gives three Marks of Honor and bonus Honor, a loss one Mark. Battlegrounds can mix players from several [rulesets](/guides/rulesets/), but never Hardcore. Alterac Valley gives no Rank Points; the other three do, more for a win than a loss.
 
 | Battleground | Brackets |
 |---|---|
@@ -113,6 +123,8 @@ Talk to a battlemaster in a capital city, or walk to the entrance portal of the 
 | **Orgrimmar** | Valley of Honor | 79 30.5 |
 | **Undercity** | Around the throne room | 57 91 |
 | **Thunder Bluff** | Hunter Rise | 57 78 |
+| **Dalaran** | Near the center of the city | 16 66 |
+| **Thunder Bluff**, Arathi Basin | Pools of Vision, below Spirit Rise | 29 21 |
 
 ## Darkspear Islands
 

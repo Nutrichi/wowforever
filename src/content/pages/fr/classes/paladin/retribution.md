@@ -3,7 +3,7 @@ title: "Retribution Paladin dans WoW Forever : le guide"
 metaTitle: "WoW Forever Retribution Paladin : build, rotation et sceaux"
 description: "Le Retribution Paladin dans WoW Forever : le build niveau 60, la rotation avec Seal of Command, les Judgements, les bénédictions, les stats et les races."
 short: "Retribution Paladin"
-updated: 2026-11-22
+updated: 2026-11-24
 lang: fr
 manual: true
 faq:
@@ -135,7 +135,7 @@ Avant un combat, donnez à chacun la bonne bénédiction, et à tous sauf au tan
 
 ## Stats et équipement
 
-Au niveau 60, l’ordre est : compétence d’arme, dégâts et vitesse de l’arme, toucher jusqu’à 9 %, expertise jusqu’à 6,5 %, dégâts des sorts, Intelligence, Force, puissance d’attaque, Agilité, critique, Endurance. Ce que fait chaque stat :
+Au niveau 60, l’ordre est : toucher jusqu’à 8 % (17 % pour les sorts du Sacré), expertise jusqu’à 6,5 % (14 % si vous attaquez de face, contre les parades), critique, hâte, compétence d’arme, dégâts de l’arme, Force, dégâts des sorts, Agilité, Intelligence, puissance d’attaque, pénétration des sorts, Endurance. En puissance d’attaque, 1 % de toucher vaut environ 71, 1 % d’expertise 53, 1 % de critique 38 et 1 % de hâte 37. Ce que fait chaque stat :
 
 - **Le toucher**, pour que vos attaques et sorts portent. Judgement utilise vos chances de toucher à distance depuis le 11 novembre.
 - **Les chances de coup critique**, qui vont avec Conviction et Vengeance.
@@ -145,7 +145,7 @@ Au niveau 60, l’ordre est : compétence d’arme, dégâts et vitesse de l’a
 
 **Armure.** Regardez les stats, pas le type d'armure. Le cuir, voire le tissu, peut battre la plaque si les stats conviennent. À bas niveau, Blacksmithing est presque indispensable, car la plaque et les mailles avec puissance des sorts sont rares. Les donjons ont aussi de bonnes pièces.
 
-**Arme.** Une arme à deux mains lente avec beaucoup de dégâts, pour Seal of Command et Holy Strike.
+**Arme.** Une arme à deux mains lente avec beaucoup de dégâts, pour Seal of Command et Holy Strike. Avec le build Shockadin et Seal of Righteousness, prenez au contraire une arme à deux mains plus rapide.
 
 **Librams.** Les Paladins portent un libram dans l'emplacement à distance, avec un petit bonus passif. Choisissez-en un qui va avec vos sorts.
 

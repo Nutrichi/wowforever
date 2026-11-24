@@ -60,7 +60,7 @@ Twee builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 
 ### Raidbuild, 12/8/31
 
-12 punten in Assassination, 8 in Combat en 31 in Subtlety. [Open de raidbuild in de talentcalculator](/nl/talents/rogue/?t=00530301-320003-305230031321001151).
+12 punten in Assassination, 8 in Combat en 31 in Subtlety. [Open de raidbuild in de talentcalculator](/nl/talents/rogue/?t=00530301-320003-005233031321001151).
 
 | Talent | Punten |
 |---|---|
@@ -71,10 +71,10 @@ Twee builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
 | **Precision** | 3/3 |
-| **Setup** | 3/3 |
 | **Opportunity** | 5/5 |
 | **Dirty Deeds** | 2/2 |
 | **Camouflage** | 3/3 |
+| **Improved Ambush** | 3/3 |
 | **Initiative** | 3/3 |
 | **Premeditation** | 1/1 |
 | **Serrated Blades** | 3/3 |
@@ -87,7 +87,7 @@ Twee builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons
 
 De bleedbuild ruilt de grote Ambushes in voor Hemorrhage en een sterkere Rupture: [open de bleedbuild](/nl/talents/rogue/?t=015303-302003-332210231321001151).
 
-Een derde optie gebruikt Hemorrhage als builder met Seal Fate, Cold Blood en Relentless Strikes uit Assassination, zonder Death Mark (28/2/21). [Open hem in de talentcalculator](/nl/talents/rogue/?t=0053031121135102-02-0352000313210001).
+Een derde optie gebruikt Hemorrhage als builder met Seal Fate, Cold Blood en Relentless Strikes uit Assassination, zonder Death Mark (28/2/21). [Open hem in de talentcalculator](/nl/talents/rogue/?t=0053031121135102-02-0052030313210001).
 
 ### Levelbuild
 

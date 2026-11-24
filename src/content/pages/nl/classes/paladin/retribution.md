@@ -3,7 +3,7 @@ title: "Retribution Paladin in WoW Forever: de gids"
 metaTitle: "WoW Forever Retribution Paladin: build, rotatie en seals"
 description: "De Retribution Paladin in WoW Forever: de build voor level 60, de rotatie met Seal of Command, Judgements, blessings, stats en races."
 short: "Retribution Paladin"
-updated: 2026-11-22
+updated: 2026-11-24
 lang: nl
 manual: true
 faq:
@@ -135,7 +135,7 @@ Geef voor een gevecht iedereen de juiste blessing, en iedereen behalve de tank o
 
 ## Stats en gear
 
-Op level 60 is de volgorde: weapon skill, wapenschade en -snelheid, hit tot 9%, expertise tot 6,5%, spell damage, Intellect, Strength, attack power, Agility, critical strike chance, Stamina. Wat elke stat doet:
+Op level 60 is de volgorde: hit tot 8% (17% voor Holy-spells), expertise tot 6,5% (14% als je van voren aanvalt, tegen parries), critical strike chance, haste, weapon skill, wapenschade, Strength, spell damage, Agility, Intellect, attack power, spell penetration, Stamina. Omgerekend naar attack power is 1% hit zo'n 71 waard, 1% expertise 53, 1% critical strike 38 en 1% haste 37. Wat elke stat doet:
 
 - **Hit**, zodat je aanvallen en spells raken. Judgement gebruikt sinds 11 november je ranged hit chance.
 - **Critical strike chance**, die samenwerkt met Conviction en Vengeance.
@@ -145,7 +145,7 @@ Op level 60 is de volgorde: weapon skill, wapenschade en -snelheid, hit tot 9%, 
 
 **Armor.** Kijk naar de stats, niet naar het type. Leather of zelfs cloth kan beter zijn dan plate als de stats kloppen. Op lage levels is Blacksmithing bijna een must, want plate en mail met spell power zijn zeldzaam. Ook dungeons hebben goede stukken.
 
-**Wapen.** Een traag tweehandig wapen met hoge wapenschade, voor Seal of Command en Holy Strike.
+**Wapen.** Een traag tweehandig wapen met hoge wapenschade, voor Seal of Command en Holy Strike. Met de Shockadin-build en Seal of Righteousness kies je juist een sneller tweehandig wapen.
 
 **Librams.** Paladins dragen een libram in het ranged-slot, met een kleine passieve bonus. Kies er een die bij je spells past.
 

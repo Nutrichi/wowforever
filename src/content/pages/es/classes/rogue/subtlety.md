@@ -60,7 +60,7 @@ Dos builds, cada una con los 51 puntos de talento del nivel 60: una para bandas 
 
 ### Build de banda, 12/8/31
 
-12 puntos en Assassination, 8 en Combat y 31 en Subtlety. [Abre la build de banda en la calculadora de talentos](/es/talents/rogue/?t=00530301-320003-305230031321001151).
+12 puntos en Assassination, 8 en Combat y 31 en Subtlety. [Abre la build de banda en la calculadora de talentos](/es/talents/rogue/?t=00530301-320003-005233031321001151).
 
 | Talento | Puntos |
 |---|---|
@@ -71,10 +71,10 @@ Dos builds, cada una con los 51 puntos de talento del nivel 60: una para bandas 
 | **Coup de Grace** | 3/3 |
 | **Efficient Strikes** | 2/2 |
 | **Precision** | 3/3 |
-| **Setup** | 3/3 |
 | **Opportunity** | 5/5 |
 | **Dirty Deeds** | 2/2 |
 | **Camouflage** | 3/3 |
+| **Improved Ambush** | 3/3 |
 | **Initiative** | 3/3 |
 | **Premeditation** | 1/1 |
 | **Serrated Blades** | 3/3 |
@@ -87,7 +87,7 @@ Dos builds, cada una con los 51 puntos de talento del nivel 60: una para bandas 
 
 La build de sangrados cambia los grandes Ambush por Hemorrhage y un Rupture más fuerte: [abre la build de sangrados](/es/talents/rogue/?t=015303-302003-332210231321001151).
 
-Una tercera opción usa Hemorrhage como generador con Seal Fate, Cold Blood y Relentless Strikes de Assassination, sin Death Mark (28/2/21). [Ábrela en la calculadora de talentos](/es/talents/rogue/?t=0053031121135102-02-0352000313210001).
+Una tercera opción usa Hemorrhage como generador con Seal Fate, Cold Blood y Relentless Strikes de Assassination, sin Death Mark (28/2/21). [Ábrela en la calculadora de talentos](/es/talents/rogue/?t=0053031121135102-02-0052030313210001).
 
 ### Build para subir de nivel
 

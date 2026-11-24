@@ -5,7 +5,7 @@
  "spec": "restoration",
  "role": "Healer",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -256,7 +256,7 @@
     },
     {
      "name": "Lorespinner",
-     "source": "Reward from the quest Lethtendris's Web in East"
+     "source": "Reward from the quest Lethtendris's Web"
     },
     {
      "name": "Masterwork Crimson Hammer",

@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Mise à jour du 24 novembre :** le butin est revenu avec les hotfixes du 23 novembre, mais chaque objet se vend moitié moins cher. Le Pendulum of Doom peut de nouveau être fabriqué. Plus de détails dans [notre article](/fr/news/obsidian-sentinel-drops-loot-again-at-half-price/).
+
 L'<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7023">Obsidian Sentinel</a> d'[Uldaman](/fr/guides/dungeons/uldaman/) ne lâche plus d'objets bleus dans World of Warcraft: Forever. Blizzard n'en a pas parlé dans un post de hotfix, mais le boss a perdu toute sa table de butin ces derniers jours.
 
 ## Pourquoi on le farmait

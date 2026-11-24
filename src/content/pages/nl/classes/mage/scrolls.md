@@ -3,7 +3,7 @@ title: "Mage-scrolls en Comprehension in WoW Forever"
 metaTitle: "WoW Forever Mage-scrolls: Comprehension, Study en alle 28 scrolls"
 description: "Zo werken Mage-scrolls in WoW Forever: Comprehend Scroll op level 6, de skill Comprehension, Study met een Light Feather in een bibliotheek, en alle 28 scrolls in vier tiers."
 short: "Mage-scrolls"
-updated: 2026-11-12
+updated: 2026-11-24
 lang: nl
 manual: true
 faq:
@@ -77,7 +77,7 @@ Deze lees je zodra je Comprehension hebt.
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277488"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Iceknife</a> | Dolk: bevriest het doelwit soms bij een treffer, 1 uur |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277489"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Spark</a> | Zwaard: Fire Blast reset soms als je in melee geraakt wordt, 1 uur |
 | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=277486"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color4.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of Imbue Striking</a> | Staf: schiet soms een Arcane Missile op doelwitten die je met een spell raakt, 1 uur |
-| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Maakt van de Blade of Silverlaine een sterker wapen |
+| <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=277490"><img class="wf-wh__icon" src="/wh/inv_10_inscription2_repcontracts_scroll_02_uprez_color5.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Scroll of the Saber</a> | Maakt van de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=273637"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blade of Silverlaine</a> de <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=276631"><img class="wf-wh__icon" src="/wh/inv_sword_05.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Coldflame Saber</a> ([zo werkt het](/nl/news/mages-turn-the-blade-of-silverlaine-into-a-coldflame-saber/)) |
 
 ## Scrolls van tier 3: skill 50, level 25
 

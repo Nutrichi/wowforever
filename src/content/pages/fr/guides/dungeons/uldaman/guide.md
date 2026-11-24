@@ -3,7 +3,7 @@ title: "Uldaman"
 metaTitle: "Guide d’Uldaman pour WoW Forever : parcours, trash et boss"
 description: "Comment faire Uldaman dans WoW Forever : l’accès par les Badlands, le Shaft of Tsol et le Gni'kiv Medallion pour Ironaya, les gardiens de pierre et les huit boss jusqu’à Archaedas."
 short: "Guide"
-updated: 2026-11-23
+updated: 2026-11-24
 lang: fr
 manual: true
 sources:
@@ -56,7 +56,7 @@ Beaucoup d’armure, beaucoup de vie et insensible aux dégâts sur la durée. K
 
 Une version boss des Stone Stewards. Il renvoie les sorts et appelle des Obsidian Shards à 66 % et 33 % de vie. Tuez d’abord les éclats, puis revenez sur la Sentinel.
 
-Depuis un hotfix en novembre, il ne lâche plus d'objets bleus, donc l'<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274485"><img class="wf-wh__icon" src="/wh/inv_axe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Lingering Dread</a> pour le <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9425"><img class="wf-wh__icon" src="/wh/inv_weapon_halberd_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pendulum of Doom</a> est introuvable. Voir [notre article](/fr/news/obsidian-sentinel-in-uldaman-drops-no-more-loot/).
+Depuis les hotfixes du 23 novembre, il lâche de nouveau ses objets bleus, donc l'<a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274485"><img class="wf-wh__icon" src="/wh/inv_axe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Lingering Dread</a> pour le <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9425"><img class="wf-wh__icon" src="/wh/inv_weapon_halberd_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pendulum of Doom</a> est de retour. Chez un marchand, ils se vendent moitié moins cher qu'avant. Voir [notre article](/fr/news/obsidian-sentinel-drops-loot-again-at-half-price/).
 
 ### Ancient Stone Keeper
 

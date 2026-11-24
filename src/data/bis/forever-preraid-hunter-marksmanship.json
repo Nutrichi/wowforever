@@ -5,7 +5,7 @@
  "spec": "marksmanship",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -55,8 +55,8 @@
      "source": "Creeg Bothunk (The Barrens), Darkspear Raiders (Exalted)"
     },
     {
-     "name": "Shadowcraft Spaulders",
-     "source": "Cannon Master Willey (Stratholme) Black Market"
+     "name": "Bone Golem Shoulders",
+     "source": "Rattlegore (Scholomance)"
     }
    ]
   },
@@ -150,7 +150,7 @@
     },
     {
      "name": "Plaguehound Leggings",
-     "source": "Source not listed yet"
+     "source": "Trash in Stratholme"
     },
     {
      "name": "Legguards of the Chromatic Defier",
@@ -183,12 +183,12 @@
      "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
-     "name": "Blackstone Ring",
-     "source": "Princess Theradras (Maraudon)"
-    },
-    {
      "name": "Channeler's Ring",
      "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras (Maraudon)"
     }
    ]
   },
@@ -200,12 +200,12 @@
      "source": "Zone Drop (Dire Maul)"
     },
     {
-     "name": "Blackstone Ring",
-     "source": "Princess Theradras (Maraudon)"
-    },
-    {
      "name": "Channeler's Ring",
      "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras (Maraudon)"
     }
    ]
   },
@@ -248,7 +248,7 @@
    "items": [
     {
      "name": "Shadowblade",
-     "source": "Source not listed yet"
+     "source": "World drop"
     },
     {
      "name": "Tooth of the Matriarch",
@@ -278,11 +278,11 @@
    "items": [
     {
      "name": "Dwarven Hand Cannon",
-     "source": "Source not listed yet"
+     "source": "World drop"
     },
     {
      "name": "Hawkeye Bow",
-     "source": "Source not listed yet"
+     "source": "World drop"
     }
    ]
   }

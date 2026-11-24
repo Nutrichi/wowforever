@@ -12,6 +12,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 24 November:** The loot is back since the hotfixes of 23 November, but every item sells for half. The Pendulum of Doom can be made again. More in [our post](/news/obsidian-sentinel-drops-loot-again-at-half-price/).
+
 The <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7023">Obsidian Sentinel</a> in [Uldaman](/guides/dungeons/uldaman/) no longer drops blue gear in World of Warcraft: Forever. Blizzard did not mention it in a hotfix post, but the boss lost its whole loot table in the last few days.
 
 ## Why it was farmed

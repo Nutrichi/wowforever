@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 24 november:** De buit is terug sinds de hotfixes van 23 november, maar elk item verkoopt voor de helft. De Pendulum of Doom kun je weer maken. Meer in [onze post](/nl/news/obsidian-sentinel-drops-loot-again-at-half-price/).
+
 De <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7023">Obsidian Sentinel</a> in [Uldaman](/nl/guides/dungeons/uldaman/) laat in World of Warcraft: Forever geen blauwe items meer vallen. Blizzard meldde het niet in een hotfixpost, maar de baas verloor de voorbije dagen zijn hele buittabel.
 
 ## Waarom hij gefarmd werd

@@ -3,7 +3,7 @@ title: "Uldaman"
 metaTitle: "Uldaman guide for WoW Forever: route, trash and bosses"
 description: "How to run Uldaman in WoW Forever: the way in from the Badlands, the Shaft of Tsol and the Gni'kiv Medallion for Ironaya, the stone guardians and all eight bosses up to Archaedas."
 short: "Guide"
-updated: 2026-11-23
+updated: 2026-11-24
 lang: en
 sources:
   - name: "Warcraft Tavern, the dungeon guide"
@@ -55,7 +55,7 @@ High armor, a lot of health and immune to damage over time. Knock Away throws th
 
 A boss version of the Stone Stewards. He reflects spells, and at 66% and 33% health he calls Obsidian Shards. Kill the shards first, then return to the Sentinel.
 
-Since a hotfix in November he drops no blue items, so the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274485"><img class="wf-wh__icon" src="/wh/inv_axe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Lingering Dread</a> for the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9425"><img class="wf-wh__icon" src="/wh/inv_weapon_halberd_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pendulum of Doom</a> cannot be had. See [our post](/news/obsidian-sentinel-in-uldaman-drops-no-more-loot/).
+Since the hotfixes of 23 November he drops his blue items again, so the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=274485"><img class="wf-wh__icon" src="/wh/inv_axe_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Axe of Lingering Dread</a> for the <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=9425"><img class="wf-wh__icon" src="/wh/inv_weapon_halberd_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Pendulum of Doom</a> is back. They sell to a vendor for half of what they used to. See [our post](/news/obsidian-sentinel-drops-loot-again-at-half-price/).
 
 ### Ancient Stone Keeper
 

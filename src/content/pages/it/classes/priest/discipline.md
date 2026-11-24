@@ -94,7 +94,7 @@ La build per livellare prende prima i talenti che aiutano a uccidere da soli. [A
 
 ### Build PvP, 29/17/5
 
-La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel calcolatore di talenti](/it/talents/priest/?t=0053002013332115-320501320001-05).
+La build PvP scambia danni con controllo e sopravvivenza. [Apri la build PvP nel calcolatore di talenti](/it/talents/priest/?t=0053002013332115-320500330001-05).
 
 ## Cosa fanno i talenti chiave
 

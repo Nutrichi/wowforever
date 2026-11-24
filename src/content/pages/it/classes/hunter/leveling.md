@@ -3,7 +3,7 @@ title: "Livellare un Hunter in WoW Forever: la guida"
 metaTitle: "Guida al leveling dell’Hunter in WoW Forever: build fino al 60"
 description: "Come livellare un Hunter in WoW Forever: i primi livelli, build di livello 60 per Beast Mastery, Marksmanship e Survival, la rotazione, i livelli chiave, la missione di addomesticamento, armi, equipaggiamento, professioni, famigli, trappole, tracciamento e Aspect."
 short: "Leveling Hunter"
-updated: 2026-11-19
+updated: 2026-11-24
 lang: it
 manual: true
 faq:
@@ -133,7 +133,7 @@ Un Hunter può usare più tipi di armi di qualsiasi altra classe. La maggior par
 
 | Arma | Alleanza | Orda |
 |---|---|---|
-| **Daggers** | Note dall’inizio | Note dall’inizio |
+| **Daggers** | Ilyenia Moonfire (Darnassus), Bixi Wobblebonk (Ironforge), Woo Ping (Stormwind) | Sayoc (Orgrimmar), Archibald (Undercity) |
 | **Axes a una e due mani** | Buliwyf Stonehand (Ironforge) | Hanashi, Sayoc (Orgrimmar) |
 | **Swords a una e due mani** | Woo Ping (Stormwind) | Archibald (Undercity) |
 | **Fist weapons** | Ilyenia Moonfire (Darnassus), Buliwyf Stonehand (Ironforge) | Sayoc (Orgrimmar) |

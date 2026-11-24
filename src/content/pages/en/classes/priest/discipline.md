@@ -93,7 +93,7 @@ The leveling build takes the talents that help you kill alone first. [Open it in
 
 ### PvP build, 29/17/5
 
-The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/priest/?t=0053002013332115-320501320001-05).
+The PvP build trades damage for control and survival. [Open the PvP build in the talent calculator](/talents/priest/?t=0053002013332115-320500330001-05).
 
 ## What the key talents do
 

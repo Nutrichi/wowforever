@@ -69,7 +69,7 @@ La [calculadora de talentos](/es/talents/priest/) tiene los árboles del Priest 
 |---|---|
 | **Holy** | [Lista BiS](/es/bis/forever/preraid/priest-holy/) |
 | **Shadow** | [Lista BiS](/es/bis/forever/preraid/priest-shadow/) |
-| **Discipline** | Próximamente |
+| **Discipline** | [Lista BiS](/es/bis/forever/preraid/priest-discipline/) |
 
 Cada lista muestra la fecha de su última actualización. Todas las listas de cada clase están en la [página de BiS](/es/bis/).
 

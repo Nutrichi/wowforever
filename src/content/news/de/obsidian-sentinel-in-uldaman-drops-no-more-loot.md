@@ -13,6 +13,8 @@ tags: ["forever", "dungeon"]
 featured: false
 draft: false
 ---
+> **Update 24. November:** Die Beute ist seit den Hotfixes vom 23. November zurück, aber jedes Item bringt nur noch die Hälfte. Der Pendulum of Doom lässt sich wieder herstellen. Mehr in [unserem Beitrag](/de/news/obsidian-sentinel-drops-loot-again-at-half-price/).
+
 Der <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7023">Obsidian Sentinel</a> in [Uldaman](/de/guides/dungeons/uldaman/) lässt in World of Warcraft: Forever keine blauen Items mehr fallen. Blizzard hat es in keinem Hotfix-Beitrag erwähnt, aber der Boss hat in den letzten Tagen seine ganze Beutetabelle verloren.
 
 ## Warum er gefarmt wurde

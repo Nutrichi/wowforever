@@ -68,7 +68,7 @@ The [talent calculator](/talents/priest/) has the Priest trees of WoW Forever. E
 |---|---|
 | **Holy** | [BiS list](/bis/forever/preraid/priest-holy/) |
 | **Shadow** | [BiS list](/bis/forever/preraid/priest-shadow/) |
-| **Discipline** | Coming soon |
+| **Discipline** | [BiS list](/bis/forever/preraid/priest-discipline/) |
 
 Every list shows the date of its last update. All lists for every class are on the [BiS page](/bis/).
 

@@ -94,7 +94,7 @@ Le build de leveling prend d’abord les talents qui aident à tuer seul. [L’o
 
 ### Build PvP, 29/17/5
 
-Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/priest/?t=0053002013332115-320501320001-05).
+Le build PvP échange des dégâts contre du contrôle et de la survie. [Ouvrir le build PvP dans le calculateur de talents](/fr/talents/priest/?t=0053002013332115-320500330001-05).
 
 ## Ce que font les talents clés
 
