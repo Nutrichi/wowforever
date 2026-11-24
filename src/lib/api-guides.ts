@@ -37,6 +37,8 @@ export async function getGuides(locale: Locale): Promise<SitePage[]> {
 export function guidePath(page: SitePage): string {
   const old = oldIdOf.get(page.key);
   if (old) return old;
+  // A class guide without an old id (class-quests, protection paladin): drop the `classes/` prefix.
+  if (page.key.startsWith('classes/')) return page.key.slice('classes/'.length);
   return page.key.slice('guides/'.length);
 }
 

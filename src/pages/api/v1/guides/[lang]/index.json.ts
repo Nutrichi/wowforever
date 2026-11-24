@@ -8,16 +8,17 @@
  * `hub` is de indeling van de hub /guides/ (lib/guides-hub.ts): Onlangs
  * bijgewerkt, de categorieën met hun kaarten in de volgorde van de site, en de
  * levelband van de dungeons. Kaarten naar een sectie buiten /guides/ (Routes,
- * Classes, Tradeskills, Reputations) staan er niet in: de app linkt niet naar
+ * Tradeskills, Reputations) staan er niet in: de app linkt niet naar
  * de site als hoofdhandeling (AFSPRAKEN.md §16 en §17 van de app). Het veld is
  * nieuw op 10 oktober 2026 en optioneel; een app zonder kent de lijst `guides`.
+ * Classes wel (24 november 2026): één kaart per class met zijn gidsen als delen.
  */
 
 import type { APIRoute, GetStaticPaths } from 'astro';
 import { getImage } from 'astro:assets';
 import { locales, type Locale } from '../../../../../i18n/ui';
 import { jsonResponse } from '../../../../../lib/api-feed';
-import { GUIDES_SCHEMA, channelUrl, getGuides, guideSummary } from '../../../../../lib/api-guides';
+import { GUIDES_SCHEMA, channelUrl, getGuides, guidePath, guideSummary } from '../../../../../lib/api-guides';
 import { hubDungeons, type HubCard } from '../../../../../config/guides-hub';
 import { hubImageOf, hubImageWidths, hubModel, isExternalCard } from '../../../../../lib/guides-hub';
 import { hubBlurbs, hubT } from '../../../../../i18n/guides-hub';
@@ -39,7 +40,30 @@ async function imageUrls(file: string | undefined, widths: number[], site: URL) 
 async function hub(lang: Locale, site: URL) {
   const t = hubT(lang);
   const blurbs = hubBlurbs[lang];
-  const { pageOf, categories, recent } = await hubModel(lang);
+  const { pages, pageOf, categories, recent } = await hubModel(lang);
+  const guides = await getGuides(lang);
+
+  /*
+   * The class guides (since 18 November 2026 under /classes/<class>/) are not on the
+   * hub of the site, but the app has no class pages: one card per class, with its
+   * guides as parts (leveling first), like the Skyborne series.
+   */
+  const classCard = async (c: HubCard) => {
+    const cls = c.key.slice('/classes/'.length);
+    const own = guides.filter((page) => page.key.startsWith(`classes/${cls}/`));
+    own.sort((a, b) => Number(b.key.endsWith('/leveling')) - Number(a.key.endsWith('/leveling')));
+    if (!own.length) return null;
+    const parts = own.map(guidePath);
+    return {
+      id: parts[0],
+      parts,
+      title: pages.find((page) => page.key === `classes/${cls}`)?.short ?? cls,
+      blurb: null,
+      levels: null,
+      isNew: false,
+      image: await imageUrls(c.image, hubImageWidths.card, site),
+    };
+  };
 
   const card = async (c: HubCard, widths = hubImageWidths.card) => ({
     /* Het pad onder /guides/, zoals in `guides`; bij een reeks het eerste deel. */
@@ -58,11 +82,15 @@ async function hub(lang: Locale, site: URL) {
     recent: await Promise.all(recent.map(({ card: c, updated }) =>
       card(c, hubImageWidths.recent).then((out) => ({ ...out, updated: updated.toISOString().slice(0, 10) })))),
     categories: await Promise.all(categories
-      .filter((category) => !category.external)
+      .filter((category) => !category.external || category.key === 'classes')
       .map(async (category) => ({
         key: category.key,
         title: t(`c_${category.key}` as Parameters<typeof t>[0]),
-        cards: await Promise.all(category.cards.filter((c) => !isExternalCard(c)).map((c) => card(c))),
+        cards: category.key === 'classes'
+          ? (await Promise.all(category.cards.map((c) =>
+            /^\/classes\/[\w-]+$/.test(c.key) ? classCard(c) : isExternalCard(c) ? null : card(c))))
+            .filter((c) => c !== null)
+          : await Promise.all(category.cards.filter((c) => !isExternalCard(c)).map((c) => card(c))),
       }))),
     dungeons: hubDungeons.map((d) => ({
       name: d.name,
