@@ -1,0 +1,265 @@
+{
+ "expansion": "forever",
+ "phase": "preraid",
+ "class": "druid",
+ "spec": "feral-tank",
+ "role": "Tank",
+ "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
+ "updated": "2026-11-25",
+ "enchants": [],
+ "gems": [],
+ "slots": [
+  {
+   "slot": "Head",
+   "items": [
+    {
+     "name": "Feralheart Faceguard",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Warbear Helm",
+     "source": "Crafted"
+    },
+    {
+     "name": "Mask of the Unforgiven",
+     "source": "The Unforgiven"
+    }
+   ]
+  },
+  {
+   "slot": "Neck",
+   "items": [
+    {
+     "name": "Horn of Ve'han",
+     "source": "Reward from the quest Work Well Done"
+    },
+    {
+     "name": "Amulet of the Darkmoon",
+     "source": "Reward from the quest 1200 Tickets - Amulet of the Darkmoon"
+    },
+    {
+     "name": "Beads of Ogre Might",
+     "source": "Reward from the quest Falrin's Vendetta (Tier 0.5 quest chain)"
+    }
+   ]
+  },
+  {
+   "slot": "Shoulders",
+   "items": [
+    {
+     "name": "Feralheart Pauldrons",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Atal'ai Spaulders",
+     "source": "The Temple of Atal'Hakkar Balcony Bosses"
+    }
+   ]
+  },
+  {
+   "slot": "Back",
+   "items": [
+    {
+     "name": "Stalwart Cloak",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
+     "name": "Howler's Furs",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    }
+   ]
+  },
+  {
+   "slot": "Chest",
+   "items": [
+    {
+     "name": "Feralheart Armor",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Timbermaw Tunic",
+     "source": "Crafted"
+    },
+    {
+     "name": "Songbird Blouse",
+     "source": "Hearthsinger Forresten"
+    }
+   ]
+  },
+  {
+   "slot": "Wrists",
+   "items": [
+    {
+     "name": "Feralheart Wristguards",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Blackmist Armguards",
+     "source": "The Beast"
+    }
+   ]
+  },
+  {
+   "slot": "Hands",
+   "items": [
+    {
+     "name": "Slaghide Gauntlets",
+     "source": "Urok Doomhowl"
+    },
+    {
+     "name": "Warden's Leather Gauntlets",
+     "source": "Crafted"
+    },
+    {
+     "name": "Feralheart Grips",
+     "source": "T0.5 Questline"
+    }
+   ]
+  },
+  {
+   "slot": "Waist",
+   "items": [
+    {
+     "name": "Dinosaur Hide Belt",
+     "source": "The Shaper's Terrace (Zone Drop BOE)"
+    },
+    {
+     "name": "Warden's Leather Waistguard",
+     "source": "Crafted"
+    },
+    {
+     "name": "Cloudrunner Girdle",
+     "source": "Quartermaster Zigris"
+    }
+   ]
+  },
+  {
+   "slot": "Legs",
+   "items": [
+    {
+     "name": "Feralheart Legguards",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Outrider's Lizardhide Pants",
+     "source": "Warsong Outriders (Exalted) Silverwing Sentinels (Exalted)"
+    },
+    {
+     "name": "Warbear Woolies",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Feet",
+   "items": [
+    {
+     "name": "Feralheart Treads",
+     "source": "T0.5 Questline"
+    },
+    {
+     "name": "Warden's Leather Boots",
+     "source": "Crafted"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 1",
+   "items": [
+    {
+     "name": "Ring of Protection",
+     "source": "Reward from the quest Hidden Treasures"
+    },
+    {
+     "name": "Thrall's Resolve",
+     "source": "Reward from the quest The Princess Saved?"
+    },
+    {
+     "name": "Band of Flesh",
+     "source": "Ramstein the Gorger"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Ouroboros Ring",
+     "source": "Reward from the quest Blackmaw Reclamation"
+    },
+    {
+     "name": "Thrall's Resolve",
+     "source": "Reward from the quest The Princess Saved?"
+    },
+    {
+     "name": "Band of Flesh",
+     "source": "Ramstein the Gorger"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 1",
+   "items": [
+    {
+     "name": "Adaptive Combat Assistant",
+     "source": "Reals vendor in Booty Bay (125 Reals)"
+    },
+    {
+     "name": "Glimmering Mithril Insignia",
+     "source": "Reward from the quest Did You Lose This? in Blacksmithing"
+    },
+    {
+     "name": "Mark of Tyranny",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    }
+   ]
+  },
+  {
+   "slot": "Trinket 2",
+   "items": [
+    {
+     "name": "Defiler's Talisman",
+     "source": "The Defilers The League of Arathor"
+    },
+    {
+     "name": "Glimmering Mithril Insignia",
+     "source": "Reward from the quest Did You Lose This? in Blacksmithing"
+    },
+    {
+     "name": "Mark of Tyranny",
+     "source": "Reward from the quest For The Horde! or General Drakkisath's Demise"
+    }
+   ]
+  },
+  {
+   "slot": "Two-Hand",
+   "items": [
+    {
+     "name": "Manual Crowd Pummeler",
+     "source": "Crowd Pummeler 9-60"
+    },
+    {
+     "name": "Unyielding Maul",
+     "source": "Gordok Tribute"
+    },
+    {
+     "name": "Tuskblade Halberd",
+     "source": "Bonesnout the Unbroken"
+    }
+   ]
+  },
+  {
+   "slot": "Idol",
+   "items": [
+    {
+     "name": "Idol of Brutality",
+     "source": "Magistrate Barthilas"
+    },
+    {
+     "name": "Enraged Idol",
+     "source": "Reals vendor in Booty Bay (50 Reals)"
+    }
+   ]
+  }
+ ]
+}

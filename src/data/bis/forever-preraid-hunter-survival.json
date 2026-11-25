@@ -5,7 +5,7 @@
  "spec": "survival",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-19",
+ "updated": "2026-11-24",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -31,7 +31,7 @@
     },
     {
      "name": "Amulet of the Darkmoon",
-     "source": "Darkmoon Faire (1200 tickets)"
+     "source": "1200 Tickets in Amulet of the Darkmoon Gelvas Grimegate"
     },
     {
      "name": "Beads of Ogre Might",
@@ -44,11 +44,15 @@
    "items": [
     {
      "name": "Darkspear Epaulets",
-     "source": "Creeg Bothunk (The Barrens), Darkspear Raiders (Exalted)"
+     "source": "Creeg Bothunk (The Barrens), Darkspear Raiders (Exalted) {money:189616}"
     },
     {
-     "name": "Bone Golem Shoulders",
-     "source": "Rattlegore (Scholomance)"
+     "name": "Theramore Epaulets",
+     "source": "Bryanna Embreeze (The Barrens), Theramore Expeditionary Force: Requires Exalted, {money:172601}"
+    },
+    {
+     "name": "Stratholme Militia Shoulderguard",
+     "source": "Zone Drop (Stratholme)"
     }
    ]
   },
@@ -61,7 +65,7 @@
     },
     {
      "name": "Howler's Furs",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
+     "source": "Pix Xizzix (Stranglethorn Vale)"
     },
     {
      "name": "Heliotrope Cloak",
@@ -75,14 +79,6 @@
     {
      "name": "Dawn Armor",
      "source": "Crafted with Leatherworking"
-    },
-    {
-     "name": "Beastmaster's Tunic",
-     "source": "Quest"
-    },
-    {
-     "name": "Timbermaw Tunic",
-     "source": "Crafted with Leatherworking"
     }
    ]
   },
@@ -95,11 +91,11 @@
     },
     {
      "name": "Beastmaster's Bindings",
-     "source": "Quest Vendor"
+     "source": "Quest Vendor: {money:250000}"
     },
     {
-     "name": "Satyrhide Armbands",
-     "source": "Quest (Dire Maul)"
+     "name": "Deepfury Bracers",
+     "source": "World drop"
     }
    ]
   },
@@ -113,10 +109,6 @@
     {
      "name": "Voone's Vice Grips",
      "source": "Quest (Blackrock Spire)"
-    },
-    {
-     "name": "Gauntlets of Accuracy",
-     "source": "Illyanna Ravenoak (Dire Maul)"
     }
    ]
   },
@@ -125,15 +117,15 @@
    "items": [
     {
      "name": "Ranger's Belt",
-     "source": "Reals vendor in Booty Bay (100 Reals)"
-    },
-    {
-     "name": "Marksman's Girdle",
-     "source": "Urok Doomhowl (Blackrock Spire)"
+     "source": "Pix Xizzix (Stranglethorn Vale)"
     },
     {
      "name": "Defiler's Chain Girdle",
-     "source": "Rutherford Twing (Arathi Highlands), The Defilers (Honored)"
+     "source": "Rutherford Twing (Arathi Highlands), The Defilers: Requires Honored, {money:79684}"
+    },
+    {
+     "name": "Highlander's Chain Girdle",
+     "source": "Samuel Hawke (Arathi Highlands), The League of Arathor: Requires Honored, {money:88066}"
     }
    ]
   },
@@ -166,8 +158,8 @@
      "source": "Kirtonos the Herald (Scholomance)"
     },
     {
-     "name": "Bloodmail Boots",
-     "source": "Zone Drop (Scholomance)"
+     "name": "Scalegut Treaders",
+     "source": "Crafted with Leatherworking"
     }
    ]
   },
@@ -176,11 +168,11 @@
    "items": [
     {
      "name": "Cutthroat's Signet",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
+     "source": "Pix Xizzix (Stranglethorn Vale)"
     },
     {
      "name": "Channeler's Ring",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
+     "source": "Pix Xizzix (Stranglethorn Vale)"
     },
     {
      "name": "Blackstone Ring",
@@ -197,7 +189,7 @@
     },
     {
      "name": "Channeler's Ring",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
+     "source": "Pix Xizzix (Stranglethorn Vale)"
     },
     {
      "name": "Blackstone Ring",
@@ -213,12 +205,12 @@
      "source": "Overlord Wyrmthalak (Blackrock Spire)"
     },
     {
-     "name": "Rune of the Guard Captain",
-     "source": "Job Opening: Guard Captain of Revantusk Village (The Hinterlands) Primal Torntusk (The Hinterlands)"
+     "name": "Highborne Research Tablet",
+     "source": "Reward from the quest Your Final Reward"
     },
     {
-     "name": "Adaptive Combat Assistant",
-     "source": "Reals vendor in Booty Bay (125 Reals)"
+     "name": "Blackhand's Breadth",
+     "source": "Quest (Blackrock Spire)"
     }
    ]
   },
@@ -230,12 +222,12 @@
      "source": "Reward from the quest Darkmoon Elementals Deck"
     },
     {
-     "name": "Rune of the Guard Captain",
-     "source": "Job Opening: Guard Captain of Revantusk Village (The Hinterlands) Primal Torntusk (The Hinterlands)"
+     "name": "Highborne Research Tablet",
+     "source": "Reward from the quest Your Final Reward"
     },
     {
-     "name": "Adaptive Combat Assistant",
-     "source": "Reals vendor in Booty Bay (125 Reals)"
+     "name": "Blackhand's Breadth",
+     "source": "Quest (Blackrock Spire)"
     }
    ]
   },
@@ -264,12 +256,12 @@
      "source": "Prince Tortheldrin (Dire Maul)"
     },
     {
-     "name": "Alcor's Sunrazor",
-     "source": "World drop"
-    },
-    {
      "name": "Bonescraper",
      "source": "Baron Rivendare (Stratholme)"
+    },
+    {
+     "name": "Alcor's Sunrazor",
+     "source": "Blackhand Assassin (Blackrock Spire)"
     }
    ]
   },
@@ -281,12 +273,12 @@
      "source": "Zevrim Thornhoof (Dire Maul)"
     },
     {
-     "name": "Riphook",
+     "name": "Blackcrow",
      "source": "Shadow Hunter Vosh'gajin (Blackrock Spire)"
     },
     {
-     "name": "Archstrike Bow",
-     "source": "World drop"
+     "name": "Deep Jungle Rifle",
+     "source": "Thunderhoof (The Shaper's Terrace)"
     }
    ]
   }

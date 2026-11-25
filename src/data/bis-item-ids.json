@@ -30978,7 +30978,7 @@
     },
     "Ironbark Staff": {
       "kind": "item",
-      "id": 20220,
+      "id": 20069,
       "icon": "inv_wand_04",
       "quality": 4
     },
@@ -31242,7 +31242,7 @@
     },
     "Royal Seal of Eldre'Thalas": {
       "kind": "item",
-      "id": 18467,
+      "id": 18470,
       "icon": "inv_jewelry_talisman_10",
       "quality": 3
     },
@@ -31314,7 +31314,7 @@
     },
     "Beastmaster's Cap": {
       "kind": "item",
-      "id": 226887,
+      "id": 22013,
       "icon": "inv_helmet_24",
       "quality": 4
     },
@@ -31374,7 +31374,7 @@
     },
     "Beastmaster's Bindings": {
       "kind": "item",
-      "id": 22011,
+      "id": 226885,
       "icon": "inv_bracer_17",
       "quality": 3
     },
@@ -31632,7 +31632,7 @@
     },
     "Dryad's Wrist Bindings": {
       "kind": "item",
-      "id": 19595,
+      "id": 19596,
       "icon": "inv_bracer_13",
       "quality": 4
     },
@@ -31830,7 +31830,7 @@
     },
     "Soulforge Breastplate": {
       "kind": "item",
-      "id": 22089,
+      "id": 226973,
       "icon": "inv_chest_plate03",
       "quality": 4
     },
@@ -31848,7 +31848,7 @@
     },
     "Soulforge Bracers": {
       "kind": "item",
-      "id": 22088,
+      "id": 226970,
       "icon": "inv_bracer_14",
       "quality": 3
     },
@@ -34286,6 +34286,192 @@
       "kind": "item",
       "id": 254113,
       "icon": "inv_boots_05",
+      "quality": 3
+    },
+    "Feralheart Faceguard": {
+      "kind": "item",
+      "id": 226801,
+      "icon": "inv_helmet_27",
+      "quality": 4
+    },
+    "Warbear Helm": {
+      "kind": "item",
+      "id": 252485,
+      "icon": "inv_helmet_31",
+      "quality": 4
+    },
+    "Feralheart Pauldrons": {
+      "kind": "item",
+      "id": 226798,
+      "icon": "inv_shoulder_01",
+      "quality": 3
+    },
+    "Atal'ai Spaulders": {
+      "kind": "item",
+      "id": 10783,
+      "icon": "inv_shoulder_18",
+      "quality": 3
+    },
+    "Feralheart Armor": {
+      "kind": "item",
+      "id": 226804,
+      "icon": "inv_chest_plate06",
+      "quality": 4
+    },
+    "Songbird Blouse": {
+      "kind": "item",
+      "id": 13378,
+      "icon": "inv_chest_cloth_38",
+      "quality": 3
+    },
+    "Feralheart Wristguards": {
+      "kind": "item",
+      "id": 226796,
+      "icon": "inv_bracer_09",
+      "quality": 3
+    },
+    "Warden's Leather Gauntlets": {
+      "kind": "item",
+      "id": 252549,
+      "icon": "inv_gauntlets_21",
+      "quality": 3
+    },
+    "Feralheart Grips": {
+      "kind": "item",
+      "id": 226802,
+      "icon": "inv_gauntlets_17",
+      "quality": 4
+    },
+    "Dinosaur Hide Belt": {
+      "kind": "item",
+      "id": 287040,
+      "icon": "inv_belt_09",
+      "quality": 3
+    },
+    "Warden's Leather Waistguard": {
+      "kind": "item",
+      "id": 252475,
+      "icon": "inv_belt_04",
+      "quality": 3
+    },
+    "Feralheart Legguards": {
+      "kind": "item",
+      "id": 226799,
+      "icon": "inv_pants_08",
+      "quality": 3
+    },
+    "Outrider's Lizardhide Pants": {
+      "kind": "item",
+      "id": 22741,
+      "icon": "inv_pants_06",
+      "quality": 4
+    },
+    "Feralheart Treads": {
+      "kind": "item",
+      "id": 226803,
+      "icon": "inv_boots_08",
+      "quality": 4
+    },
+    "Warden's Leather Boots": {
+      "kind": "item",
+      "id": 252470,
+      "icon": "inv_boots_04",
+      "quality": 3
+    },
+    "Ring of Protection": {
+      "kind": "item",
+      "id": 15855,
+      "icon": "inv_jewelry_ring_26",
+      "quality": 3
+    },
+    "Thrall's Resolve": {
+      "kind": "item",
+      "id": 12544,
+      "icon": "inv_jewelry_ring_05",
+      "quality": 3
+    },
+    "Band of Flesh": {
+      "kind": "item",
+      "id": 13373,
+      "icon": "inv_misc_bone_04",
+      "quality": 3
+    },
+    "Ouroboros Ring": {
+      "kind": "item",
+      "id": 260216,
+      "icon": "inv_jewelry_ring_40",
+      "quality": 3
+    },
+    "Idol of Brutality": {
+      "kind": "item",
+      "id": 23198,
+      "icon": "inv_relics_idolofferocity",
+      "quality": 3
+    },
+    "Enraged Idol": {
+      "kind": "item",
+      "id": 272428,
+      "icon": "talentspec_druid_feral_bear",
+      "quality": 3
+    },
+    "Glimmering Mithril Insignia": {
+      "kind": "item",
+      "id": 10418,
+      "icon": "inv_jewelry_talisman_02",
+      "quality": 2
+    },
+    "Mark of Tyranny": {
+      "kind": "item",
+      "id": 13966,
+      "icon": "inv_jewelry_talisman_09",
+      "quality": 3
+    },
+    "Defiler's Talisman": {
+      "kind": "item",
+      "id": 20072,
+      "icon": "inv_jewelry_talisman_05",
+      "quality": 3
+    },
+    "Wildheart Gloves": {
+      "kind": "item",
+      "id": 16717,
+      "icon": "inv_gauntlets_17",
+      "quality": 3
+    },
+    "Ring of Nature's Cycles": {
+      "kind": "item",
+      "id": 275740,
+      "icon": "inv_jewelry_ring_11",
+      "quality": 3
+    },
+    "Scalegut Treaders": {
+      "kind": "item",
+      "id": 275618,
+      "icon": "inv_boots_chain_11",
+      "quality": 3
+    },
+    "Soulforge Greathelm": {
+      "kind": "item",
+      "id": 226976,
+      "icon": "inv_helmet_08",
+      "quality": 4
+    },
+    "Stoneslayer": {
+      "kind": "item",
+      "id": 9418,
+      "icon": "inv_sword_47",
+      "quality": 3
+    },
+    "Unyielding Maul": {
+      "kind": "item",
+      "id": 18531,
+      "icon": "inv_hammer_22",
+      "quality": 3
+    },
+    "Tuskblade Halberd": {
+      "kind": "item",
+      "id": 280059,
+      "icon": "inv_spear_08",
       "quality": 3
     }
   }

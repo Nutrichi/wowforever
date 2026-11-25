@@ -5,7 +5,7 @@
  "spec": "shadow",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-17",
+ "updated": "2026-11-24",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -48,7 +48,7 @@
    "items": [
     {
      "name": "Virtuous Epaulets",
-     "source": "Deliana Mokvar (Tier 0.5 Vendor)"
+     "source": "Tier 0.5 Quest"
     },
     {
      "name": "Mantle of the Timbermaw",
@@ -102,12 +102,12 @@
      "source": "The Unforgiven (Stratholme)"
     },
     {
-     "name": "Master's Bracers",
-     "source": "World drop"
+     "name": "Dryad's Wrist Bindings",
+     "source": "Silverwing Sentinels in Exalted Warsong Outriders - Exalted"
     },
     {
-     "name": "Netherpearl Cuffs",
-     "source": "Crafted with Tailoring"
+     "name": "Master's Bracers",
+     "source": "World drop"
     }
    ]
   },
@@ -140,8 +140,8 @@
      "source": "World drop"
     },
     {
-     "name": "Ban'thok Sash",
-     "source": "Ok'thor the Breaker (Blackrock Depths)"
+     "name": "Highlander's Cloth Girdle",
+     "source": "The League of Arathor in Honored The Defilers - Honored"
     }
    ]
   },
@@ -171,7 +171,7 @@
     },
     {
      "name": "Virtuous Slippers",
-     "source": "Deliana Mokvar (Tier 0.5 Vendor)"
+     "source": "Tier 0.5 Quest"
     },
     {
      "name": "Omnicast Boots",
@@ -251,22 +251,26 @@
    "slot": "Main-Hand",
    "items": [
     {
+     "name": "Sageclaw",
+     "source": "The League of Arathor in Exalted The Defilers - Exalted (PvP Reputation)"
+    },
+    {
      "name": "Blade of the New Moon",
      "source": "Immol'thar (Dire Maul)"
     },
     {
      "name": "Scepter of the Unholy",
      "source": "Baron Rivendare (Stratholme)"
-    },
-    {
-     "name": "Witchblade",
-     "source": "Darkmaster Gandling (Scholomance)"
     }
    ]
   },
   {
    "slot": "Off-Hand",
    "items": [
+    {
+     "name": "Tome of Shadow Force",
+     "source": "Stormpike Guard in Exalted Frostwolf Clan - Exalted (PvP Reputation)"
+    },
     {
      "name": "Obsidian Bauble",
      "source": "Pusillin (Dire Maul)"
@@ -281,8 +285,33 @@
    "slot": "Two-Hand",
    "items": [
     {
+     "name": "Ironbark Staff",
+     "source": "The League of Arathor in Exalted The Defilers - Exalted (PvP Reputation)"
+    },
+    {
+     "name": "Headmaster's Charge",
+     "source": "Darkmaster Gandling (Scholomance)"
+    },
+    {
      "name": "Rod of the Ogre Magi",
      "source": "Mizzle the Crafty (Dire Maul)"
+    }
+   ]
+  },
+  {
+   "slot": "Wand",
+   "items": [
+    {
+     "name": "Skul's Ghastly Touch",
+     "source": "Skul (Stratholme)"
+    },
+    {
+     "name": "Lunar Wand",
+     "source": "World drop"
+    },
+    {
+     "name": "Bonecreeper Stylus",
+     "source": "Darkmaster Gandling (Scholomance)"
     }
    ]
   }

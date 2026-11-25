@@ -5,7 +5,7 @@
  "spec": "restoration",
  "role": "Healer",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -47,12 +47,12 @@
    "slot": "Shoulders",
    "items": [
     {
-     "name": "Mooncloth Shoulders",
-     "source": "Crafted"
-    },
-    {
      "name": "Feralheart Mantle",
      "source": "T0.5 Questline"
+    },
+    {
+     "name": "Mooncloth Shoulders",
+     "source": "Crafted"
     },
     {
      "name": "Living Shoulders",
@@ -123,8 +123,8 @@
      "source": "Princess Moira Bronzebeard (Blackrock Depths)"
     },
     {
-     "name": "Mender's Leather Gauntlets",
-     "source": "Crafted"
+     "name": "Wildheart Gloves",
+     "source": "The Unforgiven (Stratholme Undead)"
     }
    ]
   },
@@ -149,16 +149,16 @@
    "slot": "Legs",
    "items": [
     {
-     "name": "Devout Skirt",
-     "source": "Baron Rivendare (Stratholme Undead)"
-    },
-    {
      "name": "Feralheart Pants",
      "source": "T0.5 Questline"
     },
     {
-     "name": "Senior Designer's Pantaloons",
-     "source": "Fineous Darkvire (Blackrock Depths)"
+     "name": "Devout Skirt",
+     "source": "Baron Rivendare (Stratholme Undead)"
+    },
+    {
+     "name": "Padre's Trousers",
+     "source": "Illyanna Ravenoak (Dire Maul West)"
     }
    ]
   },
@@ -170,12 +170,12 @@
      "source": "T0.5 Questline"
     },
     {
-     "name": "Boots of the Full Moon",
-     "source": "Captain Kromcrush (Dire Maul North)"
-    },
-    {
      "name": "Ogreseer Tower Boots",
      "source": "Spirestone Lord Magus (Lower Blackrock Spire)"
+    },
+    {
+     "name": "Mooncloth Boots",
+     "source": "Crafted"
     }
    ]
   },
@@ -183,16 +183,16 @@
    "slot": "Ring 1",
    "items": [
     {
+     "name": "Band of Mending",
+     "source": "Sothos and Jarien (Stratholme Live)"
+    },
+    {
+     "name": "Ring of Nature's Cycles",
+     "source": "Reward from the quest Work Well Done"
+    },
+    {
      "name": "Fordring's Seal",
      "source": "Reward from the quest In Dreams"
-    },
-    {
-     "name": "High Clerist's Seal",
-     "source": "Scarlet High Clerist"
-    },
-    {
-     "name": "Emerald Flame Ring",
-     "source": "Prince Tortheldrin (Dire Maul West)"
     }
    ]
   },
@@ -204,12 +204,12 @@
      "source": "Pix Xizzix"
     },
     {
-     "name": "High Clerist's Seal",
-     "source": "Scarlet High Clerist"
+     "name": "Ring of Nature's Cycles",
+     "source": "Reward from the quest Work Well Done"
     },
     {
-     "name": "Emerald Flame Ring",
-     "source": "Prince Tortheldrin (Dire Maul West)"
+     "name": "Fordring's Seal",
+     "source": "Reward from the quest In Dreams"
     }
    ]
   },
