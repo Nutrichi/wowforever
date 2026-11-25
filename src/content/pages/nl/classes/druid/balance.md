@@ -3,7 +3,7 @@ title: "Balance Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Balance Druid: builds, rotatie, stats en races"
 description: "De Balance Druid in WoW Forever: wat er verandert, builds voor level 60 voor raids, levelen en PvP, de rotatie, cooldowns, mana en DoTs, stats, gear, races en beroepen."
 short: "Balance Druid"
-updated: 2026-11-22
+updated: 2026-11-25
 lang: nl
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Gebruikt Wrath Clearcasting?"
     a: "Nee. Clearcasting van Omen of Clarity wordt niet door Wrath verbruikt, dus de gratis cast gaat naar een duurdere spell zoals Starfire."
   - q: "Wanneer krijg ik Moonkin Form?"
-    a: "Moonkin Form is het laatste talent van de Balance-boom en vraagt level 40. Het verhoogt de kans op een critical strike met spells van je hele groep met 3% en verdubbelt de kans op Omen of Clarity."
+    a: "Moonkin Form is het laatste talent van de Balance-boom en vraagt level 40. Het verhoogt de kans op een critical strike met spells van je hele groep met 3% en verdubbelt de kans op Omen of Clarity. Sinds 25 november verhoogt het ook je eigen Arcane- en Nature-schade met 10%."
   - q: "Welk ras is het beste voor een Balance Druid?"
     a: "De Skyborne aan beide kanten: Wind Blessed geeft 2% Haste, Elemental Insight helpt tegen elementals en de High Order Skyborne regenereren sneller met Read Leyline. Night Elf, met Elune's Light, blijft iets achter, en de Tauren hebben geen racial die schade toevoegt."
   - q: "Is er een build voor level 60?"
@@ -40,6 +40,19 @@ De Balance Druid in WoW Forever is een caster met twee spells voor schade over t
 | Zwak | Hybride schade, casts op de plaats, geen burst |
 | Levelen | [Druid-levelgids](/nl/classes/druid/leveling/); Feral levelt sneller dan Balance |
 
+## Talentwijzigingen van 25 november
+
+Blizzard heeft op 25 november een deel van de Balance-boom omgegooid. De wijzigingen zijn live:
+
+- **Improved Wrath heet nu Starlight Wrath.** Het maakt ook Starfire sneller, 0,1 seconde per punt, 0,5 seconde op 5/5.
+- **Improved Moonfire heet nu Moon and Stars.** Het geeft Starfire ook 50/100% kans om geen casttijd te verliezen als je schade krijgt.
+- **Improved Starfire heeft 2 punten in plaats van 5**, met 8/15% kans. Druids met 3 of meer punten erin kregen al hun talenten terug.
+- **Eclipse** verhoogt ook de kans op een critical strike met Wrath met 7/13/20%, altijd.
+- **Moonfury is weg.** **Dreamstate** komt in de plaats: 20/40/60/80/100% van het effect van Innervate als je het op iemand anders cast.
+- **Moonkin Form** verhoogt nu ook je Arcane- en Nature-schade met 10%.
+
+Blizzard wil dat Starfire werkt met minder punten, dat Balance minder leunt op Nature's Focus uit Restoration, en dat er meer punten overblijven voor utility.
+
 ## Wat er verandert voor Balance
 
 - **Wrath is een echte filler.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a> maakt de casttijd van <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5176"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrath</a> 0,5 seconde korter en de manakost de helft lager. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a> maakt al je schadespells 25% goedkoper.
@@ -58,11 +71,13 @@ De Balance Druid in WoW Forever is een caster met twee spells voor schade over t
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20484"><img class="wf-wh__icon" src="/wh/spell_nature_reincarnation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rebirth</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29166"><img class="wf-wh__icon" src="/wh/spell_nature_lightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Innervate</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2782"><img class="wf-wh__icon" src="/wh/spell_holy_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Remove Curse</a> en wat healing | Geen cooldowns voor burst |
 | Roots op tot drie vijanden met Overgrowth | Entangling Roots is een cast, geen instant |
 
-**Moonkin Form** is de reden waarom een raid een Balance Druid wil. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> verhoogt de kans op een critical strike met spells van elk lid van je groep of raid binnen 45 yards met 3% en verdubbelt je kans op Omen of Clarity. Het vraagt level 40, en je kan er geen healing spells in casten.
+**Moonkin Form** is de reden waarom een raid een Balance Druid wil. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> verhoogt de kans op een critical strike met spells van elk lid van je groep of raid binnen 45 yards met 3% en verdubbelt je kans op Omen of Clarity. Het vraagt level 40, en je kan er geen healing spells in casten. Sinds 25 november verhoogt het ook je eigen Arcane- en Nature-schade met 10%.
 
 ## Builds voor level 60
 
 Drie builds, elk met de 51 talentpunten van level 60: een voor raids en dungeons, een om te levelen en een voor PvP. Elke build opent in onze talentcalculator.
+
+**Let op:** deze builds gebruiken nog de boom van vóór 25 november, met Improved Starfire op 5/5 en Moonfury. We passen ze en de talentcalculator aan zodra de nieuwe boom in de speldata staat.
 
 ### Raidbuild, 38/0/13
 
@@ -100,16 +115,16 @@ De PvP-build ruilt schade in voor controle en overleven. [Open de PvP-build in d
 
 | Talent | Wat het doet in Forever |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>** | Wrath cast 0,5 seconde sneller en kost 50% minder mana op 5/5 |
+| **Starlight Wrath** (was <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>) | Wrath cast 0,5 seconde sneller en kost 50% minder mana op 5/5, en Starfire cast 0,5 seconde sneller |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>** | Je schadespells kosten 25% minder mana op 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a>** | 20% meer bereik en 4% meer kans om te raken met Balance-spells op 2/2 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16918"><img class="wf-wh__icon" src="/wh/spell_nature_stranglevines.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Entangling Roots</a>** | Entangling Roots doet 75% meer schade en breekt minder snel op 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17245"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Overgrowth</a>** | 1 vijand extra vastzetten per punt, tot drie op 2/2 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5570"><img class="wf-wh__icon" src="/wh/spell_nature_insectswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Insect Swarm</a>** | Een tweede DoT die ook de kans om te raken van het doel met 2% verlaagt |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16850"><img class="wf-wh__icon" src="/wh/spell_arcane_starfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Starfire</a>** | Starfire cast 0,5 seconde sneller op 5/5, met 15% kans op een stun van 3 seconden |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>** | Elke Wrath maakt de volgende 2 Starfires sneller, 0,5 seconde op 3/3, tot 4 charges |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16850"><img class="wf-wh__icon" src="/wh/spell_arcane_starfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Starfire</a>** | Nu 2 punten, met 8/15% kans; de snellere Starfire zit nu in Starlight Wrath |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>** | Elke Wrath maakt de volgende 2 Starfires sneller, 0,5 seconde op 3/3, tot 4 charges, en Wrath heeft 20% meer kans op een critical strike op 3/3 |
 
-Verder in de boom wachten <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16909"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vengeance</a>, dat de critical strike-bonus van je Arcane- en Nature-spells verdubbelt op 5/5, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16896"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonfury</a> voor 10% meer schade, en Moonkin Form op level 40.
+Verder in de boom wachten <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16909"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vengeance</a>, dat de critical strike-bonus van je Arcane- en Nature-spells verdubbelt op 5/5, en Moonkin Form op level 40, dat sinds 25 november ook 10% Arcane- en Nature-schade geeft.
 
 ## Rotatie
 

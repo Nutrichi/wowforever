@@ -5,7 +5,7 @@
  "spec": "survival",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -19,6 +19,10 @@
     {
      "name": "Beastmaster's Cap",
      "source": "Quest"
+    },
+    {
+     "name": "Backwood Helm",
+     "source": "Quest (Dire Maul)"
     }
    ]
   },
@@ -31,7 +35,7 @@
     },
     {
      "name": "Amulet of the Darkmoon",
-     "source": "1200 Tickets in Amulet of the Darkmoon Gelvas Grimegate"
+     "source": "Darkmoon Faire (1200 tickets)"
     },
     {
      "name": "Beads of Ogre Might",
@@ -44,11 +48,11 @@
    "items": [
     {
      "name": "Darkspear Epaulets",
-     "source": "Creeg Bothunk (The Barrens), Darkspear Raiders (Exalted) {money:189616}"
+     "source": "Creeg Bothunk (The Barrens), Darkspear Raiders (Exalted)"
     },
     {
      "name": "Theramore Epaulets",
-     "source": "Bryanna Embreeze (The Barrens), Theramore Expeditionary Force: Requires Exalted, {money:172601}"
+     "source": "Bryanna Embreeze (The Barrens), Theramore Expeditionary Force (Exalted)"
     },
     {
      "name": "Stratholme Militia Shoulderguard",
@@ -65,7 +69,7 @@
     },
     {
      "name": "Howler's Furs",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
      "name": "Heliotrope Cloak",
@@ -91,7 +95,7 @@
     },
     {
      "name": "Beastmaster's Bindings",
-     "source": "Quest Vendor: {money:250000}"
+     "source": "Quest Vendor"
     },
     {
      "name": "Deepfury Bracers",
@@ -117,15 +121,15 @@
    "items": [
     {
      "name": "Ranger's Belt",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (100 Reals)"
     },
     {
      "name": "Defiler's Chain Girdle",
-     "source": "Rutherford Twing (Arathi Highlands), The Defilers: Requires Honored, {money:79684}"
+     "source": "Rutherford Twing (Arathi Highlands), The Defilers (Honored)"
     },
     {
      "name": "Highlander's Chain Girdle",
-     "source": "Samuel Hawke (Arathi Highlands), The League of Arathor: Requires Honored, {money:88066}"
+     "source": "Samuel Hawke (Arathi Highlands), The League of Arathor (Honored)"
     }
    ]
   },
@@ -167,16 +171,16 @@
    "slot": "Ring 1",
    "items": [
     {
+     "name": "Don Julio's Band",
+     "source": "Stormpike Guard (Alliance) (Exalted) Frostwolf Clan (Horde) (Exalted)"
+    },
+    {
+     "name": "Amalgam's Band",
+     "source": "Kormok (Scholomance)"
+    },
+    {
      "name": "Cutthroat's Signet",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
-    },
-    {
-     "name": "Channeler's Ring",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
-    },
-    {
-     "name": "Blackstone Ring",
-     "source": "Princess Theradras (Maraudon)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     }
    ]
   },
@@ -188,12 +192,12 @@
      "source": "General Drakkisath (Blackrock Spire)"
     },
     {
-     "name": "Channeler's Ring",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "name": "Amalgam's Band",
+     "source": "Kormok (Scholomance)"
     },
     {
-     "name": "Blackstone Ring",
-     "source": "Princess Theradras (Maraudon)"
+     "name": "Cutthroat's Signet",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     }
    ]
   },

@@ -3,7 +3,7 @@ title: "Guía del Balance Druid en WoW Forever"
 metaTitle: "WoW Forever: Balance Druid, builds, rotación, stats y razas"
 description: "El Balance Druid en WoW Forever: qué cambia, builds de nivel 60 para bandas, subir de nivel y PvP, la rotación, los cooldowns, el maná y los DoTs, los stats, el equipo, las razas y las profesiones."
 short: "Balance Druid"
-updated: 2026-11-22
+updated: 2026-11-25
 lang: es
 manual: true
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "¿Wrath consume Clearcasting?"
     a: "No. El Clearcasting de Omen of Clarity no lo consume Wrath, así que el lanzamiento gratis va a un hechizo más caro como Starfire."
   - q: "¿Cuándo consigo Moonkin Form?"
-    a: "Moonkin Form es el último talento del árbol de Balance y pide nivel 40. Sube un 3 % la probabilidad de crítico con hechizos de todo tu grupo y duplica la probabilidad de activar Omen of Clarity."
+    a: "Moonkin Form es el último talento del árbol de Balance y pide nivel 40. Sube un 3 % la probabilidad de crítico con hechizos de todo tu grupo y duplica la probabilidad de activar Omen of Clarity. Desde el 25 de noviembre también sube tu propio daño Arcane y Nature un 10 %."
   - q: "¿Qué raza es la mejor para un Balance Druid?"
     a: "Los Skyborne en los dos bandos: Wind Blessed da un 2 % de Celeridad, Elemental Insight ayuda contra elementales y los High Order Skyborne se regeneran más rápido con Read Leyline. Night Elf, con Elune's Light, queda algo por detrás, y los Tauren no tienen ningún racial que añada daño."
   - q: "¿Hay una build para nivel 60?"
@@ -40,6 +40,19 @@ El Balance Druid de WoW Forever es un lanzador con dos hechizos de daño en el t
 | Puntos débiles | Daño de híbrido, lanzamientos quieto, sin burst |
 | Subir de nivel | [Guía para subir un Druid](/es/classes/druid/leveling/); Feral sube más rápido que Balance |
 
+## Cambios de talentos del 25 de noviembre
+
+Blizzard rehízo parte del árbol de Balance el 25 de noviembre. Los cambios ya están en el juego:
+
+- **Improved Wrath ahora se llama Starlight Wrath.** También acelera Starfire, 0,1 segundos por punto, 0,5 segundos a 5/5.
+- **Improved Moonfire ahora se llama Moon and Stars.** También da a Starfire un 50/100 % de probabilidad de no perder tiempo de lanzamiento cuando recibes daño.
+- **Improved Starfire tiene 2 puntos en vez de 5**, con un 8/15 % de probabilidad. A los Druids con 3 puntos o más en él se les reiniciaron todos los talentos.
+- **Eclipse** también sube la probabilidad de crítico de Wrath un 7/13/20 %, siempre.
+- **Moonfury desaparece.** **Dreamstate** ocupa su lugar: un 20/40/60/80/100 % del efecto de Innervate cuando lo lanzas sobre otro.
+- **Moonkin Form** ahora también sube tu daño Arcane y Nature un 10 %.
+
+Blizzard quiere que Starfire funcione con menos puntos, que Balance dependa menos de Nature's Focus de Restoration y que queden más puntos para utilidad.
+
 ## Qué cambia para Balance
 
 - **Wrath es un relleno de verdad.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a> reduce el tiempo de lanzamiento de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5176"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrath</a> en 0,5 segundos y su coste de maná a la mitad. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a> abarata un 25 % todos tus hechizos de daño.
@@ -58,11 +71,13 @@ El Balance Druid de WoW Forever es un lanzador con dos hechizos de daño en el t
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20484"><img class="wf-wh__icon" src="/wh/spell_nature_reincarnation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rebirth</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29166"><img class="wf-wh__icon" src="/wh/spell_nature_lightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Innervate</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2782"><img class="wf-wh__icon" src="/wh/spell_holy_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Remove Curse</a> y algo de sanación | Sin cooldowns para burst |
 | Raíces en hasta tres enemigos con Overgrowth | Entangling Roots se lanza, no es instantáneo |
 
-**Moonkin Form** es la razón por la que una banda quiere un Balance Druid. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> sube un 3 % la probabilidad de crítico con hechizos de cada miembro del grupo o banda a 45 metros y duplica tu probabilidad de activar Omen of Clarity. Pide nivel 40 y no deja lanzar hechizos de sanación.
+**Moonkin Form** es la razón por la que una banda quiere un Balance Druid. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> sube un 3 % la probabilidad de crítico con hechizos de cada miembro del grupo o banda a 45 metros y duplica tu probabilidad de activar Omen of Clarity. Pide nivel 40 y no deja lanzar hechizos de sanación. Desde el 25 de noviembre también sube tu propio daño Arcane y Nature un 10 %.
 
 ## Builds para nivel 60
 
 Tres builds, cada una con los 51 puntos de talento del nivel 60: una para bandas y mazmorras, una para subir de nivel y una para PvP. Cada build se abre en nuestra calculadora de talentos.
+
+**Ojo:** estas builds aún usan el árbol de antes del 25 de noviembre, con Improved Starfire a 5/5 y Moonfury. Las actualizamos, junto con la calculadora de talentos, en cuanto el nuevo árbol esté en los datos del juego.
 
 ### Build de banda, 38/0/13
 
@@ -100,16 +115,16 @@ La build de PvP cambia daño por control y supervivencia. [Abre la build de PvP 
 
 | Talento | Qué hace en Forever |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>** | Wrath se lanza 0,5 segundos más rápido y cuesta un 50 % menos de maná a 5/5 |
+| **Starlight Wrath** (antes <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>) | Wrath se lanza 0,5 segundos más rápido y cuesta un 50 % menos de maná a 5/5, y Starfire se lanza 0,5 segundos más rápido |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>** | Tus hechizos de daño cuestan un 25 % menos de maná a 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a>** | Un 20 % más de alcance y un 4 % más de probabilidad de golpe con hechizos de Balance a 2/2 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16918"><img class="wf-wh__icon" src="/wh/spell_nature_stranglevines.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Entangling Roots</a>** | Entangling Roots hace un 75 % más de daño y se rompe con menos facilidad a 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17245"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Overgrowth</a>** | 1 enemigo inmovilizado más por punto, hasta tres a 2/2 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5570"><img class="wf-wh__icon" src="/wh/spell_nature_insectswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Insect Swarm</a>** | Un segundo DoT que además baja un 2 % la probabilidad de golpe del objetivo |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16850"><img class="wf-wh__icon" src="/wh/spell_arcane_starfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Starfire</a>** | Starfire se lanza 0,5 segundos más rápido a 5/5, con un 15 % de probabilidad de aturdir 3 segundos |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>** | Cada Wrath acelera los 2 Starfire siguientes, 0,5 segundos a 3/3, hasta 4 cargas |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16850"><img class="wf-wh__icon" src="/wh/spell_arcane_starfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Starfire</a>** | Ahora 2 puntos, con un 8/15 % de probabilidad; el Starfire más rápido pasó a Starlight Wrath |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>** | Cada Wrath acelera los 2 Starfire siguientes, 0,5 segundos a 3/3, hasta 4 cargas, y Wrath tiene un 20 % más de probabilidad de crítico a 3/3 |
 
-Más abajo en el árbol esperan <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16909"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vengeance</a>, que duplica la bonificación de crítico de tus hechizos Arcane y Nature a 5/5, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16896"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonfury</a> para un 10 % más de daño, y Moonkin Form a nivel 40.
+Más abajo en el árbol esperan <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16909"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vengeance</a>, que duplica la bonificación de crítico de tus hechizos Arcane y Nature a 5/5, y Moonkin Form a nivel 40, que desde el 25 de noviembre también añade un 10 % de daño Arcane y Nature.
 
 ## Rotación
 

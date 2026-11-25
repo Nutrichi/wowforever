@@ -5,7 +5,7 @@
  "spec": "marksmanship",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -48,11 +48,11 @@
    "items": [
     {
      "name": "Theramore Epaulets",
-     "source": "Bryanna Embreeze (The Barrens), Theramore Expeditionary Force (Exalted) {money:191778}"
+     "source": "Bryanna Embreeze (The Barrens), Theramore Expeditionary Force (Exalted)"
     },
     {
      "name": "Darkspear Epaulets",
-     "source": "Creeg Bothunk (The Barrens), Darkspear Raiders (Exalted) {money:199595}"
+     "source": "Creeg Bothunk (The Barrens), Darkspear Raiders (Exalted)"
     },
     {
      "name": "Bone Golem Shoulders",
@@ -129,7 +129,7 @@
    "items": [
     {
      "name": "Ranger's Belt",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "source": "Reals vendor in Booty Bay (100 Reals)"
     },
     {
      "name": "Warpwood Binding",
@@ -137,7 +137,7 @@
     },
     {
      "name": "Highlander's Chain Girdle",
-     "source": "Samuel Hawke (Arathi Highlands), The League of Arathor (Honored) {money:88066}"
+     "source": "Samuel Hawke (Arathi Highlands), The League of Arathor (Honored)"
     }
    ]
   },
@@ -167,7 +167,7 @@
     },
     {
      "name": "Beastmaster's Treads",
-     "source": "Quest Vendor: {money:500000}"
+     "source": "Quest Vendor"
     },
     {
      "name": "Bloodmail Boots",
@@ -179,16 +179,16 @@
    "slot": "Ring 1",
    "items": [
     {
-     "name": "Cutthroat's Signet",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
+     "name": "Don Julio's Band",
+     "source": "Stormpike Guard (Alliance) (Exalted) Frostwolf Clan (Horde) (Exalted)"
+    },
+    {
+     "name": "Tarnished Elven Ring",
+     "source": "Zone Drop (Dire Maul)"
     },
     {
      "name": "Channeler's Ring",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
-    },
-    {
-     "name": "Blackstone Ring",
-     "source": "Princess Theradras (Maraudon)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     }
    ]
   },
@@ -196,16 +196,16 @@
    "slot": "Ring 2",
    "items": [
     {
+     "name": "Cutthroat's Signet",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
+    },
+    {
      "name": "Tarnished Elven Ring",
      "source": "Zone Drop (Dire Maul)"
     },
     {
      "name": "Channeler's Ring",
-     "source": "Pix Xizzix (Stranglethorn Vale)"
-    },
-    {
-     "name": "Blackstone Ring",
-     "source": "Princess Theradras (Maraudon)"
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     }
    ]
   },

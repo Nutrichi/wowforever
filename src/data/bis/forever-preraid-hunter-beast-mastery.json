@@ -5,7 +5,7 @@
  "spec": "beast-mastery",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-23",
+ "updated": "2026-11-25",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -175,22 +175,9 @@
    "slot": "Ring 1",
    "items": [
     {
-     "name": "Cutthroat's Signet",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
+     "name": "Don Julio's Band",
+     "source": "Stormpike Guard (Alliance) (Exalted) Frostwolf Clan (Horde) (Exalted)"
     },
-    {
-     "name": "Blackstone Ring",
-     "source": "Princess Theradras (Maraudon)"
-    },
-    {
-     "name": "Channeler's Ring",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
-    }
-   ]
-  },
-  {
-   "slot": "Ring 2",
-   "items": [
     {
      "name": "Tarnished Elven Ring",
      "source": "Zone Drop (Dire Maul)"
@@ -198,10 +185,23 @@
     {
      "name": "Blackstone Ring",
      "source": "Princess Theradras (Maraudon)"
+    }
+   ]
+  },
+  {
+   "slot": "Ring 2",
+   "items": [
+    {
+     "name": "Cutthroat's Signet",
+     "source": "Reals vendor in Booty Bay (75 Reals)"
     },
     {
-     "name": "Channeler's Ring",
-     "source": "Reals vendor in Booty Bay (75 Reals)"
+     "name": "Tarnished Elven Ring",
+     "source": "Zone Drop (Dire Maul)"
+    },
+    {
+     "name": "Blackstone Ring",
+     "source": "Princess Theradras (Maraudon)"
     }
    ]
   },
@@ -256,7 +256,15 @@
    "slot": "Ranged",
    "items": [
     {
-     "name": "Dwarven Hand Cannon",
+     "name": "Bloodseeker",
+     "source": "Quest (Alterac Valley)"
+    },
+    {
+     "name": "Eaglehorn Long Bow",
+     "source": "Drop in Silithus"
+    },
+    {
+     "name": "Hawkeye Bow",
      "source": "World drop"
     }
    ]

@@ -30978,7 +30978,7 @@
     },
     "Ironbark Staff": {
       "kind": "item",
-      "id": 20069,
+      "id": 20220,
       "icon": "inv_wand_04",
       "quality": 4
     },
@@ -31632,7 +31632,7 @@
     },
     "Dryad's Wrist Bindings": {
       "kind": "item",
-      "id": 19596,
+      "id": 19595,
       "icon": "inv_bracer_13",
       "quality": 4
     },
@@ -34472,6 +34472,18 @@
       "kind": "item",
       "id": 280059,
       "icon": "inv_spear_08",
+      "quality": 3
+    },
+    "Amalgam's Band": {
+      "kind": "item",
+      "id": 22326,
+      "icon": "inv_jewelry_ring_19",
+      "quality": 3
+    },
+    "Courier's Clasp": {
+      "kind": "item",
+      "id": 279833,
+      "icon": "inv_jewelry_necklace_15",
       "quality": 3
     }
   }

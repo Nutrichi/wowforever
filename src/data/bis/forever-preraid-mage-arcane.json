@@ -5,7 +5,7 @@
  "spec": "arcane",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-23",
+ "updated": "2026-11-25",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -38,8 +38,8 @@
      "source": "Balnazzar in Stratholme"
     },
     {
-     "name": "Arcane Crystal Pendant",
-     "source": "Sunken Temple Mage Quest"
+     "name": "Courier's Clasp",
+     "source": "Reward from the quest Shaw Needs To Know"
     }
    ]
   },
@@ -253,14 +253,6 @@
     {
      "name": "Sageblade",
      "source": "Crafted with Blacksmithing"
-    },
-    {
-     "name": "Sageclaw",
-     "source": "Arathi Basin Reputation Exalted"
-    },
-    {
-     "name": "Wit's Edge",
-     "source": "Scroll of Wit used on a Witchblade Scroll from scrolls above 175 comprehension"
     }
    ]
   },
@@ -291,10 +283,6 @@
     {
      "name": "Headmaster's Charge",
      "source": "Darkmaster Gandling in Scholomance"
-    },
-    {
-     "name": "Lord Valthalak's Staff of Command",
-     "source": "Lord Valthalak in Blackrock Spire"
     }
    ]
   },

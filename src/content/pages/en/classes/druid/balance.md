@@ -3,7 +3,7 @@ title: "Balance Druid guide for WoW Forever"
 metaTitle: "WoW Forever Balance Druid: builds, rotation, stats and races"
 description: "The Balance Druid in WoW Forever: what changes, level 60 builds for raids, leveling and PvP, the rotation, cooldowns, mana and DoTs, stats, gear, races and professions."
 short: "Balance Druid"
-updated: 2026-11-22
+updated: 2026-11-25
 lang: en
 faq:
   - q: "Is Balance Druid good in WoW Forever?"
@@ -13,7 +13,7 @@ faq:
   - q: "Does Wrath use Clearcasting?"
     a: "No. Clearcasting from Omen of Clarity is not consumed by Wrath, so the free cast goes to a more expensive spell such as Starfire."
   - q: "When do I get Moonkin Form?"
-    a: "Moonkin Form is the last talent of the Balance tree and needs level 40. It raises the spell critical strike chance of your whole group by 3% and doubles the chance to trigger Omen of Clarity."
+    a: "Moonkin Form is the last talent of the Balance tree and needs level 40. It raises the spell critical strike chance of your whole group by 3% and doubles the chance to trigger Omen of Clarity. Since 25 November it also raises your own Arcane and Nature damage by 10%."
   - q: "Which race is best for a Balance Druid?"
     a: "The Skyborne on both sides: Wind Blessed gives 2% Haste, Elemental Insight helps against elementals and the High Order Skyborne regenerate faster with Read Leyline. Night Elf, with Elune's Light, falls a little behind, and the Tauren have no racial that adds damage."
   - q: "Is there a level 60 build?"
@@ -39,6 +39,19 @@ The Balance Druid in WoW Forever is a caster with two damage over time spells, t
 | Weakness | Hybrid damage, hard casts, no burst |
 | Leveling | [Druid leveling guide](/classes/druid/leveling/); Feral levels faster than Balance |
 
+## Talent changes of 25 November
+
+Blizzard reworked part of the Balance tree on 25 November. The changes are live:
+
+- **Improved Wrath is now Starlight Wrath.** It also makes Starfire cast faster, by 0.1 seconds per point, 0.5 seconds at 5/5.
+- **Improved Moonfire is now Moon and Stars.** It also gives Starfire a 50/100% chance not to lose cast time when you take damage.
+- **Improved Starfire has 2 points instead of 5**, with an 8/15% chance. Druids with 3 or more points in it had all their talents reset.
+- **Eclipse** also raises the critical strike chance of Wrath by 7/13/20%, at all times.
+- **Moonfury is gone.** **Dreamstate** takes its place: 20/40/60/80/100% of the effect of Innervate when you cast it on someone else.
+- **Moonkin Form** now also raises your Arcane and Nature damage by 10%.
+
+Blizzard wants Starfire to work with fewer points, Balance to lean less on Nature's Focus from Restoration, and more points left for utility.
+
 ## What changes for Balance
 
 - **Wrath is a real filler.** <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a> cuts the cast time of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5176"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Wrath</a> by 0.5 seconds and its mana cost by half. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a> makes all your damage spells 25% cheaper.
@@ -57,11 +70,13 @@ The Balance Druid in WoW Forever is a caster with two damage over time spells, t
 | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20484"><img class="wf-wh__icon" src="/wh/spell_nature_reincarnation.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Rebirth</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29166"><img class="wf-wh__icon" src="/wh/spell_nature_lightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Innervate</a>, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=2782"><img class="wf-wh__icon" src="/wh/spell_holy_removecurse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Remove Curse</a> and some healing | No cooldowns for burst damage |
 | Roots on up to three enemies with Overgrowth | Entangling Roots is a cast, not an instant |
 
-**Moonkin Form** is the reason a raid wants a Balance Druid. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> raises the spell critical strike chance of every party or raid member within 45 yards by 3% and doubles your chance to trigger Omen of Clarity. It needs level 40 and stops you from casting healing spells.
+**Moonkin Form** is the reason a raid wants a Balance Druid. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> raises the spell critical strike chance of every party or raid member within 45 yards by 3% and doubles your chance to trigger Omen of Clarity. It needs level 40 and stops you from casting healing spells. Since 25 November it also raises your own Arcane and Nature damage by 10%.
 
 ## Builds for level 60
 
 Three builds, each with the 51 talent points of level 60: one for raids and dungeons, one for leveling and one for PvP. Every build opens in our talent calculator.
+
+**Note:** these builds still use the tree from before 25 November, with Improved Starfire at 5/5 and Moonfury. We update them and the talent calculator as soon as the new tree is in the game data.
 
 ### Raid build, 38/0/13
 
@@ -99,16 +114,16 @@ The PvP build trades damage for control and survival. [Open the PvP build in the
 
 | Talent | What it does in Forever |
 |---|---|
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>** | Wrath casts 0.5 seconds faster and costs 50% less mana at 5/5 |
+| **Starlight Wrath** (was <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16814"><img class="wf-wh__icon" src="/wh/spell_nature_abolishmagic.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Wrath</a>) | Wrath casts 0.5 seconds faster and costs 50% less mana at 5/5, and Starfire casts 0.5 seconds faster |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16845"><img class="wf-wh__icon" src="/wh/spell_nature_sentinal.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonglow</a>** | Your damage spells cost 25% less mana at 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16819"><img class="wf-wh__icon" src="/wh/spell_nature_naturetouchgrow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Nature's Reach</a>** | 20% more range and 4% more chance to hit with Balance spells at 2/2 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16918"><img class="wf-wh__icon" src="/wh/spell_nature_stranglevines.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Entangling Roots</a>** | Entangling Roots deals 75% more damage and breaks less easily at 3/3 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=17245"><img class="wf-wh__icon" src="/wh/inv_misc_herb_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Overgrowth</a>** | Root 1 extra enemy per point, up to three at 2/2 |
 | **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=5570"><img class="wf-wh__icon" src="/wh/spell_nature_insectswarm.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Insect Swarm</a>** | A second DoT that also lowers the target's chance to hit by 2% |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16850"><img class="wf-wh__icon" src="/wh/spell_arcane_starfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Starfire</a>** | Starfire casts 0.5 seconds faster at 5/5, with a 15% chance to stun for 3 seconds |
-| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>** | Each Wrath makes the next 2 Starfires faster, 0.5 seconds at 3/3, up to 4 charges |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16850"><img class="wf-wh__icon" src="/wh/spell_arcane_starfire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Improved Starfire</a>** | Now 2 points, with an 8/15% chance; the faster Starfire moved to Starlight Wrath |
+| **<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>** | Each Wrath makes the next 2 Starfires faster, 0.5 seconds at 3/3, up to 4 charges, and Wrath has 20% more critical strike chance at 3/3 |
 
-Further down the tree wait <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16909"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vengeance</a>, which doubles the critical strike bonus of your Arcane and Nature spells at 5/5, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16896"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonfury</a> for 10% more damage, and Moonkin Form at level 40.
+Further down the tree wait <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=16909"><img class="wf-wh__icon" src="/wh/spell_nature_purge.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Vengeance</a>, which doubles the critical strike bonus of your Arcane and Nature spells at 5/5, and Moonkin Form at level 40, which since 25 November also adds 10% Arcane and Nature damage.
 
 ## Rotation
 
