@@ -3,7 +3,7 @@ title: "Guida alla reputazione con l'Azeroth Commerce Authority"
 description: "Azeroth Commerce Authority in WoW Forever: l’accampamento di rifornimento dell’Alleanza a Three Corners, casse per Merchant's Favor, ricette per sette professioni, il Pack Kodo, titoli e tabarda."
 lang: it
 manual: true
-updated: 2026-11-19
+updated: 2026-11-26
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -108,6 +108,8 @@ Sotto Neutral la scala segue anch'essa l'abitudine: Hated è largo 36.000, Hosti
 | Sealed Apprentice Crate | Rare (blu) | non ancora noto |
 | Sealed Journeyman Crate | Common (bianca) | 10 |
 | Sealed Journeyman Crate | Uncommon (verde) | 20 |
+
+Casse e Shipping Label si consegnano come missioni: A Sealed Crate dà Merchant's Favor, Shipping Label dà Merchant's Favor e 660 punti esperienza.
 
 ## La via più rapida per Honored
 

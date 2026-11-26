@@ -3,7 +3,7 @@ title: "Rufguide für Gelkis Clan Centaur"
 description: "Gelkis Clan Centaur in WoW Forever: jede Quest von Neutral bis Exalted, Rüstmeister Molkar und seine zwölf Rezepte, die seltenen Questbelohnungen und der Titel of the Gelkis."
 lang: de
 manual: true
-updated: 2026-11-11
+updated: 2026-11-26
 faction: "Gelkis Clan Centaur"
 zone: "Desolace"
 side: both
@@ -21,7 +21,7 @@ sources:
 ---
 Die Gelkis Clan Centaur leben in Desolace und sind die geschworenen Feinde der [Magram Clan Centaur](/de/reputations/magram-clan-centaur/). Du kannst nur einen der beiden steigern: Was du bei den Gelkis gewinnst, verlierst du bei den Magram. Beide Clans stehen Allianz und Horde offen.
 
-WoW Forever macht aus dieser alten Rivalität eine echte Wahl. In Classic endete der Ruf unter Revered und brachte wenig. Jetzt gehen beide Clans bis Exalted, mit neuen Quests für Stufe 40 bis 43, einem Rüstmeister, zwölf Rezepten, seltenen Waffen und einem Titel.
+WoW Forever macht aus dieser alten Rivalität eine echte Wahl. In Classic endete der Ruf unter Revered und brachte wenig. Jetzt gehen beide Clans bis Exalted, mit neuen Quests für Stufe 32 bis 43, einem Rüstmeister, zwölf Rezepten, seltenen Waffen und einem Titel.
 
 ## Gelkis oder Magram?
 
@@ -42,7 +42,7 @@ Jeder Charakter beginnt bei Neutral. Zwei Wege führen zu Friendly: Magram-Zenta
 
 ### Friendly
 
-Der erste Teil der Reihe. Die drei Berufsquests geben je ein Rezept deiner Wahl und verlangen einen Gegenstand, den du vorher herstellen oder kaufen kannst. Zusammen bringen diese Quests 5.250 Ruf, ohne die wiederholbare.
+Der erste Teil der Reihe. Die drei Berufsquests geben je ein Rezept deiner Wahl und verlangen einen Gegenstand, den du vorher herstellen oder kaufen kannst. Zusammen bringen diese Quests 5.250 Ruf, ohne die wiederholbare. Sie sind für Stufe 32 bis 37 gedacht.
 
 | Quest | Ruf | Hinweis |
 |---|---|---|
@@ -57,7 +57,7 @@ Der erste Teil der Reihe. Die drei Berufsquests geben je ein Rezept deiner Wahl 
 
 ### Honored
 
-Honored öffnet eine zweite Reihe, die mit Khan Jehn endet, dem mit Abstand größten Schritt.
+Honored öffnet eine zweite Reihe, die mit Khan Jehn endet, dem mit Abstand größten Schritt. Ihre Quests sind für Stufe 38 bis 43 gedacht.
 
 | Quest | Ruf |
 |---|---|

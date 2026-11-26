@@ -3,7 +3,7 @@ title: "Guide de réputation Gelkis Clan Centaur"
 description: "Gelkis Clan Centaur dans WoW Forever : chaque quête de Neutral à Exalted, l'intendant Molkar et ses douze recettes, les récompenses rares et le titre of the Gelkis."
 lang: fr
 manual: true
-updated: 2026-11-11
+updated: 2026-11-26
 faction: "Gelkis Clan Centaur"
 zone: "Desolace"
 side: both
@@ -21,7 +21,7 @@ sources:
 ---
 Les Gelkis Clan Centaur vivent en Desolace et sont les ennemis jurés des [Magram Clan Centaur](/fr/reputations/magram-clan-centaur/). Vous ne pouvez monter qu'un des deux : ce que vous gagnez chez les Gelkis, vous le perdez chez les Magram. Les deux clans sont ouverts à l'Alliance et à la Horde.
 
-WoW Forever fait de cette vieille rivalité un vrai choix. Dans Classic, la réputation s'arrêtait avant Revered et rapportait peu. Désormais, les deux clans vont jusqu'à Exalted, avec de nouvelles quêtes pour les niveaux 40 à 43, un intendant, douze recettes, des armes rares et un titre.
+WoW Forever fait de cette vieille rivalité un vrai choix. Dans Classic, la réputation s'arrêtait avant Revered et rapportait peu. Désormais, les deux clans vont jusqu'à Exalted, avec de nouvelles quêtes pour les niveaux 32 à 43, un intendant, douze recettes, des armes rares et un titre.
 
 ## Gelkis ou Magram ?
 
@@ -42,7 +42,7 @@ Chaque personnage commence à Neutral. Deux chemins mènent à Friendly : tuer d
 
 ### Friendly
 
-La première partie de la série. Les trois quêtes de métier donnent chacune une recette au choix et demandent un objet à fabriquer ou acheter avant. Ensemble, ces quêtes rapportent 5 250 de réputation, sans la répétable.
+La première partie de la série. Les trois quêtes de métier donnent chacune une recette au choix et demandent un objet à fabriquer ou acheter avant. Ensemble, ces quêtes rapportent 5 250 de réputation, sans la répétable. Elles sont prévues pour les niveaux 32 à 37.
 
 | Quête | Réputation | Note |
 |---|---|---|
@@ -57,7 +57,7 @@ La première partie de la série. Les trois quêtes de métier donnent chacune u
 
 ### Honored
 
-Honored ouvre une deuxième série qui se termine par Khan Jehn, de loin la plus grosse étape.
+Honored ouvre une deuxième série qui se termine par Khan Jehn, de loin la plus grosse étape. Ses quêtes sont prévues pour les niveaux 38 à 43.
 
 | Quête | Réputation |
 |---|---|

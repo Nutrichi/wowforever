@@ -3,7 +3,7 @@ title: "Guía de reputación de la Azeroth Commerce Authority"
 description: "Azeroth Commerce Authority en WoW Forever: el campamento de suministros de la Alliance en Three Corners, cajas por Merchant's Favor, recetas para siete profesiones, el Pack Kodo, títulos y tabardo."
 lang: es
 manual: true
-updated: 2026-11-19
+updated: 2026-11-26
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -108,6 +108,8 @@ Por debajo de Neutral la escala también es la habitual: Hated mide 36.000, y Ho
 | Sealed Apprentice Crate | Rare (azul) | aún no se sabe |
 | Sealed Journeyman Crate | Common (blanca) | 10 |
 | Sealed Journeyman Crate | Uncommon (verde) | 20 |
+
+Las cajas y las Shipping Labels se entregan como misiones: A Sealed Crate da Merchant's Favor y Shipping Label da Merchant's Favor y 660 de experiencia.
 
 ## El camino más rápido a Honored
 

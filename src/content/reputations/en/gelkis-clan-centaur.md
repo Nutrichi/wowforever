@@ -2,7 +2,7 @@
 title: "Gelkis Clan Centaur reputation guide"
 description: "Gelkis Clan Centaur in WoW Forever: every quest from Neutral to Exalted, quartermaster Molkar and his twelve recipes, the rare quest rewards and the title of the Gelkis."
 lang: en
-updated: 2026-11-11
+updated: 2026-11-26
 faction: "Gelkis Clan Centaur"
 zone: "Desolace"
 side: both
@@ -20,7 +20,7 @@ sources:
 ---
 The Gelkis Clan Centaur live in Desolace and are the sworn enemies of the [Magram Clan Centaur](/reputations/magram-clan-centaur/). You can raise only one of the two: what you gain with the Gelkis, you lose with the Magram. Both clans are open to Alliance and Horde.
 
-WoW Forever turns this old rivalry into a real choice. In Classic the reputation stopped below Revered and gave little. Now both clans go to Exalted, with new quests for levels 40 to 43, a quartermaster, twelve recipes, rare weapons and a title.
+WoW Forever turns this old rivalry into a real choice. In Classic the reputation stopped below Revered and gave little. Now both clans go to Exalted, with new quests for levels 32 to 43, a quartermaster, twelve recipes, rare weapons and a title.
 
 ## Gelkis or Magram?
 
@@ -41,7 +41,7 @@ Every character starts at Neutral. Two ways lead to Friendly: kill Magram centau
 
 ### Friendly
 
-The first part of the chain. The three profession quests each give a recipe of your choice and ask for an item you can make or buy beforehand. Together these quests give 5,250 reputation, without the repeatable one.
+The first part of the chain. The three profession quests each give a recipe of your choice and ask for an item you can make or buy beforehand. Together these quests give 5,250 reputation, without the repeatable one. They are meant for levels 32 to 37.
 
 | Quest | Reputation | Note |
 |---|---|---|
@@ -56,7 +56,7 @@ The first part of the chain. The three profession quests each give a recipe of y
 
 ### Honored
 
-Honored opens a second chain that ends with Khan Jehn, by far the biggest step.
+Honored opens a second chain that ends with Khan Jehn, by far the biggest step. Its quests are meant for levels 38 to 43.
 
 | Quest | Reputation |
 |---|---|

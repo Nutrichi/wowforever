@@ -2,7 +2,7 @@
 title: "Azeroth Commerce Authority reputation guide"
 description: "Azeroth Commerce Authority in WoW Forever: the Alliance supply camp at Three Corners, crates for Merchant's Favor, recipes for seven professions, the Pack Kodo, titles and tabard."
 lang: en
-updated: 2026-11-19
+updated: 2026-11-26
 faction: "Azeroth Commerce Authority"
 zone: "Three Corners, Redridge Mountains"
 side: alliance
@@ -105,6 +105,8 @@ The scale is the standard one, so from Neutral to Exalted is 42,000 reputation.
 | Sealed Apprentice Crate | Rare (blue) | not known yet |
 | Sealed Journeyman Crate | Common (white) | 10 |
 | Sealed Journeyman Crate | Uncommon (green) | 20 |
+
+Crates and Shipping Labels are handed in as quests: A Sealed Crate gives Merchant's Favor, and Shipping Label gives Merchant's Favor plus 660 experience.
 
 ## The fastest way to Honored
 

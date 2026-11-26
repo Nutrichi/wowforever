@@ -2,7 +2,7 @@
 title: "Durotar Supply and Logistics reputation guide"
 description: "Durotar Supply and Logistics in WoW Forever: the Horde supply camp outside the Crossroads, crates for Merchant's Favor, recipes for seven professions, the Pack Kodo, titles and tabard."
 lang: en
-updated: 2026-11-19
+updated: 2026-11-26
 faction: "Durotar Supply and Logistics"
 zone: "Outside the Crossroads, The Barrens"
 side: horde
@@ -107,6 +107,8 @@ Below Neutral the scale runs the usual way as well: Hated is 36,000 wide, Hostil
 | Sealed Apprentice Crate | Uncommon (green) | 10 |
 | Sealed Journeyman Crate | Common (white) | 10 |
 | Sealed Journeyman Crate | Uncommon (green) | 20 |
+
+Crates and Shipping Labels are handed in as quests: A Sealed Crate gives Merchant's Favor, and Shipping Label gives Merchant's Favor plus 660 experience.
 
 ## The fastest way to Honored
 

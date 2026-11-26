@@ -3,7 +3,7 @@ title: "Reputatiegids voor Gelkis Clan Centaur"
 description: "Gelkis Clan Centaur in WoW Forever: elke quest van Neutral tot Exalted, quartermaster Molkar en zijn twaalf recepten, de rare questbeloningen en de titel of the Gelkis."
 lang: nl
 manual: true
-updated: 2026-11-11
+updated: 2026-11-26
 faction: "Gelkis Clan Centaur"
 zone: "Desolace"
 side: both
@@ -21,7 +21,7 @@ sources:
 ---
 De Gelkis Clan Centaur wonen in Desolace en zijn de gezworen vijanden van de [Magram Clan Centaur](/nl/reputations/magram-clan-centaur/). Je kan er maar één van de twee opbouwen: wat je bij de Gelkis wint, verlies je bij de Magram. Beide clans staan open voor Alliance en Horde.
 
-WoW Forever maakt van deze oude rivaliteit een echte keuze. In Classic stopte de reputatie onder Revered en leverde ze weinig op. Nu gaan beide clans tot Exalted, met nieuwe quests voor level 40 tot 43, een quartermaster, twaalf recepten, rare wapens en een titel.
+WoW Forever maakt van deze oude rivaliteit een echte keuze. In Classic stopte de reputatie onder Revered en leverde ze weinig op. Nu gaan beide clans tot Exalted, met nieuwe quests voor level 32 tot 43, een quartermaster, twaalf recepten, rare wapens en een titel.
 
 ## Gelkis of Magram?
 
@@ -42,7 +42,7 @@ Elk personage begint op Neutral. Twee wegen leiden naar Friendly: dood Magram-ce
 
 ### Friendly
 
-Het eerste deel van de reeks. De drie beroepsquests geven elk een recept naar keuze en vragen een item dat je vooraf kan maken of kopen. Samen leveren deze quests 5.250 reputatie op, zonder de herhaalbare.
+Het eerste deel van de reeks. De drie beroepsquests geven elk een recept naar keuze en vragen een item dat je vooraf kan maken of kopen. Samen leveren deze quests 5.250 reputatie op, zonder de herhaalbare. Ze zijn bedoeld voor level 32 tot 37.
 
 | Quest | Reputatie | Opmerking |
 |---|---|---|
@@ -57,7 +57,7 @@ Het eerste deel van de reeks. De drie beroepsquests geven elk een recept naar ke
 
 ### Honored
 
-Honored opent een tweede reeks die eindigt met Khan Jehn, veruit de grootste stap.
+Honored opent een tweede reeks die eindigt met Khan Jehn, veruit de grootste stap. De quests zijn bedoeld voor level 38 tot 43.
 
 | Quest | Reputatie |
 |---|---|

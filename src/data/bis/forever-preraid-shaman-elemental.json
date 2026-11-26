@@ -5,7 +5,7 @@
  "spec": "elemental",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-24",
+ "updated": "2026-11-26",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -221,12 +221,12 @@
      "source": "Reals vendor in Booty Bay (125 Reals)"
     },
     {
-     "name": "Smolderweb's Eye",
-     "source": "Mother Smolderweb in Blackrock Spire"
-    },
-    {
      "name": "Briarwood Reed",
      "source": "Jed Runewatcher in Blackrock Spire"
+    },
+    {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest General Drakkisath's Demise or For The Horde!"
     }
    ]
   },
@@ -238,12 +238,12 @@
      "source": "Reward from the quest Frost Shock and You"
     },
     {
-     "name": "Smolderweb's Eye",
-     "source": "Mother Smolderweb in Blackrock Spire"
-    },
-    {
      "name": "Briarwood Reed",
      "source": "Jed Runewatcher in Blackrock Spire"
+    },
+    {
+     "name": "Eye of the Beast",
+     "source": "Reward from the quest General Drakkisath's Demise or For The Horde!"
     }
    ]
   },

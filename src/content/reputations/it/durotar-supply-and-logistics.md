@@ -3,7 +3,7 @@ title: "Guida alla reputazione con Durotar Supply and Logistics"
 description: "Durotar Supply and Logistics in WoW Forever: l’accampamento di rifornimento dell’Orda appena fuori dalla Crossroads, casse per Merchant's Favor, ricette per sette professioni, il Pack Kodo, titoli e tabarda."
 lang: it
 manual: true
-updated: 2026-11-19
+updated: 2026-11-26
 faction: "Durotar Supply and Logistics"
 zone: "Fuori dalla Crossroads, The Barrens"
 side: horde
@@ -108,6 +108,8 @@ Sotto Neutral la scala segue anch'essa l'abitudine: Hated è largo 36.000, Hosti
 | Sealed Apprentice Crate | Uncommon (verde) | 10 |
 | Sealed Journeyman Crate | Common (bianca) | 10 |
 | Sealed Journeyman Crate | Uncommon (verde) | 20 |
+
+Casse e Shipping Label si consegnano come missioni: A Sealed Crate dà Merchant's Favor, Shipping Label dà Merchant's Favor e 660 punti esperienza.
 
 ## La via più rapida per Honored
 

@@ -3,7 +3,7 @@ title: "Guía de reputación de Gelkis Clan Centaur"
 description: "Gelkis Clan Centaur en WoW Forever: cada misión de Neutral a Exalted, el intendente Molkar y sus doce recetas, las recompensas raras y el título of the Gelkis."
 lang: es
 manual: true
-updated: 2026-11-11
+updated: 2026-11-26
 faction: "Gelkis Clan Centaur"
 zone: "Desolace"
 side: both
@@ -21,7 +21,7 @@ sources:
 ---
 Los Gelkis Clan Centaur viven en Desolace y son enemigos jurados de los [Magram Clan Centaur](/es/reputations/magram-clan-centaur/). Solo puedes subir uno de los dos: lo que ganas con los Gelkis, lo pierdes con los Magram. Los dos clanes están abiertos a la Alianza y a la Horda.
 
-WoW Forever convierte esta vieja rivalidad en una elección de verdad. En Classic la reputación se paraba antes de Revered y daba poco. Ahora los dos clanes llegan a Exalted, con misiones nuevas para los niveles 40 a 43, un intendente, doce recetas, armas raras y un título.
+WoW Forever convierte esta vieja rivalidad en una elección de verdad. En Classic la reputación se paraba antes de Revered y daba poco. Ahora los dos clanes llegan a Exalted, con misiones nuevas para los niveles 32 a 43, un intendente, doce recetas, armas raras y un título.
 
 ## ¿Gelkis o Magram?
 
@@ -42,7 +42,7 @@ Cada personaje empieza en Neutral. Hay dos caminos a Friendly: matar centauros M
 
 ### Friendly
 
-La primera parte de la cadena. Las tres misiones de profesión dan cada una la receta que elijas y piden un objeto que puedes fabricar o comprar antes. Juntas dan 5.250 de reputación, sin contar la repetible.
+La primera parte de la cadena. Las tres misiones de profesión dan cada una la receta que elijas y piden un objeto que puedes fabricar o comprar antes. Juntas dan 5.250 de reputación, sin contar la repetible. Están pensadas para los niveles 32 a 37.
 
 | Misión | Reputación | Nota |
 |---|---|---|
@@ -57,7 +57,7 @@ La primera parte de la cadena. Las tres misiones de profesión dan cada una la r
 
 ### Honored
 
-Honored abre una segunda cadena que termina con Khan Jehn, con diferencia el paso más grande.
+Honored abre una segunda cadena que termina con Khan Jehn, con diferencia el paso más grande. Sus misiones están pensadas para los niveles 38 a 43.
 
 | Misión | Reputación |
 |---|---|

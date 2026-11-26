@@ -3,7 +3,7 @@ title: "Ruf-Guide für Durotar Supply and Logistics"
 description: "Durotar Supply and Logistics in WoW Forever: das Nachschublager der Horde vor der Crossroads, Kisten für Merchant's Favor, Rezepte für sieben Berufe, der Pack Kodo, Titel und Wappenrock."
 lang: de
 manual: true
-updated: 2026-11-19
+updated: 2026-11-26
 faction: "Durotar Supply and Logistics"
 zone: "Vor der Crossroads, The Barrens"
 side: horde
@@ -108,6 +108,8 @@ Unter Neutral läuft die Skala ebenfalls wie üblich: Hated ist 36.000 breit, Ho
 | Sealed Apprentice Crate | Uncommon (grün) | 10 |
 | Sealed Journeyman Crate | Common (weiß) | 10 |
 | Sealed Journeyman Crate | Uncommon (grün) | 20 |
+
+Kisten und Shipping Labels gibst du als Quest ab: A Sealed Crate bringt Merchant's Favor, Shipping Label bringt Merchant's Favor und 660 Erfahrung.
 
 ## Der schnellste Weg zu Honored
 

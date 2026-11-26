@@ -3,7 +3,7 @@ title: "Reputatiegids voor Durotar Supply and Logistics"
 description: "Durotar Supply and Logistics in WoW Forever: het bevoorradingskamp van de Horde buiten de Crossroads, kisten voor Merchant's Favor, recepten voor zeven beroepen, de Pack Kodo, titels en tabard."
 lang: nl
 manual: true
-updated: 2026-11-19
+updated: 2026-11-26
 faction: "Durotar Supply and Logistics"
 zone: "Buiten de Crossroads, The Barrens"
 side: horde
@@ -108,6 +108,8 @@ Onder Neutral loopt de schaal ook zoals gewoonlijk: Hated is 36.000 breed, Hosti
 | Sealed Apprentice Crate | Uncommon (groen) | 10 |
 | Sealed Journeyman Crate | Common (wit) | 10 |
 | Sealed Journeyman Crate | Uncommon (groen) | 20 |
+
+Kratten en Shipping Labels lever je in als quest: A Sealed Crate geeft Merchant's Favor, Shipping Label geeft Merchant's Favor en 660 ervaring.
 
 ## De snelste weg naar Honored
 
