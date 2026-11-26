@@ -7,7 +7,7 @@ updated: 2026-09-30
 lang: en
 faq:
   - q: "How many pets are in WoW Forever?"
-    a: "96 companion pets are in the game files: 38 new ones and 58 from Classic."
+    a: "97 companion pets are in the game files: 39 new ones and 58 from Classic."
   - q: "Are pets account-wide in WoW Forever?"
     a: "The game data marks every pet as account-wide, and the item teaches the pet instead of summoning it from your bags. Blizzard has not confirmed the account-wide part itself."
   - q: "Which pets are new in WoW Forever?"
@@ -16,7 +16,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/items/miscellaneous/companions"
 ---
-World of Warcraft: Forever has 96 companion pets in its files: 38 new ones and 58 from Classic. This guide lists all of them with where they come from, and every pet has a page of its own with the item, the source and what changed.
+World of Warcraft: Forever has 97 companion pets in its files: 39 new ones and 58 from Classic. This guide lists all of them with where they come from, and every pet has a page of its own with the item, the source and what changed.
 
 In WoW Forever you learn a pet: the item teaches it and the pet becomes a spell, so it no longer takes a spot in your bags. Summoning is instant, with a cooldown of 1.5 seconds.
 
@@ -57,6 +57,7 @@ The list comes from the game files and the item database of WoW Forever. For pet
 | [Shadowgale Squirrel](/guides/pets/shadowgale-squirrel/ "wh:item=280347:q1:inv_squirrelflying_albino") | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=254151">Vayn Moongaze</a>, 52 silver 63 copper | Zephras Isle |
 | [Sinister Squashling](/guides/pets/sinister-squashling/ "wh:item=33154:q2:inv_misc_food_59") | Not known yet |  |
 | [Snowy Wolf Pup](/guides/pets/snowy-wolf-pup/ "wh:item=269830:q1:ability_mount_whitedirewolf") | Not known yet |  |
+| [Spawn of Grubthor](/guides/pets/spawn-of-grubthor/ "wh:item=286604:q2:inv_qiraj_skinsandworm") | Not known yet |  |
 | [Spectral Bear Cub](/guides/pets/spectral-bear-cub/ "wh:item=277714:q3:inv_pet_babyblizzardbear") | Legacy reward: 25 points |  |
 | [Tallstrider Hatchling](/guides/pets/tallstrider-hatchling/ "wh:item=284176:q2:ability_hunter_pet_tallstrider") | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> | Darkshore |
 | [Undercity Cockroach](/guides/pets/undercity-cockroach/ "wh:item=280699:q1:spell_shadow_carrionswarm") | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 silver 63 copper | Undercity |

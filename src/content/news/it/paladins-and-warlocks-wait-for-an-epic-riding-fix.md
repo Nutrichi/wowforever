@@ -20,3 +20,5 @@ Blizzard ha confermato il bug sui forum europei:
 > We've found the bug here, and we think it's affecting both Paladins and Warlocks. We're working on a fix, but the fix is going to take another day or two.
 
 Quindi aspetta prima di comprare un'altra cavalcatura epica. Al livello 40 la missione di classe [insegna invece la cavalcatura normale](/it/news/paladins-and-warlocks-ride-for-free-at-level-40/), quindi riguarda solo la versione epica. Il [Dreadsteed](/it/guides/mounts/dreadsteed/) e il [Charger](/it/guides/mounts/charger/) in sé funzionano.
+
+**Aggiornamento del 26 novembre:** Blizzard [ha corretto il bug il 25 novembre](/it/news/epic-riding-fixed-for-paladins-and-warlocks/). Chi ha già finito la missione impara Journeyman Riding gratis da un PNG.

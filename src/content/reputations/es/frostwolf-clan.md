@@ -3,7 +3,7 @@ title: "Guía de reputación de Frostwolf Clan"
 description: "Frostwolf Clan en WoW Forever, a partir de Classic Era: la reputación de Alterac Valley para la Horda, las entregas, las Marks of Honor, las misiones de la Frostwolf Insignia y cada recompensa por nivel."
 lang: es
 manual: true
-updated: 2026-09-15
+updated: 2026-11-26
 faction: "Frostwolf Clan"
 zone: "Alterac Mountains y Alterac Valley"
 side: horde
@@ -32,6 +32,8 @@ En **The Uplands**, al este de las Alterac Mountains. La base tiene una entrada 
 | Exalted | 1.000 | 42.000 |
 
 ## De dónde sale la reputación
+
+**Cambiado en Forever el 25 de noviembre.** Matar al General enemigo da ahora mucha menos reputación. Las torres, cementerios, minas, Lieutenants y PNJ enemigos dan más, y la bonificación por partida larga empieza a los 20 minutos en lugar de a los 60. Blizzard no publicó las nuevas cifras, así que las tablas de abajo todavía muestran Classic Era. Más en [nuestro post sobre Alterac Valley](/es/news/alterac-valley-rewards-objectives-over-the-general/).
 
 ### Durante la batalla
 

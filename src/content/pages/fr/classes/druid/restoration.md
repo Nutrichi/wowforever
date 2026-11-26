@@ -3,7 +3,7 @@ title: "Restoration Druid : le guide de soin pour WoW Forever"
 metaTitle: "Restoration Druid dans WoW Forever : build, talents, macros et FAQ"
 description: "Le Restoration Druid dans WoW Forever : ce qui change pour le soigneur, forces et faiblesses, le build standard 11/0/40, la Dual Specialization, des macros utiles, les cadres d'unité et les questions les plus fréquentes."
 short: "Restoration Druid"
-updated: 2026-11-22
+updated: 2026-11-26
 lang: fr
 manual: true
 faq:
@@ -123,14 +123,25 @@ Le meilleur enchantement par emplacement. Mettez-les sur l’équipement que vou
 
 | Emplacement | Meilleur choix |
 |---|---|
-| **Arme à deux mains** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248636"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Mighty Healing Power</a> |
-| **Arme à une main** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=22750"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Healing Power</a> |
-| **Main gauche** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219579"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Off-Hand - Wisdom</a> |
+| **Arme à deux mains** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Arme à une main** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> |
+| **Main gauche** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1219578"><img class="wf-wh__icon" src="/wh/inv_enchant_formulasuperior_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Off-Hand - Excellent Spirit</a> |
+| **Tête** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=15406"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcane Amalgamation</a> |
 | **Cou** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1249058"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Necklace - Healing Power</a> |
-| **Torse** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254770"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
+| **Cape** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20014"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Greater Resistance</a> |
+| **Torse** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20025"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Chest - Greater Stats</a> |
 | **Mains** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254770"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
-| **Jambes** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254770"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
-| **Pieds** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1254770"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Mystic Rugged Armor Kit</a> |
+| **Jambes** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=15406"><img class="wf-wh__icon" src="/wh/temp.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Arcane Amalgamation</a> |
+| **Pieds** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1328948"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Boots - Speed</a> |
+
+<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248757"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Insight</a> est l'enchantement le plus fort pour Restoration. Son effet se déclenche souvent et ajoute en moyenne environ 20 % à votre Spirit, ce qui soigne plus que même <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248636"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant 2H Weapon - Mighty Healing Power</a> sur une arme à deux mains.
+
+| Type | Meilleur choix |
+|---|---|
+| **Potion** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=287968"><img class="wf-wh__icon" src="/wh/inv_potion_70.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Mana Potion</a> à <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13444"><img class="wf-wh__icon" src="/wh/inv_potion_76.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Mana Potion</a> |
+| **Élixir** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250331"><img class="wf-wh__icon" src="/wh/inv_potion_128.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Lesser Cleric's Elixir</a> à <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250333"><img class="wf-wh__icon" src="/wh/inv_potion_150.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Cleric's Elixir</a> |
+| **Buff d’arme** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20745"><img class="wf-wh__icon" src="/wh/inv_potion_98.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Mana Oil</a> à <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20748"><img class="wf-wh__icon" src="/wh/inv_potion_100.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brilliant Mana Oil</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20744"><img class="wf-wh__icon" src="/wh/inv_poison_mindnumbing.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Minor Wizard Oil</a> à <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=20749"><img class="wf-wh__icon" src="/wh/inv_potion_105.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brilliant Wizard Oil</a> |
+| **Nourriture** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=249865"><img class="wf-wh__icon" src="/wh/inv_drink_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Peace Tea</a> à <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=249870"><img class="wf-wh__icon" src="/wh/inv_drink_15.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Sage's Tea</a> |
 
 ## Dual Specialization et autres builds
 

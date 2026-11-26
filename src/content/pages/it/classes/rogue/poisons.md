@@ -3,7 +3,7 @@ title: "Guida ai Poisons del Rogue in WoW Forever"
 metaTitle: "WoW Forever, Poisons del Rogue: missioni, ranghi, cariche e reagenti"
 description: "Come un Rogue sblocca i Poisons in WoW Forever: le missioni di Alleanza e Orda al livello 20, ogni veleno e rango, le nuove cariche, i reagenti e cosa cambia per critici e potenza d'attacco."
 short: "Rogue Poisons"
-updated: 2026-11-07
+updated: 2026-11-26
 lang: it
 manual: true
 faq:
@@ -105,7 +105,7 @@ Il massimo è cinque volte il tuo livello: 100 al livello 20, 300 al livello 60.
 
 ## Reagenti
 
-Ogni reagente viene da un mercante: i fornitori di veleni e gli Shady Dealer vicino agli istruttori dei Rogue, come <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> e <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> a Stormwind. Ogni creazione dà un veleno; Blinding Powder ne dà tre.
+Ogni reagente viene da un mercante: i fornitori di veleni e gli Shady Dealer vicino agli istruttori dei Rogue, come <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> e <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> a Stormwind. Ogni creazione dà un veleno; Blinding Powder ne dà tre. Dagli hotfix del 25 novembre tutti i veleni e la Blinding Powder per ora si vincolano alla raccolta, mentre Blizzard corregge un bug. Puoi crearli e usarli, ma non venderli né scambiarli.
 
 | Veleno | Reagenti |
 |---|---|

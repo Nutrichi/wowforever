@@ -8,7 +8,7 @@ lang: nl
 manual: true
 faq:
   - q: "Hoeveel pets zitten er in WoW Forever?"
-    a: "In de spelbestanden zitten 96 companion pets: 38 nieuwe en 58 uit Classic."
+    a: "In de spelbestanden zitten 97 companion pets: 39 nieuwe en 58 uit Classic."
   - q: "Gelden pets voor het hele account in WoW Forever?"
     a: "De spelgegevens markeren elke pet als geldig voor het hele account, en het item leert je de pet aan in plaats van hem uit je tassen op te roepen. Blizzard heeft het deel over het account zelf niet bevestigd."
   - q: "Welke pets zijn nieuw in WoW Forever?"
@@ -17,7 +17,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/items/miscellaneous/companions"
 ---
-World of Warcraft: Forever heeft 96 companion pets in zijn bestanden: 38 nieuwe en 58 uit Classic. Deze gids zet ze allemaal op een rij met waar ze vandaan komen, en elke pet heeft een eigen pagina met het item, de bron en wat er veranderde.
+World of Warcraft: Forever heeft 97 companion pets in zijn bestanden: 39 nieuwe en 58 uit Classic. Deze gids zet ze allemaal op een rij met waar ze vandaan komen, en elke pet heeft een eigen pagina met het item, de bron en wat er veranderde.
 
 In WoW Forever leer je een pet: het item leert hem je aan en de pet wordt een spell, dus hij neemt geen plaats meer in je tassen. Oproepen gaat meteen, met een cooldown van 1,5 seconden.
 
@@ -58,6 +58,7 @@ De lijst komt uit de spelbestanden en de itemdatabase van WoW Forever. Bij pets 
 | [Shadowgale Squirrel](/nl/guides/pets/shadowgale-squirrel/ "wh:item=280347:q1:inv_squirrelflying_albino") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=254151">Vayn Moongaze</a>, 52 zilver en 63 koper | Zephras Isle |
 | [Sinister Squashling](/nl/guides/pets/sinister-squashling/ "wh:item=33154:q2:inv_misc_food_59") | Nog niet bekend |  |
 | [Snowy Wolf Pup](/nl/guides/pets/snowy-wolf-pup/ "wh:item=269830:q1:ability_mount_whitedirewolf") | Nog niet bekend |  |
+| [Spawn of Grubthor](/nl/guides/pets/spawn-of-grubthor/ "wh:item=286604:q2:inv_qiraj_skinsandworm") | Nog niet bekend |  |
 | [Spectral Bear Cub](/nl/guides/pets/spectral-bear-cub/ "wh:item=277714:q3:inv_pet_babyblizzardbear") | Legacy-beloning: 25 punten |  |
 | [Tallstrider Hatchling](/nl/guides/pets/tallstrider-hatchling/ "wh:item=284176:q2:ability_hunter_pet_tallstrider") | Drop: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> | Darkshore |
 | [Undercity Cockroach](/nl/guides/pets/undercity-cockroach/ "wh:item=280699:q1:spell_shadow_carrionswarm") | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 zilver en 63 koper | Undercity |

@@ -3,7 +3,7 @@ title: "Rogue Poisons guide for WoW Forever"
 metaTitle: "WoW Forever Rogue Poisons: quests, ranks, charges and reagents"
 description: "How a Rogue unlocks Poisons in WoW Forever: the Alliance and Horde quests at level 20, every poison and rank, the new charges, the reagents and what changed for crits and attack power."
 short: "Rogue Poisons"
-updated: 2026-11-07
+updated: 2026-11-26
 lang: en
 faq:
   - q: "When can a Rogue make Poisons in WoW Forever?"
@@ -104,7 +104,7 @@ The maximum is five times your level: 100 at level 20, 300 at level 60. Higher r
 
 ## Reagents
 
-Every reagent comes from a vendor: the poison suppliers and Shady Dealers near the Rogue trainers, such as <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> and <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> in Stormwind. A craft makes one poison; Blinding Powder makes three.
+Every reagent comes from a vendor: the poison suppliers and Shady Dealers near the Rogue trainers, such as <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> and <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> in Stormwind. A craft makes one poison; Blinding Powder makes three. Since the hotfixes of 25 November, all poisons and Blinding Powder are bind on pickup for now, while Blizzard fixes a bug. You can make and use them, but not sell or trade them.
 
 | Poison | Reagents |
 |---|---|

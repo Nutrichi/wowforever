@@ -3,7 +3,7 @@ title: "Rufguide für Stormpike Guard"
 description: "Stormpike Guard in WoW Forever, auf Basis von Classic Era: Ruf aus Alterac Valley für die Allianz, Abgaben, Marks of Honor, die Quests der Stormpike Insignia und jede Belohnung pro Rufstufe."
 lang: de
 manual: true
-updated: 2026-09-15
+updated: 2026-11-26
 faction: "Stormpike Guard"
 zone: "Alterac Mountains und Alterac Valley"
 side: alliance
@@ -32,6 +32,8 @@ In **The Headlands** im Süden der Alterac Mountains. Das Lager hat einen Eingan
 | Exalted | 1.000 | 42.000 |
 
 ## Woher der Ruf kommt
+
+**In Forever am 25. November geändert.** Den gegnerischen General zu töten gibt jetzt viel weniger Ruf. Türme, Friedhöfe, Minen, Lieutenants und gegnerische NPCs geben mehr, und der Bonus für ein langes Match beginnt nach 20 statt nach 60 Minuten. Blizzard hat die neuen Zahlen nicht veröffentlicht, die Tabellen unten zeigen also noch Classic Era. Mehr in [unserem Beitrag zu Alterac Valley](/de/news/alterac-valley-rewards-objectives-over-the-general/).
 
 ### Während der Schlacht
 

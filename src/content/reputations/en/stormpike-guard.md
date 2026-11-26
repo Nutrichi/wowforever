@@ -2,7 +2,7 @@
 title: "Stormpike Guard reputation guide"
 description: "Stormpike Guard in WoW Forever, based on Classic Era: reputation from Alterac Valley for the Alliance, turn-ins, Marks of Honor, the Stormpike Insignia quests and every reward per standing."
 lang: en
-updated: 2026-09-15
+updated: 2026-11-26
 faction: "Stormpike Guard"
 zone: "Alterac Mountains and Alterac Valley"
 side: alliance
@@ -31,6 +31,8 @@ At **The Headlands** in the south of the Alterac Mountains. The base has an entr
 | Exalted | 1,000 | 42,000 |
 
 ## Where the reputation comes from
+
+**Changed in Forever on 25 November.** Killing the enemy General now gives a lot less reputation. Towers, graveyards, mines, Lieutenants and enemy NPCs give more, and the bonus for a long match starts after 20 minutes instead of 60. Blizzard did not publish the new numbers, so the tables below still show Classic Era. More in [our post about Alterac Valley](/news/alterac-valley-rewards-objectives-over-the-general/).
 
 ### During the battle
 

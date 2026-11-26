@@ -19,3 +19,5 @@ Blizzard confirmed the bug on the European forums:
 > We've found the bug here, and we think it's affecting both Paladins and Warlocks. We're working on a fix, but the fix is going to take another day or two.
 
 So hold off on buying another epic mount for now. At level 40 the class quest [does teach the normal riding skill](/news/paladins-and-warlocks-ride-for-free-at-level-40/), so this only touches the epic version. The [Dreadsteed](/guides/mounts/dreadsteed/) and the [Charger](/guides/mounts/charger/) themselves work.
+
+**Update 26 November:** Blizzard [fixed the bug on 25 November](/news/epic-riding-fixed-for-paladins-and-warlocks/). Players who already finished the quest learn Journeyman Riding for free from their trainer NPC.

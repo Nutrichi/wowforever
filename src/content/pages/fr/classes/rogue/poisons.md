@@ -3,7 +3,7 @@ title: "Guide des Poisons du Rogue dans WoW Forever"
 metaTitle: "WoW Forever, Poisons du Rogue : quêtes, rangs, charges, composants"
 description: "Les Poisons du Rogue dans WoW Forever : les quêtes Alliance et Horde au niveau 20, chaque poison et rang, les nouvelles charges, les composants et ce qui change."
 short: "Rogue Poisons"
-updated: 2026-11-07
+updated: 2026-11-26
 lang: fr
 manual: true
 faq:
@@ -105,7 +105,7 @@ Le maximum est cinq fois votre niveau : 100 au niveau 20, 300 au niveau 60. Les 
 
 ## Composants
 
-Chaque composant vient d'un marchand : les fournisseurs de poisons et les Shady Dealers près des maîtres des Rogues, comme <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> et <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> à Stormwind. Une fabrication donne un poison ; Blinding Powder en donne trois.
+Chaque composant vient d'un marchand : les fournisseurs de poisons et les Shady Dealers près des maîtres des Rogues, comme <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> et <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> à Stormwind. Une fabrication donne un poison ; Blinding Powder en donne trois. Depuis les hotfixes du 25 novembre, tous les poisons et la Blinding Powder sont liés quand ramassés pour l'instant, le temps que Blizzard corrige un bug. Vous pouvez les fabriquer et les utiliser, mais ni les vendre ni les échanger.
 
 | Poison | Composants |
 |---|---|

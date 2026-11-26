@@ -1960,6 +1960,31 @@
    }
   },
   {
+   "slug": "spawn-of-grubthor",
+   "name": "Spawn of Grubthor",
+   "icon": "inv_qiraj_skinsandworm",
+   "quality": 2,
+   "new": true,
+   "kind": "unknown",
+   "zones": [],
+   "source": {
+    "en": "Not known yet",
+    "nl": "Nog niet bekend",
+    "fr": "Pas encore connue",
+    "es": "Aún no se sabe",
+    "it": "Non ancora noto",
+    "de": "Noch nicht bekannt"
+   },
+   "where": {
+    "en": "",
+    "nl": "",
+    "fr": "",
+    "es": "",
+    "it": "",
+    "de": ""
+   }
+  },
+  {
    "slug": "spectral-bear-cub",
    "name": "Spectral Bear Cub",
    "icon": "inv_pet_babyblizzardbear",

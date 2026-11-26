@@ -3,7 +3,7 @@ title: "Reputatiegids voor Frostwolf Clan"
 description: "Frostwolf Clan in WoW Forever, op basis van Classic Era: reputatie uit Alterac Valley voor de Horde, inleveringen, Marks of Honor, de quests voor de Frostwolf Insignia en elke beloning per standing."
 lang: nl
 manual: true
-updated: 2026-09-15
+updated: 2026-11-26
 faction: "Frostwolf Clan"
 zone: "Alterac Mountains en Alterac Valley"
 side: horde
@@ -32,6 +32,8 @@ In **The Uplands** in het oosten van de Alterac Mountains. De basis heeft een in
 | Exalted | 1.000 | 42.000 |
 
 ## Waar de reputatie vandaan komt
+
+**Gewijzigd in Forever op 25 november.** De vijandige General doden geeft nu veel minder reputatie. Torens, graveyards, mijnen, Lieutenants en vijandige NPC's geven meer, en de bonus voor een lange match begint na 20 minuten in plaats van 60. Blizzard publiceerde de nieuwe getallen niet, dus de tabellen hieronder tonen nog Classic Era. Meer in [onze post over Alterac Valley](/nl/news/alterac-valley-rewards-objectives-over-the-general/).
 
 ### Tijdens het gevecht
 

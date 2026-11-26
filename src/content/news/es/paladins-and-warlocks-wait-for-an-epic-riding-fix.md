@@ -20,3 +20,5 @@ Blizzard confirmó el error en los foros europeos:
 > We've found the bug here, and we think it's affecting both Paladins and Warlocks. We're working on a fix, but the fix is going to take another day or two.
 
 Así que espera antes de comprar otra montura épica. En el nivel 40, la misión de clase [sí enseña la equitación normal](/es/news/paladins-and-warlocks-ride-for-free-at-level-40/), así que solo afecta a la versión épica. El [Dreadsteed](/es/guides/mounts/dreadsteed/) y el [Charger](/es/guides/mounts/charger/) en sí funcionan.
+
+**Actualización del 26 de noviembre:** Blizzard [corrigió el error el 25 de noviembre](/es/news/epic-riding-fixed-for-paladins-and-warlocks/). Quien ya terminó la misión aprende Journeyman Riding gratis con un PNJ.

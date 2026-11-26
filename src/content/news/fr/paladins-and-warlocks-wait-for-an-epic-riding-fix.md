@@ -20,3 +20,5 @@ Blizzard a confirmé le bug sur les forums européens :
 > We've found the bug here, and we think it's affecting both Paladins and Warlocks. We're working on a fix, but the fix is going to take another day or two.
 
 Attendez donc avant d'acheter une autre monture épique. Au niveau 40, la quête de classe [apprend bien la monte normale](/fr/news/paladins-and-warlocks-ride-for-free-at-level-40/), donc seule la version épique est touchée. Le [Dreadsteed](/fr/guides/mounts/dreadsteed/) et le [Charger](/fr/guides/mounts/charger/) eux-mêmes fonctionnent.
+
+**Mise à jour du 26 novembre :** Blizzard [a corrigé le bug le 25 novembre](/fr/news/epic-riding-fixed-for-paladins-and-warlocks/). Ceux qui ont déjà fini la quête apprennent Journeyman Riding gratuitement auprès d'un PNJ.

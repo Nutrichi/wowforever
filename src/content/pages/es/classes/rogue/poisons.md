@@ -3,7 +3,7 @@ title: "Guía de los Poisons del Rogue en WoW Forever"
 metaTitle: "WoW Forever, Poisons del Rogue: misiones, rangos, cargas y componentes"
 description: "Cómo desbloquea un Rogue los Poisons en WoW Forever: las misiones de Alianza y Horda a nivel 20, cada veneno y rango, las nuevas cargas, los componentes y qué cambia."
 short: "Rogue Poisons"
-updated: 2026-11-07
+updated: 2026-11-26
 lang: es
 manual: true
 faq:
@@ -105,7 +105,7 @@ El máximo es cinco veces tu nivel: 100 a nivel 20, 300 a nivel 60. Los rangos a
 
 ## Componentes
 
-Todos los componentes vienen de un vendedor: los proveedores de venenos y los Shady Dealers junto a los instructores de Rogue, como <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> y <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> en Stormwind. Cada creación da un veneno; Blinding Powder da tres.
+Todos los componentes vienen de un vendedor: los proveedores de venenos y los Shady Dealers junto a los instructores de Rogue, como <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> y <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> en Stormwind. Cada creación da un veneno; Blinding Powder da tres. Desde los hotfixes del 25 de noviembre, todos los venenos y el Blinding Powder se ligan al recogerse por ahora, mientras Blizzard corrige un error. Puedes crearlos y usarlos, pero no venderlos ni intercambiarlos.
 
 | Veneno | Componentes |
 |---|---|

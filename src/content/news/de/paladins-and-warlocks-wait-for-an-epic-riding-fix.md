@@ -20,3 +20,5 @@ Blizzard hat den Fehler im europäischen Forum bestätigt:
 > We've found the bug here, and we think it's affecting both Paladins and Warlocks. We're working on a fix, but the fix is going to take another day or two.
 
 Warte also vorerst mit dem Kauf eines anderen epischen Reittiers. Auf Level 40 [lehrt die Klassenquest die normale Reitfertigkeit](/de/news/paladins-and-warlocks-ride-for-free-at-level-40/) sehr wohl, es geht also nur um die epische Version. Das [Dreadsteed](/de/guides/mounts/dreadsteed/) und der [Charger](/de/guides/mounts/charger/) selbst funktionieren.
+
+**Update vom 26. November:** Blizzard [hat den Fehler am 25. November behoben](/de/news/epic-riding-fixed-for-paladins-and-warlocks/). Wer die Quest schon erledigt hat, lernt Journeyman Riding kostenlos bei einem NPC.

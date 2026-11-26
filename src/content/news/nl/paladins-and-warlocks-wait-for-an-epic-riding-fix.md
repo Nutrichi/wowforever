@@ -20,3 +20,5 @@ Blizzard bevestigde de bug op het Europese forum:
 > We've found the bug here, and we think it's affecting both Paladins and Warlocks. We're working on a fix, but the fix is going to take another day or two.
 
 Wacht dus nog even met een andere epic mount te kopen. Op level 40 [leert de classquest wel de gewone riding-skill](/nl/news/paladins-and-warlocks-ride-for-free-at-level-40/), dus dit gaat alleen over de epic versie. De [Dreadsteed](/nl/guides/mounts/dreadsteed/) en de [Charger](/nl/guides/mounts/charger/) zelf werken.
+
+**Update 26 november:** Blizzard [loste de bug op 25 november op](/nl/news/epic-riding-fixed-for-paladins-and-warlocks/). Wie de quest al deed, leert Journeyman Riding gratis bij een NPC.

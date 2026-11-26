@@ -8,7 +8,7 @@ lang: es
 manual: true
 faq:
   - q: "¿Cuántas mascotas hay en WoW Forever?"
-    a: "Los archivos del juego contienen 96 mascotas de compañía: 38 nuevas y 58 de Classic."
+    a: "Los archivos del juego contienen 97 mascotas de compañía: 39 nuevas y 58 de Classic."
   - q: "¿Son las mascotas de toda la cuenta en WoW Forever?"
     a: "Los datos del juego marcan cada mascota como de toda la cuenta, y el objeto enseña la mascota en lugar de invocarla desde las bolsas. Blizzard no ha confirmado lo de la cuenta."
   - q: "¿Qué mascotas son nuevas en WoW Forever?"
@@ -17,7 +17,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/items/miscellaneous/companions"
 ---
-World of Warcraft: Forever tiene 96 mascotas de compañía en sus archivos: 38 nuevas y 58 de Classic. Esta guía las recoge todas con su origen, y cada mascota tiene su propia página con el objeto, el origen y lo que cambió.
+World of Warcraft: Forever tiene 97 mascotas de compañía en sus archivos: 39 nuevas y 58 de Classic. Esta guía las recoge todas con su origen, y cada mascota tiene su propia página con el objeto, el origen y lo que cambió.
 
 En WoW Forever una mascota se aprende: el objeto la enseña y se convierte en un hechizo, así que ya no ocupa sitio en las bolsas. Invocarla es instantáneo, con un tiempo de reutilización de 1,5 segundos.
 
@@ -58,6 +58,7 @@ La lista sale de los archivos del juego y de la base de objetos de WoW Forever. 
 | [Shadowgale Squirrel](/es/guides/pets/shadowgale-squirrel/ "wh:item=280347:q1:inv_squirrelflying_albino") | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=254151">Vayn Moongaze</a>, 52 de plata y 63 de cobre | Zephras Isle |
 | [Sinister Squashling](/es/guides/pets/sinister-squashling/ "wh:item=33154:q2:inv_misc_food_59") | Aún no se sabe |  |
 | [Snowy Wolf Pup](/es/guides/pets/snowy-wolf-pup/ "wh:item=269830:q1:ability_mount_whitedirewolf") | Aún no se sabe |  |
+| [Spawn of Grubthor](/es/guides/pets/spawn-of-grubthor/ "wh:item=286604:q2:inv_qiraj_skinsandworm") | Aún no se sabe |  |
 | [Spectral Bear Cub](/es/guides/pets/spectral-bear-cub/ "wh:item=277714:q3:inv_pet_babyblizzardbear") | Recompensa Legacy: 25 puntos |  |
 | [Tallstrider Hatchling](/es/guides/pets/tallstrider-hatchling/ "wh:item=284176:q2:ability_hunter_pet_tallstrider") | Botín: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> | Darkshore |
 | [Undercity Cockroach](/es/guides/pets/undercity-cockroach/ "wh:item=280699:q1:spell_shadow_carrionswarm") | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 de plata y 63 de cobre | Undercity |

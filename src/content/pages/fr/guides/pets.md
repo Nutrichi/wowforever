@@ -8,7 +8,7 @@ lang: fr
 manual: true
 faq:
   - q: "Combien de mascottes compte WoW Forever ?"
-    a: "Les fichiers du jeu contiennent 96 mascottes de compagnie : 38 nouvelles et 58 de Classic."
+    a: "Les fichiers du jeu contiennent 97 mascottes de compagnie : 39 nouvelles et 58 de Classic."
   - q: "Les mascottes valent-elles pour tout le compte dans WoW Forever ?"
     a: "Les données du jeu indiquent que chaque mascotte vaut pour tout le compte, et l'objet apprend la mascotte au lieu de l'invoquer depuis les sacs. Blizzard n'a pas confirmé la partie sur le compte."
   - q: "Quelles mascottes sont nouvelles dans WoW Forever ?"
@@ -17,7 +17,7 @@ sources:
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/items/miscellaneous/companions"
 ---
-World of Warcraft: Forever compte 96 mascottes de compagnie dans ses fichiers : 38 nouvelles et 58 de Classic. Ce guide les recense toutes avec leur origine, et chaque mascotte a sa propre page avec l'objet, la source et ce qui a changé.
+World of Warcraft: Forever compte 97 mascottes de compagnie dans ses fichiers : 39 nouvelles et 58 de Classic. Ce guide les recense toutes avec leur origine, et chaque mascotte a sa propre page avec l'objet, la source et ce qui a changé.
 
 Dans WoW Forever, une mascotte s'apprend : l'objet l'enseigne et elle devient un sort, donc elle ne prend plus de place dans les sacs. L'invocation est instantanée, avec un temps de recharge de 1,5 seconde.
 
@@ -58,6 +58,7 @@ La liste vient des fichiers du jeu et de la base d'objets de WoW Forever. Pour l
 | [Shadowgale Squirrel](/fr/guides/pets/shadowgale-squirrel/ "wh:item=280347:q1:inv_squirrelflying_albino") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=254151">Vayn Moongaze</a>, 52 pa 63 pc | Zephras Isle |
 | [Sinister Squashling](/fr/guides/pets/sinister-squashling/ "wh:item=33154:q2:inv_misc_food_59") | Pas encore connue |  |
 | [Snowy Wolf Pup](/fr/guides/pets/snowy-wolf-pup/ "wh:item=269830:q1:ability_mount_whitedirewolf") | Pas encore connue |  |
+| [Spawn of Grubthor](/fr/guides/pets/spawn-of-grubthor/ "wh:item=286604:q2:inv_qiraj_skinsandworm") | Pas encore connue |  |
 | [Spectral Bear Cub](/fr/guides/pets/spectral-bear-cub/ "wh:item=277714:q3:inv_pet_babyblizzardbear") | Récompense Legacy: 25 points |  |
 | [Tallstrider Hatchling](/fr/guides/pets/tallstrider-hatchling/ "wh:item=284176:q2:ability_hunter_pet_tallstrider") | Butin: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2172">Strider Clutchmother</a> | Darkshore |
 | [Undercity Cockroach](/fr/guides/pets/undercity-cockroach/ "wh:item=280699:q1:spell_shadow_carrionswarm") | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=8403">Jeremiah Payson</a>, 52 pa 63 pc | Undercity |

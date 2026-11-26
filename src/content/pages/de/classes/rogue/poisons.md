@@ -3,7 +3,7 @@ title: "Guide zu den Poisons des Rogues in WoW Forever"
 metaTitle: "WoW Forever Rogue Poisons: Quests, Ränge, Ladungen und Reagenzien"
 description: "So schaltet ein Rogue in WoW Forever Poisons frei: die Quests von Allianz und Horde ab Level 20, jedes Gift und jeder Rang, die neuen Ladungen, die Reagenzien und was sich ändert."
 short: "Rogue Poisons"
-updated: 2026-11-07
+updated: 2026-11-26
 lang: de
 manual: true
 faq:
@@ -105,7 +105,7 @@ Das Maximum ist das Fünffache deines Levels: 100 auf Level 20, 300 auf Level 60
 
 ## Reagenzien
 
-Jedes Reagenz kommt von einem Händler: den Giftlieferanten und Shady Dealers bei den Rogue-Lehrern, etwa <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> und <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> in Stormwind. Einmal herstellen gibt ein Gift; Blinding Powder gibt drei.
+Jedes Reagenz kommt von einem Händler: den Giftlieferanten und Shady Dealers bei den Rogue-Lehrern, etwa <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> und <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> in Stormwind. Einmal herstellen gibt ein Gift; Blinding Powder gibt drei. Seit den Hotfixes vom 25. November sind alle Gifte und Blinding Powder vorerst beim Aufheben gebunden, während Blizzard einen Fehler behebt. Du kannst sie herstellen und nutzen, aber nicht verkaufen oder handeln.
 
 | Gift | Reagenzien |
 |---|---|

@@ -3,7 +3,7 @@ title: "Guide de réputation Stormpike Guard"
 description: "Stormpike Guard dans WoW Forever, sur la base de Classic Era : la réputation d'Alterac Valley pour l'Alliance, les remises, les Marks of Honor, les quêtes de la Stormpike Insignia et chaque récompense par niveau."
 lang: fr
 manual: true
-updated: 2026-09-15
+updated: 2026-11-26
 faction: "Stormpike Guard"
 zone: "Alterac Mountains et Alterac Valley"
 side: alliance
@@ -32,6 +32,8 @@ La Stormpike Guard est une expédition de nains du clan Stormpike, originaires d
 | Exalted | 1 000 | 42 000 |
 
 ## D'où vient la réputation
+
+**Modifié dans Forever le 25 novembre.** Tuer le General ennemi rapporte maintenant beaucoup moins de réputation. Les tours, cimetières, mines, Lieutenants et PNJ ennemis rapportent plus, et le bonus de partie longue commence après 20 minutes au lieu de 60. Blizzard n'a pas publié les nouveaux chiffres, donc les tableaux ci-dessous montrent encore Classic Era. Plus dans [notre post sur Alterac Valley](/fr/news/alterac-valley-rewards-objectives-over-the-general/).
 
 ### Pendant la bataille
 

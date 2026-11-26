@@ -3,7 +3,7 @@ title: "Gids voor de Poisons van de Rogue in WoW Forever"
 metaTitle: "WoW Forever Rogue Poisons: quests, rangen, charges en reagents"
 description: "Zo krijgt een Rogue Poisons in WoW Forever: de quests van Alliance en Horde op level 20, elk gif en elke rang, de nieuwe charges, de reagents en wat er verandert voor crits en attack power."
 short: "Rogue Poisons"
-updated: 2026-11-07
+updated: 2026-11-26
 lang: nl
 manual: true
 faq:
@@ -105,7 +105,7 @@ Het maximum is vijf keer je level: 100 op level 20, 300 op level 60. Hogere rang
 
 ## Reagents
 
-Elk reagent komt van een handelaar: de poison suppliers en Shady Dealers bij de Rogue-trainers, zoals <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> en <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> in Stormwind. Eén keer maken geeft één gif; Blinding Powder geeft er drie.
+Elk reagent komt van een handelaar: de poison suppliers en Shady Dealers bij de Rogue-trainers, zoals <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1326">Sloan McCoy</a> en <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1325">Jasper Fel</a> in Stormwind. Eén keer maken geeft één gif; Blinding Powder geeft er drie. Sinds de hotfixes van 25 november zijn alle poisons en Blinding Powder voorlopig bind on pickup, terwijl Blizzard een bug oplost. Je kunt ze maken en gebruiken, maar niet verkopen of verhandelen.
 
 | Gif | Reagents |
 |---|---|

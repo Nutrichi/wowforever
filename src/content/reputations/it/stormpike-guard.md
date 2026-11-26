@@ -3,7 +3,7 @@ title: "Guida alla reputazione Stormpike Guard"
 description: "Stormpike Guard in WoW Forever, sulla base di Classic Era: la reputazione di Alterac Valley per l'Alleanza, le consegne, i Marks of Honor, le missioni della Stormpike Insignia e ogni ricompensa per livello."
 lang: it
 manual: true
-updated: 2026-09-15
+updated: 2026-11-26
 faction: "Stormpike Guard"
 zone: "Alterac Mountains e Alterac Valley"
 side: alliance
@@ -32,6 +32,8 @@ A **The Headlands**, nel sud delle Alterac Mountains. La base ha un ingresso per
 | Exalted | 1.000 | 42.000 |
 
 ## Da dove arriva la reputazione
+
+**Cambiato in Forever il 25 novembre.** Uccidere il General nemico ora dà molta meno reputazione. Torri, cimiteri, miniere, Lieutenants e PNG nemici danno di più, e il bonus per una partita lunga parte dopo 20 minuti invece di 60. Blizzard non ha pubblicato i nuovi numeri, quindi le tabelle qui sotto mostrano ancora Classic Era. Di più nel [nostro post su Alterac Valley](/it/news/alterac-valley-rewards-objectives-over-the-general/).
 
 ### Durante la battaglia
 

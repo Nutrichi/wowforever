@@ -3,7 +3,7 @@ title: "Guide de réputation Frostwolf Clan"
 description: "Frostwolf Clan dans WoW Forever, sur la base de Classic Era : la réputation d'Alterac Valley pour la Horde, les remises, les Marks of Honor, les quêtes de la Frostwolf Insignia et chaque récompense par niveau."
 lang: fr
 manual: true
-updated: 2026-09-15
+updated: 2026-11-26
 faction: "Frostwolf Clan"
 zone: "Alterac Mountains et Alterac Valley"
 side: horde
@@ -32,6 +32,8 @@ Le Frostwolf Clan est un clan orc qui a fait des Alterac Mountains sa terre apr�
 | Exalted | 1 000 | 42 000 |
 
 ## D'où vient la réputation
+
+**Modifié dans Forever le 25 novembre.** Tuer le General ennemi rapporte maintenant beaucoup moins de réputation. Les tours, cimetières, mines, Lieutenants et PNJ ennemis rapportent plus, et le bonus de partie longue commence après 20 minutes au lieu de 60. Blizzard n'a pas publié les nouveaux chiffres, donc les tableaux ci-dessous montrent encore Classic Era. Plus dans [notre post sur Alterac Valley](/fr/news/alterac-valley-rewards-objectives-over-the-general/).
 
 ### Pendant la bataille
 
