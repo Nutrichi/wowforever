@@ -36,26 +36,46 @@ export function identity(): string | null {
   }
 }
 
-/** De tellingen van een reeks posts, in één verzoek. */
+/**
+ * De tellingen van een reeks posts. Zo weinig verzoeken als kan: de lijst
+ * wordt alleen opgesplitst als de URL te lang wordt. Met alle posts in één
+ * URL gaf Supabase vanaf 27 november 2026 een 400 (URL van ongeveer 19 KB).
+ */
+const MAX_LIST = 7000; // tekens van de gecodeerde lijst per verzoek
+
 export async function likeCounts(postIds: string[]): Promise<Record<string, number>> {
   if (!supabaseEnabled || postIds.length === 0) return {};
 
   // PostgREST wil de lijst tussen haakjes; elk item tussen aanhalingstekens.
-  const list = postIds.map((id) => `"${id.replace(/"/g, '')}"`).join(',');
+  const lists: string[] = [];
+  let current = '';
+  for (const id of postIds) {
+    const item = encodeURIComponent(`"${id.replace(/"/g, '')}"`);
+    const next = current ? `${current}${encodeURIComponent(',')}${item}` : item;
+    if (current && next.length > MAX_LIST) {
+      lists.push(current);
+      current = item;
+    } else {
+      current = next;
+    }
+  }
+  if (current) lists.push(current);
+
   // De sleutel in de URL en geen eigen headers: dan is het een "simple
   // request" en stuurt de browser geen OPTIONS vooraf. Dat halveert de
   // logregels in Supabase (Nutri, 16 november 2026, Log Ingestion 1,77 van
   // 1 GB). De publishable key staat toch al in de broncode van de pagina.
-  const url = `${supabaseUrl}/rest/v1/post_stats?select=post_id,like_count&post_id=in.(${encodeURIComponent(list)})&apikey=${encodeURIComponent(supabaseKey)}`;
-
-  try {
-    const response = await fetch(url);
-    if (!response.ok) return {};
-    const rows: { post_id: string; like_count: number }[] = await response.json();
-    return Object.fromEntries(rows.map((row) => [row.post_id, row.like_count]));
-  } catch (error) {
-    return {};
-  }
+  const parts = await Promise.all(lists.map(async (list) => {
+    const url = `${supabaseUrl}/rest/v1/post_stats?select=post_id,like_count&post_id=in.(${list})&apikey=${encodeURIComponent(supabaseKey)}`;
+    try {
+      const response = await fetch(url);
+      if (!response.ok) return [];
+      return (await response.json()) as { post_id: string; like_count: number }[];
+    } catch (error) {
+      return [];
+    }
+  }));
+  return Object.fromEntries(parts.flat().map((row) => [row.post_id, row.like_count]));
 }
 
 /**

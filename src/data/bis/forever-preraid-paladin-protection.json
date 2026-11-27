@@ -5,7 +5,7 @@
  "spec": "protection",
  "role": "Tank",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-18",
+ "updated": "2026-11-27",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -51,12 +51,12 @@
      "source": "World drop"
     },
     {
-     "name": "Soulforge Spaulders",
+     "name": "Soulforge Pauldrons",
      "source": "Tier 0.5 Questline"
     },
     {
-     "name": "Soulforge Pauldrons",
-     "source": "Tier 0.5 Questline"
+     "name": "Warder's Pauldrons",
+     "source": "Crafted"
     }
    ]
   },
@@ -132,16 +132,16 @@
    "slot": "Waist",
    "items": [
     {
+     "name": "Deathbone Girdle",
+     "source": "Multiple bosses in Scholomance"
+    },
+    {
      "name": "Soulforge Belt",
      "source": "Tier 0.5 Questline"
     },
     {
-     "name": "Warder's Waistguard",
-     "source": "Crafted"
-    },
-    {
-     "name": "Vindicator's Belt",
-     "source": "Reals vendor in Booty Bay (100 Reals)"
+     "name": "Soulforge Waistguard",
+     "source": "Tier 0.5 Questline"
     }
    ]
   },
@@ -175,7 +175,7 @@
     },
     {
      "name": "Deathbone Sabatons",
-     "source": "Multiple Scholomance Bosses"
+     "source": "Multiple bosses in Scholomance"
     }
    ]
   },
@@ -189,6 +189,10 @@
     {
      "name": "Don Mauricio's Band of Domination",
      "source": "Darkmaster Gandling"
+    },
+    {
+     "name": "Naglering",
+     "source": "Golem Lord Argelmach (Blackrock Depths)"
     }
    ]
   },
@@ -202,6 +206,10 @@
     {
      "name": "Don Mauricio's Band of Domination",
      "source": "Darkmaster Gandling"
+    },
+    {
+     "name": "Naglering",
+     "source": "Golem Lord Argelmach (Blackrock Depths)"
     }
    ]
   },
@@ -234,8 +242,8 @@
      "source": "General Drakkisath"
     },
     {
-     "name": "Skullflame Shield",
-     "source": "World drop"
+     "name": "Draconian Aegis of the Legion",
+     "source": "Lord Valthalak (Upper Blackrock Spire)"
     }
    ]
   },

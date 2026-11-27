@@ -34485,6 +34485,42 @@
       "id": 279833,
       "icon": "inv_jewelry_necklace_15",
       "quality": 3
+    },
+    "Idol of Rejuvenation": {
+      "kind": "item",
+      "id": 22398,
+      "icon": "inv_relics_idolofrejuvenation",
+      "quality": 3
+    },
+    "Deathbone Girdle": {
+      "kind": "item",
+      "id": 14620,
+      "icon": "inv_belt_12",
+      "quality": 3
+    },
+    "Soulforge Waistguard": {
+      "kind": "item",
+      "id": 226986,
+      "icon": "inv_belt_11",
+      "quality": 3
+    },
+    "Naglering": {
+      "kind": "item",
+      "id": 11669,
+      "icon": "inv_jewelry_ring_05",
+      "quality": 3
+    },
+    "Draconian Aegis of the Legion": {
+      "kind": "item",
+      "id": 22336,
+      "icon": "inv_shield_02",
+      "quality": 3
+    },
+    "Mindtap Talisman": {
+      "kind": "item",
+      "id": 18371,
+      "icon": "inv_battery_02",
+      "quality": 3
     }
   }
 }

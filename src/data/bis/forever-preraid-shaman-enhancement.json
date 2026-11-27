@@ -5,7 +5,7 @@
  "spec": "enhancement",
  "role": "Melee DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-20",
+ "updated": "2026-11-27",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -145,11 +145,11 @@
    "slot": "Legs",
    "items": [
     {
-     "name": "Pristine Scorpid Leggings",
+     "name": "Ironfeather Leggings",
      "source": "Crafted with Leatherworking"
     },
     {
-     "name": "Ironfeather Leggings",
+     "name": "Pristine Scorpid Leggings",
      "source": "Crafted with Leatherworking"
     },
     {
@@ -218,8 +218,8 @@
    "slot": "Trinket 2",
    "items": [
     {
-     "name": "Adaptive Combat Assistant",
-     "source": "Pix Xizzix"
+     "name": "Heart of Wyrmthalak",
+     "source": "Overlord Wyrmthalak (Lower Blackrock Spire)"
     },
     {
      "name": "Hand of Justice",
@@ -247,10 +247,6 @@
   {
    "slot": "Totem",
    "items": [
-    {
-     "name": "Totem of the Storm",
-     "source": "World drop"
-    },
     {
      "name": "Totem of Rage",
      "source": "Magmus"

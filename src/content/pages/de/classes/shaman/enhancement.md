@@ -3,7 +3,7 @@ title: "Guide zum Enhancement Shaman in WoW Forever"
 metaTitle: "WoW Forever Enhancement Shaman: Build, Stormstrike, Totems"
 description: "Der Enhancement Shaman in WoW Forever: der Build für Level 60, Stormstrike und Maelstrom Weapon, Rotation, Totems, Mana, Tanken, Werte und Völker."
 short: "Enhancement Shaman"
-updated: 2026-11-22
+updated: 2026-11-27
 lang: de
 manual: true
 faq:
@@ -201,7 +201,23 @@ Die beste Verzauberung pro Platz. Verzaubere Ausrüstung, die du eine Weile beh�
 
 | Platz | Beste Wahl |
 |---|---|
-| **Waffe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1248805"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Revelation</a> |
+| **Waffe** | <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=20034"><img class="wf-wh__icon" src="/wh/inv_enchant_formulagood_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Weapon - Crusader</a> |
+| **Kopf** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Hals** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=249496"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Necklace - Strength</a> |
+| **Umhang** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=273604"><img class="wf-wh__icon" src="/wh/inv_misc_enchantedscroll.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Cloak - Agility</a> |
+| **Brust** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=16253"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Chest - Greater Stats</a> |
+| **Handgelenke** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=16246"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Bracer - Superior Strength</a> |
+| **Hände** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=273623"><img class="wf-wh__icon" src="/wh/inv_misc_enchantedscroll.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Enchant Gloves - Superior Strength</a> |
+| **Beine** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=18329"><img class="wf-wh__icon" src="/wh/inv_misc_gem_02.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Arcanum of Rapidity</a> |
+| **Füße** | <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=16245"><img class="wf-wh__icon" src="/wh/inv_misc_note_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Formula: Enchant Boots - Greater Agility</a> |
+
+| Typ | Beste Wahl |
+|---|---|
+| **Fläschchen** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13512"><img class="wf-wh__icon" src="/wh/inv_potion_41.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Flask of Supreme Power</a> |
+| **Elixiere** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=250351"><img class="wf-wh__icon" src="/wh/inv_potion_160.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of the Grizzly</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=9187"><img class="wf-wh__icon" src="/wh/inv_potion_94.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elixir of Greater Agility</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13454"><img class="wf-wh__icon" src="/wh/inv_potion_109.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Greater Arcane Elixir</a> |
+| **Tränke** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13444"><img class="wf-wh__icon" src="/wh/inv_potion_76.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Mana Potion</a> |
+| **Waffenbuff** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=3824"><img class="wf-wh__icon" src="/wh/inv_potion_23.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Shadow Oil</a> |
+| **Essen** | <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13928"><img class="wf-wh__icon" src="/wh/inv_misc_fish_13.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Grilled Squid</a> |
 
 ## Völker und Berufe
 

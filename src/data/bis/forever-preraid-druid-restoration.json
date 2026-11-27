@@ -5,7 +5,7 @@
  "spec": "restoration",
  "role": "Healer",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-24",
+ "updated": "2026-11-27",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -221,12 +221,12 @@
      "source": "Pix Xizzix"
     },
     {
-     "name": "Darkmoon Card: Blue Dragon",
-     "source": "(Not Currently Available) Darkmoon Beast Deck"
+     "name": "Burst of Knowledge",
+     "source": "Ambassador Flamelash (Blackrock Depths)"
     },
     {
-     "name": "Weakness Analyzer",
-     "source": "Pix Xizzix"
+     "name": "Mindtap Talisman",
+     "source": "Magister Kalendris (Dire Maul West)"
     }
    ]
   },
@@ -238,12 +238,12 @@
      "source": "Reward from the quest The Emerald Dream..."
     },
     {
-     "name": "Darkmoon Card: Blue Dragon",
-     "source": "(Not Currently Available) Darkmoon Beast Deck"
+     "name": "Burst of Knowledge",
+     "source": "Ambassador Flamelash (Blackrock Depths)"
     },
     {
-     "name": "Weakness Analyzer",
-     "source": "Pix Xizzix"
+     "name": "Mindtap Talisman",
+     "source": "Magister Kalendris (Dire Maul West)"
     }
    ]
   },
@@ -310,8 +310,8 @@
      "source": "Crafted with Enchanting"
     },
     {
-     "name": "Talons of Wrath",
-     "source": "Crafted with Enchanting"
+     "name": "Idol of Rejuvenation",
+     "source": "Mor Grayhoof (Upper Blackrock Spire)"
     }
    ]
   }
