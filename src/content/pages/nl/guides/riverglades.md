@@ -3,7 +3,7 @@ title: "De Riverglades in WoW Forever: gids voor de zone"
 metaTitle: "WoW Forever Riverglades-gids: erheen gaan, quests, de ring"
 description: "De Riverglades in WoW Forever: te voet of met de boot erheen, Farholde Keep, Rog'mar en Powderfuse Port, vliegpunten, quests, de Bloodmaster's Ring en Krol'dok Stronghold."
 short: "De Riverglades"
-updated: 2026-11-16
+updated: 2026-11-27
 lang: nl
 manual: true
 faq:
@@ -22,6 +22,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/riverglades-zone-overview"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever-383849"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/wow-forever-hunters-have-new-rare-pets-to-track-down-in-riverglades/"
 ---
 De Riverglades is een nieuwe zone in WoW Forever, aan de oostkust van de Eastern Kingdoms. Rivieren, graslanden en vervallen burchten liggen tussen Redridge Mountains, de Burning Steppes en de Badlands. Veel spelers noemen het de beste levelzone van Forever. Deze gids toont hoe je er komt, de dorpen, de quests, de Bloodmaster's Ring en de dungeon.
 
@@ -122,6 +124,22 @@ De dungeon van de zone is een ogerburcht voor level 40 tot 45, met zes bazen. De
 De meeste dungeonquests openen pas na het verhaal van de zone. Aan de kant van de Alliance is dat een reeks van ongeveer tien quests in Farholde Keep. De uitzondering valt binnen: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=259256">Tunk</a> laat de Krol'dok Moulding vallen, die de reeks begint voor een sleutel naar een kortere weg in de dungeon. Bazen, quests en buit staan in de [gids over Krol'dok Stronghold](/nl/guides/dungeons/kroldok-stronghold/).
 
 ![De ingang van Krol'dok Stronghold, een donker portaal tussen grijze rotsen, een schermafdruk uit World of Warcraft: Forever](../../../../assets/posts/2026-11-14-wow-forever-riverglades-kroldok-entrance.jpg)
+
+## Zeldzame Hunter-pets
+
+Hunters kunnen in de Riverglades drie zeldzame beesten temmen, allemaal van level 41 of 42. Elk beest is ook het doel van een quest, dus andere spelers doden ze ook. Je temt een beest alleen tot je eigen level.
+
+| Pet | Familie | Level | Waar |
+|---|---|---|---|
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263315">Ombassa</a> | Cat, elite | 41 | /way 59.6 53.6, alleen via een quest |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260235">Trapclaw</a> | Crab | 42 | Onder water op /way 82.4 53.5 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263380">Ghostmaw</a> | Crocolisk, elite | 42 | De middelste rivier, van Wheeler's Grange (/way 51.3 75.3) tot Rog'mar (/way 63.5 36.5) |
+
+- **Ombassa** verschijnt alleen als je de <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271779"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tallstrider Call</a> gebruikt tijdens <a href="https://www.wowhead.com/forever/quest=95986">King of the Wild Plains</a> (Alliance) of <a href="https://www.wowhead.com/forever/quest=96105">King of the Wild Plains</a> (Horde). Tem hem bij de eerste oproep: dood je hem dan, kun je hem voor jezelf niet meer oproepen. Gebruik na het temmen de oproep opnieuw, dood de nieuwe Ombassa en neem <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=281052"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ombassa's Hide</a> mee voor de quest. Hij valt elke 1,6 seconden aan en eet vlees en vis.
+- **Trapclaw** vraagt geen quest en loopt een vaste route, maar hij komt traag terug. Spelers met <a href="https://www.wowhead.com/forever/quest=95254">WANTED: Trapclaw</a> doden hem voor <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268586"><img class="wf-wh__icon" src="/wh/inv_misc_claw_lobstrok_purple.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Trapclaw's Pincer</a>, dus reken op wachten. Hij valt elke 2,0 seconden aan.
+- **Ghostmaw** heeft de langste route van de drie. <a href="https://www.wowhead.com/forever/quest=95991">WANTED: Ghostmaw</a> (Alliance) en <a href="https://www.wowhead.com/forever/quest=95992">WANTED: Ghostmaw</a> (Horde) vragen zijn <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271828"><img class="wf-wh__icon" src="/wh/inv_misc_bone_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostmaw's Fang</a>, dus ook hier strijd je met andere spelers. Hij valt elke 2,0 seconden aan.
+
+Meer pets en hoe je ze traint staan in de [levelgids voor de Hunter](/nl/classes/hunter/leveling/).
 
 ## Verzamelen
 

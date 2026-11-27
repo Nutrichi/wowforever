@@ -3,7 +3,7 @@ title: "Die Riverglades in WoW Forever: der Zonenguide"
 metaTitle: "WoW Forever Riverglades-Guide: Anreise, Quests, die Arena"
 description: "Die Riverglades in WoW Forever: zu Fuß oder per Schiff hin, Farholde Keep, Rog'mar und Powderfuse Port, Flugpunkte, Quests, der Bloodmaster's Ring und Krol'dok Stronghold."
 short: "Die Riverglades"
-updated: 2026-11-16
+updated: 2026-11-27
 lang: de
 manual: true
 faq:
@@ -22,6 +22,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/riverglades-zone-overview"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever-383849"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/wow-forever-hunters-have-new-rare-pets-to-track-down-in-riverglades/"
 ---
 Die Riverglades sind eine neue Zone in WoW Forever, an der Ostküste der Östlichen Königreiche. Flüsse, Grasland und verfallene Burgen liegen zwischen Redridge Mountains, den Burning Steppes und den Badlands. Viele Spieler nennen sie die beste Levelzone von Forever. Dieser Guide zeigt die Anreise, die Orte, die Quests, den Bloodmaster's Ring und den Dungeon.
 
@@ -122,6 +124,22 @@ Der Dungeon der Zone ist eine Ogerfestung für die Stufen 40 bis 45, mit sechs B
 Die meisten Dungeonquests öffnen sich erst nach der Geschichte der Zone. Auf Seite der Allianz ist das eine Reihe von etwa zehn Quests in Farholde Keep. Die Ausnahme fällt drinnen: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=259256">Tunk</a> lässt die Krol'dok Moulding fallen, die die Reihe für einen Schlüssel zu einer Abkürzung im Dungeon beginnt. Bosse, Quests und Beute stehen im [Guide zu Krol'dok Stronghold](/de/guides/dungeons/kroldok-stronghold/).
 
 ![Der Eingang von Krol'dok Stronghold, ein dunkles Portal zwischen grauen Felsen, ein Screenshot aus World of Warcraft: Forever](../../../../assets/posts/2026-11-14-wow-forever-riverglades-kroldok-entrance.jpg)
+
+## Seltene Hunter-Pets
+
+Hunter können in den Riverglades drei seltene Bestien zähmen, alle auf Stufe 41 oder 42. Jede ist auch das Ziel einer Quest, also töten andere Spieler sie ebenfalls. Du zähmst eine Bestie nur bis zu deiner eigenen Stufe.
+
+| Pet | Familie | Stufe | Wo |
+|---|---|---|---|
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263315">Ombassa</a> | Cat, Elite | 41 | /way 59.6 53.6, nur über eine Quest |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260235">Trapclaw</a> | Crab | 42 | Unter Wasser bei /way 82.4 53.5 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263380">Ghostmaw</a> | Crocolisk, Elite | 42 | Der mittlere Fluss, von Wheeler's Grange (/way 51.3 75.3) bis Rog'mar (/way 63.5 36.5) |
+
+- **Ombassa** erscheint nur, wenn du den <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271779"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tallstrider Call</a> während <a href="https://www.wowhead.com/forever/quest=95986">King of the Wild Plains</a> (Allianz) oder <a href="https://www.wowhead.com/forever/quest=96105">King of the Wild Plains</a> (Horde) benutzt. Zähme Ombassa beim ersten Ruf: Tötest du die Bestie dann, kannst du sie für dich nicht mehr rufen. Benutze nach dem Zähmen den Ruf erneut, töte die neue Ombassa und nimm <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=281052"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ombassa's Hide</a> für die Quest mit. Sie greift alle 1,6 Sekunden an und frisst Fleisch und Fisch.
+- **Trapclaw** braucht keine Quest und läuft eine feste Route, kommt aber langsam wieder. Spieler mit <a href="https://www.wowhead.com/forever/quest=95254">WANTED: Trapclaw</a> töten ihn für <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268586"><img class="wf-wh__icon" src="/wh/inv_misc_claw_lobstrok_purple.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Trapclaw's Pincer</a>, also rechne mit Warten. Er greift alle 2,0 Sekunden an.
+- **Ghostmaw** hat die längste Route der drei. <a href="https://www.wowhead.com/forever/quest=95991">WANTED: Ghostmaw</a> (Allianz) und <a href="https://www.wowhead.com/forever/quest=95992">WANTED: Ghostmaw</a> (Horde) verlangen seinen <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271828"><img class="wf-wh__icon" src="/wh/inv_misc_bone_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostmaw's Fang</a>, also konkurrierst du auch hier mit anderen Spielern. Er greift alle 2,0 Sekunden an.
+
+Weitere Pets und wie du sie trainierst stehen im [Leveling-Guide für den Hunter](/de/classes/hunter/leveling/).
 
 ## Sammeln
 

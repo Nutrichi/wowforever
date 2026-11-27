@@ -3,7 +3,7 @@ title: "Le Riverglades in WoW Forever: guida alla zona"
 metaTitle: "Guida alle Riverglades di WoW Forever: arrivo, missioni, arena"
 description: "Le Riverglades in WoW Forever: come arrivarci a piedi o in nave, Farholde Keep, Rog'mar e Powderfuse Port, punti di volo, missioni, il Bloodmaster's Ring e Krol'dok Stronghold."
 short: "Le Riverglades"
-updated: 2026-11-16
+updated: 2026-11-27
 lang: it
 manual: true
 faq:
@@ -22,6 +22,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/riverglades-zone-overview"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever-383849"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/wow-forever-hunters-have-new-rare-pets-to-track-down-in-riverglades/"
 ---
 Le Riverglades sono una nuova zona di WoW Forever, sulla costa est dei Regni Orientali. Fiumi, praterie e fortezze in rovina si stendono fra Redridge Mountains, le Burning Steppes e le Badlands. Molti giocatori la chiamano la migliore zona di leveling di Forever. Questa guida spiega come arrivarci, i villaggi, le missioni, il Bloodmaster's Ring e la spedizione.
 
@@ -122,6 +124,22 @@ La spedizione della zona è una fortezza ogre per i livelli da 40 a 45, con sei 
 La maggior parte delle missioni della spedizione si apre solo dopo la storia della zona. Per l'Alleanza è una catena di una decina di missioni a Farholde Keep. L'eccezione cade dentro: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=259256">Tunk</a> lascia la Krol'dok Moulding, che avvia la catena per una chiave verso una scorciatoia nella spedizione. Boss, missioni e bottino sono nella [guida a Krol'dok Stronghold](/it/guides/dungeons/kroldok-stronghold/).
 
 ![L'ingresso di Krol'dok Stronghold, un portale scuro fra rocce grigie, uno screenshot di World of Warcraft: Forever](../../../../assets/posts/2026-11-14-wow-forever-riverglades-kroldok-entrance.jpg)
+
+## Famigli rari del Hunter
+
+Gli Hunter possono addomesticare tre bestie rare nei Riverglades, tutte di livello 41 o 42. Ognuna è anche l’obiettivo di una missione, quindi anche altri giocatori le uccidono. Puoi addomesticare una bestia solo fino al tuo livello.
+
+| Famiglio | Famiglia | Livello | Dove |
+|---|---|---|---|
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263315">Ombassa</a> | Cat, élite | 41 | /way 59.6 53.6, solo tramite una missione |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260235">Trapclaw</a> | Crab | 42 | Sott’acqua in /way 82.4 53.5 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263380">Ghostmaw</a> | Crocolisk, élite | 42 | Il fiume centrale, da Wheeler's Grange (/way 51.3 75.3) a Rog'mar (/way 63.5 36.5) |
+
+- **Ombassa** appare solo se usi il <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271779"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tallstrider Call</a> durante <a href="https://www.wowhead.com/forever/quest=95986">King of the Wild Plains</a> (Alleanza) o <a href="https://www.wowhead.com/forever/quest=96105">King of the Wild Plains</a> (Orda). Addomesticala alla prima chiamata: se la uccidi allora, non puoi più chiamarla per te. Dopo averla addomesticata, usa di nuovo la chiamata, uccidi la nuova Ombassa e raccogli <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=281052"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ombassa's Hide</a> per la missione. Attacca ogni 1,6 secondi e mangia carne e pesce.
+- **Trapclaw** non richiede missioni e segue un percorso fisso, ma ricompare lentamente. I giocatori con <a href="https://www.wowhead.com/forever/quest=95254">WANTED: Trapclaw</a> lo uccidono per <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268586"><img class="wf-wh__icon" src="/wh/inv_misc_claw_lobstrok_purple.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Trapclaw's Pincer</a>, quindi preparati ad aspettare. Attacca ogni 2,0 secondi.
+- **Ghostmaw** ha il percorso più lungo dei tre. <a href="https://www.wowhead.com/forever/quest=95991">WANTED: Ghostmaw</a> (Alleanza) e <a href="https://www.wowhead.com/forever/quest=95992">WANTED: Ghostmaw</a> (Orda) chiedono il suo <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271828"><img class="wf-wh__icon" src="/wh/inv_misc_bone_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostmaw's Fang</a>, quindi anche qui sei in competizione con altri giocatori. Attacca ogni 2,0 secondi.
+
+Altri famigli e come addestrarli sono nella [guida al livellamento dell’Hunter](/it/classes/hunter/leveling/).
 
 ## Raccolta
 

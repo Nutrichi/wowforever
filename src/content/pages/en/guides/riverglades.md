@@ -3,7 +3,7 @@ title: "The Riverglades zone guide for WoW Forever"
 metaTitle: "WoW Forever Riverglades guide: how to get there, quests, ring"
 description: "The Riverglades in WoW Forever: how to get there on foot or by boat, Farholde Keep, Rog'mar and Powderfuse Port, flight paths, quests, the Bloodmaster's Ring and Krol'dok Stronghold."
 short: "The Riverglades"
-updated: 2026-11-16
+updated: 2026-11-27
 lang: en
 faq:
   - q: "How do you get to the Riverglades in WoW Forever?"
@@ -21,6 +21,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/riverglades-zone-overview"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever-383849"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/wow-forever-hunters-have-new-rare-pets-to-track-down-in-riverglades/"
 ---
 The Riverglades is a new zone in WoW Forever, on the east coast of the Eastern Kingdoms. Rivers, grasslands and ruined keeps lie between Redridge Mountains, the Burning Steppes and the Badlands. Many players call it the best leveling zone of Forever. This guide covers how to get there, the towns, the quests, the Bloodmaster's Ring and the dungeon.
 
@@ -121,6 +123,22 @@ The dungeon of the zone is an ogre fortress for levels 40 to 45, with six bosses
 Most dungeon quests open only after the story of the zone. On the Alliance side that is a chain of about ten quests at Farholde Keep. The exception drops inside: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=259256">Tunk</a> drops the Krol'dok Moulding, which starts the chain for a key to a shortcut in the dungeon. Bosses, quests and loot are in the [Krol'dok Stronghold guide](/guides/dungeons/kroldok-stronghold/).
 
 ![The entrance of Krol'dok Stronghold, a dark portal between gray rocks, a screenshot from World of Warcraft: Forever](../../../../assets/posts/2026-11-14-wow-forever-riverglades-kroldok-entrance.jpg)
+
+## Rare Hunter pets
+
+Hunters can tame three rare beasts in the Riverglades, all at level 41 or 42. Each one is also the target of a quest, so other players kill them too. You can only tame a beast up to your own level.
+
+| Pet | Family | Level | Where |
+|---|---|---|---|
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263315">Ombassa</a> | Cat, elite | 41 | /way 59.6 53.6, only through a quest |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260235">Trapclaw</a> | Crab | 42 | Underwater at /way 82.4 53.5 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263380">Ghostmaw</a> | Crocolisk, elite | 42 | The middle river, from Wheeler's Grange (/way 51.3 75.3) to Rog'mar (/way 63.5 36.5) |
+
+- **Ombassa** only appears when you use the <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271779"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tallstrider Call</a> during <a href="https://www.wowhead.com/forever/quest=95986">King of the Wild Plains</a> (Alliance) or <a href="https://www.wowhead.com/forever/quest=96105">King of the Wild Plains</a> (Horde). Tame it on the first call: if you kill it then, you cannot call it again for yourself. After taming, use the call again, kill the new Ombassa and loot <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=281052"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ombassa's Hide</a> for the quest. It attacks every 1.6 seconds and eats meat and fish.
+- **Trapclaw** needs no quest and walks a fixed path, but it respawns slowly. Players on <a href="https://www.wowhead.com/forever/quest=95254">WANTED: Trapclaw</a> kill it for <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268586"><img class="wf-wh__icon" src="/wh/inv_misc_claw_lobstrok_purple.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Trapclaw's Pincer</a>, so expect to wait. It attacks every 2.0 seconds.
+- **Ghostmaw** has the longest path of the three. <a href="https://www.wowhead.com/forever/quest=95991">WANTED: Ghostmaw</a> (Alliance) and <a href="https://www.wowhead.com/forever/quest=95992">WANTED: Ghostmaw</a> (Horde) ask for its <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271828"><img class="wf-wh__icon" src="/wh/inv_misc_bone_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostmaw's Fang</a>, so you compete with other players here too. It attacks every 2.0 seconds.
+
+More pets and how to train them are in the [Hunter leveling guide](/classes/hunter/leveling/).
 
 ## Gathering
 

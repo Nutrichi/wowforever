@@ -3,7 +3,7 @@ title: "Les Riverglades dans WoW Forever : le guide de la zone"
 metaTitle: "Guide des Riverglades WoW Forever : y aller, quêtes, l'arène"
 description: "Les Riverglades dans WoW Forever : y aller à pied ou en bateau, Farholde Keep, Rog'mar et Powderfuse Port, points de vol, quêtes, le Bloodmaster's Ring et Krol'dok Stronghold."
 short: "Les Riverglades"
-updated: 2026-11-16
+updated: 2026-11-27
 lang: fr
 manual: true
 faq:
@@ -22,6 +22,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/riverglades-zone-overview"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever-383849"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/wow-forever-hunters-have-new-rare-pets-to-track-down-in-riverglades/"
 ---
 Les Riverglades sont une nouvelle zone de WoW Forever, sur la côte est des Royaumes de l'Est. Rivières, prairies et forteresses en ruine s'étendent entre Redridge Mountains, les Burning Steppes et les Badlands. Beaucoup de joueurs en font la meilleure zone de leveling de Forever. Ce guide montre comment y aller, les villes, les quêtes, le Bloodmaster's Ring et le donjon.
 
@@ -122,6 +124,22 @@ Le donjon de la zone est une forteresse ogre pour les niveaux 40 à 45, avec six
 La plupart des quêtes du donjon ne s'ouvrent qu'après l'histoire de la zone. Côté Alliance, c'est une série d'une dizaine de quêtes à Farholde Keep. L'exception tombe à l'intérieur : <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=259256">Tunk</a> laisse la Krol'dok Moulding, qui lance la série pour une clé vers un raccourci dans le donjon. Boss, quêtes et butin sont dans le [guide de Krol'dok Stronghold](/fr/guides/dungeons/kroldok-stronghold/).
 
 ![L'entrée de Krol'dok Stronghold, un portail sombre entre des rochers gris, une capture d'écran de World of Warcraft: Forever](../../../../assets/posts/2026-11-14-wow-forever-riverglades-kroldok-entrance.jpg)
+
+## Familiers rares de Hunter
+
+Les Hunters peuvent apprivoiser trois bêtes rares dans les Riverglades, toutes de niveau 41 ou 42. Chacune est aussi la cible d’une quête, donc d’autres joueurs les tuent aussi. Vous n’apprivoisez une bête que jusqu’à votre propre niveau.
+
+| Familier | Famille | Niveau | Où |
+|---|---|---|---|
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263315">Ombassa</a> | Cat, élite | 41 | /way 59.6 53.6, seulement via une quête |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260235">Trapclaw</a> | Crab | 42 | Sous l’eau en /way 82.4 53.5 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263380">Ghostmaw</a> | Crocolisk, élite | 42 | La rivière centrale, de Wheeler's Grange (/way 51.3 75.3) à Rog'mar (/way 63.5 36.5) |
+
+- **Ombassa** n’apparaît que si vous utilisez le <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271779"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tallstrider Call</a> pendant <a href="https://www.wowhead.com/forever/quest=95986">King of the Wild Plains</a> (Alliance) ou <a href="https://www.wowhead.com/forever/quest=96105">King of the Wild Plains</a> (Horde). Apprivoisez la bête au premier appel : si vous la tuez à ce moment, vous ne pouvez plus l’appeler pour vous. Après l’avoir apprivoisée, utilisez l’appel de nouveau, tuez la nouvelle Ombassa et ramassez <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=281052"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ombassa's Hide</a> pour la quête. Elle attaque toutes les 1,6 secondes et mange de la viande et du poisson.
+- **Trapclaw** ne demande aucune quête et suit un trajet fixe, mais il réapparaît lentement. Les joueurs qui font <a href="https://www.wowhead.com/forever/quest=95254">WANTED: Trapclaw</a> le tuent pour <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268586"><img class="wf-wh__icon" src="/wh/inv_misc_claw_lobstrok_purple.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Trapclaw's Pincer</a>, attendez-vous donc à patienter. Il attaque toutes les 2,0 secondes.
+- **Ghostmaw** a le plus long trajet des trois. <a href="https://www.wowhead.com/forever/quest=95991">WANTED: Ghostmaw</a> (Alliance) et <a href="https://www.wowhead.com/forever/quest=95992">WANTED: Ghostmaw</a> (Horde) demandent son <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271828"><img class="wf-wh__icon" src="/wh/inv_misc_bone_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostmaw's Fang</a>, donc ici aussi vous êtes en concurrence avec d’autres joueurs. Il attaque toutes les 2,0 secondes.
+
+D’autres familiers et la façon de les dresser se trouvent dans le [guide de leveling du Hunter](/fr/classes/hunter/leveling/).
 
 ## Récolte
 

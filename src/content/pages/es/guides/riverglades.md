@@ -3,7 +3,7 @@ title: "Riverglades en WoW Forever: guía de la zona"
 metaTitle: "Guía de Riverglades en WoW Forever: cómo llegar, misiones, ring"
 description: "Riverglades en WoW Forever: cómo llegar a pie o en barco, Farholde Keep, Rog'mar y Powderfuse Port, puntos de vuelo, misiones, el Bloodmaster's Ring y Krol'dok Stronghold."
 short: "Riverglades"
-updated: 2026-11-16
+updated: 2026-11-27
 lang: es
 manual: true
 faq:
@@ -22,6 +22,8 @@ sources:
     url: "https://www.wowhead.com/forever/guide/riverglades-zone-overview"
   - name: "Wowhead"
     url: "https://www.wowhead.com/forever/news/riverglades-is-one-of-the-best-leveling-zones-in-wow-forever-383849"
+  - name: "Icy Veins"
+    url: "https://www.icy-veins.com/wow-forever/news/wow-forever-hunters-have-new-rare-pets-to-track-down-in-riverglades/"
 ---
 Riverglades es una zona nueva de WoW Forever, en la costa este de los Reinos del Este. Ríos, praderas y fortalezas en ruinas se extienden entre Redridge Mountains, las Burning Steppes y los Badlands. Muchos jugadores la llaman la mejor zona para subir de nivel de Forever. Esta guía explica cómo llegar, los pueblos, las misiones, el Bloodmaster's Ring y la mazmorra.
 
@@ -122,6 +124,22 @@ La mazmorra de la zona es una fortaleza ogra para los niveles 40 a 45, con seis 
 La mayoría de misiones de la mazmorra se abren tras la historia de la zona. En el lado de la Alianza es una cadena de unas diez misiones en Farholde Keep. La excepción cae dentro: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=259256">Tunk</a> suelta la Krol'dok Moulding, que empieza la cadena para una llave a un atajo en la mazmorra. Jefes, misiones y botín están en la [guía de Krol'dok Stronghold](/es/guides/dungeons/kroldok-stronghold/).
 
 ![La entrada de Krol'dok Stronghold, un portal oscuro entre rocas grises, una captura de pantalla de World of Warcraft: Forever](../../../../assets/posts/2026-11-14-wow-forever-riverglades-kroldok-entrance.jpg)
+
+## Mascotas raras de Hunter
+
+Los Hunters pueden domesticar tres bestias raras en los Riverglades, todas de nivel 41 o 42. Cada una es también el objetivo de una misión, así que otros jugadores también las matan. Solo puedes domesticar una bestia hasta tu propio nivel.
+
+| Mascota | Familia | Nivel | Dónde |
+|---|---|---|---|
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263315">Ombassa</a> | Cat, élite | 41 | /way 59.6 53.6, solo mediante una misión |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=260235">Trapclaw</a> | Crab | 42 | Bajo el agua en /way 82.4 53.5 |
+| <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=263380">Ghostmaw</a> | Crocolisk, élite | 42 | El río central, de Wheeler's Grange (/way 51.3 75.3) a Rog'mar (/way 63.5 36.5) |
+
+- **Ombassa** solo aparece si usas el <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271779"><img class="wf-wh__icon" src="/wh/ability_hunter_beastcall.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Tallstrider Call</a> durante <a href="https://www.wowhead.com/forever/quest=95986">King of the Wild Plains</a> (Alianza) o <a href="https://www.wowhead.com/forever/quest=96105">King of the Wild Plains</a> (Horda). Domestícala en la primera llamada: si la matas entonces, ya no puedes llamarla para ti. Después de domesticarla, usa la llamada otra vez, mata a la nueva Ombassa y recoge <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=281052"><img class="wf-wh__icon" src="/wh/inv_misc_pelt_wolf_ruin_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ombassa's Hide</a> para la misión. Ataca cada 1,6 segundos y come carne y pescado.
+- **Trapclaw** no necesita misión y sigue una ruta fija, pero reaparece despacio. Los jugadores con <a href="https://www.wowhead.com/forever/quest=95254">WANTED: Trapclaw</a> lo matan por <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=268586"><img class="wf-wh__icon" src="/wh/inv_misc_claw_lobstrok_purple.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Trapclaw's Pincer</a>, así que cuenta con esperar. Ataca cada 2,0 segundos.
+- **Ghostmaw** tiene la ruta más larga de las tres. <a href="https://www.wowhead.com/forever/quest=95991">WANTED: Ghostmaw</a> (Alianza) y <a href="https://www.wowhead.com/forever/quest=95992">WANTED: Ghostmaw</a> (Horda) piden su <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=271828"><img class="wf-wh__icon" src="/wh/inv_misc_bone_08.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Ghostmaw's Fang</a>, así que aquí también compites con otros jugadores. Ataca cada 2,0 segundos.
+
+Más mascotas y cómo entrenarlas están en la [guía de subida de nivel del Hunter](/es/classes/hunter/leveling/).
 
 ## Recolección
 
