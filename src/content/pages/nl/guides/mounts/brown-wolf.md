@@ -1,14 +1,14 @@
 ---
 title: "Brown Wolf: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Brown Wolf in WoW Forever"
-description: "Brown Wolf is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Ogunaro Wolfrunner, 40 goud."
+description: "Brown Wolf is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Ogunaro Wolfrunner, 20 goud."
 short: "Brown Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Brown Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 40 goud. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Your First Riding Wolf, vanaf level 40 voor de Horde, laat je deze kiezen."
+    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 20 goud. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Your First Riding Wolf, vanaf level 40 voor de Horde, laat je deze kiezen."
   - q: "Is Brown Wolf nieuw in WoW Forever?"
     a: "Nee. Brown Wolf zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -28,9 +28,9 @@ Brown Wolf is een mount uit Classic die terugkomt in World of Warcraft: Forever.
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5668"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Brown Wolf</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16343"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blood Guard's Mount</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 40 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 20 goud |
 | Waar | Orgrimmar |
-| Prijs | 40 goud |
+| Prijs | 20 goud |
 | Level | 40 |
 | Rijden | Wolf Riding |
 | Snelheid | normaal |
@@ -39,7 +39,7 @@ Brown Wolf is een mount uit Classic die terugkomt in World of Warcraft: Forever.
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkoopt hem in Orgrimmar voor 40 goud. De verkoper is vriendelijk voor de Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkoopt hem in Orgrimmar voor 20 goud. De verkoper is vriendelijk voor de Horde.
 
 Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, vanaf level 40 voor de Horde, laat je deze kiezen.
 

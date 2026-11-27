@@ -1,14 +1,14 @@
 ---
 title: "Gray Ram : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Gray Ram dans WoW Forever"
-description: "Gray Ram est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Veron Amberstill, 42 po 10 pa 52 pc."
+description: "Gray Ram est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Veron Amberstill, 20 po."
 short: "Gray Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Gray Ram dans WoW Forever ?"
-    a: "Veron Amberstill la vend à Dun Morogh pour 42 po 10 pa 52 pc. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Your First Riding Ram, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci."
+    a: "Veron Amberstill la vend à Dun Morogh pour 20 po. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Your First Riding Ram, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci."
   - q: "Gray Ram est-elle nouvelle dans WoW Forever ?"
     a: "Non. Gray Ram existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Gray Ram est une monture de Classic qui revient dans World of Warcraft: Forever.
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5864"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gray Ram</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 42 po 10 pa 52 pc |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 20 po |
 | Où | Dun Morogh |
-| Prix | 42 po 10 pa 52 pc |
+| Prix | 20 po |
 | Niveau | 40 |
 | Monte | Ram Riding |
 | Vitesse | normale |
@@ -38,7 +38,7 @@ Gray Ram est une monture de Classic qui revient dans World of Warcraft: Forever.
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vend à Dun Morogh pour 42 po 10 pa 52 pc. Le marchand est amical envers l'Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vend à Dun Morogh pour 20 po. Le marchand est amical envers l'Alliance.
 
 Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci.
 

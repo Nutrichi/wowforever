@@ -1,13 +1,13 @@
 ---
 title: "Brown Skeletal Horse: how to get the mount in WoW Forever"
 metaTitle: "How to get the Brown Skeletal Horse mount in WoW Forever"
-description: "Brown Skeletal Horse is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Zachariah Post, 40 gold."
+description: "Brown Skeletal Horse is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Zachariah Post, 20 gold."
 short: "Brown Skeletal Horse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Brown Skeletal Horse in WoW Forever?"
-    a: "Zachariah Post sells it in Tirisfal Glades for 40 gold. The vendor is friendly to the Horde. Your first mount is free: the quest A Steed in Death as They Were in Life, from level 40 for the Horde, lets you pick this one."
+    a: "Zachariah Post sells it in Tirisfal Glades for 20 gold. The vendor is friendly to the Horde. Your first mount is free: the quest A Steed in Death as They Were in Life, from level 40 for the Horde, lets you pick this one."
   - q: "Is Brown Skeletal Horse new in WoW Forever?"
     a: "No. Brown Skeletal Horse was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Brown Skeletal Horse is a mount from Classic that returns in World of Warcraft: 
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13333"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Skeletal Horse</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 40 gold |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 20 gold |
 | Where | Tirisfal Glades |
-| Price | 40 gold |
+| Price | 20 gold |
 | Level | 40 |
 | Riding | Undead Horsemanship |
 | Speed | normal |
@@ -37,7 +37,7 @@ Brown Skeletal Horse is a mount from Classic that returns in World of Warcraft: 
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> sells it in Tirisfal Glades for 40 gold. The vendor is friendly to the Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> sells it in Tirisfal Glades for 20 gold. The vendor is friendly to the Horde.
 
 Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, from level 40 for the Horde, lets you pick this one.
 

@@ -1,14 +1,14 @@
 ---
 title: "Red Mechanostrider: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Red Mechanostrider en WoW Forever"
-description: "Red Mechanostrider es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Milli Featherwhistle, 40 de oro."
+description: "Red Mechanostrider es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Milli Featherwhistle, 20 de oro."
 short: "Red Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Red Mechanostrider en WoW Forever?"
-    a: "Milli Featherwhistle la vende en Dun Morogh por 40 de oro. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Mechanostrider, desde el nivel 40 para la Alianza, te deja elegir esta."
+    a: "Milli Featherwhistle la vende en Dun Morogh por 20 de oro. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Mechanostrider, desde el nivel 40 para la Alianza, te deja elegir esta."
   - q: "¿Es Red Mechanostrider nueva en WoW Forever?"
     a: "No. Red Mechanostrider ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Red Mechanostrider es una montura de Classic que vuelve en World of Warcraft: Fo
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8563"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Mechanostrider</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 40 de oro |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 20 de oro |
 | Dónde | Dun Morogh |
-| Precio | 40 de oro |
+| Precio | 20 de oro |
 | Nivel | 40 |
 | Equitación | Mechanostrider Piloting |
 | Velocidad | normal |
@@ -38,7 +38,7 @@ Red Mechanostrider es una montura de Classic que vuelve en World of Warcraft: Fo
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vende en Dun Morogh por 40 de oro. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vende en Dun Morogh por 20 de oro. El vendedor es amistoso con la Alianza.
 
 Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=97046">Your First Mechanostrider</a>, desde el nivel 40 para la Alianza, te deja elegir esta.
 

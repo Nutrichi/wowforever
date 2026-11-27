@@ -1,14 +1,14 @@
 ---
 title: "Swift White Mechanostrider : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Swift White Mechanostrider dans WoW Forever"
-description: "Swift White Mechanostrider est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Milli Featherwhistle, 1000 po."
+description: "Swift White Mechanostrider est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Milli Featherwhistle, 200 po."
 short: "Swift White Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Swift White Mechanostrider dans WoW Forever ?"
-    a: "Milli Featherwhistle la vend à Dun Morogh pour 1000 po. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Icy Blue Mechanostrider Replacement, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci."
+    a: "Milli Featherwhistle la vend à Dun Morogh pour 200 po. Le marchand est amical envers l'Alliance. La monter demande Mechanostrider Piloting."
   - q: "Swift White Mechanostrider est-elle nouvelle dans WoW Forever ?"
     a: "Non. Swift White Mechanostrider existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift White Mechanostrider est une monture de Classic qui revient dans World of 
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18773"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift White Mechanostrider</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 1000 po |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 200 po |
 | Où | Dun Morogh |
-| Prix | 1000 po |
+| Prix | 200 po |
 | Niveau | 60 |
 | Monte | Mechanostrider Piloting |
 | Vitesse | très rapide |
@@ -38,9 +38,7 @@ Swift White Mechanostrider est une monture de Classic qui revient dans World of 
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vend à Dun Morogh pour 1000 po. Le marchand est amical envers l'Alliance.
-
-Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7675">Icy Blue Mechanostrider Replacement</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vend à Dun Morogh pour 200 po. Le marchand est amical envers l'Alliance.
 
 La monter demande Mechanostrider Piloting.
 

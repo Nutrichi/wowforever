@@ -1,14 +1,14 @@
 ---
 title: "Swift Brown Wolf : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Swift Brown Wolf dans WoW Forever"
-description: "Swift Brown Wolf est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Ogunaro Wolfrunner, 888 po 88 pa 88 pc."
+description: "Swift Brown Wolf est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Ogunaro Wolfrunner, 200 po."
 short: "Swift Brown Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Swift Brown Wolf dans WoW Forever ?"
-    a: "Ogunaro Wolfrunner la vend à Orgrimmar pour 888 po 88 pa 88 pc. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête Wolf Swapping - Arctic Wolf, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci."
+    a: "Ogunaro Wolfrunner la vend à Orgrimmar pour 200 po. Le marchand est amical envers la Horde. La monter demande Wolf Riding."
   - q: "Swift Brown Wolf est-elle nouvelle dans WoW Forever ?"
     a: "Non. Swift Brown Wolf existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Brown Wolf est une monture de Classic qui revient dans World of Warcraft: 
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18796"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Swift Brown Wolf</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 888 po 88 pa 88 pc |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 200 po |
 | Où | Orgrimmar |
-| Prix | 888 po 88 pa 88 pc |
+| Prix | 200 po |
 | Niveau | 60 |
 | Monte | Wolf Riding |
 | Vitesse | très rapide |
@@ -38,9 +38,7 @@ Swift Brown Wolf est une monture de Classic qui revient dans World of Warcraft: 
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vend à Orgrimmar pour 888 po 88 pa 88 pc. Le marchand est amical envers la Horde.
-
-Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vend à Orgrimmar pour 200 po. Le marchand est amical envers la Horde.
 
 La monter demande Wolf Riding.
 

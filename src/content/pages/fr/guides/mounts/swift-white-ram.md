@@ -1,14 +1,14 @@
 ---
 title: "Swift White Ram : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Swift White Ram dans WoW Forever"
-description: "Swift White Ram est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Veron Amberstill, 1000 po."
+description: "Swift White Ram est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Veron Amberstill, 200 po."
 short: "Swift White Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Swift White Ram dans WoW Forever ?"
-    a: "Veron Amberstill la vend à Dun Morogh pour 1000 po. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Frost Ram Exchange, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci."
+    a: "Veron Amberstill la vend à Dun Morogh pour 200 po. Le marchand est amical envers l'Alliance. La monter demande Ram Riding."
   - q: "Swift White Ram est-elle nouvelle dans WoW Forever ?"
     a: "Non. Swift White Ram existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift White Ram est une monture de Classic qui revient dans World of Warcraft: F
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18785"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift White Ram</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 1000 po |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 200 po |
 | Où | Dun Morogh |
-| Prix | 1000 po |
+| Prix | 200 po |
 | Niveau | 60 |
 | Monte | Ram Riding |
 | Vitesse | très rapide |
@@ -38,9 +38,7 @@ Swift White Ram est une monture de Classic qui revient dans World of Warcraft: F
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vend à Dun Morogh pour 1000 po. Le marchand est amical envers l'Alliance.
-
-Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7673">Frost Ram Exchange</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vend à Dun Morogh pour 200 po. Le marchand est amical envers l'Alliance.
 
 La monter demande Ram Riding.
 

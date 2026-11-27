@@ -1,14 +1,14 @@
 ---
 title: "Turquoise Raptor: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Turquoise Raptor in WoW Forever"
-description: "Turquoise Raptor ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Zjolnir, 42 Gold 10 Silber 52 Kupfer."
+description: "Turquoise Raptor ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Zjolnir, 20 Gold."
 short: "Turquoise Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Turquoise Raptor in WoW Forever?"
-    a: "Zjolnir verkauft es in Durotar für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Raptor, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
+    a: "Zjolnir verkauft es in Durotar für 20 Gold. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Raptor, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
   - q: "Ist Turquoise Raptor neu in WoW Forever?"
     a: "Nein. Turquoise Raptor gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Turquoise Raptor ist ein Reittier aus Classic, das in World of Warcraft: Forever
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8591"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whistle of the Turquoise Raptor</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 42 Gold 10 Silber 52 Kupfer |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 20 Gold |
 | Wo | Durotar |
-| Preis | 42 Gold 10 Silber 52 Kupfer |
+| Preis | 20 Gold |
 | Stufe | 40 |
 | Reiten | Raptor Riding |
 | Tempo | normal |
@@ -38,7 +38,7 @@ Turquoise Raptor ist ein Reittier aus Classic, das in World of Warcraft: Forever
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> verkauft es in Durotar für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Horde freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> verkauft es in Durotar für 20 Gold. Der Händler ist die Horde freundlich gesinnt.
 
 Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=96989">Your First Riding Raptor</a>, ab Stufe 40 für die Horde, lässt dich dieses auswählen.
 

@@ -215,12 +215,12 @@
    "riding": "Horse Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Unger Statforth, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Unger Statforth, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Unger Statforth, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Unger Statforth, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Unger Statforth, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Unger Statforth, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Unger Statforth, 20 gold",
+    "nl": "Verkoper: Unger Statforth, 20 goud",
+    "fr": "Marchand: Unger Statforth, 20 po",
+    "es": "Vendedor: Unger Statforth, 20 de oro",
+    "it": "Mercante: Unger Statforth, 20 d'oro",
+    "de": "Händler: Unger Statforth, 20 Gold"
    },
    "where": {
     "en": "Wetlands",
@@ -521,12 +521,12 @@
    "riding": "Mechanostrider Piloting",
    "fast": false,
    "source": {
-    "en": "Vendor: Milli Featherwhistle, 40 gold",
-    "nl": "Verkoper: Milli Featherwhistle, 40 goud",
-    "fr": "Marchand: Milli Featherwhistle, 40 po",
-    "es": "Vendedor: Milli Featherwhistle, 40 de oro",
-    "it": "Mercante: Milli Featherwhistle, 40 d'oro",
-    "de": "Händler: Milli Featherwhistle, 40 Gold"
+    "en": "Vendor: Milli Featherwhistle, 20 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 20 goud",
+    "fr": "Marchand: Milli Featherwhistle, 20 po",
+    "es": "Vendedor: Milli Featherwhistle, 20 de oro",
+    "it": "Mercante: Milli Featherwhistle, 20 d'oro",
+    "de": "Händler: Milli Featherwhistle, 20 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -581,12 +581,12 @@
    "riding": "Undead Horsemanship",
    "fast": false,
    "source": {
-    "en": "Vendor: Zachariah Post, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Zachariah Post, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Zachariah Post, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Zachariah Post, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Zachariah Post, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Zachariah Post, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Zachariah Post, 20 gold",
+    "nl": "Verkoper: Zachariah Post, 20 goud",
+    "fr": "Marchand: Zachariah Post, 20 po",
+    "es": "Vendedor: Zachariah Post, 20 de oro",
+    "it": "Mercante: Zachariah Post, 20 d'oro",
+    "de": "Händler: Zachariah Post, 20 Gold"
    },
    "where": {
     "en": "Tirisfal Glades",
@@ -614,12 +614,12 @@
    "riding": "Horse Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Katie Hunter, 40 gold",
-    "nl": "Verkoper: Katie Hunter, 40 goud",
-    "fr": "Marchand: Katie Hunter, 40 po",
-    "es": "Vendedor: Katie Hunter, 40 de oro",
-    "it": "Mercante: Katie Hunter, 40 d'oro",
-    "de": "Händler: Katie Hunter, 40 Gold"
+    "en": "Vendor: Katie Hunter, 20 gold",
+    "nl": "Verkoper: Katie Hunter, 20 goud",
+    "fr": "Marchand: Katie Hunter, 20 po",
+    "es": "Vendedor: Katie Hunter, 20 de oro",
+    "it": "Mercante: Katie Hunter, 20 d'oro",
+    "de": "Händler: Katie Hunter, 20 Gold"
    },
    "where": {
     "en": "4 zones",
@@ -644,12 +644,12 @@
    "riding": "Kodo Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Harb Clawhoof, 35 gold 55 silver 55 copper",
-    "nl": "Verkoper: Harb Clawhoof, 35 goud en 55 zilver en 55 koper",
-    "fr": "Marchand: Harb Clawhoof, 35 po 55 pa 55 pc",
-    "es": "Vendedor: Harb Clawhoof, 35 de oro y 55 de plata y 55 de cobre",
-    "it": "Mercante: Harb Clawhoof, 35 d'oro e 55 d'argento e 55 di rame",
-    "de": "Händler: Harb Clawhoof, 35 Gold 55 Silber 55 Kupfer"
+    "en": "Vendor: Harb Clawhoof, 20 gold",
+    "nl": "Verkoper: Harb Clawhoof, 20 goud",
+    "fr": "Marchand: Harb Clawhoof, 20 po",
+    "es": "Vendedor: Harb Clawhoof, 20 de oro",
+    "it": "Mercante: Harb Clawhoof, 20 d'oro",
+    "de": "Händler: Harb Clawhoof, 20 Gold"
    },
    "where": {
     "en": "Mulgore",
@@ -674,12 +674,12 @@
    "riding": "Ram Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Veron Amberstill, 40 gold",
-    "nl": "Verkoper: Veron Amberstill, 40 goud",
-    "fr": "Marchand: Veron Amberstill, 40 po",
-    "es": "Vendedor: Veron Amberstill, 40 de oro",
-    "it": "Mercante: Veron Amberstill, 40 d'oro",
-    "de": "Händler: Veron Amberstill, 40 Gold"
+    "en": "Vendor: Veron Amberstill, 20 gold",
+    "nl": "Verkoper: Veron Amberstill, 20 goud",
+    "fr": "Marchand: Veron Amberstill, 20 po",
+    "es": "Vendedor: Veron Amberstill, 20 de oro",
+    "it": "Mercante: Veron Amberstill, 20 d'oro",
+    "de": "Händler: Veron Amberstill, 20 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -704,12 +704,12 @@
    "riding": "Undead Horsemanship",
    "fast": false,
    "source": {
-    "en": "Vendor: Zachariah Post, 40 gold",
-    "nl": "Verkoper: Zachariah Post, 40 goud",
-    "fr": "Marchand: Zachariah Post, 40 po",
-    "es": "Vendedor: Zachariah Post, 40 de oro",
-    "it": "Mercante: Zachariah Post, 40 d'oro",
-    "de": "Händler: Zachariah Post, 40 Gold"
+    "en": "Vendor: Zachariah Post, 20 gold",
+    "nl": "Verkoper: Zachariah Post, 20 goud",
+    "fr": "Marchand: Zachariah Post, 20 po",
+    "es": "Vendedor: Zachariah Post, 20 de oro",
+    "it": "Mercante: Zachariah Post, 20 d'oro",
+    "de": "Händler: Zachariah Post, 20 Gold"
    },
    "where": {
     "en": "Tirisfal Glades",
@@ -762,12 +762,12 @@
    "riding": "Wolf Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Ogunaro Wolfrunner, 40 gold",
-    "nl": "Verkoper: Ogunaro Wolfrunner, 40 goud",
-    "fr": "Marchand: Ogunaro Wolfrunner, 40 po",
-    "es": "Vendedor: Ogunaro Wolfrunner, 40 de oro",
-    "it": "Mercante: Ogunaro Wolfrunner, 40 d'oro",
-    "de": "Händler: Ogunaro Wolfrunner, 40 Gold"
+    "en": "Vendor: Ogunaro Wolfrunner, 20 gold",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 20 goud",
+    "fr": "Marchand: Ogunaro Wolfrunner, 20 po",
+    "es": "Vendedor: Ogunaro Wolfrunner, 20 de oro",
+    "it": "Mercante: Ogunaro Wolfrunner, 20 d'oro",
+    "de": "Händler: Ogunaro Wolfrunner, 20 Gold"
    },
    "where": {
     "en": "Orgrimmar",
@@ -879,12 +879,12 @@
    "riding": "Horse Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Katie Hunter, 40 gold",
-    "nl": "Verkoper: Katie Hunter, 40 goud",
-    "fr": "Marchand: Katie Hunter, 40 po",
-    "es": "Vendedor: Katie Hunter, 40 de oro",
-    "it": "Mercante: Katie Hunter, 40 d'oro",
-    "de": "Händler: Katie Hunter, 40 Gold"
+    "en": "Vendor: Katie Hunter, 20 gold",
+    "nl": "Verkoper: Katie Hunter, 20 goud",
+    "fr": "Marchand: Katie Hunter, 20 po",
+    "es": "Vendedor: Katie Hunter, 20 de oro",
+    "it": "Mercante: Katie Hunter, 20 d'oro",
+    "de": "Händler: Katie Hunter, 20 Gold"
    },
    "where": {
     "en": "4 zones",
@@ -965,12 +965,12 @@
    "riding": "Wolf Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Ogunaro Wolfrunner, 40 gold",
-    "nl": "Verkoper: Ogunaro Wolfrunner, 40 goud",
-    "fr": "Marchand: Ogunaro Wolfrunner, 40 po",
-    "es": "Vendedor: Ogunaro Wolfrunner, 40 de oro",
-    "it": "Mercante: Ogunaro Wolfrunner, 40 d'oro",
-    "de": "Händler: Ogunaro Wolfrunner, 40 Gold"
+    "en": "Vendor: Ogunaro Wolfrunner, 20 gold",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 20 goud",
+    "fr": "Marchand: Ogunaro Wolfrunner, 20 po",
+    "es": "Vendedor: Ogunaro Wolfrunner, 20 de oro",
+    "it": "Mercante: Ogunaro Wolfrunner, 20 d'oro",
+    "de": "Händler: Ogunaro Wolfrunner, 20 Gold"
    },
    "where": {
     "en": "Orgrimmar",
@@ -1023,12 +1023,12 @@
    "riding": "Raptor Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Zjolnir, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Zjolnir, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Zjolnir, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Zjolnir, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Zjolnir, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Zjolnir, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Zjolnir, 20 gold",
+    "nl": "Verkoper: Zjolnir, 20 goud",
+    "fr": "Marchand: Zjolnir, 20 po",
+    "es": "Vendedor: Zjolnir, 20 de oro",
+    "it": "Mercante: Zjolnir, 20 d'oro",
+    "de": "Händler: Zjolnir, 20 Gold"
    },
    "where": {
     "en": "Durotar",
@@ -1282,12 +1282,12 @@
    "riding": "Kodo Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Harb Clawhoof, 35 gold 55 silver 55 copper",
-    "nl": "Verkoper: Harb Clawhoof, 35 goud en 55 zilver en 55 koper",
-    "fr": "Marchand: Harb Clawhoof, 35 po 55 pa 55 pc",
-    "es": "Vendedor: Harb Clawhoof, 35 de oro y 55 de plata y 55 de cobre",
-    "it": "Mercante: Harb Clawhoof, 35 d'oro e 55 d'argento e 55 di rame",
-    "de": "Händler: Harb Clawhoof, 35 Gold 55 Silber 55 Kupfer"
+    "en": "Vendor: Harb Clawhoof, 20 gold",
+    "nl": "Verkoper: Harb Clawhoof, 20 goud",
+    "fr": "Marchand: Harb Clawhoof, 20 po",
+    "es": "Vendedor: Harb Clawhoof, 20 de oro",
+    "it": "Mercante: Harb Clawhoof, 20 d'oro",
+    "de": "Händler: Harb Clawhoof, 20 Gold"
    },
    "where": {
     "en": "Mulgore",
@@ -1312,12 +1312,12 @@
    "riding": "Ram Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Veron Amberstill, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Veron Amberstill, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Veron Amberstill, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Veron Amberstill, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Veron Amberstill, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Veron Amberstill, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Veron Amberstill, 20 gold",
+    "nl": "Verkoper: Veron Amberstill, 20 goud",
+    "fr": "Marchand: Veron Amberstill, 20 po",
+    "es": "Vendedor: Veron Amberstill, 20 de oro",
+    "it": "Mercante: Veron Amberstill, 20 d'oro",
+    "de": "Händler: Veron Amberstill, 20 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -1398,12 +1398,12 @@
    "riding": "Kodo Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Harb Clawhoof, 1052 gold 63 silver 15 copper",
-    "nl": "Verkoper: Harb Clawhoof, 1052 goud en 63 zilver en 15 koper",
-    "fr": "Marchand: Harb Clawhoof, 1052 po 63 pa 15 pc",
-    "es": "Vendedor: Harb Clawhoof, 1052 de oro y 63 de plata y 15 de cobre",
-    "it": "Mercante: Harb Clawhoof, 1052 d'oro e 63 d'argento e 15 di rame",
-    "de": "Händler: Harb Clawhoof, 1052 Gold 63 Silber 15 Kupfer"
+    "en": "Vendor: Harb Clawhoof, 200 gold",
+    "nl": "Verkoper: Harb Clawhoof, 200 goud",
+    "fr": "Marchand: Harb Clawhoof, 200 po",
+    "es": "Vendedor: Harb Clawhoof, 200 de oro",
+    "it": "Mercante: Harb Clawhoof, 200 d'oro",
+    "de": "Händler: Harb Clawhoof, 200 Gold"
    },
    "where": {
     "en": "Mulgore",
@@ -1428,12 +1428,12 @@
    "riding": "Kodo Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Harb Clawhoof, 1052 gold 63 silver 15 copper",
-    "nl": "Verkoper: Harb Clawhoof, 1052 goud en 63 zilver en 15 koper",
-    "fr": "Marchand: Harb Clawhoof, 1052 po 63 pa 15 pc",
-    "es": "Vendedor: Harb Clawhoof, 1052 de oro y 63 de plata y 15 de cobre",
-    "it": "Mercante: Harb Clawhoof, 1052 d'oro e 63 d'argento e 15 di rame",
-    "de": "Händler: Harb Clawhoof, 1052 Gold 63 Silber 15 Kupfer"
+    "en": "Vendor: Harb Clawhoof, 200 gold",
+    "nl": "Verkoper: Harb Clawhoof, 200 goud",
+    "fr": "Marchand: Harb Clawhoof, 200 po",
+    "es": "Vendedor: Harb Clawhoof, 200 de oro",
+    "it": "Mercante: Harb Clawhoof, 200 d'oro",
+    "de": "Händler: Harb Clawhoof, 200 Gold"
    },
    "where": {
     "en": "Mulgore",
@@ -1458,12 +1458,12 @@
    "riding": "Kodo Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Harb Clawhoof, 1052 gold 63 silver 15 copper",
-    "nl": "Verkoper: Harb Clawhoof, 1052 goud en 63 zilver en 15 koper",
-    "fr": "Marchand: Harb Clawhoof, 1052 po 63 pa 15 pc",
-    "es": "Vendedor: Harb Clawhoof, 1052 de oro y 63 de plata y 15 de cobre",
-    "it": "Mercante: Harb Clawhoof, 1052 d'oro e 63 d'argento e 15 di rame",
-    "de": "Händler: Harb Clawhoof, 1052 Gold 63 Silber 15 Kupfer"
+    "en": "Vendor: Harb Clawhoof, 200 gold",
+    "nl": "Verkoper: Harb Clawhoof, 200 goud",
+    "fr": "Marchand: Harb Clawhoof, 200 po",
+    "es": "Vendedor: Harb Clawhoof, 200 de oro",
+    "it": "Mercante: Harb Clawhoof, 200 d'oro",
+    "de": "Händler: Harb Clawhoof, 200 Gold"
    },
    "where": {
     "en": "Mulgore",
@@ -1572,12 +1572,12 @@
    "riding": "Mechanostrider Piloting",
    "fast": false,
    "source": {
-    "en": "Vendor: Milli Featherwhistle, 40 gold",
-    "nl": "Verkoper: Milli Featherwhistle, 40 goud",
-    "fr": "Marchand: Milli Featherwhistle, 40 po",
-    "es": "Vendedor: Milli Featherwhistle, 40 de oro",
-    "it": "Mercante: Milli Featherwhistle, 40 d'oro",
-    "de": "Händler: Milli Featherwhistle, 40 Gold"
+    "en": "Vendor: Milli Featherwhistle, 20 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 20 goud",
+    "fr": "Marchand: Milli Featherwhistle, 20 po",
+    "es": "Vendedor: Milli Featherwhistle, 20 de oro",
+    "it": "Mercante: Milli Featherwhistle, 20 d'oro",
+    "de": "Händler: Milli Featherwhistle, 20 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -1660,12 +1660,12 @@
    "riding": "Undead Horsemanship",
    "fast": true,
    "source": {
-    "en": "Vendor: Zachariah Post, 1052 gold 63 silver 15 copper",
-    "nl": "Verkoper: Zachariah Post, 1052 goud en 63 zilver en 15 koper",
-    "fr": "Marchand: Zachariah Post, 1052 po 63 pa 15 pc",
-    "es": "Vendedor: Zachariah Post, 1052 de oro y 63 de plata y 15 de cobre",
-    "it": "Mercante: Zachariah Post, 1052 d'oro e 63 d'argento e 15 di rame",
-    "de": "Händler: Zachariah Post, 1052 Gold 63 Silber 15 Kupfer"
+    "en": "Vendor: Zachariah Post, 200 gold",
+    "nl": "Verkoper: Zachariah Post, 200 goud",
+    "fr": "Marchand: Zachariah Post, 200 po",
+    "es": "Vendedor: Zachariah Post, 200 de oro",
+    "it": "Mercante: Zachariah Post, 200 d'oro",
+    "de": "Händler: Zachariah Post, 200 Gold"
    },
    "where": {
     "en": "Tirisfal Glades",
@@ -1746,12 +1746,12 @@
    "riding": "Wolf Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Ogunaro Wolfrunner, 40 gold",
-    "nl": "Verkoper: Ogunaro Wolfrunner, 40 goud",
-    "fr": "Marchand: Ogunaro Wolfrunner, 40 po",
-    "es": "Vendedor: Ogunaro Wolfrunner, 40 de oro",
-    "it": "Mercante: Ogunaro Wolfrunner, 40 d'oro",
-    "de": "Händler: Ogunaro Wolfrunner, 40 Gold"
+    "en": "Vendor: Ogunaro Wolfrunner, 20 gold",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 20 goud",
+    "fr": "Marchand: Ogunaro Wolfrunner, 20 po",
+    "es": "Vendedor: Ogunaro Wolfrunner, 20 de oro",
+    "it": "Mercante: Ogunaro Wolfrunner, 20 d'oro",
+    "de": "Händler: Ogunaro Wolfrunner, 20 Gold"
    },
    "where": {
     "en": "Orgrimmar",
@@ -1950,12 +1950,12 @@
    "riding": "Horse Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Katie Hunter, 40 gold",
-    "nl": "Verkoper: Katie Hunter, 40 goud",
-    "fr": "Marchand: Katie Hunter, 40 po",
-    "es": "Vendedor: Katie Hunter, 40 de oro",
-    "it": "Mercante: Katie Hunter, 40 d'oro",
-    "de": "Händler: Katie Hunter, 40 Gold"
+    "en": "Vendor: Katie Hunter, 20 gold",
+    "nl": "Verkoper: Katie Hunter, 20 goud",
+    "fr": "Marchand: Katie Hunter, 20 po",
+    "es": "Vendedor: Katie Hunter, 20 de oro",
+    "it": "Mercante: Katie Hunter, 20 d'oro",
+    "de": "Händler: Katie Hunter, 20 Gold"
    },
    "where": {
     "en": "4 zones",
@@ -2036,12 +2036,12 @@
    "riding": "Undead Horsemanship",
    "fast": true,
    "source": {
-    "en": "Vendor: Zachariah Post, 1052 gold 63 silver 15 copper",
-    "nl": "Verkoper: Zachariah Post, 1052 goud en 63 zilver en 15 koper",
-    "fr": "Marchand: Zachariah Post, 1052 po 63 pa 15 pc",
-    "es": "Vendedor: Zachariah Post, 1052 de oro y 63 de plata y 15 de cobre",
-    "it": "Mercante: Zachariah Post, 1052 d'oro e 63 d'argento e 15 di rame",
-    "de": "Händler: Zachariah Post, 1052 Gold 63 Silber 15 Kupfer"
+    "en": "Vendor: Zachariah Post, 200 gold",
+    "nl": "Verkoper: Zachariah Post, 200 goud",
+    "fr": "Marchand: Zachariah Post, 200 po",
+    "es": "Vendedor: Zachariah Post, 200 de oro",
+    "it": "Mercante: Zachariah Post, 200 d'oro",
+    "de": "Händler: Zachariah Post, 200 Gold"
    },
    "where": {
     "en": "Tirisfal Glades",
@@ -2066,12 +2066,12 @@
    "riding": "Mechanostrider Piloting",
    "fast": false,
    "source": {
-    "en": "Vendor: Milli Featherwhistle, 40 gold",
-    "nl": "Verkoper: Milli Featherwhistle, 40 goud",
-    "fr": "Marchand: Milli Featherwhistle, 40 po",
-    "es": "Vendedor: Milli Featherwhistle, 40 de oro",
-    "it": "Mercante: Milli Featherwhistle, 40 d'oro",
-    "de": "Händler: Milli Featherwhistle, 40 Gold"
+    "en": "Vendor: Milli Featherwhistle, 20 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 20 goud",
+    "fr": "Marchand: Milli Featherwhistle, 20 po",
+    "es": "Vendedor: Milli Featherwhistle, 20 de oro",
+    "it": "Mercante: Milli Featherwhistle, 20 d'oro",
+    "de": "Händler: Milli Featherwhistle, 20 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -2126,12 +2126,12 @@
    "riding": "Undead Horsemanship",
    "fast": false,
    "source": {
-    "en": "Vendor: Zachariah Post, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Zachariah Post, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Zachariah Post, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Zachariah Post, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Zachariah Post, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Zachariah Post, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Zachariah Post, 20 gold",
+    "nl": "Verkoper: Zachariah Post, 20 goud",
+    "fr": "Marchand: Zachariah Post, 20 po",
+    "es": "Vendedor: Zachariah Post, 20 de oro",
+    "it": "Mercante: Zachariah Post, 20 d'oro",
+    "de": "Händler: Zachariah Post, 20 Gold"
    },
    "where": {
     "en": "Tirisfal Glades",
@@ -2412,12 +2412,12 @@
    "riding": "Tiger Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Lelanai, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Lelanai, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Lelanai, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Lelanai, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Lelanai, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Lelanai, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Lelanai, 20 gold",
+    "nl": "Verkoper: Lelanai, 20 goud",
+    "fr": "Marchand: Lelanai, 20 po",
+    "es": "Vendedor: Lelanai, 20 de oro",
+    "it": "Mercante: Lelanai, 20 d'oro",
+    "de": "Händler: Lelanai, 20 Gold"
    },
    "where": {
     "en": "Darnassus",
@@ -2531,12 +2531,12 @@
    "riding": "Tiger Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Lelanai, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Lelanai, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Lelanai, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Lelanai, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Lelanai, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Lelanai, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Lelanai, 20 gold",
+    "nl": "Verkoper: Lelanai, 20 goud",
+    "fr": "Marchand: Lelanai, 20 po",
+    "es": "Vendedor: Lelanai, 20 de oro",
+    "it": "Mercante: Lelanai, 20 d'oro",
+    "de": "Händler: Lelanai, 20 Gold"
    },
    "where": {
     "en": "Darnassus",
@@ -2561,12 +2561,12 @@
    "riding": "Tiger Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Lelanai, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Lelanai, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Lelanai, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Lelanai, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Lelanai, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Lelanai, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Lelanai, 20 gold",
+    "nl": "Verkoper: Lelanai, 20 goud",
+    "fr": "Marchand: Lelanai, 20 po",
+    "es": "Vendedor: Lelanai, 20 de oro",
+    "it": "Mercante: Lelanai, 20 d'oro",
+    "de": "Händler: Lelanai, 20 Gold"
    },
    "where": {
     "en": "Darnassus",
@@ -2591,12 +2591,12 @@
    "riding": "Raptor Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Zjolnir, 1000 gold",
-    "nl": "Verkoper: Zjolnir, 1000 goud",
-    "fr": "Marchand: Zjolnir, 1000 po",
-    "es": "Vendedor: Zjolnir, 1000 de oro",
-    "it": "Mercante: Zjolnir, 1000 d'oro",
-    "de": "Händler: Zjolnir, 1000 Gold"
+    "en": "Vendor: Zjolnir, 200 gold",
+    "nl": "Verkoper: Zjolnir, 200 goud",
+    "fr": "Marchand: Zjolnir, 200 po",
+    "es": "Vendedor: Zjolnir, 200 de oro",
+    "it": "Mercante: Zjolnir, 200 d'oro",
+    "de": "Händler: Zjolnir, 200 Gold"
    },
    "where": {
     "en": "Durotar",
@@ -2621,12 +2621,12 @@
    "riding": "Ram Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Veron Amberstill, 1000 gold",
-    "nl": "Verkoper: Veron Amberstill, 1000 goud",
-    "fr": "Marchand: Veron Amberstill, 1000 po",
-    "es": "Vendedor: Veron Amberstill, 1000 de oro",
-    "it": "Mercante: Veron Amberstill, 1000 d'oro",
-    "de": "Händler: Veron Amberstill, 1000 Gold"
+    "en": "Vendor: Veron Amberstill, 200 gold",
+    "nl": "Verkoper: Veron Amberstill, 200 goud",
+    "fr": "Marchand: Veron Amberstill, 200 po",
+    "es": "Vendedor: Veron Amberstill, 200 de oro",
+    "it": "Mercante: Veron Amberstill, 200 d'oro",
+    "de": "Händler: Veron Amberstill, 200 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -2653,12 +2653,12 @@
    "riding": "Horse Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Katie Hunter, 1000 gold",
-    "nl": "Verkoper: Katie Hunter, 1000 goud",
-    "fr": "Marchand: Katie Hunter, 1000 po",
-    "es": "Vendedor: Katie Hunter, 1000 de oro",
-    "it": "Mercante: Katie Hunter, 1000 d'oro",
-    "de": "Händler: Katie Hunter, 1000 Gold"
+    "en": "Vendor: Katie Hunter, 200 gold",
+    "nl": "Verkoper: Katie Hunter, 200 goud",
+    "fr": "Marchand: Katie Hunter, 200 po",
+    "es": "Vendedor: Katie Hunter, 200 de oro",
+    "it": "Mercante: Katie Hunter, 200 d'oro",
+    "de": "Händler: Katie Hunter, 200 Gold"
    },
    "where": {
     "en": "Dustwallow Marsh, Elwynn Forest and Hillsbrad Foothills",
@@ -2683,12 +2683,12 @@
    "riding": "Wolf Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Ogunaro Wolfrunner, 888 gold 88 silver 88 copper",
-    "nl": "Verkoper: Ogunaro Wolfrunner, 888 goud en 88 zilver en 88 koper",
-    "fr": "Marchand: Ogunaro Wolfrunner, 888 po 88 pa 88 pc",
-    "es": "Vendedor: Ogunaro Wolfrunner, 888 de oro y 88 de plata y 88 de cobre",
-    "it": "Mercante: Ogunaro Wolfrunner, 888 d'oro e 88 d'argento e 88 di rame",
-    "de": "Händler: Ogunaro Wolfrunner, 888 Gold 88 Silber 88 Kupfer"
+    "en": "Vendor: Ogunaro Wolfrunner, 200 gold",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 200 goud",
+    "fr": "Marchand: Ogunaro Wolfrunner, 200 po",
+    "es": "Vendedor: Ogunaro Wolfrunner, 200 de oro",
+    "it": "Mercante: Ogunaro Wolfrunner, 200 d'oro",
+    "de": "Händler: Ogunaro Wolfrunner, 200 Gold"
    },
    "where": {
     "en": "Orgrimmar",
@@ -2743,12 +2743,12 @@
    "riding": "Tiger Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Lelanai, 1000 gold",
-    "nl": "Verkoper: Lelanai, 1000 goud",
-    "fr": "Marchand: Lelanai, 1000 po",
-    "es": "Vendedor: Lelanai, 1000 de oro",
-    "it": "Mercante: Lelanai, 1000 d'oro",
-    "de": "Händler: Lelanai, 1000 Gold"
+    "en": "Vendor: Lelanai, 200 gold",
+    "nl": "Verkoper: Lelanai, 200 goud",
+    "fr": "Marchand: Lelanai, 200 po",
+    "es": "Vendedor: Lelanai, 200 de oro",
+    "it": "Mercante: Lelanai, 200 d'oro",
+    "de": "Händler: Lelanai, 200 Gold"
    },
    "where": {
     "en": "Darnassus",
@@ -2773,12 +2773,12 @@
    "riding": "Ram Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Veron Amberstill, 1000 gold",
-    "nl": "Verkoper: Veron Amberstill, 1000 goud",
-    "fr": "Marchand: Veron Amberstill, 1000 po",
-    "es": "Vendedor: Veron Amberstill, 1000 de oro",
-    "it": "Mercante: Veron Amberstill, 1000 d'oro",
-    "de": "Händler: Veron Amberstill, 1000 Gold"
+    "en": "Vendor: Veron Amberstill, 200 gold",
+    "nl": "Verkoper: Veron Amberstill, 200 goud",
+    "fr": "Marchand: Veron Amberstill, 200 po",
+    "es": "Vendedor: Veron Amberstill, 200 de oro",
+    "it": "Mercante: Veron Amberstill, 200 d'oro",
+    "de": "Händler: Veron Amberstill, 200 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -2803,12 +2803,12 @@
    "riding": "Wolf Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Ogunaro Wolfrunner, 888 gold 88 silver 88 copper",
-    "nl": "Verkoper: Ogunaro Wolfrunner, 888 goud en 88 zilver en 88 koper",
-    "fr": "Marchand: Ogunaro Wolfrunner, 888 po 88 pa 88 pc",
-    "es": "Vendedor: Ogunaro Wolfrunner, 888 de oro y 88 de plata y 88 de cobre",
-    "it": "Mercante: Ogunaro Wolfrunner, 888 d'oro e 88 d'argento e 88 di rame",
-    "de": "Händler: Ogunaro Wolfrunner, 888 Gold 88 Silber 88 Kupfer"
+    "en": "Vendor: Ogunaro Wolfrunner, 200 gold",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 200 goud",
+    "fr": "Marchand: Ogunaro Wolfrunner, 200 po",
+    "es": "Vendedor: Ogunaro Wolfrunner, 200 de oro",
+    "it": "Mercante: Ogunaro Wolfrunner, 200 d'oro",
+    "de": "Händler: Ogunaro Wolfrunner, 200 Gold"
    },
    "where": {
     "en": "Orgrimmar",
@@ -2833,12 +2833,12 @@
    "riding": "Mechanostrider Piloting",
    "fast": true,
    "source": {
-    "en": "Vendor: Milli Featherwhistle, 1000 gold",
-    "nl": "Verkoper: Milli Featherwhistle, 1000 goud",
-    "fr": "Marchand: Milli Featherwhistle, 1000 po",
-    "es": "Vendedor: Milli Featherwhistle, 1000 de oro",
-    "it": "Mercante: Milli Featherwhistle, 1000 d'oro",
-    "de": "Händler: Milli Featherwhistle, 1000 Gold"
+    "en": "Vendor: Milli Featherwhistle, 200 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 200 goud",
+    "fr": "Marchand: Milli Featherwhistle, 200 po",
+    "es": "Vendedor: Milli Featherwhistle, 200 de oro",
+    "it": "Mercante: Milli Featherwhistle, 200 d'oro",
+    "de": "Händler: Milli Featherwhistle, 200 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -2891,12 +2891,12 @@
    "riding": "Tiger Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Lelanai, 1000 gold",
-    "nl": "Verkoper: Lelanai, 1000 goud",
-    "fr": "Marchand: Lelanai, 1000 po",
-    "es": "Vendedor: Lelanai, 1000 de oro",
-    "it": "Mercante: Lelanai, 1000 d'oro",
-    "de": "Händler: Lelanai, 1000 Gold"
+    "en": "Vendor: Lelanai, 200 gold",
+    "nl": "Verkoper: Lelanai, 200 goud",
+    "fr": "Marchand: Lelanai, 200 po",
+    "es": "Vendedor: Lelanai, 200 de oro",
+    "it": "Mercante: Lelanai, 200 d'oro",
+    "de": "Händler: Lelanai, 200 Gold"
    },
    "where": {
     "en": "Darnassus",
@@ -2921,12 +2921,12 @@
    "riding": "Raptor Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Zjolnir, 1000 gold",
-    "nl": "Verkoper: Zjolnir, 1000 goud",
-    "fr": "Marchand: Zjolnir, 1000 po",
-    "es": "Vendedor: Zjolnir, 1000 de oro",
-    "it": "Mercante: Zjolnir, 1000 d'oro",
-    "de": "Händler: Zjolnir, 1000 Gold"
+    "en": "Vendor: Zjolnir, 200 gold",
+    "nl": "Verkoper: Zjolnir, 200 goud",
+    "fr": "Marchand: Zjolnir, 200 po",
+    "es": "Vendedor: Zjolnir, 200 de oro",
+    "it": "Mercante: Zjolnir, 200 d'oro",
+    "de": "Händler: Zjolnir, 200 Gold"
    },
    "where": {
     "en": "Durotar",
@@ -2951,12 +2951,12 @@
    "riding": "Raptor Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Zjolnir, 1000 gold",
-    "nl": "Verkoper: Zjolnir, 1000 goud",
-    "fr": "Marchand: Zjolnir, 1000 po",
-    "es": "Vendedor: Zjolnir, 1000 de oro",
-    "it": "Mercante: Zjolnir, 1000 d'oro",
-    "de": "Händler: Zjolnir, 1000 Gold"
+    "en": "Vendor: Zjolnir, 200 gold",
+    "nl": "Verkoper: Zjolnir, 200 goud",
+    "fr": "Marchand: Zjolnir, 200 po",
+    "es": "Vendedor: Zjolnir, 200 de oro",
+    "it": "Mercante: Zjolnir, 200 d'oro",
+    "de": "Händler: Zjolnir, 200 Gold"
    },
    "where": {
     "en": "Durotar",
@@ -2983,12 +2983,12 @@
    "riding": "Horse Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Katie Hunter, 1000 gold",
-    "nl": "Verkoper: Katie Hunter, 1000 goud",
-    "fr": "Marchand: Katie Hunter, 1000 po",
-    "es": "Vendedor: Katie Hunter, 1000 de oro",
-    "it": "Mercante: Katie Hunter, 1000 d'oro",
-    "de": "Händler: Katie Hunter, 1000 Gold"
+    "en": "Vendor: Katie Hunter, 200 gold",
+    "nl": "Verkoper: Katie Hunter, 200 goud",
+    "fr": "Marchand: Katie Hunter, 200 po",
+    "es": "Vendedor: Katie Hunter, 200 de oro",
+    "it": "Mercante: Katie Hunter, 200 d'oro",
+    "de": "Händler: Katie Hunter, 200 Gold"
    },
    "where": {
     "en": "Dustwallow Marsh, Elwynn Forest and Hillsbrad Foothills",
@@ -3071,12 +3071,12 @@
    "riding": "Tiger Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Lelanai, 1000 gold",
-    "nl": "Verkoper: Lelanai, 1000 goud",
-    "fr": "Marchand: Lelanai, 1000 po",
-    "es": "Vendedor: Lelanai, 1000 de oro",
-    "it": "Mercante: Lelanai, 1000 d'oro",
-    "de": "Händler: Lelanai, 1000 Gold"
+    "en": "Vendor: Lelanai, 200 gold",
+    "nl": "Verkoper: Lelanai, 200 goud",
+    "fr": "Marchand: Lelanai, 200 po",
+    "es": "Vendedor: Lelanai, 200 de oro",
+    "it": "Mercante: Lelanai, 200 d'oro",
+    "de": "Händler: Lelanai, 200 Gold"
    },
    "where": {
     "en": "Darnassus",
@@ -3131,12 +3131,12 @@
    "riding": "Wolf Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Ogunaro Wolfrunner, 888 gold 88 silver 88 copper",
-    "nl": "Verkoper: Ogunaro Wolfrunner, 888 goud en 88 zilver en 88 koper",
-    "fr": "Marchand: Ogunaro Wolfrunner, 888 po 88 pa 88 pc",
-    "es": "Vendedor: Ogunaro Wolfrunner, 888 de oro y 88 de plata y 88 de cobre",
-    "it": "Mercante: Ogunaro Wolfrunner, 888 d'oro e 88 d'argento e 88 di rame",
-    "de": "Händler: Ogunaro Wolfrunner, 888 Gold 88 Silber 88 Kupfer"
+    "en": "Vendor: Ogunaro Wolfrunner, 200 gold",
+    "nl": "Verkoper: Ogunaro Wolfrunner, 200 goud",
+    "fr": "Marchand: Ogunaro Wolfrunner, 200 po",
+    "es": "Vendedor: Ogunaro Wolfrunner, 200 de oro",
+    "it": "Mercante: Ogunaro Wolfrunner, 200 d'oro",
+    "de": "Händler: Ogunaro Wolfrunner, 200 Gold"
    },
    "where": {
     "en": "Orgrimmar",
@@ -3191,12 +3191,12 @@
    "riding": "Mechanostrider Piloting",
    "fast": true,
    "source": {
-    "en": "Vendor: Milli Featherwhistle, 1000 gold",
-    "nl": "Verkoper: Milli Featherwhistle, 1000 goud",
-    "fr": "Marchand: Milli Featherwhistle, 1000 po",
-    "es": "Vendedor: Milli Featherwhistle, 1000 de oro",
-    "it": "Mercante: Milli Featherwhistle, 1000 d'oro",
-    "de": "Händler: Milli Featherwhistle, 1000 Gold"
+    "en": "Vendor: Milli Featherwhistle, 200 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 200 goud",
+    "fr": "Marchand: Milli Featherwhistle, 200 po",
+    "es": "Vendedor: Milli Featherwhistle, 200 de oro",
+    "it": "Mercante: Milli Featherwhistle, 200 d'oro",
+    "de": "Händler: Milli Featherwhistle, 200 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -3221,12 +3221,12 @@
    "riding": "Ram Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Veron Amberstill, 1000 gold",
-    "nl": "Verkoper: Veron Amberstill, 1000 goud",
-    "fr": "Marchand: Veron Amberstill, 1000 po",
-    "es": "Vendedor: Veron Amberstill, 1000 de oro",
-    "it": "Mercante: Veron Amberstill, 1000 d'oro",
-    "de": "Händler: Veron Amberstill, 1000 Gold"
+    "en": "Vendor: Veron Amberstill, 200 gold",
+    "nl": "Verkoper: Veron Amberstill, 200 goud",
+    "fr": "Marchand: Veron Amberstill, 200 po",
+    "es": "Vendedor: Veron Amberstill, 200 de oro",
+    "it": "Mercante: Veron Amberstill, 200 d'oro",
+    "de": "Händler: Veron Amberstill, 200 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -3253,12 +3253,12 @@
    "riding": "Horse Riding",
    "fast": true,
    "source": {
-    "en": "Vendor: Katie Hunter, 1000 gold",
-    "nl": "Verkoper: Katie Hunter, 1000 goud",
-    "fr": "Marchand: Katie Hunter, 1000 po",
-    "es": "Vendedor: Katie Hunter, 1000 de oro",
-    "it": "Mercante: Katie Hunter, 1000 d'oro",
-    "de": "Händler: Katie Hunter, 1000 Gold"
+    "en": "Vendor: Katie Hunter, 200 gold",
+    "nl": "Verkoper: Katie Hunter, 200 goud",
+    "fr": "Marchand: Katie Hunter, 200 po",
+    "es": "Vendedor: Katie Hunter, 200 de oro",
+    "it": "Mercante: Katie Hunter, 200 d'oro",
+    "de": "Händler: Katie Hunter, 200 Gold"
    },
    "where": {
     "en": "Dustwallow Marsh, Elwynn Forest and Hillsbrad Foothills",
@@ -3283,12 +3283,12 @@
    "riding": "Mechanostrider Piloting",
    "fast": true,
    "source": {
-    "en": "Vendor: Milli Featherwhistle, 1000 gold",
-    "nl": "Verkoper: Milli Featherwhistle, 1000 goud",
-    "fr": "Marchand: Milli Featherwhistle, 1000 po",
-    "es": "Vendedor: Milli Featherwhistle, 1000 de oro",
-    "it": "Mercante: Milli Featherwhistle, 1000 d'oro",
-    "de": "Händler: Milli Featherwhistle, 1000 Gold"
+    "en": "Vendor: Milli Featherwhistle, 200 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 200 goud",
+    "fr": "Marchand: Milli Featherwhistle, 200 po",
+    "es": "Vendedor: Milli Featherwhistle, 200 de oro",
+    "it": "Mercante: Milli Featherwhistle, 200 d'oro",
+    "de": "Händler: Milli Featherwhistle, 200 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -3399,12 +3399,12 @@
    "riding": "Raptor Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Zjolnir, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Zjolnir, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Zjolnir, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Zjolnir, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Zjolnir, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Zjolnir, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Zjolnir, 20 gold",
+    "nl": "Verkoper: Zjolnir, 20 goud",
+    "fr": "Marchand: Zjolnir, 20 po",
+    "es": "Vendedor: Zjolnir, 20 de oro",
+    "it": "Mercante: Zjolnir, 20 d'oro",
+    "de": "Händler: Zjolnir, 20 Gold"
    },
    "where": {
     "en": "Durotar",
@@ -3459,12 +3459,12 @@
    "riding": "Mechanostrider Piloting",
    "fast": false,
    "source": {
-    "en": "Vendor: Milli Featherwhistle, 40 gold",
-    "nl": "Verkoper: Milli Featherwhistle, 40 goud",
-    "fr": "Marchand: Milli Featherwhistle, 40 po",
-    "es": "Vendedor: Milli Featherwhistle, 40 de oro",
-    "it": "Mercante: Milli Featherwhistle, 40 d'oro",
-    "de": "Händler: Milli Featherwhistle, 40 Gold"
+    "en": "Vendor: Milli Featherwhistle, 20 gold",
+    "nl": "Verkoper: Milli Featherwhistle, 20 goud",
+    "fr": "Marchand: Milli Featherwhistle, 20 po",
+    "es": "Vendedor: Milli Featherwhistle, 20 de oro",
+    "it": "Mercante: Milli Featherwhistle, 20 d'oro",
+    "de": "Händler: Milli Featherwhistle, 20 Gold"
    },
    "where": {
     "en": "Dun Morogh",
@@ -3573,12 +3573,12 @@
    "riding": "Raptor Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Zjolnir, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Zjolnir, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Zjolnir, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Zjolnir, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Zjolnir, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Zjolnir, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Zjolnir, 20 gold",
+    "nl": "Verkoper: Zjolnir, 20 goud",
+    "fr": "Marchand: Zjolnir, 20 po",
+    "es": "Vendedor: Zjolnir, 20 de oro",
+    "it": "Mercante: Zjolnir, 20 d'oro",
+    "de": "Händler: Zjolnir, 20 Gold"
    },
    "where": {
     "en": "Durotar",
@@ -3743,12 +3743,12 @@
    "riding": "Ram Riding",
    "fast": false,
    "source": {
-    "en": "Vendor: Veron Amberstill, 42 gold 10 silver 52 copper",
-    "nl": "Verkoper: Veron Amberstill, 42 goud en 10 zilver en 52 koper",
-    "fr": "Marchand: Veron Amberstill, 42 po 10 pa 52 pc",
-    "es": "Vendedor: Veron Amberstill, 42 de oro y 10 de plata y 52 de cobre",
-    "it": "Mercante: Veron Amberstill, 42 d'oro e 10 d'argento e 52 di rame",
-    "de": "Händler: Veron Amberstill, 42 Gold 10 Silber 52 Kupfer"
+    "en": "Vendor: Veron Amberstill, 20 gold",
+    "nl": "Verkoper: Veron Amberstill, 20 goud",
+    "fr": "Marchand: Veron Amberstill, 20 po",
+    "es": "Vendedor: Veron Amberstill, 20 de oro",
+    "it": "Mercante: Veron Amberstill, 20 d'oro",
+    "de": "Händler: Veron Amberstill, 20 Gold"
    },
    "where": {
     "en": "Dun Morogh",

@@ -1,14 +1,14 @@
 ---
 title: "Gray Ram: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Gray Ram in WoW Forever"
-description: "Gray Ram is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Veron Amberstill, 42 goud en 10 zilver en 52 koper."
+description: "Gray Ram is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Veron Amberstill, 20 goud."
 short: "Gray Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Gray Ram in WoW Forever?"
-    a: "Veron Amberstill verkoopt hem in Dun Morogh voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Riding Ram, vanaf level 40 voor de Alliance, laat je deze kiezen."
+    a: "Veron Amberstill verkoopt hem in Dun Morogh voor 20 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Riding Ram, vanaf level 40 voor de Alliance, laat je deze kiezen."
   - q: "Is Gray Ram nieuw in WoW Forever?"
     a: "Nee. Gray Ram zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Gray Ram is een mount uit Classic die terugkomt in World of Warcraft: Forever. H
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5864"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gray Ram</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 42 goud en 10 zilver en 52 koper |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 20 goud |
 | Waar | Dun Morogh |
-| Prijs | 42 goud en 10 zilver en 52 koper |
+| Prijs | 20 goud |
 | Level | 40 |
 | Rijden | Ram Riding |
 | Snelheid | normaal |
@@ -38,7 +38,7 @@ Gray Ram is een mount uit Classic die terugkomt in World of Warcraft: Forever. H
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkoopt hem in Dun Morogh voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkoopt hem in Dun Morogh voor 20 goud. De verkoper is vriendelijk voor de Alliance.
 
 Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, vanaf level 40 voor de Alliance, laat je deze kiezen.
 

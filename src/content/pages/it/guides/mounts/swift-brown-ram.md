@@ -1,14 +1,14 @@
 ---
 title: "Swift Brown Ram: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Swift Brown Ram in WoW Forever"
-description: "Swift Brown Ram è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Veron Amberstill, 1000 d'oro."
+description: "Swift Brown Ram è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Veron Amberstill, 200 d'oro."
 short: "Swift Brown Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Brown Ram in WoW Forever?"
-    a: "Veron Amberstill la vende a Dun Morogh per 1000 d'oro. Il mercante è amichevole con l'Alleanza. La prima cavalcatura è gratis: la missione Frost Ram Exchange, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
+    a: "Veron Amberstill la vende a Dun Morogh per 200 d'oro. Il mercante è amichevole con l'Alleanza. Cavalcarla richiede Ram Riding."
   - q: "Swift Brown Ram è nuova in WoW Forever?"
     a: "No. Swift Brown Ram c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Brown Ram è una cavalcatura di Classic che torna in World of Warcraft: Fo
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18786"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Brown Ram</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 1000 d'oro |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 200 d'oro |
 | Dove | Dun Morogh |
-| Prezzo | 1000 d'oro |
+| Prezzo | 200 d'oro |
 | Livello | 60 |
 | Cavalcare | Ram Riding |
 | Velocità | molto veloce |
@@ -38,9 +38,7 @@ Swift Brown Ram è una cavalcatura di Classic che torna in World of Warcraft: Fo
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vende a Dun Morogh per 1000 d'oro. Il mercante è amichevole con l'Alleanza.
-
-La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7673">Frost Ram Exchange</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vende a Dun Morogh per 200 d'oro. Il mercante è amichevole con l'Alleanza.
 
 Cavalcarla richiede Ram Riding.
 

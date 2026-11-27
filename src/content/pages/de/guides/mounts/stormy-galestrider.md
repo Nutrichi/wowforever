@@ -3,7 +3,7 @@ title: "Stormy Galestrider: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Stormy Galestrider in WoW Forever"
 description: "Stormy Galestrider ist ein Reittier, das neu in World of Warcraft: Forever ist. Quelle: Händler: Genn Fairweather, 20 Gold."
 short: "Stormy Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:

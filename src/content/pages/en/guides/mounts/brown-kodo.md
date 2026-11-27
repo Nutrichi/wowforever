@@ -1,13 +1,13 @@
 ---
 title: "Brown Kodo: how to get the mount in WoW Forever"
 metaTitle: "How to get the Brown Kodo mount in WoW Forever"
-description: "Brown Kodo is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Harb Clawhoof, 35 gold 55 silver 55 copper."
+description: "Brown Kodo is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Harb Clawhoof, 20 gold."
 short: "Brown Kodo"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Brown Kodo in WoW Forever?"
-    a: "Harb Clawhoof sells it in Mulgore for 35 gold 55 silver 55 copper. The vendor is friendly to the Horde. Your first mount is free: the quest Your First Riding Kodo, from level 40 for the Horde, lets you pick this one."
+    a: "Harb Clawhoof sells it in Mulgore for 20 gold. The vendor is friendly to the Horde. Your first mount is free: the quest Your First Riding Kodo, from level 40 for the Horde, lets you pick this one."
   - q: "Is Brown Kodo new in WoW Forever?"
     a: "No. Brown Kodo was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Brown Kodo is a mount from Classic that returns in World of Warcraft: Forever. I
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15290"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Kodo</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 35 gold 55 silver 55 copper |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 20 gold |
 | Where | Mulgore |
-| Price | 35 gold 55 silver 55 copper |
+| Price | 20 gold |
 | Level | 40 |
 | Riding | Kodo Riding |
 | Speed | normal |
@@ -37,7 +37,7 @@ Brown Kodo is a mount from Classic that returns in World of Warcraft: Forever. I
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> sells it in Mulgore for 35 gold 55 silver 55 copper. The vendor is friendly to the Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> sells it in Mulgore for 20 gold. The vendor is friendly to the Horde.
 
 Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a>, from level 40 for the Horde, lets you pick this one.
 

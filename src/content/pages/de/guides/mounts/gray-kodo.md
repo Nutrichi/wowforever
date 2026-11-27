@@ -1,14 +1,14 @@
 ---
 title: "Gray Kodo: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Gray Kodo in WoW Forever"
-description: "Gray Kodo ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Harb Clawhoof, 35 Gold 55 Silber 55 Kupfer."
+description: "Gray Kodo ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Harb Clawhoof, 20 Gold."
 short: "Gray Kodo"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Gray Kodo in WoW Forever?"
-    a: "Harb Clawhoof verkauft es in Mulgore für 35 Gold 55 Silber 55 Kupfer. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Kodo, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
+    a: "Harb Clawhoof verkauft es in Mulgore für 20 Gold. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Kodo, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
   - q: "Ist Gray Kodo neu in WoW Forever?"
     a: "Nein. Gray Kodo gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Gray Kodo ist ein Reittier aus Classic, das in World of Warcraft: Forever zurüc
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15277"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gray Kodo</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 35 Gold 55 Silber 55 Kupfer |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 20 Gold |
 | Wo | Mulgore |
-| Preis | 35 Gold 55 Silber 55 Kupfer |
+| Preis | 20 Gold |
 | Stufe | 40 |
 | Reiten | Kodo Riding |
 | Tempo | normal |
@@ -38,7 +38,7 @@ Gray Kodo ist ein Reittier aus Classic, das in World of Warcraft: Forever zurüc
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> verkauft es in Mulgore für 35 Gold 55 Silber 55 Kupfer. Der Händler ist die Horde freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> verkauft es in Mulgore für 20 Gold. Der Händler ist die Horde freundlich gesinnt.
 
 Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a>, ab Stufe 40 für die Horde, lässt dich dieses auswählen.
 

@@ -1,14 +1,14 @@
 ---
 title: "Striped Frostsaber : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Striped Frostsaber dans WoW Forever"
-description: "Striped Frostsaber est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Lelanai, 42 po 10 pa 52 pc."
+description: "Striped Frostsaber est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Lelanai, 20 po."
 short: "Striped Frostsaber"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Striped Frostsaber dans WoW Forever ?"
-    a: "Lelanai la vend à Darnassus pour 42 po 10 pa 52 pc. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Your First Feline Friend, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci."
+    a: "Lelanai la vend à Darnassus pour 20 po. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Your First Feline Friend, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci."
   - q: "Striped Frostsaber est-elle nouvelle dans WoW Forever ?"
     a: "Non. Striped Frostsaber existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Striped Frostsaber est une monture de Classic qui revient dans World of Warcraft
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8631"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Striped Frostsaber</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 42 po 10 pa 52 pc |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 20 po |
 | Où | Darnassus |
-| Prix | 42 po 10 pa 52 pc |
+| Prix | 20 po |
 | Niveau | 40 |
 | Monte | Tiger Riding |
 | Vitesse | normale |
@@ -38,7 +38,7 @@ Striped Frostsaber est une monture de Classic qui revient dans World of Warcraft
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> la vend à Darnassus pour 42 po 10 pa 52 pc. Le marchand est amical envers l'Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> la vend à Darnassus pour 20 po. Le marchand est amical envers l'Alliance.
 
 Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci.
 

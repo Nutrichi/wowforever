@@ -1,14 +1,14 @@
 ---
 title: "Emerald Raptor : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Emerald Raptor dans WoW Forever"
-description: "Emerald Raptor est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Zjolnir, 42 po 10 pa 52 pc."
+description: "Emerald Raptor est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Zjolnir, 20 po."
 short: "Emerald Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Emerald Raptor dans WoW Forever ?"
-    a: "Zjolnir la vend à Durotar pour 42 po 10 pa 52 pc. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête Your First Riding Raptor, à partir du niveau 40 pour la Horde, vous laisse choisir celle-ci."
+    a: "Zjolnir la vend à Durotar pour 20 po. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête Your First Riding Raptor, à partir du niveau 40 pour la Horde, vous laisse choisir celle-ci."
   - q: "Emerald Raptor est-elle nouvelle dans WoW Forever ?"
     a: "Non. Emerald Raptor existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Emerald Raptor est une monture de Classic qui revient dans World of Warcraft: Fo
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8588"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whistle of the Emerald Raptor</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 42 po 10 pa 52 pc |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 20 po |
 | Où | Durotar |
-| Prix | 42 po 10 pa 52 pc |
+| Prix | 20 po |
 | Niveau | 40 |
 | Monte | Raptor Riding |
 | Vitesse | normale |
@@ -38,7 +38,7 @@ Emerald Raptor est une monture de Classic qui revient dans World of Warcraft: Fo
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vend à Durotar pour 42 po 10 pa 52 pc. Le marchand est amical envers la Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vend à Durotar pour 20 po. Le marchand est amical envers la Horde.
 
 Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=96989">Your First Riding Raptor</a>, à partir du niveau 40 pour la Horde, vous laisse choisir celle-ci.
 

@@ -1,14 +1,14 @@
 ---
 title: "Brown Ram: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Brown Ram in WoW Forever"
-description: "Brown Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Veron Amberstill, 40 Gold."
+description: "Brown Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Veron Amberstill, 20 Gold."
 short: "Brown Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Brown Ram in WoW Forever?"
-    a: "Veron Amberstill verkauft es in Dun Morogh für 40 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Ram, ab Stufe 40 für die Allianz, lässt dich dieses auswählen."
+    a: "Veron Amberstill verkauft es in Dun Morogh für 20 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Ram, ab Stufe 40 für die Allianz, lässt dich dieses auswählen."
   - q: "Ist Brown Ram neu in WoW Forever?"
     a: "Nein. Brown Ram gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Brown Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever zurüc
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5872"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Ram</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 40 Gold |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 20 Gold |
 | Wo | Dun Morogh |
-| Preis | 40 Gold |
+| Preis | 20 Gold |
 | Stufe | 40 |
 | Reiten | Ram Riding |
 | Tempo | normal |
@@ -38,7 +38,7 @@ Brown Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever zurüc
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkauft es in Dun Morogh für 40 Gold. Der Händler ist die Allianz freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkauft es in Dun Morogh für 20 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
 Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, ab Stufe 40 für die Allianz, lässt dich dieses auswählen.
 

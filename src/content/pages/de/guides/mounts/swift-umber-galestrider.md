@@ -3,7 +3,7 @@ title: "Swift Umber Galestrider: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Swift Umber Galestrider in WoW Forever"
 description: "Swift Umber Galestrider ist ein Reittier, das neu in World of Warcraft: Forever ist. Quelle: Händler: Genn Fairweather, 200 Gold."
 short: "Swift Umber Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:

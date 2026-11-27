@@ -1,14 +1,14 @@
 ---
 title: "Black Stallion : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Black Stallion dans WoW Forever"
-description: "Black Stallion est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Unger Statforth, 42 po 10 pa 52 pc."
+description: "Black Stallion est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Unger Statforth, 20 po."
 short: "Black Stallion"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Black Stallion dans WoW Forever ?"
-    a: "Unger Statforth la vend à Wetlands pour 42 po 10 pa 52 pc. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Your First Horse, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci."
+    a: "Unger Statforth la vend à Wetlands pour 20 po. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Your First Horse, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci."
   - q: "Black Stallion est-elle nouvelle dans WoW Forever ?"
     a: "Non. Black Stallion existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Black Stallion est une monture de Classic qui revient dans World of Warcraft: Fo
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2411"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Stallion Bridle</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 42 po 10 pa 52 pc |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 20 po |
 | Où | Wetlands |
-| Prix | 42 po 10 pa 52 pc |
+| Prix | 20 po |
 | Niveau | 40 |
 | Monte | Horse Riding |
 | Vitesse | normale |
@@ -38,7 +38,7 @@ Black Stallion est une monture de Classic qui revient dans World of Warcraft: Fo
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> la vend à Wetlands pour 42 po 10 pa 52 pc. Le marchand est amical envers l'Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> la vend à Wetlands pour 20 po. Le marchand est amical envers l'Alliance.
 
 Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=97171">Your First Horse</a>, à partir du niveau 40 pour l'Alliance, vous laisse choisir celle-ci.
 

@@ -1,14 +1,14 @@
 ---
 title: "Swift Olive Raptor: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Swift Olive Raptor in WoW Forever"
-description: "Swift Olive Raptor è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Zjolnir, 1000 d'oro."
+description: "Swift Olive Raptor è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Zjolnir, 200 d'oro."
 short: "Swift Olive Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Olive Raptor in WoW Forever?"
-    a: "Zjolnir la vende a Durotar per 1000 d'oro. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Ivory Raptor Replacement, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
+    a: "Zjolnir la vende a Durotar per 200 d'oro. Il mercante è amichevole con l'Orda. Cavalcarla richiede Raptor Riding."
   - q: "Swift Olive Raptor è nuova in WoW Forever?"
     a: "No. Swift Olive Raptor c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Olive Raptor è una cavalcatura di Classic che torna in World of Warcraft:
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18789"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Olive Raptor</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 1000 d'oro |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 200 d'oro |
 | Dove | Durotar |
-| Prezzo | 1000 d'oro |
+| Prezzo | 200 d'oro |
 | Livello | 60 |
 | Cavalcare | Raptor Riding |
 | Velocità | molto veloce |
@@ -38,9 +38,7 @@ Swift Olive Raptor è una cavalcatura di Classic che torna in World of Warcraft:
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vende a Durotar per 1000 d'oro. Il mercante è amichevole con l'Orda.
-
-La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7664">Ivory Raptor Replacement</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vende a Durotar per 200 d'oro. Il mercante è amichevole con l'Orda.
 
 Cavalcarla richiede Raptor Riding.
 

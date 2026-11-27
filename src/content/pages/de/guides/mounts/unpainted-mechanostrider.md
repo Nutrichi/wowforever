@@ -1,14 +1,14 @@
 ---
 title: "Unpainted Mechanostrider: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Unpainted Mechanostrider in WoW Forever"
-description: "Unpainted Mechanostrider ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Milli Featherwhistle, 40 Gold."
+description: "Unpainted Mechanostrider ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Milli Featherwhistle, 20 Gold."
 short: "Unpainted Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Unpainted Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle verkauft es in Dun Morogh für 40 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Mechanostrider, ab Stufe 40 für die Allianz, lässt dich dieses auswählen."
+    a: "Milli Featherwhistle verkauft es in Dun Morogh für 20 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Mechanostrider, ab Stufe 40 für die Allianz, lässt dich dieses auswählen."
   - q: "Ist Unpainted Mechanostrider neu in WoW Forever?"
     a: "Nein. Unpainted Mechanostrider gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Unpainted Mechanostrider ist ein Reittier aus Classic, das in World of Warcraft:
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13322"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Unpainted Mechanostrider</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 40 Gold |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 20 Gold |
 | Wo | Dun Morogh |
-| Preis | 40 Gold |
+| Preis | 20 Gold |
 | Stufe | 40 |
 | Reiten | Mechanostrider Piloting |
 | Tempo | normal |
@@ -38,7 +38,7 @@ Unpainted Mechanostrider ist ein Reittier aus Classic, das in World of Warcraft:
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkauft es in Dun Morogh für 40 Gold. Der Händler ist die Allianz freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkauft es in Dun Morogh für 20 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
 Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=97046">Your First Mechanostrider</a>, ab Stufe 40 für die Allianz, lässt dich dieses auswählen.
 

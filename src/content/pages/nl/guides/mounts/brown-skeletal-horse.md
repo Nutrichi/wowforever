@@ -1,14 +1,14 @@
 ---
 title: "Brown Skeletal Horse: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Brown Skeletal Horse in WoW Forever"
-description: "Brown Skeletal Horse is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Zachariah Post, 40 goud."
+description: "Brown Skeletal Horse is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Zachariah Post, 20 goud."
 short: "Brown Skeletal Horse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Brown Skeletal Horse in WoW Forever?"
-    a: "Zachariah Post verkoopt hem in Tirisfal Glades voor 40 goud. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest A Steed in Death as They Were in Life, vanaf level 40 voor de Horde, laat je deze kiezen."
+    a: "Zachariah Post verkoopt hem in Tirisfal Glades voor 20 goud. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest A Steed in Death as They Were in Life, vanaf level 40 voor de Horde, laat je deze kiezen."
   - q: "Is Brown Skeletal Horse nieuw in WoW Forever?"
     a: "Nee. Brown Skeletal Horse zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Brown Skeletal Horse is een mount uit Classic die terugkomt in World of Warcraft
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13333"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Skeletal Horse</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 40 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 20 goud |
 | Waar | Tirisfal Glades |
-| Prijs | 40 goud |
+| Prijs | 20 goud |
 | Level | 40 |
 | Rijden | Undead Horsemanship |
 | Snelheid | normaal |
@@ -38,7 +38,7 @@ Brown Skeletal Horse is een mount uit Classic die terugkomt in World of Warcraft
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkoopt hem in Tirisfal Glades voor 40 goud. De verkoper is vriendelijk voor de Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkoopt hem in Tirisfal Glades voor 20 goud. De verkoper is vriendelijk voor de Horde.
 
 Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, vanaf level 40 voor de Horde, laat je deze kiezen.
 

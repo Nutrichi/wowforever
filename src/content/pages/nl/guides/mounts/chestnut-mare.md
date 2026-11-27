@@ -1,14 +1,14 @@
 ---
 title: "Chestnut Mare: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Chestnut Mare in WoW Forever"
-description: "Chestnut Mare is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Katie Hunter, 40 goud."
+description: "Chestnut Mare is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Katie Hunter, 20 goud."
 short: "Chestnut Mare"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Chestnut Mare in WoW Forever?"
-    a: "Katie Hunter verkoopt hem in Elwynn Forest voor 35 goud en 55 zilver en 55 koper. De verkoper is vriendelijk voor de Alliance. Unger Statforth verkoopt hem in Wetlands voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance."
+    a: "Katie Hunter verkoopt hem in Elwynn Forest voor 20 goud. De verkoper is vriendelijk voor de Alliance. Unger Statforth verkoopt hem in Wetlands voor 20 goud. De verkoper is vriendelijk voor de Alliance."
   - q: "Is Chestnut Mare nieuw in WoW Forever?"
     a: "Nee. Chestnut Mare zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Chestnut Mare is een mount uit Classic die terugkomt in World of Warcraft: Forev
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5655"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Chestnut Mare Bridle</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 40 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 20 goud |
 | Waar | 4 zones |
-| Prijs | 40 goud |
+| Prijs | 20 goud |
 | Level | 40 |
 | Rijden | Horse Riding |
 | Snelheid | normaal |
@@ -38,11 +38,11 @@ Chestnut Mare is een mount uit Classic die terugkomt in World of Warcraft: Forev
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> verkoopt hem in Elwynn Forest voor 35 goud en 55 zilver en 55 koper. De verkoper is vriendelijk voor de Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> verkoopt hem in Elwynn Forest voor 20 goud. De verkoper is vriendelijk voor de Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> verkoopt hem in Wetlands voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> verkoopt hem in Wetlands voor 20 goud. De verkoper is vriendelijk voor de Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> verkoopt hem in Hillsbrad Foothills voor 40 goud. De verkoper is vriendelijk voor de Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> verkoopt hem in Hillsbrad Foothills voor 20 goud. De verkoper is vriendelijk voor de Alliance.
 
 Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=97045">Your First Horse</a>, vanaf level 40 voor de Alliance, laat je deze kiezen.
 

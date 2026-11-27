@@ -130,6 +130,8 @@ export const hubCategories: HubCategory[] = [
     cards: [
       { key: 'pets', image: '2026-09-30-wow-forever-sewer-beast-raid.jpg' },
       { key: 'mounts', image: '2026-09-23-wow-forever-pack-kodo-vendor.jpg' },
+      // Rijden: trainers, kosten, gratis eerste mount (27 november 2026).
+      { key: 'riding', image: '2026-11-13-wow-forever-skyborne-riding-trainer.jpg', isNew: true },
     ],
   },
   {

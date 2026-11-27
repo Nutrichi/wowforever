@@ -1,14 +1,14 @@
 ---
 title: "Swift Stormsaber: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Swift Stormsaber in WoW Forever"
-description: "Swift Stormsaber è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Lelanai, 1000 d'oro."
+description: "Swift Stormsaber è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Lelanai, 200 d'oro."
 short: "Swift Stormsaber"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Stormsaber in WoW Forever?"
-    a: "Lelanai la vende a Darnassus per 1000 d'oro. Il mercante è amichevole con l'Alleanza. La prima cavalcatura è gratis: la missione Frostsaber Replacement, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
+    a: "Lelanai la vende a Darnassus per 200 d'oro. Il mercante è amichevole con l'Alleanza. Cavalcarla richiede Tiger Riding."
   - q: "Swift Stormsaber è nuova in WoW Forever?"
     a: "No. Swift Stormsaber c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Stormsaber è una cavalcatura di Classic che torna in World of Warcraft: F
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18902"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Swift Stormsaber</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 1000 d'oro |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 200 d'oro |
 | Dove | Darnassus |
-| Prezzo | 1000 d'oro |
+| Prezzo | 200 d'oro |
 | Livello | 60 |
 | Cavalcare | Tiger Riding |
 | Velocità | molto veloce |
@@ -38,9 +38,7 @@ Swift Stormsaber è una cavalcatura di Classic che torna in World of Warcraft: F
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> la vende a Darnassus per 1000 d'oro. Il mercante è amichevole con l'Alleanza.
-
-La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7671">Frostsaber Replacement</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> la vende a Darnassus per 200 d'oro. Il mercante è amichevole con l'Alleanza.
 
 Cavalcarla richiede Tiger Riding.
 

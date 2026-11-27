@@ -1,14 +1,14 @@
 ---
 title: "Great Gray Kodo: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Great Gray Kodo in WoW Forever"
-description: "Great Gray Kodo is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Harb Clawhoof, 1052 goud en 63 zilver en 15 koper."
+description: "Great Gray Kodo is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Harb Clawhoof, 200 goud."
 short: "Great Gray Kodo"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Great Gray Kodo in WoW Forever?"
-    a: "Harb Clawhoof verkoopt hem in Mulgore voor 1052 goud en 63 zilver en 15 koper. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest New Kodo - Teal, vanaf level 60 voor beide facties, laat je deze kiezen."
+    a: "Harb Clawhoof verkoopt hem in Mulgore voor 200 goud. De verkoper is vriendelijk voor de Horde. Rijden vraagt Kodo Riding."
   - q: "Is Great Gray Kodo nieuw in WoW Forever?"
     a: "Nee. Great Gray Kodo zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Great Gray Kodo is een mount uit Classic die terugkomt in World of Warcraft: For
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18795"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Great Gray Kodo</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 1052 goud en 63 zilver en 15 koper |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 200 goud |
 | Waar | Mulgore |
-| Prijs | 1052 goud en 63 zilver en 15 koper |
+| Prijs | 200 goud |
 | Level | 60 |
 | Rijden | Kodo Riding |
 | Snelheid | zeer snel |
@@ -38,9 +38,7 @@ Great Gray Kodo is een mount uit Classic die terugkomt in World of Warcraft: For
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> verkoopt hem in Mulgore voor 1052 goud en 63 zilver en 15 koper. De verkoper is vriendelijk voor de Horde.
-
-Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=7662">New Kodo - Teal</a>, vanaf level 60 voor beide facties, laat je deze kiezen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> verkoopt hem in Mulgore voor 200 goud. De verkoper is vriendelijk voor de Horde.
 
 Rijden vraagt Kodo Riding.
 

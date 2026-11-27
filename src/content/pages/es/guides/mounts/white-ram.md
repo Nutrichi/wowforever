@@ -1,14 +1,14 @@
 ---
 title: "White Ram: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura White Ram en WoW Forever"
-description: "White Ram es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Veron Amberstill, 42 de oro y 10 de plata y 52 de cobre."
+description: "White Ram es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Veron Amberstill, 20 de oro."
 short: "White Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue White Ram en WoW Forever?"
-    a: "Veron Amberstill la vende en Dun Morogh por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Riding Ram, desde el nivel 40 para la Alianza, te deja elegir esta."
+    a: "Veron Amberstill la vende en Dun Morogh por 20 de oro. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Riding Ram, desde el nivel 40 para la Alianza, te deja elegir esta."
   - q: "¿Es White Ram nueva en WoW Forever?"
     a: "No. White Ram ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ White Ram es una montura de Classic que vuelve en World of Warcraft: Forever. Es
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5873"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">White Ram</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 42 de oro y 10 de plata y 52 de cobre |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 20 de oro |
 | Dónde | Dun Morogh |
-| Precio | 42 de oro y 10 de plata y 52 de cobre |
+| Precio | 20 de oro |
 | Nivel | 40 |
 | Equitación | Ram Riding |
 | Velocidad | normal |
@@ -38,7 +38,7 @@ White Ram es una montura de Classic que vuelve en World of Warcraft: Forever. Es
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vende en Dun Morogh por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vende en Dun Morogh por 20 de oro. El vendedor es amistoso con la Alianza.
 
 Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, desde el nivel 40 para la Alianza, te deja elegir esta.
 

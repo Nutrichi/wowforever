@@ -1,14 +1,14 @@
 ---
 title: "Large Timber Wolf: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Large Timber Wolf in WoW Forever"
-description: "Large Timber Wolf is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Ogunaro Wolfrunner, 40 goud."
+description: "Large Timber Wolf is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Ogunaro Wolfrunner, 20 goud."
 short: "Large Timber Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Large Timber Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 40 goud. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Your First Riding Wolf, vanaf level 40 voor de Horde, laat je deze kiezen."
+    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 20 goud. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Your First Riding Wolf, vanaf level 40 voor de Horde, laat je deze kiezen."
   - q: "Is Large Timber Wolf nieuw in WoW Forever?"
     a: "Nee. Large Timber Wolf zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Large Timber Wolf is een mount uit Classic die terugkomt in World of Warcraft: F
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1132"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Timber Wolf</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 40 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 20 goud |
 | Waar | Orgrimmar |
-| Prijs | 40 goud |
+| Prijs | 20 goud |
 | Level | 40 |
 | Rijden | Wolf Riding |
 | Snelheid | normaal |
@@ -38,7 +38,7 @@ Large Timber Wolf is een mount uit Classic die terugkomt in World of Warcraft: F
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkoopt hem in Orgrimmar voor 40 goud. De verkoper is vriendelijk voor de Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkoopt hem in Orgrimmar voor 20 goud. De verkoper is vriendelijk voor de Horde.
 
 Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, vanaf level 40 voor de Horde, laat je deze kiezen.
 

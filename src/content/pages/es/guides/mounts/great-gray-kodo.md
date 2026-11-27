@@ -1,14 +1,14 @@
 ---
 title: "Great Gray Kodo: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Great Gray Kodo en WoW Forever"
-description: "Great Gray Kodo es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Harb Clawhoof, 1052 de oro y 63 de plata y 15 de cobre."
+description: "Great Gray Kodo es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Harb Clawhoof, 200 de oro."
 short: "Great Gray Kodo"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Great Gray Kodo en WoW Forever?"
-    a: "Harb Clawhoof la vende en Mulgore por 1052 de oro y 63 de plata y 15 de cobre. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión New Kodo - Teal, desde el nivel 60 para ambas facciones, te deja elegir esta."
+    a: "Harb Clawhoof la vende en Mulgore por 200 de oro. El vendedor es amistoso con la Horda. Montarla requiere Kodo Riding."
   - q: "¿Es Great Gray Kodo nueva en WoW Forever?"
     a: "No. Great Gray Kodo ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Great Gray Kodo es una montura de Classic que vuelve en World of Warcraft: Forev
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18795"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Great Gray Kodo</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 1052 de oro y 63 de plata y 15 de cobre |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 200 de oro |
 | Dónde | Mulgore |
-| Precio | 1052 de oro y 63 de plata y 15 de cobre |
+| Precio | 200 de oro |
 | Nivel | 60 |
 | Equitación | Kodo Riding |
 | Velocidad | muy rápida |
@@ -38,9 +38,7 @@ Great Gray Kodo es una montura de Classic que vuelve en World of Warcraft: Forev
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende en Mulgore por 1052 de oro y 63 de plata y 15 de cobre. El vendedor es amistoso con la Horda.
-
-Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7662">New Kodo - Teal</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende en Mulgore por 200 de oro. El vendedor es amistoso con la Horda.
 
 Montarla requiere Kodo Riding.
 

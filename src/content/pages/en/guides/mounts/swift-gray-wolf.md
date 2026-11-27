@@ -1,13 +1,13 @@
 ---
 title: "Swift Gray Wolf: how to get the mount in WoW Forever"
 metaTitle: "How to get the Swift Gray Wolf mount in WoW Forever"
-description: "Swift Gray Wolf is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Ogunaro Wolfrunner, 888 gold 88 silver 88 copper."
+description: "Swift Gray Wolf is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Ogunaro Wolfrunner, 200 gold."
 short: "Swift Gray Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Swift Gray Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner sells it in Orgrimmar for 888 gold 88 silver 88 copper. The vendor is friendly to the Horde. Your first mount is free: the quest Wolf Swapping - Arctic Wolf, from level 60 for both factions, lets you pick this one."
+    a: "Ogunaro Wolfrunner sells it in Orgrimmar for 200 gold. The vendor is friendly to the Horde. Riding it needs Wolf Riding."
   - q: "Is Swift Gray Wolf new in WoW Forever?"
     a: "No. Swift Gray Wolf was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Swift Gray Wolf is a mount from Classic that returns in World of Warcraft: Forev
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18798"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Swift Gray Wolf</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 888 gold 88 silver 88 copper |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 200 gold |
 | Where | Orgrimmar |
-| Price | 888 gold 88 silver 88 copper |
+| Price | 200 gold |
 | Level | 60 |
 | Riding | Wolf Riding |
 | Speed | very fast |
@@ -37,9 +37,7 @@ Swift Gray Wolf is a mount from Classic that returns in World of Warcraft: Forev
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> sells it in Orgrimmar for 888 gold 88 silver 88 copper. The vendor is friendly to the Horde.
-
-Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, from level 60 for both factions, lets you pick this one.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> sells it in Orgrimmar for 200 gold. The vendor is friendly to the Horde.
 
 Riding it needs Wolf Riding.
 

@@ -3,7 +3,7 @@ title: "Umber Galestrider: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Umber Galestrider in WoW Forever"
 description: "Umber Galestrider is een mount die nieuw is in World of Warcraft: Forever. Bron: Verkoper: Genn Fairweather, 20 goud."
 short: "Umber Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:

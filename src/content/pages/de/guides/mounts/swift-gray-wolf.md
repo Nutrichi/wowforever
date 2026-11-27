@@ -1,14 +1,14 @@
 ---
 title: "Swift Gray Wolf: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Swift Gray Wolf in WoW Forever"
-description: "Swift Gray Wolf ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Ogunaro Wolfrunner, 888 Gold 88 Silber 88 Kupfer."
+description: "Swift Gray Wolf ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Ogunaro Wolfrunner, 200 Gold."
 short: "Swift Gray Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift Gray Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner verkauft es in Orgrimmar für 888 Gold 88 Silber 88 Kupfer. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Wolf Swapping - Arctic Wolf, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen."
+    a: "Ogunaro Wolfrunner verkauft es in Orgrimmar für 200 Gold. Der Händler ist die Horde freundlich gesinnt. Zum Reiten braucht es Wolf Riding."
   - q: "Ist Swift Gray Wolf neu in WoW Forever?"
     a: "Nein. Swift Gray Wolf gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Swift Gray Wolf ist ein Reittier aus Classic, das in World of Warcraft: Forever 
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18798"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Swift Gray Wolf</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 888 Gold 88 Silber 88 Kupfer |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 200 Gold |
 | Wo | Orgrimmar |
-| Preis | 888 Gold 88 Silber 88 Kupfer |
+| Preis | 200 Gold |
 | Stufe | 60 |
 | Reiten | Wolf Riding |
 | Tempo | sehr schnell |
@@ -38,9 +38,7 @@ Swift Gray Wolf ist ein Reittier aus Classic, das in World of Warcraft: Forever 
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkauft es in Orgrimmar für 888 Gold 88 Silber 88 Kupfer. Der Händler ist die Horde freundlich gesinnt.
-
-Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkauft es in Orgrimmar für 200 Gold. Der Händler ist die Horde freundlich gesinnt.
 
 Zum Reiten braucht es Wolf Riding.
 

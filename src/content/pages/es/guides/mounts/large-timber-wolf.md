@@ -1,14 +1,14 @@
 ---
 title: "Large Timber Wolf: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Large Timber Wolf en WoW Forever"
-description: "Large Timber Wolf es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Ogunaro Wolfrunner, 40 de oro."
+description: "Large Timber Wolf es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Ogunaro Wolfrunner, 20 de oro."
 short: "Large Timber Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Large Timber Wolf en WoW Forever?"
-    a: "Ogunaro Wolfrunner la vende en Orgrimmar por 40 de oro. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión Your First Riding Wolf, desde el nivel 40 para la Horda, te deja elegir esta."
+    a: "Ogunaro Wolfrunner la vende en Orgrimmar por 20 de oro. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión Your First Riding Wolf, desde el nivel 40 para la Horda, te deja elegir esta."
   - q: "¿Es Large Timber Wolf nueva en WoW Forever?"
     a: "No. Large Timber Wolf ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Large Timber Wolf es una montura de Classic que vuelve en World of Warcraft: For
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1132"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Timber Wolf</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 40 de oro |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 20 de oro |
 | Dónde | Orgrimmar |
-| Precio | 40 de oro |
+| Precio | 20 de oro |
 | Nivel | 40 |
 | Equitación | Wolf Riding |
 | Velocidad | normal |
@@ -38,7 +38,7 @@ Large Timber Wolf es una montura de Classic que vuelve en World of Warcraft: For
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende en Orgrimmar por 40 de oro. El vendedor es amistoso con la Horda.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende en Orgrimmar por 20 de oro. El vendedor es amistoso con la Horda.
 
 Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, desde el nivel 40 para la Horda, te deja elegir esta.
 

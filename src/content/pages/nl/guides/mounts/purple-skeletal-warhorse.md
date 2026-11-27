@@ -1,14 +1,14 @@
 ---
 title: "Purple Skeletal Warhorse: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Purple Skeletal Warhorse in WoW Forever"
-description: "Purple Skeletal Warhorse is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Zachariah Post, 1052 goud en 63 zilver en 15 koper."
+description: "Purple Skeletal Warhorse is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Zachariah Post, 200 goud."
 short: "Purple Skeletal Warhorse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Purple Skeletal Warhorse in WoW Forever?"
-    a: "Zachariah Post verkoopt hem in Tirisfal Glades voor 1052 goud en 63 zilver en 15 koper. De verkoper is vriendelijk voor de Horde. Rijden vraagt Undead Horsemanship."
+    a: "Zachariah Post verkoopt hem in Tirisfal Glades voor 200 goud. De verkoper is vriendelijk voor de Horde. Rijden vraagt Undead Horsemanship."
   - q: "Is Purple Skeletal Warhorse nieuw in WoW Forever?"
     a: "Nee. Purple Skeletal Warhorse zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Purple Skeletal Warhorse is een mount uit Classic die terugkomt in World of Warc
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18791"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Purple Skeletal Warhorse</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 1052 goud en 63 zilver en 15 koper |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 200 goud |
 | Waar | Tirisfal Glades |
-| Prijs | 1052 goud en 63 zilver en 15 koper |
+| Prijs | 200 goud |
 | Level | 60 |
 | Rijden | Undead Horsemanship |
 | Snelheid | zeer snel |
@@ -38,7 +38,7 @@ Purple Skeletal Warhorse is een mount uit Classic die terugkomt in World of Warc
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkoopt hem in Tirisfal Glades voor 1052 goud en 63 zilver en 15 koper. De verkoper is vriendelijk voor de Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkoopt hem in Tirisfal Glades voor 200 goud. De verkoper is vriendelijk voor de Horde.
 
 Rijden vraagt Undead Horsemanship.
 

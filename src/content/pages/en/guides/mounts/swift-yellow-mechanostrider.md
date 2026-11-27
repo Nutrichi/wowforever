@@ -1,13 +1,13 @@
 ---
 title: "Swift Yellow Mechanostrider: how to get the mount in WoW Forever"
 metaTitle: "How to get the Swift Yellow Mechanostrider mount in WoW Forever"
-description: "Swift Yellow Mechanostrider is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Milli Featherwhistle, 1000 gold."
+description: "Swift Yellow Mechanostrider is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Milli Featherwhistle, 200 gold."
 short: "Swift Yellow Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Swift Yellow Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle sells it in Dun Morogh for 1000 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Icy Blue Mechanostrider Replacement, from level 60 for both factions, lets you pick this one."
+    a: "Milli Featherwhistle sells it in Dun Morogh for 200 gold. The vendor is friendly to the Alliance. Riding it needs Mechanostrider Piloting."
   - q: "Is Swift Yellow Mechanostrider new in WoW Forever?"
     a: "No. Swift Yellow Mechanostrider was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Swift Yellow Mechanostrider is a mount from Classic that returns in World of War
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18774"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Yellow Mechanostrider</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 1000 gold |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 200 gold |
 | Where | Dun Morogh |
-| Price | 1000 gold |
+| Price | 200 gold |
 | Level | 60 |
 | Riding | Mechanostrider Piloting |
 | Speed | very fast |
@@ -37,9 +37,7 @@ Swift Yellow Mechanostrider is a mount from Classic that returns in World of War
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> sells it in Dun Morogh for 1000 gold. The vendor is friendly to the Alliance.
-
-Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7675">Icy Blue Mechanostrider Replacement</a>, from level 60 for both factions, lets you pick this one.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> sells it in Dun Morogh for 200 gold. The vendor is friendly to the Alliance.
 
 Riding it needs Mechanostrider Piloting.
 

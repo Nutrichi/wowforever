@@ -1,14 +1,14 @@
 ---
 title: "Swift Blue Raptor: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Swift Blue Raptor in WoW Forever"
-description: "Swift Blue Raptor ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Zjolnir, 1000 Gold."
+description: "Swift Blue Raptor ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Zjolnir, 200 Gold."
 short: "Swift Blue Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift Blue Raptor in WoW Forever?"
-    a: "Zjolnir verkauft es in Durotar für 1000 Gold. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Ivory Raptor Replacement, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen."
+    a: "Zjolnir verkauft es in Durotar für 200 Gold. Der Händler ist die Horde freundlich gesinnt. Zum Reiten braucht es Raptor Riding."
   - q: "Ist Swift Blue Raptor neu in WoW Forever?"
     a: "Nein. Swift Blue Raptor gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Swift Blue Raptor ist ein Reittier aus Classic, das in World of Warcraft: Foreve
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18788"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Blue Raptor</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 1000 Gold |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 200 Gold |
 | Wo | Durotar |
-| Preis | 1000 Gold |
+| Preis | 200 Gold |
 | Stufe | 60 |
 | Reiten | Raptor Riding |
 | Tempo | sehr schnell |
@@ -38,9 +38,7 @@ Swift Blue Raptor ist ein Reittier aus Classic, das in World of Warcraft: Foreve
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> verkauft es in Durotar für 1000 Gold. Der Händler ist die Horde freundlich gesinnt.
-
-Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=7664">Ivory Raptor Replacement</a>, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> verkauft es in Durotar für 200 Gold. Der Händler ist die Horde freundlich gesinnt.
 
 Zum Reiten braucht es Raptor Riding.
 

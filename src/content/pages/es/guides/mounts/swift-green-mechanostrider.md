@@ -1,14 +1,14 @@
 ---
 title: "Swift Green Mechanostrider: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Swift Green Mechanostrider en WoW Forever"
-description: "Swift Green Mechanostrider es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Milli Featherwhistle, 1000 de oro."
+description: "Swift Green Mechanostrider es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Milli Featherwhistle, 200 de oro."
 short: "Swift Green Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Swift Green Mechanostrider en WoW Forever?"
-    a: "Milli Featherwhistle la vende en Dun Morogh por 1000 de oro. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Icy Blue Mechanostrider Replacement, desde el nivel 60 para ambas facciones, te deja elegir esta."
+    a: "Milli Featherwhistle la vende en Dun Morogh por 200 de oro. El vendedor es amistoso con la Alianza. Montarla requiere Mechanostrider Piloting."
   - q: "¿Es Swift Green Mechanostrider nueva en WoW Forever?"
     a: "No. Swift Green Mechanostrider ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Green Mechanostrider es una montura de Classic que vuelve en World of Warc
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18772"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Green Mechanostrider</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 1000 de oro |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 200 de oro |
 | Dónde | Dun Morogh |
-| Precio | 1000 de oro |
+| Precio | 200 de oro |
 | Nivel | 60 |
 | Equitación | Mechanostrider Piloting |
 | Velocidad | muy rápida |
@@ -38,9 +38,7 @@ Swift Green Mechanostrider es una montura de Classic que vuelve en World of Warc
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vende en Dun Morogh por 1000 de oro. El vendedor es amistoso con la Alianza.
-
-Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7675">Icy Blue Mechanostrider Replacement</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vende en Dun Morogh por 200 de oro. El vendedor es amistoso con la Alianza.
 
 Montarla requiere Mechanostrider Piloting.
 

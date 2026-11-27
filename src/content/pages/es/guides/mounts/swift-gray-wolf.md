@@ -1,14 +1,14 @@
 ---
 title: "Swift Gray Wolf: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Swift Gray Wolf en WoW Forever"
-description: "Swift Gray Wolf es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Ogunaro Wolfrunner, 888 de oro y 88 de plata y 88 de cobre."
+description: "Swift Gray Wolf es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Ogunaro Wolfrunner, 200 de oro."
 short: "Swift Gray Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Swift Gray Wolf en WoW Forever?"
-    a: "Ogunaro Wolfrunner la vende en Orgrimmar por 888 de oro y 88 de plata y 88 de cobre. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión Wolf Swapping - Arctic Wolf, desde el nivel 60 para ambas facciones, te deja elegir esta."
+    a: "Ogunaro Wolfrunner la vende en Orgrimmar por 200 de oro. El vendedor es amistoso con la Horda. Montarla requiere Wolf Riding."
   - q: "¿Es Swift Gray Wolf nueva en WoW Forever?"
     a: "No. Swift Gray Wolf ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Gray Wolf es una montura de Classic que vuelve en World of Warcraft: Forev
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18798"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Swift Gray Wolf</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 888 de oro y 88 de plata y 88 de cobre |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 200 de oro |
 | Dónde | Orgrimmar |
-| Precio | 888 de oro y 88 de plata y 88 de cobre |
+| Precio | 200 de oro |
 | Nivel | 60 |
 | Equitación | Wolf Riding |
 | Velocidad | muy rápida |
@@ -38,9 +38,7 @@ Swift Gray Wolf es una montura de Classic que vuelve en World of Warcraft: Forev
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende en Orgrimmar por 888 de oro y 88 de plata y 88 de cobre. El vendedor es amistoso con la Horda.
-
-Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende en Orgrimmar por 200 de oro. El vendedor es amistoso con la Horda.
 
 Montarla requiere Wolf Riding.
 

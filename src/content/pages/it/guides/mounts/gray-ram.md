@@ -1,14 +1,14 @@
 ---
 title: "Gray Ram: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Gray Ram in WoW Forever"
-description: "Gray Ram è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Veron Amberstill, 42 d'oro e 10 d'argento e 52 di rame."
+description: "Gray Ram è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Veron Amberstill, 20 d'oro."
 short: "Gray Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Gray Ram in WoW Forever?"
-    a: "Veron Amberstill la vende a Dun Morogh per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Alleanza. La prima cavalcatura è gratis: la missione Your First Riding Ram, dal livello 40 per l'Alleanza, ti fa scegliere questa."
+    a: "Veron Amberstill la vende a Dun Morogh per 20 d'oro. Il mercante è amichevole con l'Alleanza. La prima cavalcatura è gratis: la missione Your First Riding Ram, dal livello 40 per l'Alleanza, ti fa scegliere questa."
   - q: "Gray Ram è nuova in WoW Forever?"
     a: "No. Gray Ram c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Gray Ram è una cavalcatura di Classic che torna in World of Warcraft: Forever. 
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5864"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Gray Ram</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 42 d'oro e 10 d'argento e 52 di rame |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 20 d'oro |
 | Dove | Dun Morogh |
-| Prezzo | 42 d'oro e 10 d'argento e 52 di rame |
+| Prezzo | 20 d'oro |
 | Livello | 40 |
 | Cavalcare | Ram Riding |
 | Velocità | normale |
@@ -38,7 +38,7 @@ Gray Ram è una cavalcatura di Classic che torna in World of Warcraft: Forever. 
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vende a Dun Morogh per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Alleanza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vende a Dun Morogh per 20 d'oro. Il mercante è amichevole con l'Alleanza.
 
 La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, dal livello 40 per l'Alleanza, ti fa scegliere questa.
 

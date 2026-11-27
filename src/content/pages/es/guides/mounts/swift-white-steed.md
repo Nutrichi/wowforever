@@ -1,14 +1,14 @@
 ---
 title: "Swift White Steed: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Swift White Steed en WoW Forever"
-description: "Swift White Steed es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Katie Hunter, 1000 de oro."
+description: "Swift White Steed es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Katie Hunter, 200 de oro."
 short: "Swift White Steed"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Swift White Steed en WoW Forever?"
-    a: "Katie Hunter la vende en Elwynn Forest por 1058 de oro y 82 de plata y 35 de cobre. El vendedor es amistoso con la Alianza. Merideth Carlson la vende en Hillsbrad Foothills por 1000 de oro. El vendedor es amistoso con la Alianza."
+    a: "Katie Hunter la vende en Elwynn Forest por 200 de oro. El vendedor es amistoso con la Alianza. Merideth Carlson la vende en Hillsbrad Foothills por 200 de oro. El vendedor es amistoso con la Alianza."
   - q: "¿Es Swift White Steed nueva en WoW Forever?"
     a: "No. Swift White Steed ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift White Steed es una montura de Classic que vuelve en World of Warcraft: For
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18778"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift White Steed</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 1000 de oro |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 200 de oro |
 | Dónde | Dustwallow Marsh, Elwynn Forest y Hillsbrad Foothills |
-| Precio | 1000 de oro |
+| Precio | 200 de oro |
 | Nivel | 60 |
 | Equitación | Horse Riding |
 | Velocidad | muy rápida |
@@ -38,13 +38,11 @@ Swift White Steed es una montura de Classic que vuelve en World of Warcraft: For
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> la vende en Elwynn Forest por 1058 de oro y 82 de plata y 35 de cobre. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> la vende en Elwynn Forest por 200 de oro. El vendedor es amistoso con la Alianza.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vende en Hillsbrad Foothills por 1000 de oro. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vende en Hillsbrad Foothills por 200 de oro. El vendedor es amistoso con la Alianza.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> la vende en Dustwallow Marsh por 1000 de oro. El vendedor es amistoso con la Alianza.
-
-Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> la vende en Dustwallow Marsh por 200 de oro. El vendedor es amistoso con la Alianza.
 
 Montarla requiere Horse Riding.
 

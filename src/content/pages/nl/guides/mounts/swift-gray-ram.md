@@ -1,14 +1,14 @@
 ---
 title: "Swift Gray Ram: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Swift Gray Ram in WoW Forever"
-description: "Swift Gray Ram is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Veron Amberstill, 1000 goud."
+description: "Swift Gray Ram is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Veron Amberstill, 200 goud."
 short: "Swift Gray Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Swift Gray Ram in WoW Forever?"
-    a: "Veron Amberstill verkoopt hem in Dun Morogh voor 1000 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Frost Ram Exchange, vanaf level 60 voor beide facties, laat je deze kiezen."
+    a: "Veron Amberstill verkoopt hem in Dun Morogh voor 200 goud. De verkoper is vriendelijk voor de Alliance. Rijden vraagt Ram Riding."
   - q: "Is Swift Gray Ram nieuw in WoW Forever?"
     a: "Nee. Swift Gray Ram zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Gray Ram is een mount uit Classic die terugkomt in World of Warcraft: Fore
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18787"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Gray Ram</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 1000 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 200 goud |
 | Waar | Dun Morogh |
-| Prijs | 1000 goud |
+| Prijs | 200 goud |
 | Level | 60 |
 | Rijden | Ram Riding |
 | Snelheid | zeer snel |
@@ -38,9 +38,7 @@ Swift Gray Ram is een mount uit Classic die terugkomt in World of Warcraft: Fore
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkoopt hem in Dun Morogh voor 1000 goud. De verkoper is vriendelijk voor de Alliance.
-
-Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=7673">Frost Ram Exchange</a>, vanaf level 60 voor beide facties, laat je deze kiezen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkoopt hem in Dun Morogh voor 200 goud. De verkoper is vriendelijk voor de Alliance.
 
 Rijden vraagt Ram Riding.
 

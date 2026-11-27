@@ -1,14 +1,14 @@
 ---
 title: "Brown Kodo: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Brown Kodo en WoW Forever"
-description: "Brown Kodo es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Harb Clawhoof, 35 de oro y 55 de plata y 55 de cobre."
+description: "Brown Kodo es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Harb Clawhoof, 20 de oro."
 short: "Brown Kodo"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Brown Kodo en WoW Forever?"
-    a: "Harb Clawhoof la vende en Mulgore por 35 de oro y 55 de plata y 55 de cobre. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión Your First Riding Kodo, desde el nivel 40 para la Horda, te deja elegir esta."
+    a: "Harb Clawhoof la vende en Mulgore por 20 de oro. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión Your First Riding Kodo, desde el nivel 40 para la Horda, te deja elegir esta."
   - q: "¿Es Brown Kodo nueva en WoW Forever?"
     a: "No. Brown Kodo ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Brown Kodo es una montura de Classic que vuelve en World of Warcraft: Forever. E
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15290"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Kodo</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 35 de oro y 55 de plata y 55 de cobre |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 20 de oro |
 | Dónde | Mulgore |
-| Precio | 35 de oro y 55 de plata y 55 de cobre |
+| Precio | 20 de oro |
 | Nivel | 40 |
 | Equitación | Kodo Riding |
 | Velocidad | normal |
@@ -38,7 +38,7 @@ Brown Kodo es una montura de Classic que vuelve en World of Warcraft: Forever. E
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende en Mulgore por 35 de oro y 55 de plata y 55 de cobre. El vendedor es amistoso con la Horda.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende en Mulgore por 20 de oro. El vendedor es amistoso con la Horda.
 
 Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a>, desde el nivel 40 para la Horda, te deja elegir esta.
 

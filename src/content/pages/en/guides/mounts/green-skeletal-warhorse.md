@@ -1,13 +1,13 @@
 ---
 title: "Green Skeletal Warhorse: how to get the mount in WoW Forever"
 metaTitle: "How to get the Green Skeletal Warhorse mount in WoW Forever"
-description: "Green Skeletal Warhorse is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Zachariah Post, 1052 gold 63 silver 15 copper."
+description: "Green Skeletal Warhorse is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Zachariah Post, 200 gold."
 short: "Green Skeletal Warhorse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Green Skeletal Warhorse in WoW Forever?"
-    a: "Zachariah Post sells it in Tirisfal Glades for 1052 gold 63 silver 15 copper. The vendor is friendly to the Horde. Riding it needs Undead Horsemanship."
+    a: "Zachariah Post sells it in Tirisfal Glades for 200 gold. The vendor is friendly to the Horde. Riding it needs Undead Horsemanship."
   - q: "Is Green Skeletal Warhorse new in WoW Forever?"
     a: "No. Green Skeletal Warhorse was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Green Skeletal Warhorse is a mount from Classic that returns in World of Warcraf
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=13334"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Green Skeletal Warhorse</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 1052 gold 63 silver 15 copper |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 200 gold |
 | Where | Tirisfal Glades |
-| Price | 1052 gold 63 silver 15 copper |
+| Price | 200 gold |
 | Level | 60 |
 | Riding | Undead Horsemanship |
 | Speed | very fast |
@@ -37,7 +37,7 @@ Green Skeletal Warhorse is a mount from Classic that returns in World of Warcraf
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> sells it in Tirisfal Glades for 1052 gold 63 silver 15 copper. The vendor is friendly to the Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> sells it in Tirisfal Glades for 200 gold. The vendor is friendly to the Horde.
 
 Riding it needs Undead Horsemanship.
 

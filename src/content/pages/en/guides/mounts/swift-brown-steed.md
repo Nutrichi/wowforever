@@ -1,13 +1,13 @@
 ---
 title: "Swift Brown Steed: how to get the mount in WoW Forever"
 metaTitle: "How to get the Swift Brown Steed mount in WoW Forever"
-description: "Swift Brown Steed is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Katie Hunter, 1000 gold."
+description: "Swift Brown Steed is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Katie Hunter, 200 gold."
 short: "Swift Brown Steed"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Swift Brown Steed in WoW Forever?"
-    a: "Katie Hunter sells it in Elwynn Forest for 1058 gold 82 silver 35 copper. The vendor is friendly to the Alliance. Merideth Carlson sells it in Hillsbrad Foothills for 1000 gold. The vendor is friendly to the Alliance."
+    a: "Katie Hunter sells it in Elwynn Forest for 200 gold. The vendor is friendly to the Alliance. Merideth Carlson sells it in Hillsbrad Foothills for 200 gold. The vendor is friendly to the Alliance."
   - q: "Is Swift Brown Steed new in WoW Forever?"
     a: "No. Swift Brown Steed was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Swift Brown Steed is a mount from Classic that returns in World of Warcraft: For
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18777"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Brown Steed</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 1000 gold |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 200 gold |
 | Where | Dustwallow Marsh, Elwynn Forest and Hillsbrad Foothills |
-| Price | 1000 gold |
+| Price | 200 gold |
 | Level | 60 |
 | Riding | Horse Riding |
 | Speed | very fast |
@@ -37,13 +37,11 @@ Swift Brown Steed is a mount from Classic that returns in World of Warcraft: For
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> sells it in Elwynn Forest for 1058 gold 82 silver 35 copper. The vendor is friendly to the Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> sells it in Elwynn Forest for 200 gold. The vendor is friendly to the Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> sells it in Hillsbrad Foothills for 1000 gold. The vendor is friendly to the Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> sells it in Hillsbrad Foothills for 200 gold. The vendor is friendly to the Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> sells it in Dustwallow Marsh for 1000 gold. The vendor is friendly to the Alliance.
-
-Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, from level 60 for both factions, lets you pick this one.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> sells it in Dustwallow Marsh for 200 gold. The vendor is friendly to the Alliance.
 
 Riding it needs Horse Riding.
 

@@ -1,13 +1,13 @@
 ---
 title: "Violet Raptor: how to get the mount in WoW Forever"
 metaTitle: "How to get the Violet Raptor mount in WoW Forever"
-description: "Violet Raptor is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Zjolnir, 42 gold 10 silver 52 copper."
+description: "Violet Raptor is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Zjolnir, 20 gold."
 short: "Violet Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Violet Raptor in WoW Forever?"
-    a: "Zjolnir sells it in Durotar for 42 gold 10 silver 52 copper. The vendor is friendly to the Horde. Your first mount is free: the quest Your First Riding Raptor, from level 40 for the Horde, lets you pick this one."
+    a: "Zjolnir sells it in Durotar for 20 gold. The vendor is friendly to the Horde. Your first mount is free: the quest Your First Riding Raptor, from level 40 for the Horde, lets you pick this one."
   - q: "Is Violet Raptor new in WoW Forever?"
     a: "No. Violet Raptor was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Violet Raptor is a mount from Classic that returns in World of Warcraft: Forever
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8592"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whistle of the Violet Raptor</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 42 gold 10 silver 52 copper |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 20 gold |
 | Where | Durotar |
-| Price | 42 gold 10 silver 52 copper |
+| Price | 20 gold |
 | Level | 40 |
 | Riding | Raptor Riding |
 | Speed | normal |
@@ -37,7 +37,7 @@ Violet Raptor is a mount from Classic that returns in World of Warcraft: Forever
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> sells it in Durotar for 42 gold 10 silver 52 copper. The vendor is friendly to the Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> sells it in Durotar for 20 gold. The vendor is friendly to the Horde.
 
 Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=96989">Your First Riding Raptor</a>, from level 40 for the Horde, lets you pick this one.
 

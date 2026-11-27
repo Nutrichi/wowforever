@@ -3,7 +3,7 @@ title: "Empyrean Galestrider: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Empyrean Galestrider in WoW Forever"
 description: "Empyrean Galestrider ist ein Reittier, das neu in World of Warcraft: Forever ist. Quelle: Händler: Genn Fairweather, 20 Gold."
 short: "Empyrean Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:

@@ -3,7 +3,7 @@ title: "Stormy Galestrider: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Stormy Galestrider en WoW Forever"
 description: "Stormy Galestrider es una montura nueva en World of Warcraft: Forever. Fuente: Vendedor: Genn Fairweather, 20 de oro."
 short: "Stormy Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:

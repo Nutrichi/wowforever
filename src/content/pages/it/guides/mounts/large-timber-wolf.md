@@ -1,14 +1,14 @@
 ---
 title: "Large Timber Wolf: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Large Timber Wolf in WoW Forever"
-description: "Large Timber Wolf è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Ogunaro Wolfrunner, 40 d'oro."
+description: "Large Timber Wolf è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Ogunaro Wolfrunner, 20 d'oro."
 short: "Large Timber Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Large Timber Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner la vende a Orgrimmar per 40 d'oro. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Your First Riding Wolf, dal livello 40 per l'Orda, ti fa scegliere questa."
+    a: "Ogunaro Wolfrunner la vende a Orgrimmar per 20 d'oro. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Your First Riding Wolf, dal livello 40 per l'Orda, ti fa scegliere questa."
   - q: "Large Timber Wolf è nuova in WoW Forever?"
     a: "No. Large Timber Wolf c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Large Timber Wolf è una cavalcatura di Classic che torna in World of Warcraft: 
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1132"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Timber Wolf</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 40 d'oro |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 20 d'oro |
 | Dove | Orgrimmar |
-| Prezzo | 40 d'oro |
+| Prezzo | 20 d'oro |
 | Livello | 40 |
 | Cavalcare | Wolf Riding |
 | Velocità | normale |
@@ -38,7 +38,7 @@ Large Timber Wolf è una cavalcatura di Classic che torna in World of Warcraft: 
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende a Orgrimmar per 40 d'oro. Il mercante è amichevole con l'Orda.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende a Orgrimmar per 20 d'oro. Il mercante è amichevole con l'Orda.
 
 La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, dal livello 40 per l'Orda, ti fa scegliere questa.
 

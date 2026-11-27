@@ -1,14 +1,14 @@
 ---
 title: "Purple Skeletal Warhorse : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Purple Skeletal Warhorse dans WoW Forever"
-description: "Purple Skeletal Warhorse est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Zachariah Post, 1052 po 63 pa 15 pc."
+description: "Purple Skeletal Warhorse est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Zachariah Post, 200 po."
 short: "Purple Skeletal Warhorse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Purple Skeletal Warhorse dans WoW Forever ?"
-    a: "Zachariah Post la vend à Tirisfal Glades pour 1052 po 63 pa 15 pc. Le marchand est amical envers la Horde. La monter demande Undead Horsemanship."
+    a: "Zachariah Post la vend à Tirisfal Glades pour 200 po. Le marchand est amical envers la Horde. La monter demande Undead Horsemanship."
   - q: "Purple Skeletal Warhorse est-elle nouvelle dans WoW Forever ?"
     a: "Non. Purple Skeletal Warhorse existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Purple Skeletal Warhorse est une monture de Classic qui revient dans World of Wa
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18791"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Purple Skeletal Warhorse</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 1052 po 63 pa 15 pc |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 200 po |
 | Où | Tirisfal Glades |
-| Prix | 1052 po 63 pa 15 pc |
+| Prix | 200 po |
 | Niveau | 60 |
 | Monte | Undead Horsemanship |
 | Vitesse | très rapide |
@@ -38,7 +38,7 @@ Purple Skeletal Warhorse est une monture de Classic qui revient dans World of Wa
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vend à Tirisfal Glades pour 1052 po 63 pa 15 pc. Le marchand est amical envers la Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vend à Tirisfal Glades pour 200 po. Le marchand est amical envers la Horde.
 
 La monter demande Undead Horsemanship.
 

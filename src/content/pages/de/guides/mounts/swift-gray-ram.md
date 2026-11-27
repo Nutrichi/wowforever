@@ -1,14 +1,14 @@
 ---
 title: "Swift Gray Ram: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Swift Gray Ram in WoW Forever"
-description: "Swift Gray Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Veron Amberstill, 1000 Gold."
+description: "Swift Gray Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Veron Amberstill, 200 Gold."
 short: "Swift Gray Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift Gray Ram in WoW Forever?"
-    a: "Veron Amberstill verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Frost Ram Exchange, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen."
+    a: "Veron Amberstill verkauft es in Dun Morogh für 200 Gold. Der Händler ist die Allianz freundlich gesinnt. Zum Reiten braucht es Ram Riding."
   - q: "Ist Swift Gray Ram neu in WoW Forever?"
     a: "Nein. Swift Gray Ram gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Swift Gray Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever z
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18787"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Gray Ram</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 1000 Gold |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 200 Gold |
 | Wo | Dun Morogh |
-| Preis | 1000 Gold |
+| Preis | 200 Gold |
 | Stufe | 60 |
 | Reiten | Ram Riding |
 | Tempo | sehr schnell |
@@ -38,9 +38,7 @@ Swift Gray Ram ist ein Reittier aus Classic, das in World of Warcraft: Forever z
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt.
-
-Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=7673">Frost Ram Exchange</a>, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> verkauft es in Dun Morogh für 200 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
 Zum Reiten braucht es Ram Riding.
 

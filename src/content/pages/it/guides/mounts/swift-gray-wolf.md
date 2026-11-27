@@ -1,14 +1,14 @@
 ---
 title: "Swift Gray Wolf: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Swift Gray Wolf in WoW Forever"
-description: "Swift Gray Wolf è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Ogunaro Wolfrunner, 888 d'oro e 88 d'argento e 88 di rame."
+description: "Swift Gray Wolf è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Ogunaro Wolfrunner, 200 d'oro."
 short: "Swift Gray Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift Gray Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner la vende a Orgrimmar per 888 d'oro e 88 d'argento e 88 di rame. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Wolf Swapping - Arctic Wolf, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
+    a: "Ogunaro Wolfrunner la vende a Orgrimmar per 200 d'oro. Il mercante è amichevole con l'Orda. Cavalcarla richiede Wolf Riding."
   - q: "Swift Gray Wolf è nuova in WoW Forever?"
     a: "No. Swift Gray Wolf c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Gray Wolf è una cavalcatura di Classic che torna in World of Warcraft: Fo
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18798"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Swift Gray Wolf</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 888 d'oro e 88 d'argento e 88 di rame |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 200 d'oro |
 | Dove | Orgrimmar |
-| Prezzo | 888 d'oro e 88 d'argento e 88 di rame |
+| Prezzo | 200 d'oro |
 | Livello | 60 |
 | Cavalcare | Wolf Riding |
 | Velocità | molto veloce |
@@ -38,9 +38,7 @@ Swift Gray Wolf è una cavalcatura di Classic che torna in World of Warcraft: Fo
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende a Orgrimmar per 888 d'oro e 88 d'argento e 88 di rame. Il mercante è amichevole con l'Orda.
-
-La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vende a Orgrimmar per 200 d'oro. Il mercante è amichevole con l'Orda.
 
 Cavalcarla richiede Wolf Riding.
 

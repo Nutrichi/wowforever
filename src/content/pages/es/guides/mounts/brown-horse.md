@@ -1,14 +1,14 @@
 ---
 title: "Brown Horse: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Brown Horse en WoW Forever"
-description: "Brown Horse es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Katie Hunter, 40 de oro."
+description: "Brown Horse es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Katie Hunter, 20 de oro."
 short: "Brown Horse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Brown Horse en WoW Forever?"
-    a: "Katie Hunter la vende en Elwynn Forest por 35 de oro y 55 de plata y 55 de cobre. El vendedor es amistoso con la Alianza. Unger Statforth la vende en Wetlands por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza."
+    a: "Katie Hunter la vende en Elwynn Forest por 20 de oro. El vendedor es amistoso con la Alianza. Unger Statforth la vende en Wetlands por 20 de oro. El vendedor es amistoso con la Alianza."
   - q: "¿Es Brown Horse nueva en WoW Forever?"
     a: "No. Brown Horse ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -28,9 +28,9 @@ Brown Horse es una montura de Classic que vuelve en World of Warcraft: Forever. 
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5656"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Horse Bridle</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16338"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Knight-Lieutenant's Steed</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 40 de oro |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 20 de oro |
 | Dónde | 4 zonas |
-| Precio | 40 de oro |
+| Precio | 20 de oro |
 | Nivel | 40 |
 | Equitación | Horse Riding |
 | Velocidad | normal |
@@ -39,11 +39,11 @@ Brown Horse es una montura de Classic que vuelve en World of Warcraft: Forever. 
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> la vende en Elwynn Forest por 35 de oro y 55 de plata y 55 de cobre. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> la vende en Elwynn Forest por 20 de oro. El vendedor es amistoso con la Alianza.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> la vende en Wetlands por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> la vende en Wetlands por 20 de oro. El vendedor es amistoso con la Alianza.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vende en Hillsbrad Foothills por 40 de oro. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vende en Hillsbrad Foothills por 20 de oro. El vendedor es amistoso con la Alianza.
 
 Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=97045">Your First Horse</a>, desde el nivel 40 para la Alianza, te deja elegir esta.
 

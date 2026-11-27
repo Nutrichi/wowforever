@@ -1,14 +1,14 @@
 ---
 title: "Swift White Steed: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Swift White Steed in WoW Forever"
-description: "Swift White Steed ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Katie Hunter, 1000 Gold."
+description: "Swift White Steed ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Katie Hunter, 200 Gold."
 short: "Swift White Steed"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift White Steed in WoW Forever?"
-    a: "Katie Hunter verkauft es in Elwynn Forest für 1058 Gold 82 Silber 35 Kupfer. Der Händler ist die Allianz freundlich gesinnt. Merideth Carlson verkauft es in Hillsbrad Foothills für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt."
+    a: "Katie Hunter verkauft es in Elwynn Forest für 200 Gold. Der Händler ist die Allianz freundlich gesinnt. Merideth Carlson verkauft es in Hillsbrad Foothills für 200 Gold. Der Händler ist die Allianz freundlich gesinnt."
   - q: "Ist Swift White Steed neu in WoW Forever?"
     a: "Nein. Swift White Steed gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Swift White Steed ist ein Reittier aus Classic, das in World of Warcraft: Foreve
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18778"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift White Steed</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 1000 Gold |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 200 Gold |
 | Wo | Dustwallow Marsh, Elwynn Forest und Hillsbrad Foothills |
-| Preis | 1000 Gold |
+| Preis | 200 Gold |
 | Stufe | 60 |
 | Reiten | Horse Riding |
 | Tempo | sehr schnell |
@@ -38,13 +38,11 @@ Swift White Steed ist ein Reittier aus Classic, das in World of Warcraft: Foreve
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> verkauft es in Elwynn Forest für 1058 Gold 82 Silber 35 Kupfer. Der Händler ist die Allianz freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> verkauft es in Elwynn Forest für 200 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> verkauft es in Hillsbrad Foothills für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> verkauft es in Hillsbrad Foothills für 200 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> verkauft es in Dustwallow Marsh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt.
-
-Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> verkauft es in Dustwallow Marsh für 200 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
 Zum Reiten braucht es Horse Riding.
 

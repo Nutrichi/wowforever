@@ -1,14 +1,14 @@
 ---
 title: "Swift Mistsaber: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Swift Mistsaber in WoW Forever"
-description: "Swift Mistsaber ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Lelanai, 1000 Gold."
+description: "Swift Mistsaber ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Lelanai, 200 Gold."
 short: "Swift Mistsaber"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift Mistsaber in WoW Forever?"
-    a: "Lelanai verkauft es in Darnassus für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Frostsaber Replacement, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen."
+    a: "Lelanai verkauft es in Darnassus für 200 Gold. Der Händler ist die Allianz freundlich gesinnt. Zum Reiten braucht es Tiger Riding."
   - q: "Ist Swift Mistsaber neu in WoW Forever?"
     a: "Nein. Swift Mistsaber gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Swift Mistsaber ist ein Reittier aus Classic, das in World of Warcraft: Forever 
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18767"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Swift Mistsaber</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 1000 Gold |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 200 Gold |
 | Wo | Darnassus |
-| Preis | 1000 Gold |
+| Preis | 200 Gold |
 | Stufe | 60 |
 | Reiten | Tiger Riding |
 | Tempo | sehr schnell |
@@ -38,9 +38,7 @@ Swift Mistsaber ist ein Reittier aus Classic, das in World of Warcraft: Forever 
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkauft es in Darnassus für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt.
-
-Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=7671">Frostsaber Replacement</a>, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkauft es in Darnassus für 200 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
 Zum Reiten braucht es Tiger Riding.
 

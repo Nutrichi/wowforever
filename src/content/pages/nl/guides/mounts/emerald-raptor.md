@@ -1,14 +1,14 @@
 ---
 title: "Emerald Raptor: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Emerald Raptor in WoW Forever"
-description: "Emerald Raptor is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Zjolnir, 42 goud en 10 zilver en 52 koper."
+description: "Emerald Raptor is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Zjolnir, 20 goud."
 short: "Emerald Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Emerald Raptor in WoW Forever?"
-    a: "Zjolnir verkoopt hem in Durotar voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Your First Riding Raptor, vanaf level 40 voor de Horde, laat je deze kiezen."
+    a: "Zjolnir verkoopt hem in Durotar voor 20 goud. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Your First Riding Raptor, vanaf level 40 voor de Horde, laat je deze kiezen."
   - q: "Is Emerald Raptor nieuw in WoW Forever?"
     a: "Nee. Emerald Raptor zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Emerald Raptor is een mount uit Classic die terugkomt in World of Warcraft: Fore
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8588"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whistle of the Emerald Raptor</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 42 goud en 10 zilver en 52 koper |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 20 goud |
 | Waar | Durotar |
-| Prijs | 42 goud en 10 zilver en 52 koper |
+| Prijs | 20 goud |
 | Level | 40 |
 | Rijden | Raptor Riding |
 | Snelheid | normaal |
@@ -38,7 +38,7 @@ Emerald Raptor is een mount uit Classic die terugkomt in World of Warcraft: Fore
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> verkoopt hem in Durotar voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> verkoopt hem in Durotar voor 20 goud. De verkoper is vriendelijk voor de Horde.
 
 Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=96989">Your First Riding Raptor</a>, vanaf level 40 voor de Horde, laat je deze kiezen.
 

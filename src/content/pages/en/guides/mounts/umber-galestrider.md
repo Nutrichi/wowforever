@@ -3,7 +3,7 @@ title: "Umber Galestrider: how to get the mount in WoW Forever"
 metaTitle: "How to get the Umber Galestrider mount in WoW Forever"
 description: "Umber Galestrider is a mount that is new in World of Warcraft: Forever. Source: Vendor: Genn Fairweather, 20 gold."
 short: "Umber Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Umber Galestrider in WoW Forever?"

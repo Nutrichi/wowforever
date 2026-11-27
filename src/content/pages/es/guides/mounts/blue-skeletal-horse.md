@@ -1,14 +1,14 @@
 ---
 title: "Blue Skeletal Horse: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Blue Skeletal Horse en WoW Forever"
-description: "Blue Skeletal Horse es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Zachariah Post, 42 de oro y 10 de plata y 52 de cobre."
+description: "Blue Skeletal Horse es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Zachariah Post, 20 de oro."
 short: "Blue Skeletal Horse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Blue Skeletal Horse en WoW Forever?"
-    a: "Zachariah Post la vende en Tirisfal Glades por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión A Steed in Death as They Were in Life, desde el nivel 40 para la Horda, te deja elegir esta."
+    a: "Zachariah Post la vende en Tirisfal Glades por 20 de oro. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión A Steed in Death as They Were in Life, desde el nivel 40 para la Horda, te deja elegir esta."
   - q: "¿Es Blue Skeletal Horse nueva en WoW Forever?"
     a: "No. Blue Skeletal Horse ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Blue Skeletal Horse es una montura de Classic que vuelve en World of Warcraft: F
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13332"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blue Skeletal Horse</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 42 de oro y 10 de plata y 52 de cobre |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 20 de oro |
 | Dónde | Tirisfal Glades |
-| Precio | 42 de oro y 10 de plata y 52 de cobre |
+| Precio | 20 de oro |
 | Nivel | 40 |
 | Equitación | Undead Horsemanship |
 | Velocidad | normal |
@@ -38,7 +38,7 @@ Blue Skeletal Horse es una montura de Classic que vuelve en World of Warcraft: F
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende en Tirisfal Glades por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Horda.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende en Tirisfal Glades por 20 de oro. El vendedor es amistoso con la Horda.
 
 Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, desde el nivel 40 para la Horda, te deja elegir esta.
 

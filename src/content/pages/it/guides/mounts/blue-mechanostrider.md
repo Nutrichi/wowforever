@@ -1,14 +1,14 @@
 ---
 title: "Blue Mechanostrider: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Blue Mechanostrider in WoW Forever"
-description: "Blue Mechanostrider è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Milli Featherwhistle, 40 d'oro."
+description: "Blue Mechanostrider è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Milli Featherwhistle, 20 d'oro."
 short: "Blue Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Blue Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle la vende a Dun Morogh per 40 d'oro. Il mercante è amichevole con l'Alleanza. La prima cavalcatura è gratis: la missione Your First Mechanostrider, dal livello 40 per l'Alleanza, ti fa scegliere questa."
+    a: "Milli Featherwhistle la vende a Dun Morogh per 20 d'oro. Il mercante è amichevole con l'Alleanza. La prima cavalcatura è gratis: la missione Your First Mechanostrider, dal livello 40 per l'Alleanza, ti fa scegliere questa."
   - q: "Blue Mechanostrider è nuova in WoW Forever?"
     a: "No. Blue Mechanostrider c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Blue Mechanostrider è una cavalcatura di Classic che torna in World of Warcraft
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8595"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blue Mechanostrider</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 40 d'oro |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 20 d'oro |
 | Dove | Dun Morogh |
-| Prezzo | 40 d'oro |
+| Prezzo | 20 d'oro |
 | Livello | 40 |
 | Cavalcare | Mechanostrider Piloting |
 | Velocità | normale |
@@ -38,7 +38,7 @@ Blue Mechanostrider è una cavalcatura di Classic che torna in World of Warcraft
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vende a Dun Morogh per 40 d'oro. Il mercante è amichevole con l'Alleanza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vende a Dun Morogh per 20 d'oro. Il mercante è amichevole con l'Alleanza.
 
 La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=97046">Your First Mechanostrider</a>, dal livello 40 per l'Alleanza, ti fa scegliere questa.
 

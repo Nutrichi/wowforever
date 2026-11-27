@@ -1,14 +1,14 @@
 ---
 title: "Brown Kodo: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Brown Kodo in WoW Forever"
-description: "Brown Kodo è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Harb Clawhoof, 35 d'oro e 55 d'argento e 55 di rame."
+description: "Brown Kodo è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Harb Clawhoof, 20 d'oro."
 short: "Brown Kodo"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Brown Kodo in WoW Forever?"
-    a: "Harb Clawhoof la vende a Mulgore per 35 d'oro e 55 d'argento e 55 di rame. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Your First Riding Kodo, dal livello 40 per l'Orda, ti fa scegliere questa."
+    a: "Harb Clawhoof la vende a Mulgore per 20 d'oro. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Your First Riding Kodo, dal livello 40 per l'Orda, ti fa scegliere questa."
   - q: "Brown Kodo è nuova in WoW Forever?"
     a: "No. Brown Kodo c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Brown Kodo è una cavalcatura di Classic che torna in World of Warcraft: Forever
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=15290"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_03.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Kodo</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 35 d'oro e 55 d'argento e 55 di rame |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 20 d'oro |
 | Dove | Mulgore |
-| Prezzo | 35 d'oro e 55 d'argento e 55 di rame |
+| Prezzo | 20 d'oro |
 | Livello | 40 |
 | Cavalcare | Kodo Riding |
 | Velocità | normale |
@@ -38,7 +38,7 @@ Brown Kodo è una cavalcatura di Classic che torna in World of Warcraft: Forever
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende a Mulgore per 35 d'oro e 55 d'argento e 55 di rame. Il mercante è amichevole con l'Orda.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende a Mulgore per 20 d'oro. Il mercante è amichevole con l'Orda.
 
 La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=96982">Your First Riding Kodo</a>, dal livello 40 per l'Orda, ti fa scegliere questa.
 

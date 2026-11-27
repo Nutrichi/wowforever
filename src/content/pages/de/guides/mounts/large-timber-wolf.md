@@ -1,14 +1,14 @@
 ---
 title: "Large Timber Wolf: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Large Timber Wolf in WoW Forever"
-description: "Large Timber Wolf ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Ogunaro Wolfrunner, 40 Gold."
+description: "Large Timber Wolf ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Ogunaro Wolfrunner, 20 Gold."
 short: "Large Timber Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Large Timber Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner verkauft es in Orgrimmar für 40 Gold. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Wolf, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
+    a: "Ogunaro Wolfrunner verkauft es in Orgrimmar für 20 Gold. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Riding Wolf, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
   - q: "Ist Large Timber Wolf neu in WoW Forever?"
     a: "Nein. Large Timber Wolf gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Large Timber Wolf ist ein Reittier aus Classic, das in World of Warcraft: Foreve
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=1132"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Timber Wolf</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 40 Gold |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 20 Gold |
 | Wo | Orgrimmar |
-| Preis | 40 Gold |
+| Preis | 20 Gold |
 | Stufe | 40 |
 | Reiten | Wolf Riding |
 | Tempo | normal |
@@ -38,7 +38,7 @@ Large Timber Wolf ist ein Reittier aus Classic, das in World of Warcraft: Foreve
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkauft es in Orgrimmar für 40 Gold. Der Händler ist die Horde freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkauft es in Orgrimmar für 20 Gold. Der Händler ist die Horde freundlich gesinnt.
 
 Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, ab Stufe 40 für die Horde, lässt dich dieses auswählen.
 

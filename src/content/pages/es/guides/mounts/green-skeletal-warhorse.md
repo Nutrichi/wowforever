@@ -1,14 +1,14 @@
 ---
 title: "Green Skeletal Warhorse: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Green Skeletal Warhorse en WoW Forever"
-description: "Green Skeletal Warhorse es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Zachariah Post, 1052 de oro y 63 de plata y 15 de cobre."
+description: "Green Skeletal Warhorse es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Zachariah Post, 200 de oro."
 short: "Green Skeletal Warhorse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Green Skeletal Warhorse en WoW Forever?"
-    a: "Zachariah Post la vende en Tirisfal Glades por 1052 de oro y 63 de plata y 15 de cobre. El vendedor es amistoso con la Horda. Montarla requiere Undead Horsemanship."
+    a: "Zachariah Post la vende en Tirisfal Glades por 200 de oro. El vendedor es amistoso con la Horda. Montarla requiere Undead Horsemanship."
   - q: "¿Es Green Skeletal Warhorse nueva en WoW Forever?"
     a: "No. Green Skeletal Warhorse ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Green Skeletal Warhorse es una montura de Classic que vuelve en World of Warcraf
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=13334"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Green Skeletal Warhorse</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 1052 de oro y 63 de plata y 15 de cobre |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 200 de oro |
 | Dónde | Tirisfal Glades |
-| Precio | 1052 de oro y 63 de plata y 15 de cobre |
+| Precio | 200 de oro |
 | Nivel | 60 |
 | Equitación | Undead Horsemanship |
 | Velocidad | muy rápida |
@@ -38,7 +38,7 @@ Green Skeletal Warhorse es una montura de Classic que vuelve en World of Warcraf
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende en Tirisfal Glades por 1052 de oro y 63 de plata y 15 de cobre. El vendedor es amistoso con la Horda.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende en Tirisfal Glades por 200 de oro. El vendedor es amistoso con la Horda.
 
 Montarla requiere Undead Horsemanship.
 

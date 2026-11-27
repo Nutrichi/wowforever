@@ -1,14 +1,14 @@
 ---
 title: "Swift Yellow Mechanostrider: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Swift Yellow Mechanostrider in WoW Forever"
-description: "Swift Yellow Mechanostrider is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Milli Featherwhistle, 1000 goud."
+description: "Swift Yellow Mechanostrider is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Milli Featherwhistle, 200 goud."
 short: "Swift Yellow Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Swift Yellow Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle verkoopt hem in Dun Morogh voor 1000 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Icy Blue Mechanostrider Replacement, vanaf level 60 voor beide facties, laat je deze kiezen."
+    a: "Milli Featherwhistle verkoopt hem in Dun Morogh voor 200 goud. De verkoper is vriendelijk voor de Alliance. Rijden vraagt Mechanostrider Piloting."
   - q: "Is Swift Yellow Mechanostrider nieuw in WoW Forever?"
     a: "Nee. Swift Yellow Mechanostrider zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Yellow Mechanostrider is een mount uit Classic die terugkomt in World of W
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18774"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Yellow Mechanostrider</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 1000 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 200 goud |
 | Waar | Dun Morogh |
-| Prijs | 1000 goud |
+| Prijs | 200 goud |
 | Level | 60 |
 | Rijden | Mechanostrider Piloting |
 | Snelheid | zeer snel |
@@ -38,9 +38,7 @@ Swift Yellow Mechanostrider is een mount uit Classic die terugkomt in World of W
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkoopt hem in Dun Morogh voor 1000 goud. De verkoper is vriendelijk voor de Alliance.
-
-Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=7675">Icy Blue Mechanostrider Replacement</a>, vanaf level 60 voor beide facties, laat je deze kiezen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkoopt hem in Dun Morogh voor 200 goud. De verkoper is vriendelijk voor de Alliance.
 
 Rijden vraagt Mechanostrider Piloting.
 

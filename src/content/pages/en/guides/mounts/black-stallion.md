@@ -1,13 +1,13 @@
 ---
 title: "Black Stallion: how to get the mount in WoW Forever"
 metaTitle: "How to get the Black Stallion mount in WoW Forever"
-description: "Black Stallion is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Unger Statforth, 42 gold 10 silver 52 copper."
+description: "Black Stallion is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Unger Statforth, 20 gold."
 short: "Black Stallion"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Black Stallion in WoW Forever?"
-    a: "Unger Statforth sells it in Wetlands for 42 gold 10 silver 52 copper. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Horse, from level 40 for the Alliance, lets you pick this one."
+    a: "Unger Statforth sells it in Wetlands for 20 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Horse, from level 40 for the Alliance, lets you pick this one."
   - q: "Is Black Stallion new in WoW Forever?"
     a: "No. Black Stallion was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Black Stallion is a mount from Classic that returns in World of Warcraft: Foreve
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2411"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Stallion Bridle</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 42 gold 10 silver 52 copper |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 20 gold |
 | Where | Wetlands |
-| Price | 42 gold 10 silver 52 copper |
+| Price | 20 gold |
 | Level | 40 |
 | Riding | Horse Riding |
 | Speed | normal |
@@ -37,7 +37,7 @@ Black Stallion is a mount from Classic that returns in World of Warcraft: Foreve
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> sells it in Wetlands for 42 gold 10 silver 52 copper. The vendor is friendly to the Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> sells it in Wetlands for 20 gold. The vendor is friendly to the Alliance.
 
 Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=97171">Your First Horse</a>, from level 40 for the Alliance, lets you pick this one.
 

@@ -1,14 +1,14 @@
 ---
 title: "Swift White Mechanostrider: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Swift White Mechanostrider in WoW Forever"
-description: "Swift White Mechanostrider è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Milli Featherwhistle, 1000 d'oro."
+description: "Swift White Mechanostrider è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Milli Featherwhistle, 200 d'oro."
 short: "Swift White Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift White Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle la vende a Dun Morogh per 1000 d'oro. Il mercante è amichevole con l'Alleanza. La prima cavalcatura è gratis: la missione Icy Blue Mechanostrider Replacement, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
+    a: "Milli Featherwhistle la vende a Dun Morogh per 200 d'oro. Il mercante è amichevole con l'Alleanza. Cavalcarla richiede Mechanostrider Piloting."
   - q: "Swift White Mechanostrider è nuova in WoW Forever?"
     a: "No. Swift White Mechanostrider c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift White Mechanostrider è una cavalcatura di Classic che torna in World of W
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18773"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift White Mechanostrider</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 1000 d'oro |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 200 d'oro |
 | Dove | Dun Morogh |
-| Prezzo | 1000 d'oro |
+| Prezzo | 200 d'oro |
 | Livello | 60 |
 | Cavalcare | Mechanostrider Piloting |
 | Velocità | molto veloce |
@@ -38,9 +38,7 @@ Swift White Mechanostrider è una cavalcatura di Classic che torna in World of W
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vende a Dun Morogh per 1000 d'oro. Il mercante è amichevole con l'Alleanza.
-
-La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7675">Icy Blue Mechanostrider Replacement</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> la vende a Dun Morogh per 200 d'oro. Il mercante è amichevole con l'Alleanza.
 
 Cavalcarla richiede Mechanostrider Piloting.
 

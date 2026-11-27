@@ -3,7 +3,7 @@ title: "Swift Empyrean Galestrider : comment obtenir la monture dans WoW Forever
 metaTitle: "Comment obtenir la monture Swift Empyrean Galestrider dans WoW Forever"
 description: "Swift Empyrean Galestrider est une monture nouvelle dans World of Warcraft: Forever. Source: Marchand: Genn Fairweather, 200 po."
 short: "Swift Empyrean Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:

@@ -1,14 +1,14 @@
 ---
 title: "Black Stallion: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Black Stallion in WoW Forever"
-description: "Black Stallion is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Unger Statforth, 42 goud en 10 zilver en 52 koper."
+description: "Black Stallion is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Unger Statforth, 20 goud."
 short: "Black Stallion"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Black Stallion in WoW Forever?"
-    a: "Unger Statforth verkoopt hem in Wetlands voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Horse, vanaf level 40 voor de Alliance, laat je deze kiezen."
+    a: "Unger Statforth verkoopt hem in Wetlands voor 20 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Horse, vanaf level 40 voor de Alliance, laat je deze kiezen."
   - q: "Is Black Stallion nieuw in WoW Forever?"
     a: "Nee. Black Stallion zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Black Stallion is een mount uit Classic die terugkomt in World of Warcraft: Fore
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2411"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Stallion Bridle</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 42 goud en 10 zilver en 52 koper |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 20 goud |
 | Waar | Wetlands |
-| Prijs | 42 goud en 10 zilver en 52 koper |
+| Prijs | 20 goud |
 | Level | 40 |
 | Rijden | Horse Riding |
 | Snelheid | normaal |
@@ -38,7 +38,7 @@ Black Stallion is een mount uit Classic die terugkomt in World of Warcraft: Fore
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> verkoopt hem in Wetlands voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> verkoopt hem in Wetlands voor 20 goud. De verkoper is vriendelijk voor de Alliance.
 
 Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=97171">Your First Horse</a>, vanaf level 40 voor de Alliance, laat je deze kiezen.
 

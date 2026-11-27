@@ -1,14 +1,14 @@
 ---
 title: "Black Stallion: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Black Stallion en WoW Forever"
-description: "Black Stallion es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Unger Statforth, 42 de oro y 10 de plata y 52 de cobre."
+description: "Black Stallion es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Unger Statforth, 20 de oro."
 short: "Black Stallion"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Black Stallion en WoW Forever?"
-    a: "Unger Statforth la vende en Wetlands por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Horse, desde el nivel 40 para la Alianza, te deja elegir esta."
+    a: "Unger Statforth la vende en Wetlands por 20 de oro. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Horse, desde el nivel 40 para la Alianza, te deja elegir esta."
   - q: "¿Es Black Stallion nueva en WoW Forever?"
     a: "No. Black Stallion ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Black Stallion es una montura de Classic que vuelve en World of Warcraft: Foreve
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2411"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Stallion Bridle</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 42 de oro y 10 de plata y 52 de cobre |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 20 de oro |
 | Dónde | Wetlands |
-| Precio | 42 de oro y 10 de plata y 52 de cobre |
+| Precio | 20 de oro |
 | Nivel | 40 |
 | Equitación | Horse Riding |
 | Velocidad | normal |
@@ -38,7 +38,7 @@ Black Stallion es una montura de Classic que vuelve en World of Warcraft: Foreve
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> la vende en Wetlands por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> la vende en Wetlands por 20 de oro. El vendedor es amistoso con la Alianza.
 
 Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=97171">Your First Horse</a>, desde el nivel 40 para la Alianza, te deja elegir esta.
 

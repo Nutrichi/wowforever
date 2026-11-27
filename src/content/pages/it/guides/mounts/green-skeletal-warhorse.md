@@ -1,14 +1,14 @@
 ---
 title: "Green Skeletal Warhorse: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Green Skeletal Warhorse in WoW Forever"
-description: "Green Skeletal Warhorse è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Zachariah Post, 1052 d'oro e 63 d'argento e 15 di rame."
+description: "Green Skeletal Warhorse è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Zachariah Post, 200 d'oro."
 short: "Green Skeletal Warhorse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Green Skeletal Warhorse in WoW Forever?"
-    a: "Zachariah Post la vende a Tirisfal Glades per 1052 d'oro e 63 d'argento e 15 di rame. Il mercante è amichevole con l'Orda. Cavalcarla richiede Undead Horsemanship."
+    a: "Zachariah Post la vende a Tirisfal Glades per 200 d'oro. Il mercante è amichevole con l'Orda. Cavalcarla richiede Undead Horsemanship."
   - q: "Green Skeletal Warhorse è nuova in WoW Forever?"
     a: "No. Green Skeletal Warhorse c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Green Skeletal Warhorse è una cavalcatura di Classic che torna in World of Warc
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=13334"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Green Skeletal Warhorse</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 1052 d'oro e 63 d'argento e 15 di rame |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 200 d'oro |
 | Dove | Tirisfal Glades |
-| Prezzo | 1052 d'oro e 63 d'argento e 15 di rame |
+| Prezzo | 200 d'oro |
 | Livello | 60 |
 | Cavalcare | Undead Horsemanship |
 | Velocità | molto veloce |
@@ -38,7 +38,7 @@ Green Skeletal Warhorse è una cavalcatura di Classic che torna in World of Warc
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende a Tirisfal Glades per 1052 d'oro e 63 d'argento e 15 di rame. Il mercante è amichevole con l'Orda.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende a Tirisfal Glades per 200 d'oro. Il mercante è amichevole con l'Orda.
 
 Cavalcarla richiede Undead Horsemanship.
 

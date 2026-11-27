@@ -1,14 +1,14 @@
 ---
 title: "Swift White Steed: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Swift White Steed in WoW Forever"
-description: "Swift White Steed è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Katie Hunter, 1000 d'oro."
+description: "Swift White Steed è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Katie Hunter, 200 d'oro."
 short: "Swift White Steed"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Swift White Steed in WoW Forever?"
-    a: "Katie Hunter la vende a Elwynn Forest per 1058 d'oro e 82 d'argento e 35 di rame. Il mercante è amichevole con l'Alleanza. Merideth Carlson la vende a Hillsbrad Foothills per 1000 d'oro. Il mercante è amichevole con l'Alleanza."
+    a: "Katie Hunter la vende a Elwynn Forest per 200 d'oro. Il mercante è amichevole con l'Alleanza. Merideth Carlson la vende a Hillsbrad Foothills per 200 d'oro. Il mercante è amichevole con l'Alleanza."
   - q: "Swift White Steed è nuova in WoW Forever?"
     a: "No. Swift White Steed c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift White Steed è una cavalcatura di Classic che torna in World of Warcraft: 
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18778"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift White Steed</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 1000 d'oro |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 200 d'oro |
 | Dove | Dustwallow Marsh, Elwynn Forest e Hillsbrad Foothills |
-| Prezzo | 1000 d'oro |
+| Prezzo | 200 d'oro |
 | Livello | 60 |
 | Cavalcare | Horse Riding |
 | Velocità | molto veloce |
@@ -38,13 +38,11 @@ Swift White Steed è una cavalcatura di Classic che torna in World of Warcraft: 
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> la vende a Elwynn Forest per 1058 d'oro e 82 d'argento e 35 di rame. Il mercante è amichevole con l'Alleanza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> la vende a Elwynn Forest per 200 d'oro. Il mercante è amichevole con l'Alleanza.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vende a Hillsbrad Foothills per 1000 d'oro. Il mercante è amichevole con l'Alleanza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vende a Hillsbrad Foothills per 200 d'oro. Il mercante è amichevole con l'Alleanza.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> la vende a Dustwallow Marsh per 1000 d'oro. Il mercante è amichevole con l'Alleanza.
-
-La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> la vende a Dustwallow Marsh per 200 d'oro. Il mercante è amichevole con l'Alleanza.
 
 Cavalcarla richiede Horse Riding.
 

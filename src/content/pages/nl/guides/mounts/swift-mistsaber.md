@@ -1,14 +1,14 @@
 ---
 title: "Swift Mistsaber: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Swift Mistsaber in WoW Forever"
-description: "Swift Mistsaber is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Lelanai, 1000 goud."
+description: "Swift Mistsaber is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Lelanai, 200 goud."
 short: "Swift Mistsaber"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Swift Mistsaber in WoW Forever?"
-    a: "Lelanai verkoopt hem in Darnassus voor 1000 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Frostsaber Replacement, vanaf level 60 voor beide facties, laat je deze kiezen."
+    a: "Lelanai verkoopt hem in Darnassus voor 200 goud. De verkoper is vriendelijk voor de Alliance. Rijden vraagt Tiger Riding."
   - q: "Is Swift Mistsaber nieuw in WoW Forever?"
     a: "Nee. Swift Mistsaber zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Mistsaber is een mount uit Classic die terugkomt in World of Warcraft: For
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18767"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Swift Mistsaber</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 1000 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 200 goud |
 | Waar | Darnassus |
-| Prijs | 1000 goud |
+| Prijs | 200 goud |
 | Level | 60 |
 | Rijden | Tiger Riding |
 | Snelheid | zeer snel |
@@ -38,9 +38,7 @@ Swift Mistsaber is een mount uit Classic die terugkomt in World of Warcraft: For
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkoopt hem in Darnassus voor 1000 goud. De verkoper is vriendelijk voor de Alliance.
-
-Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=7671">Frostsaber Replacement</a>, vanaf level 60 voor beide facties, laat je deze kiezen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkoopt hem in Darnassus voor 200 goud. De verkoper is vriendelijk voor de Alliance.
 
 Rijden vraagt Tiger Riding.
 

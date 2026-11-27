@@ -1,14 +1,14 @@
 ---
 title: "Swift Blue Raptor : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Swift Blue Raptor dans WoW Forever"
-description: "Swift Blue Raptor est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Zjolnir, 1000 po."
+description: "Swift Blue Raptor est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Zjolnir, 200 po."
 short: "Swift Blue Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Swift Blue Raptor dans WoW Forever ?"
-    a: "Zjolnir la vend à Durotar pour 1000 po. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête Ivory Raptor Replacement, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci."
+    a: "Zjolnir la vend à Durotar pour 200 po. Le marchand est amical envers la Horde. La monter demande Raptor Riding."
   - q: "Swift Blue Raptor est-elle nouvelle dans WoW Forever ?"
     a: "Non. Swift Blue Raptor existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Blue Raptor est une monture de Classic qui revient dans World of Warcraft:
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18788"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Blue Raptor</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 1000 po |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 200 po |
 | Où | Durotar |
-| Prix | 1000 po |
+| Prix | 200 po |
 | Niveau | 60 |
 | Monte | Raptor Riding |
 | Vitesse | très rapide |
@@ -38,9 +38,7 @@ Swift Blue Raptor est une monture de Classic qui revient dans World of Warcraft:
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vend à Durotar pour 1000 po. Le marchand est amical envers la Horde.
-
-Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7664">Ivory Raptor Replacement</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vend à Durotar pour 200 po. Le marchand est amical envers la Horde.
 
 La monter demande Raptor Riding.
 

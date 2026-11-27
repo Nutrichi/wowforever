@@ -1,13 +1,13 @@
 ---
 title: "Swift Orange Raptor: how to get the mount in WoW Forever"
 metaTitle: "How to get the Swift Orange Raptor mount in WoW Forever"
-description: "Swift Orange Raptor is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Zjolnir, 1000 gold."
+description: "Swift Orange Raptor is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Zjolnir, 200 gold."
 short: "Swift Orange Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Swift Orange Raptor in WoW Forever?"
-    a: "Zjolnir sells it in Durotar for 1000 gold. The vendor is friendly to the Horde. Your first mount is free: the quest Ivory Raptor Replacement, from level 60 for both factions, lets you pick this one."
+    a: "Zjolnir sells it in Durotar for 200 gold. The vendor is friendly to the Horde. Riding it needs Raptor Riding."
   - q: "Is Swift Orange Raptor new in WoW Forever?"
     a: "No. Swift Orange Raptor was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Swift Orange Raptor is a mount from Classic that returns in World of Warcraft: F
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18790"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Orange Raptor</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 1000 gold |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 200 gold |
 | Where | Durotar |
-| Price | 1000 gold |
+| Price | 200 gold |
 | Level | 60 |
 | Riding | Raptor Riding |
 | Speed | very fast |
@@ -37,9 +37,7 @@ Swift Orange Raptor is a mount from Classic that returns in World of Warcraft: F
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> sells it in Durotar for 1000 gold. The vendor is friendly to the Horde.
-
-Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=7664">Ivory Raptor Replacement</a>, from level 60 for both factions, lets you pick this one.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> sells it in Durotar for 200 gold. The vendor is friendly to the Horde.
 
 Riding it needs Raptor Riding.
 

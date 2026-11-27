@@ -1,14 +1,14 @@
 ---
 title: "Striped Nightsaber: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Striped Nightsaber in WoW Forever"
-description: "Striped Nightsaber is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Lelanai, 42 goud en 10 zilver en 52 koper."
+description: "Striped Nightsaber is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Lelanai, 20 goud."
 short: "Striped Nightsaber"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Striped Nightsaber in WoW Forever?"
-    a: "Lelanai verkoopt hem in Darnassus voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Feline Friend, vanaf level 40 voor de Alliance, laat je deze kiezen."
+    a: "Lelanai verkoopt hem in Darnassus voor 20 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Feline Friend, vanaf level 40 voor de Alliance, laat je deze kiezen."
   - q: "Is Striped Nightsaber nieuw in WoW Forever?"
     a: "Nee. Striped Nightsaber zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Striped Nightsaber is een mount uit Classic die terugkomt in World of Warcraft: 
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8629"><img class="wf-wh__icon" src="/wh/ability_mount_blackpanther.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Striped Nightsaber</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 42 goud en 10 zilver en 52 koper |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 20 goud |
 | Waar | Darnassus |
-| Prijs | 42 goud en 10 zilver en 52 koper |
+| Prijs | 20 goud |
 | Level | 40 |
 | Rijden | Tiger Riding |
 | Snelheid | normaal |
@@ -38,7 +38,7 @@ Striped Nightsaber is een mount uit Classic die terugkomt in World of Warcraft: 
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkoopt hem in Darnassus voor 42 goud en 10 zilver en 52 koper. De verkoper is vriendelijk voor de Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkoopt hem in Darnassus voor 20 goud. De verkoper is vriendelijk voor de Alliance.
 
 Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, vanaf level 40 voor de Alliance, laat je deze kiezen.
 

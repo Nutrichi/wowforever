@@ -1,14 +1,14 @@
 ---
 title: "Brown Ram: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Brown Ram en WoW Forever"
-description: "Brown Ram es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Veron Amberstill, 40 de oro."
+description: "Brown Ram es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Veron Amberstill, 20 de oro."
 short: "Brown Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Brown Ram en WoW Forever?"
-    a: "Veron Amberstill la vende en Dun Morogh por 40 de oro. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Riding Ram, desde el nivel 40 para la Alianza, te deja elegir esta."
+    a: "Veron Amberstill la vende en Dun Morogh por 20 de oro. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Riding Ram, desde el nivel 40 para la Alianza, te deja elegir esta."
   - q: "¿Es Brown Ram nueva en WoW Forever?"
     a: "No. Brown Ram ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Brown Ram es una montura de Classic que vuelve en World of Warcraft: Forever. Es
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5872"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Ram</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 40 de oro |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 20 de oro |
 | Dónde | Dun Morogh |
-| Precio | 40 de oro |
+| Precio | 20 de oro |
 | Nivel | 40 |
 | Equitación | Ram Riding |
 | Velocidad | normal |
@@ -38,7 +38,7 @@ Brown Ram es una montura de Classic que vuelve en World of Warcraft: Forever. Es
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vende en Dun Morogh por 40 de oro. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> la vende en Dun Morogh por 20 de oro. El vendedor es amistoso con la Alianza.
 
 Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, desde el nivel 40 para la Alianza, te deja elegir esta.
 

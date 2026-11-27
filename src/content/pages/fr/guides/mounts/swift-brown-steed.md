@@ -1,14 +1,14 @@
 ---
 title: "Swift Brown Steed : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Swift Brown Steed dans WoW Forever"
-description: "Swift Brown Steed est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Katie Hunter, 1000 po."
+description: "Swift Brown Steed est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Katie Hunter, 200 po."
 short: "Swift Brown Steed"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Swift Brown Steed dans WoW Forever ?"
-    a: "Katie Hunter la vend à Elwynn Forest pour 1058 po 82 pa 35 pc. Le marchand est amical envers l'Alliance. Merideth Carlson la vend à Hillsbrad Foothills pour 1000 po. Le marchand est amical envers l'Alliance."
+    a: "Katie Hunter la vend à Elwynn Forest pour 200 po. Le marchand est amical envers l'Alliance. Merideth Carlson la vend à Hillsbrad Foothills pour 200 po. Le marchand est amical envers l'Alliance."
   - q: "Swift Brown Steed est-elle nouvelle dans WoW Forever ?"
     a: "Non. Swift Brown Steed existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Brown Steed est une monture de Classic qui revient dans World of Warcraft:
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18777"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Brown Steed</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 1000 po |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 200 po |
 | Où | Dustwallow Marsh, Elwynn Forest et Hillsbrad Foothills |
-| Prix | 1000 po |
+| Prix | 200 po |
 | Niveau | 60 |
 | Monte | Horse Riding |
 | Vitesse | très rapide |
@@ -38,13 +38,11 @@ Swift Brown Steed est une monture de Classic qui revient dans World of Warcraft:
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> la vend à Elwynn Forest pour 1058 po 82 pa 35 pc. Le marchand est amical envers l'Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> la vend à Elwynn Forest pour 200 po. Le marchand est amical envers l'Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vend à Hillsbrad Foothills pour 1000 po. Le marchand est amical envers l'Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> la vend à Hillsbrad Foothills pour 200 po. Le marchand est amical envers l'Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> la vend à Dustwallow Marsh pour 1000 po. Le marchand est amical envers l'Alliance.
-
-Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> la vend à Dustwallow Marsh pour 200 po. Le marchand est amical envers l'Alliance.
 
 La monter demande Horse Riding.
 

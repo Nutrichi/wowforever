@@ -1,13 +1,13 @@
 ---
 title: "Striped Nightsaber: how to get the mount in WoW Forever"
 metaTitle: "How to get the Striped Nightsaber mount in WoW Forever"
-description: "Striped Nightsaber is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Lelanai, 42 gold 10 silver 52 copper."
+description: "Striped Nightsaber is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Lelanai, 20 gold."
 short: "Striped Nightsaber"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Striped Nightsaber in WoW Forever?"
-    a: "Lelanai sells it in Darnassus for 42 gold 10 silver 52 copper. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Feline Friend, from level 40 for the Alliance, lets you pick this one."
+    a: "Lelanai sells it in Darnassus for 20 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Feline Friend, from level 40 for the Alliance, lets you pick this one."
   - q: "Is Striped Nightsaber new in WoW Forever?"
     a: "No. Striped Nightsaber was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Striped Nightsaber is a mount from Classic that returns in World of Warcraft: Fo
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8629"><img class="wf-wh__icon" src="/wh/ability_mount_blackpanther.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Striped Nightsaber</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 42 gold 10 silver 52 copper |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 20 gold |
 | Where | Darnassus |
-| Price | 42 gold 10 silver 52 copper |
+| Price | 20 gold |
 | Level | 40 |
 | Riding | Tiger Riding |
 | Speed | normal |
@@ -37,7 +37,7 @@ Striped Nightsaber is a mount from Classic that returns in World of Warcraft: Fo
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> sells it in Darnassus for 42 gold 10 silver 52 copper. The vendor is friendly to the Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> sells it in Darnassus for 20 gold. The vendor is friendly to the Alliance.
 
 Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, from level 40 for the Alliance, lets you pick this one.
 

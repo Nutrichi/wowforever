@@ -1,14 +1,14 @@
 ---
 title: "Black Stallion: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Black Stallion in WoW Forever"
-description: "Black Stallion ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Unger Statforth, 42 Gold 10 Silber 52 Kupfer."
+description: "Black Stallion ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Unger Statforth, 20 Gold."
 short: "Black Stallion"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Black Stallion in WoW Forever?"
-    a: "Unger Statforth verkauft es in Wetlands für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Horse, ab Stufe 40 für die Allianz, lässt dich dieses auswählen."
+    a: "Unger Statforth verkauft es in Wetlands für 20 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Horse, ab Stufe 40 für die Allianz, lässt dich dieses auswählen."
   - q: "Ist Black Stallion neu in WoW Forever?"
     a: "Nein. Black Stallion gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Black Stallion ist ein Reittier aus Classic, das in World of Warcraft: Forever z
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=2411"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Black Stallion Bridle</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 42 Gold 10 Silber 52 Kupfer |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a>, 20 Gold |
 | Wo | Wetlands |
-| Preis | 42 Gold 10 Silber 52 Kupfer |
+| Preis | 20 Gold |
 | Stufe | 40 |
 | Reiten | Horse Riding |
 | Tempo | normal |
@@ -38,7 +38,7 @@ Black Stallion ist ein Reittier aus Classic, das in World of Warcraft: Forever z
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> verkauft es in Wetlands für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Allianz freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> verkauft es in Wetlands für 20 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
 Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=97171">Your First Horse</a>, ab Stufe 40 für die Allianz, lässt dich dieses auswählen.
 

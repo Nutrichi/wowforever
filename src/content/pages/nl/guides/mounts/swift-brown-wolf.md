@@ -1,14 +1,14 @@
 ---
 title: "Swift Brown Wolf: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Swift Brown Wolf in WoW Forever"
-description: "Swift Brown Wolf is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Ogunaro Wolfrunner, 888 goud en 88 zilver en 88 koper."
+description: "Swift Brown Wolf is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Ogunaro Wolfrunner, 200 goud."
 short: "Swift Brown Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Swift Brown Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 888 goud en 88 zilver en 88 koper. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Wolf Swapping - Arctic Wolf, vanaf level 60 voor beide facties, laat je deze kiezen."
+    a: "Ogunaro Wolfrunner verkoopt hem in Orgrimmar voor 200 goud. De verkoper is vriendelijk voor de Horde. Rijden vraagt Wolf Riding."
   - q: "Is Swift Brown Wolf nieuw in WoW Forever?"
     a: "Nee. Swift Brown Wolf zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Brown Wolf is een mount uit Classic die terugkomt in World of Warcraft: Fo
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18796"><img class="wf-wh__icon" src="/wh/ability_mount_blackdirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Swift Brown Wolf</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 888 goud en 88 zilver en 88 koper |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 200 goud |
 | Waar | Orgrimmar |
-| Prijs | 888 goud en 88 zilver en 88 koper |
+| Prijs | 200 goud |
 | Level | 60 |
 | Rijden | Wolf Riding |
 | Snelheid | zeer snel |
@@ -38,9 +38,7 @@ Swift Brown Wolf is een mount uit Classic die terugkomt in World of Warcraft: Fo
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkoopt hem in Orgrimmar voor 888 goud en 88 zilver en 88 koper. De verkoper is vriendelijk voor de Horde.
-
-Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=7660">Wolf Swapping - Arctic Wolf</a>, vanaf level 60 voor beide facties, laat je deze kiezen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> verkoopt hem in Orgrimmar voor 200 goud. De verkoper is vriendelijk voor de Horde.
 
 Rijden vraagt Wolf Riding.
 

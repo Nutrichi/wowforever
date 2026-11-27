@@ -1,14 +1,14 @@
 ---
 title: "Blue Skeletal Horse: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Blue Skeletal Horse in WoW Forever"
-description: "Blue Skeletal Horse ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Zachariah Post, 42 Gold 10 Silber 52 Kupfer."
+description: "Blue Skeletal Horse ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Zachariah Post, 20 Gold."
 short: "Blue Skeletal Horse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Blue Skeletal Horse in WoW Forever?"
-    a: "Zachariah Post verkauft es in Tirisfal Glades für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest A Steed in Death as They Were in Life, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
+    a: "Zachariah Post verkauft es in Tirisfal Glades für 20 Gold. Der Händler ist die Horde freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest A Steed in Death as They Were in Life, ab Stufe 40 für die Horde, lässt dich dieses auswählen."
   - q: "Ist Blue Skeletal Horse neu in WoW Forever?"
     a: "Nein. Blue Skeletal Horse gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Blue Skeletal Horse ist ein Reittier aus Classic, das in World of Warcraft: Fore
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13332"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blue Skeletal Horse</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 42 Gold 10 Silber 52 Kupfer |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 20 Gold |
 | Wo | Tirisfal Glades |
-| Preis | 42 Gold 10 Silber 52 Kupfer |
+| Preis | 20 Gold |
 | Stufe | 40 |
 | Reiten | Undead Horsemanship |
 | Tempo | normal |
@@ -38,7 +38,7 @@ Blue Skeletal Horse ist ein Reittier aus Classic, das in World of Warcraft: Fore
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkauft es in Tirisfal Glades für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Horde freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkauft es in Tirisfal Glades für 20 Gold. Der Händler ist die Horde freundlich gesinnt.
 
 Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, ab Stufe 40 für die Horde, lässt dich dieses auswählen.
 

@@ -1,14 +1,14 @@
 ---
 title: "Great Gray Kodo: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Great Gray Kodo in WoW Forever"
-description: "Great Gray Kodo è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Harb Clawhoof, 1052 d'oro e 63 d'argento e 15 di rame."
+description: "Great Gray Kodo è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Harb Clawhoof, 200 d'oro."
 short: "Great Gray Kodo"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Great Gray Kodo in WoW Forever?"
-    a: "Harb Clawhoof la vende a Mulgore per 1052 d'oro e 63 d'argento e 15 di rame. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione New Kodo - Teal, dal livello 60 per entrambe le fazioni, ti fa scegliere questa."
+    a: "Harb Clawhoof la vende a Mulgore per 200 d'oro. Il mercante è amichevole con l'Orda. Cavalcarla richiede Kodo Riding."
   - q: "Great Gray Kodo è nuova in WoW Forever?"
     a: "No. Great Gray Kodo c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Great Gray Kodo è una cavalcatura di Classic che torna in World of Warcraft: Fo
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18795"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Great Gray Kodo</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 1052 d'oro e 63 d'argento e 15 di rame |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 200 d'oro |
 | Dove | Mulgore |
-| Prezzo | 1052 d'oro e 63 d'argento e 15 di rame |
+| Prezzo | 200 d'oro |
 | Livello | 60 |
 | Cavalcare | Kodo Riding |
 | Velocità | molto veloce |
@@ -38,9 +38,7 @@ Great Gray Kodo è una cavalcatura di Classic che torna in World of Warcraft: Fo
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende a Mulgore per 1052 d'oro e 63 d'argento e 15 di rame. Il mercante è amichevole con l'Orda.
-
-La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=7662">New Kodo - Teal</a>, dal livello 60 per entrambe le fazioni, ti fa scegliere questa.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vende a Mulgore per 200 d'oro. Il mercante è amichevole con l'Orda.
 
 Cavalcarla richiede Kodo Riding.
 

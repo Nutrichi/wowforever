@@ -1,14 +1,14 @@
 ---
 title: "Swift Stormsaber : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Swift Stormsaber dans WoW Forever"
-description: "Swift Stormsaber est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Lelanai, 1000 po."
+description: "Swift Stormsaber est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Lelanai, 200 po."
 short: "Swift Stormsaber"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Swift Stormsaber dans WoW Forever ?"
-    a: "Lelanai la vend à Darnassus pour 1000 po. Le marchand est amical envers l'Alliance. Votre première monture est gratuite : la quête Frostsaber Replacement, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci."
+    a: "Lelanai la vend à Darnassus pour 200 po. Le marchand est amical envers l'Alliance. La monter demande Tiger Riding."
   - q: "Swift Stormsaber est-elle nouvelle dans WoW Forever ?"
     a: "Non. Swift Stormsaber existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Stormsaber est une monture de Classic qui revient dans World of Warcraft: 
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18902"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Swift Stormsaber</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 1000 po |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 200 po |
 | Où | Darnassus |
-| Prix | 1000 po |
+| Prix | 200 po |
 | Niveau | 60 |
 | Monte | Tiger Riding |
 | Vitesse | très rapide |
@@ -38,9 +38,7 @@ Swift Stormsaber est une monture de Classic qui revient dans World of Warcraft: 
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> la vend à Darnassus pour 1000 po. Le marchand est amical envers l'Alliance.
-
-Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7671">Frostsaber Replacement</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> la vend à Darnassus pour 200 po. Le marchand est amical envers l'Alliance.
 
 La monter demande Tiger Riding.
 

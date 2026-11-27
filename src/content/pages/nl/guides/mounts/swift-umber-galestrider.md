@@ -3,7 +3,7 @@ title: "Swift Umber Galestrider: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Swift Umber Galestrider in WoW Forever"
 description: "Swift Umber Galestrider is een mount die nieuw is in World of Warcraft: Forever. Bron: Verkoper: Genn Fairweather, 200 goud."
 short: "Swift Umber Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:

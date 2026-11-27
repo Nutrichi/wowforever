@@ -1,14 +1,14 @@
 ---
 title: "Great Gray Kodo : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Great Gray Kodo dans WoW Forever"
-description: "Great Gray Kodo est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Harb Clawhoof, 1052 po 63 pa 15 pc."
+description: "Great Gray Kodo est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Harb Clawhoof, 200 po."
 short: "Great Gray Kodo"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Great Gray Kodo dans WoW Forever ?"
-    a: "Harb Clawhoof la vend à Mulgore pour 1052 po 63 pa 15 pc. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête New Kodo - Teal, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci."
+    a: "Harb Clawhoof la vend à Mulgore pour 200 po. Le marchand est amical envers la Horde. La monter demande Kodo Riding."
   - q: "Great Gray Kodo est-elle nouvelle dans WoW Forever ?"
     a: "Non. Great Gray Kodo existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Great Gray Kodo est une monture de Classic qui revient dans World of Warcraft: F
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18795"><img class="wf-wh__icon" src="/wh/ability_mount_kodo_01.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Great Gray Kodo</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 1052 po 63 pa 15 pc |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a>, 200 po |
 | Où | Mulgore |
-| Prix | 1052 po 63 pa 15 pc |
+| Prix | 200 po |
 | Niveau | 60 |
 | Monte | Kodo Riding |
 | Vitesse | très rapide |
@@ -38,9 +38,7 @@ Great Gray Kodo est une monture de Classic qui revient dans World of Warcraft: F
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vend à Mulgore pour 1052 po 63 pa 15 pc. Le marchand est amical envers la Horde.
-
-Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=7662">New Kodo - Teal</a>, à partir du niveau 60 pour les deux factions, vous laisse choisir celle-ci.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3685">Harb Clawhoof</a> la vend à Mulgore pour 200 po. Le marchand est amical envers la Horde.
 
 La monter demande Kodo Riding.
 

@@ -3,7 +3,7 @@ title: "Swift Stormy Galestrider: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Swift Stormy Galestrider in WoW Forever"
 description: "Swift Stormy Galestrider è una cavalcatura nuova in World of Warcraft: Forever. Fonte: Mercante: Genn Fairweather, 200 d'oro."
 short: "Swift Stormy Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:

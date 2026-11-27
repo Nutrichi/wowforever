@@ -1,14 +1,14 @@
 ---
 title: "Spotted Frostsaber: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Spotted Frostsaber in WoW Forever"
-description: "Spotted Frostsaber ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Lelanai, 42 Gold 10 Silber 52 Kupfer."
+description: "Spotted Frostsaber ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Lelanai, 20 Gold."
 short: "Spotted Frostsaber"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Spotted Frostsaber in WoW Forever?"
-    a: "Lelanai verkauft es in Darnassus für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Feline Friend, ab Stufe 40 für die Allianz, lässt dich dieses auswählen."
+    a: "Lelanai verkauft es in Darnassus für 20 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Your First Feline Friend, ab Stufe 40 für die Allianz, lässt dich dieses auswählen."
   - q: "Ist Spotted Frostsaber neu in WoW Forever?"
     a: "Nein. Spotted Frostsaber gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Spotted Frostsaber ist ein Reittier aus Classic, das in World of Warcraft: Forev
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8632"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Spotted Frostsaber</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 42 Gold 10 Silber 52 Kupfer |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 20 Gold |
 | Wo | Darnassus |
-| Preis | 42 Gold 10 Silber 52 Kupfer |
+| Preis | 20 Gold |
 | Stufe | 40 |
 | Reiten | Tiger Riding |
 | Tempo | normal |
@@ -38,7 +38,7 @@ Spotted Frostsaber ist ein Reittier aus Classic, das in World of Warcraft: Forev
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkauft es in Darnassus für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Allianz freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> verkauft es in Darnassus für 20 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
 Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, ab Stufe 40 für die Allianz, lässt dich dieses auswählen.
 

@@ -1,14 +1,14 @@
 ---
 title: "Striped Frostsaber: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Striped Frostsaber en WoW Forever"
-description: "Striped Frostsaber es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Lelanai, 42 de oro y 10 de plata y 52 de cobre."
+description: "Striped Frostsaber es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Lelanai, 20 de oro."
 short: "Striped Frostsaber"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Striped Frostsaber en WoW Forever?"
-    a: "Lelanai la vende en Darnassus por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Feline Friend, desde el nivel 40 para la Alianza, te deja elegir esta."
+    a: "Lelanai la vende en Darnassus por 20 de oro. El vendedor es amistoso con la Alianza. Tu primera montura es gratis: la misión Your First Feline Friend, desde el nivel 40 para la Alianza, te deja elegir esta."
   - q: "¿Es Striped Frostsaber nueva en WoW Forever?"
     a: "No. Striped Frostsaber ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Striped Frostsaber es una montura de Classic que vuelve en World of Warcraft: Fo
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8631"><img class="wf-wh__icon" src="/wh/ability_mount_whitetiger.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Reins of the Striped Frostsaber</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 42 de oro y 10 de plata y 52 de cobre |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a>, 20 de oro |
 | Dónde | Darnassus |
-| Precio | 42 de oro y 10 de plata y 52 de cobre |
+| Precio | 20 de oro |
 | Nivel | 40 |
 | Equitación | Tiger Riding |
 | Velocidad | normal |
@@ -38,7 +38,7 @@ Striped Frostsaber es una montura de Classic que vuelve en World of Warcraft: Fo
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> la vende en Darnassus por 42 de oro y 10 de plata y 52 de cobre. El vendedor es amistoso con la Alianza.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4730">Lelanai</a> la vende en Darnassus por 20 de oro. El vendedor es amistoso con la Alianza.
 
 Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=95511">Your First Feline Friend</a>, desde el nivel 40 para la Alianza, te deja elegir esta.
 

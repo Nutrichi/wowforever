@@ -1,14 +1,14 @@
 ---
 title: "Red Skeletal Horse: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Red Skeletal Horse in WoW Forever"
-description: "Red Skeletal Horse è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Zachariah Post, 42 d'oro e 10 d'argento e 52 di rame."
+description: "Red Skeletal Horse è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Zachariah Post, 20 d'oro."
 short: "Red Skeletal Horse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Red Skeletal Horse in WoW Forever?"
-    a: "Zachariah Post la vende a Tirisfal Glades per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione A Steed in Death as They Were in Life, dal livello 40 per l'Orda, ti fa scegliere questa."
+    a: "Zachariah Post la vende a Tirisfal Glades per 20 d'oro. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione A Steed in Death as They Were in Life, dal livello 40 per l'Orda, ti fa scegliere questa."
   - q: "Red Skeletal Horse è nuova in WoW Forever?"
     a: "No. Red Skeletal Horse c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Red Skeletal Horse è una cavalcatura di Classic che torna in World of Warcraft:
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=13331"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Red Skeletal Horse</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 42 d'oro e 10 d'argento e 52 di rame |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 20 d'oro |
 | Dove | Tirisfal Glades |
-| Prezzo | 42 d'oro e 10 d'argento e 52 di rame |
+| Prezzo | 20 d'oro |
 | Livello | 40 |
 | Cavalcare | Undead Horsemanship |
 | Velocità | normale |
@@ -38,7 +38,7 @@ Red Skeletal Horse è una cavalcatura di Classic che torna in World of Warcraft:
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende a Tirisfal Glades per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Orda.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> la vende a Tirisfal Glades per 20 d'oro. Il mercante è amichevole con l'Orda.
 
 La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=96997">A Steed in Death as They Were in Life</a>, dal livello 40 per l'Orda, ti fa scegliere questa.
 

@@ -3,7 +3,7 @@ title: "Stormy Galestrider: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Stormy Galestrider in WoW Forever"
 description: "Stormy Galestrider è una cavalcatura nuova in World of Warcraft: Forever. Fonte: Mercante: Genn Fairweather, 20 d'oro."
 short: "Stormy Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:

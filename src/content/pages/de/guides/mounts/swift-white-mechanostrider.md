@@ -1,14 +1,14 @@
 ---
 title: "Swift White Mechanostrider: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Swift White Mechanostrider in WoW Forever"
-description: "Swift White Mechanostrider ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Milli Featherwhistle, 1000 Gold."
+description: "Swift White Mechanostrider ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Milli Featherwhistle, 200 Gold."
 short: "Swift White Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Swift White Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt. Dein erstes Reittier ist gratis: Die Quest Icy Blue Mechanostrider Replacement, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen."
+    a: "Milli Featherwhistle verkauft es in Dun Morogh für 200 Gold. Der Händler ist die Allianz freundlich gesinnt. Zum Reiten braucht es Mechanostrider Piloting."
   - q: "Ist Swift White Mechanostrider neu in WoW Forever?"
     a: "Nein. Swift White Mechanostrider gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Swift White Mechanostrider ist ein Reittier aus Classic, das in World of Warcraf
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18773"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift White Mechanostrider</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 1000 Gold |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 200 Gold |
 | Wo | Dun Morogh |
-| Preis | 1000 Gold |
+| Preis | 200 Gold |
 | Stufe | 60 |
 | Reiten | Mechanostrider Piloting |
 | Tempo | sehr schnell |
@@ -38,9 +38,7 @@ Swift White Mechanostrider ist ein Reittier aus Classic, das in World of Warcraf
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkauft es in Dun Morogh für 1000 Gold. Der Händler ist die Allianz freundlich gesinnt.
-
-Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=7675">Icy Blue Mechanostrider Replacement</a>, ab Stufe 60 für beide Fraktionen, lässt dich dieses auswählen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkauft es in Dun Morogh für 200 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
 Zum Reiten braucht es Mechanostrider Piloting.
 

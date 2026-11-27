@@ -1,13 +1,13 @@
 ---
 title: "Brown Ram: how to get the mount in WoW Forever"
 metaTitle: "How to get the Brown Ram mount in WoW Forever"
-description: "Brown Ram is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Veron Amberstill, 40 gold."
+description: "Brown Ram is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Veron Amberstill, 20 gold."
 short: "Brown Ram"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Brown Ram in WoW Forever?"
-    a: "Veron Amberstill sells it in Dun Morogh for 40 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Riding Ram, from level 40 for the Alliance, lets you pick this one."
+    a: "Veron Amberstill sells it in Dun Morogh for 20 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Riding Ram, from level 40 for the Alliance, lets you pick this one."
   - q: "Is Brown Ram new in WoW Forever?"
     a: "No. Brown Ram was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Brown Ram is a mount from Classic that returns in World of Warcraft: Forever. It
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5872"><img class="wf-wh__icon" src="/wh/ability_mount_mountainram.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Ram</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 40 gold |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a>, 20 gold |
 | Where | Dun Morogh |
-| Price | 40 gold |
+| Price | 20 gold |
 | Level | 40 |
 | Riding | Ram Riding |
 | Speed | normal |
@@ -37,7 +37,7 @@ Brown Ram is a mount from Classic that returns in World of Warcraft: Forever. It
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> sells it in Dun Morogh for 40 gold. The vendor is friendly to the Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1261">Veron Amberstill</a> sells it in Dun Morogh for 20 gold. The vendor is friendly to the Alliance.
 
 Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=97017">Your First Riding Ram</a>, from level 40 for the Alliance, lets you pick this one.
 

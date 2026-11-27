@@ -1,13 +1,13 @@
 ---
 title: "Blue Mechanostrider: how to get the mount in WoW Forever"
 metaTitle: "How to get the Blue Mechanostrider mount in WoW Forever"
-description: "Blue Mechanostrider is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Milli Featherwhistle, 40 gold."
+description: "Blue Mechanostrider is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Milli Featherwhistle, 20 gold."
 short: "Blue Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Blue Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle sells it in Dun Morogh for 40 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Mechanostrider, from level 40 for the Alliance, lets you pick this one."
+    a: "Milli Featherwhistle sells it in Dun Morogh for 20 gold. The vendor is friendly to the Alliance. Your first mount is free: the quest Your First Mechanostrider, from level 40 for the Alliance, lets you pick this one."
   - q: "Is Blue Mechanostrider new in WoW Forever?"
     a: "No. Blue Mechanostrider was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Blue Mechanostrider is a mount from Classic that returns in World of Warcraft: F
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8595"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blue Mechanostrider</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 40 gold |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 20 gold |
 | Where | Dun Morogh |
-| Price | 40 gold |
+| Price | 20 gold |
 | Level | 40 |
 | Riding | Mechanostrider Piloting |
 | Speed | normal |
@@ -37,7 +37,7 @@ Blue Mechanostrider is a mount from Classic that returns in World of Warcraft: F
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> sells it in Dun Morogh for 40 gold. The vendor is friendly to the Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> sells it in Dun Morogh for 20 gold. The vendor is friendly to the Alliance.
 
 Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=97046">Your First Mechanostrider</a>, from level 40 for the Alliance, lets you pick this one.
 

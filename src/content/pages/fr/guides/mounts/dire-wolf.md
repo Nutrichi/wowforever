@@ -1,14 +1,14 @@
 ---
 title: "Dire Wolf : comment obtenir la monture dans WoW Forever"
 metaTitle: "Comment obtenir la monture Dire Wolf dans WoW Forever"
-description: "Dire Wolf est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Ogunaro Wolfrunner, 40 po."
+description: "Dire Wolf est une monture de Classic qui revient dans World of Warcraft: Forever. Source: Marchand: Ogunaro Wolfrunner, 20 po."
 short: "Dire Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "fr"
 manual: true
 faq:
   - q: "Comment obtenir Dire Wolf dans WoW Forever ?"
-    a: "Ogunaro Wolfrunner la vend à Orgrimmar pour 40 po. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête Your First Riding Wolf, à partir du niveau 40 pour la Horde, vous laisse choisir celle-ci."
+    a: "Ogunaro Wolfrunner la vend à Orgrimmar pour 20 po. Le marchand est amical envers la Horde. Votre première monture est gratuite : la quête Your First Riding Wolf, à partir du niveau 40 pour la Horde, vous laisse choisir celle-ci."
   - q: "Dire Wolf est-elle nouvelle dans WoW Forever ?"
     a: "Non. Dire Wolf existait déjà dans Classic et revient dans WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Dire Wolf est une monture de Classic qui revient dans World of Warcraft: Forever
 | | |
 |---|---|
 | Objet | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5665"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Dire Wolf</a> |
-| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 40 po |
+| Source | Marchand: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 20 po |
 | Où | Orgrimmar |
-| Prix | 40 po |
+| Prix | 20 po |
 | Niveau | 40 |
 | Monte | Wolf Riding |
 | Vitesse | normale |
@@ -38,7 +38,7 @@ Dire Wolf est une monture de Classic qui revient dans World of Warcraft: Forever
 
 ## Comment l'obtenir
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vend à Orgrimmar pour 40 po. Le marchand est amical envers la Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> la vend à Orgrimmar pour 20 po. Le marchand est amical envers la Horde.
 
 Votre première monture est gratuite : la quête <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, à partir du niveau 40 pour la Horde, vous laisse choisir celle-ci.
 

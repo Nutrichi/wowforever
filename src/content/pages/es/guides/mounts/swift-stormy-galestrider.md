@@ -3,7 +3,7 @@ title: "Swift Stormy Galestrider: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Swift Stormy Galestrider en WoW Forever"
 description: "Swift Stormy Galestrider es una montura nueva en World of Warcraft: Forever. Fuente: Vendedor: Genn Fairweather, 200 de oro."
 short: "Swift Stormy Galestrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:

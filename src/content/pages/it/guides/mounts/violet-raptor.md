@@ -1,14 +1,14 @@
 ---
 title: "Violet Raptor: come ottenere la cavalcatura in WoW Forever"
 metaTitle: "Come ottenere la cavalcatura Violet Raptor in WoW Forever"
-description: "Violet Raptor è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Zjolnir, 42 d'oro e 10 d'argento e 52 di rame."
+description: "Violet Raptor è una cavalcatura di Classic che torna in World of Warcraft: Forever. Fonte: Mercante: Zjolnir, 20 d'oro."
 short: "Violet Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "it"
 manual: true
 faq:
   - q: "Come si ottiene Violet Raptor in WoW Forever?"
-    a: "Zjolnir la vende a Durotar per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Your First Riding Raptor, dal livello 40 per l'Orda, ti fa scegliere questa."
+    a: "Zjolnir la vende a Durotar per 20 d'oro. Il mercante è amichevole con l'Orda. La prima cavalcatura è gratis: la missione Your First Riding Raptor, dal livello 40 per l'Orda, ti fa scegliere questa."
   - q: "Violet Raptor è nuova in WoW Forever?"
     a: "No. Violet Raptor c'era già in Classic e torna in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Violet Raptor è una cavalcatura di Classic che torna in World of Warcraft: Fore
 | | |
 |---|---|
 | Oggetto | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8592"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Whistle of the Violet Raptor</a> |
-| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 42 d'oro e 10 d'argento e 52 di rame |
+| Fonte | Mercante: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 20 d'oro |
 | Dove | Durotar |
-| Prezzo | 42 d'oro e 10 d'argento e 52 di rame |
+| Prezzo | 20 d'oro |
 | Livello | 40 |
 | Cavalcare | Raptor Riding |
 | Velocità | normale |
@@ -38,7 +38,7 @@ Violet Raptor è una cavalcatura di Classic che torna in World of Warcraft: Fore
 
 ## Come ottenerla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vende a Durotar per 42 d'oro e 10 d'argento e 52 di rame. Il mercante è amichevole con l'Orda.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vende a Durotar per 20 d'oro. Il mercante è amichevole con l'Orda.
 
 La prima cavalcatura è gratis: la missione <a href="https://www.wowhead.com/forever/quest=96989">Your First Riding Raptor</a>, dal livello 40 per l'Orda, ti fa scegliere questa.
 

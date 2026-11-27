@@ -1,14 +1,14 @@
 ---
 title: "Swift White Steed: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Swift White Steed in WoW Forever"
-description: "Swift White Steed is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Katie Hunter, 1000 goud."
+description: "Swift White Steed is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Katie Hunter, 200 goud."
 short: "Swift White Steed"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Swift White Steed in WoW Forever?"
-    a: "Katie Hunter verkoopt hem in Elwynn Forest voor 1058 goud en 82 zilver en 35 koper. De verkoper is vriendelijk voor de Alliance. Merideth Carlson verkoopt hem in Hillsbrad Foothills voor 1000 goud. De verkoper is vriendelijk voor de Alliance."
+    a: "Katie Hunter verkoopt hem in Elwynn Forest voor 200 goud. De verkoper is vriendelijk voor de Alliance. Merideth Carlson verkoopt hem in Hillsbrad Foothills voor 200 goud. De verkoper is vriendelijk voor de Alliance."
   - q: "Is Swift White Steed nieuw in WoW Forever?"
     a: "Nee. Swift White Steed zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift White Steed is een mount uit Classic die terugkomt in World of Warcraft: F
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18778"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift White Steed</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 1000 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 200 goud |
 | Waar | Dustwallow Marsh, Elwynn Forest en Hillsbrad Foothills |
-| Prijs | 1000 goud |
+| Prijs | 200 goud |
 | Level | 60 |
 | Rijden | Horse Riding |
 | Snelheid | zeer snel |
@@ -38,13 +38,11 @@ Swift White Steed is een mount uit Classic die terugkomt in World of Warcraft: F
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> verkoopt hem in Elwynn Forest voor 1058 goud en 82 zilver en 35 koper. De verkoper is vriendelijk voor de Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> verkoopt hem in Elwynn Forest voor 200 goud. De verkoper is vriendelijk voor de Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> verkoopt hem in Hillsbrad Foothills voor 1000 goud. De verkoper is vriendelijk voor de Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> verkoopt hem in Hillsbrad Foothills voor 200 goud. De verkoper is vriendelijk voor de Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> verkoopt hem in Dustwallow Marsh voor 1000 goud. De verkoper is vriendelijk voor de Alliance.
-
-Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=7677">White Stallion Exchange</a>, vanaf level 60 voor beide facties, laat je deze kiezen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4885">Gregor MacVince</a> verkoopt hem in Dustwallow Marsh voor 200 goud. De verkoper is vriendelijk voor de Alliance.
 
 Rijden vraagt Horse Riding.
 

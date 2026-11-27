@@ -1,13 +1,13 @@
 ---
 title: "Dire Wolf: how to get the mount in WoW Forever"
 metaTitle: "How to get the Dire Wolf mount in WoW Forever"
-description: "Dire Wolf is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Ogunaro Wolfrunner, 40 gold."
+description: "Dire Wolf is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Ogunaro Wolfrunner, 20 gold."
 short: "Dire Wolf"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Dire Wolf in WoW Forever?"
-    a: "Ogunaro Wolfrunner sells it in Orgrimmar for 40 gold. The vendor is friendly to the Horde. Your first mount is free: the quest Your First Riding Wolf, from level 40 for the Horde, lets you pick this one."
+    a: "Ogunaro Wolfrunner sells it in Orgrimmar for 20 gold. The vendor is friendly to the Horde. Your first mount is free: the quest Your First Riding Wolf, from level 40 for the Horde, lets you pick this one."
   - q: "Is Dire Wolf new in WoW Forever?"
     a: "No. Dire Wolf was already in Classic and returns in WoW Forever."
 sources:
@@ -26,9 +26,9 @@ Dire Wolf is a mount from Classic that returns in World of Warcraft: Forever. It
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5665"><img class="wf-wh__icon" src="/wh/ability_mount_whitedirewolf.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Horn of the Dire Wolf</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 40 gold |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a>, 20 gold |
 | Where | Orgrimmar |
-| Price | 40 gold |
+| Price | 20 gold |
 | Level | 40 |
 | Riding | Wolf Riding |
 | Speed | normal |
@@ -37,7 +37,7 @@ Dire Wolf is a mount from Classic that returns in World of Warcraft: Forever. It
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> sells it in Orgrimmar for 40 gold. The vendor is friendly to the Horde.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=3362">Ogunaro Wolfrunner</a> sells it in Orgrimmar for 20 gold. The vendor is friendly to the Horde.
 
 Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=96994">Your First Riding Wolf</a>, from level 40 for the Horde, lets you pick this one.
 

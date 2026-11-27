@@ -1,14 +1,14 @@
 ---
 title: "Brown Horse: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Brown Horse in WoW Forever"
-description: "Brown Horse ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Katie Hunter, 40 Gold."
+description: "Brown Horse ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Katie Hunter, 20 Gold."
 short: "Brown Horse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Brown Horse in WoW Forever?"
-    a: "Katie Hunter verkauft es in Elwynn Forest für 35 Gold 55 Silber 55 Kupfer. Der Händler ist die Allianz freundlich gesinnt. Unger Statforth verkauft es in Wetlands für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Allianz freundlich gesinnt."
+    a: "Katie Hunter verkauft es in Elwynn Forest für 20 Gold. Der Händler ist die Allianz freundlich gesinnt. Unger Statforth verkauft es in Wetlands für 20 Gold. Der Händler ist die Allianz freundlich gesinnt."
   - q: "Ist Brown Horse neu in WoW Forever?"
     a: "Nein. Brown Horse gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -28,9 +28,9 @@ Brown Horse ist ein Reittier aus Classic, das in World of Warcraft: Forever zur�
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5656"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Horse Bridle</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16338"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Knight-Lieutenant's Steed</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 40 Gold |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 20 Gold |
 | Wo | 4 Gebiete |
-| Preis | 40 Gold |
+| Preis | 20 Gold |
 | Stufe | 40 |
 | Reiten | Horse Riding |
 | Tempo | normal |
@@ -39,11 +39,11 @@ Brown Horse ist ein Reittier aus Classic, das in World of Warcraft: Forever zur�
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> verkauft es in Elwynn Forest für 35 Gold 55 Silber 55 Kupfer. Der Händler ist die Allianz freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> verkauft es in Elwynn Forest für 20 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> verkauft es in Wetlands für 42 Gold 10 Silber 52 Kupfer. Der Händler ist die Allianz freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> verkauft es in Wetlands für 20 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> verkauft es in Hillsbrad Foothills für 40 Gold. Der Händler ist die Allianz freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> verkauft es in Hillsbrad Foothills für 20 Gold. Der Händler ist die Allianz freundlich gesinnt.
 
 Dein erstes Reittier ist gratis: Die Quest <a href="https://www.wowhead.com/forever/quest=97045">Your First Horse</a>, ab Stufe 40 für die Allianz, lässt dich dieses auswählen.
 

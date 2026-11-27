@@ -1,14 +1,14 @@
 ---
 title: "Blue Mechanostrider: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Blue Mechanostrider in WoW Forever"
-description: "Blue Mechanostrider is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Milli Featherwhistle, 40 goud."
+description: "Blue Mechanostrider is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Milli Featherwhistle, 20 goud."
 short: "Blue Mechanostrider"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Blue Mechanostrider in WoW Forever?"
-    a: "Milli Featherwhistle verkoopt hem in Dun Morogh voor 40 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Mechanostrider, vanaf level 40 voor de Alliance, laat je deze kiezen."
+    a: "Milli Featherwhistle verkoopt hem in Dun Morogh voor 20 goud. De verkoper is vriendelijk voor de Alliance. Je eerste mount is gratis: de quest Your First Mechanostrider, vanaf level 40 voor de Alliance, laat je deze kiezen."
   - q: "Is Blue Mechanostrider nieuw in WoW Forever?"
     a: "Nee. Blue Mechanostrider zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Blue Mechanostrider is een mount uit Classic die terugkomt in World of Warcraft:
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=8595"><img class="wf-wh__icon" src="/wh/ability_mount_mechastrider.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Blue Mechanostrider</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 40 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a>, 20 goud |
 | Waar | Dun Morogh |
-| Prijs | 40 goud |
+| Prijs | 20 goud |
 | Level | 40 |
 | Rijden | Mechanostrider Piloting |
 | Snelheid | normaal |
@@ -38,7 +38,7 @@ Blue Mechanostrider is een mount uit Classic die terugkomt in World of Warcraft:
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkoopt hem in Dun Morogh voor 40 goud. De verkoper is vriendelijk voor de Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7955">Milli Featherwhistle</a> verkoopt hem in Dun Morogh voor 20 goud. De verkoper is vriendelijk voor de Alliance.
 
 Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=97046">Your First Mechanostrider</a>, vanaf level 40 voor de Alliance, laat je deze kiezen.
 

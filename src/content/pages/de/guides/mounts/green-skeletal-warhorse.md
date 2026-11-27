@@ -1,14 +1,14 @@
 ---
 title: "Green Skeletal Warhorse: so bekommst du das Reittier in WoW Forever"
 metaTitle: "So bekommst du das Reittier Green Skeletal Warhorse in WoW Forever"
-description: "Green Skeletal Warhorse ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Zachariah Post, 1052 Gold 63 Silber 15 Kupfer."
+description: "Green Skeletal Warhorse ist ein Reittier aus Classic, das in World of Warcraft: Forever zurückkehrt. Quelle: Händler: Zachariah Post, 200 Gold."
 short: "Green Skeletal Warhorse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "de"
 manual: true
 faq:
   - q: "Wie bekommt man Green Skeletal Warhorse in WoW Forever?"
-    a: "Zachariah Post verkauft es in Tirisfal Glades für 1052 Gold 63 Silber 15 Kupfer. Der Händler ist die Horde freundlich gesinnt. Zum Reiten braucht es Undead Horsemanship."
+    a: "Zachariah Post verkauft es in Tirisfal Glades für 200 Gold. Der Händler ist die Horde freundlich gesinnt. Zum Reiten braucht es Undead Horsemanship."
   - q: "Ist Green Skeletal Warhorse neu in WoW Forever?"
     a: "Nein. Green Skeletal Warhorse gab es schon in Classic, und es kehrt in WoW Forever zurück."
 sources:
@@ -27,9 +27,9 @@ Green Skeletal Warhorse ist ein Reittier aus Classic, das in World of Warcraft: 
 | | |
 |---|---|
 | Gegenstand | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=13334"><img class="wf-wh__icon" src="/wh/ability_mount_undeadhorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Green Skeletal Warhorse</a> |
-| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 1052 Gold 63 Silber 15 Kupfer |
+| Quelle | Händler: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a>, 200 Gold |
 | Wo | Tirisfal Glades |
-| Preis | 1052 Gold 63 Silber 15 Kupfer |
+| Preis | 200 Gold |
 | Stufe | 60 |
 | Reiten | Undead Horsemanship |
 | Tempo | sehr schnell |
@@ -38,7 +38,7 @@ Green Skeletal Warhorse ist ein Reittier aus Classic, das in World of Warcraft: 
 
 ## So bekommst du es
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkauft es in Tirisfal Glades für 1052 Gold 63 Silber 15 Kupfer. Der Händler ist die Horde freundlich gesinnt.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=4731">Zachariah Post</a> verkauft es in Tirisfal Glades für 200 Gold. Der Händler ist die Horde freundlich gesinnt.
 
 Zum Reiten braucht es Undead Horsemanship.
 

@@ -1,13 +1,13 @@
 ---
 title: "Brown Horse: how to get the mount in WoW Forever"
 metaTitle: "How to get the Brown Horse mount in WoW Forever"
-description: "Brown Horse is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Katie Hunter, 40 gold."
+description: "Brown Horse is a mount from Classic that returns in World of Warcraft: Forever. Source: Vendor: Katie Hunter, 20 gold."
 short: "Brown Horse"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "en"
 faq:
   - q: "How do you get Brown Horse in WoW Forever?"
-    a: "Katie Hunter sells it in Elwynn Forest for 35 gold 55 silver 55 copper. The vendor is friendly to the Alliance. Unger Statforth sells it in Wetlands for 42 gold 10 silver 52 copper. The vendor is friendly to the Alliance."
+    a: "Katie Hunter sells it in Elwynn Forest for 20 gold. The vendor is friendly to the Alliance. Unger Statforth sells it in Wetlands for 20 gold. The vendor is friendly to the Alliance."
   - q: "Is Brown Horse new in WoW Forever?"
     a: "No. Brown Horse was already in Classic and returns in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Brown Horse is a mount from Classic that returns in World of Warcraft: Forever. 
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q3" href="https://www.wowhead.com/forever/item=5656"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brown Horse Bridle</a>, <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=16338"><img class="wf-wh__icon" src="/wh/ability_mount_ridinghorse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Knight-Lieutenant's Steed</a> |
-| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 40 gold |
+| Source | Vendor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a>, 20 gold |
 | Where | 4 zones |
-| Price | 40 gold |
+| Price | 20 gold |
 | Level | 40 |
 | Riding | Horse Riding |
 | Speed | normal |
@@ -38,11 +38,11 @@ Brown Horse is a mount from Classic that returns in World of Warcraft: Forever. 
 
 ## How to get it
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> sells it in Elwynn Forest for 35 gold 55 silver 55 copper. The vendor is friendly to the Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=384">Katie Hunter</a> sells it in Elwynn Forest for 20 gold. The vendor is friendly to the Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> sells it in Wetlands for 42 gold 10 silver 52 copper. The vendor is friendly to the Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=1460">Unger Statforth</a> sells it in Wetlands for 20 gold. The vendor is friendly to the Alliance.
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> sells it in Hillsbrad Foothills for 40 gold. The vendor is friendly to the Alliance.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=2357">Merideth Carlson</a> sells it in Hillsbrad Foothills for 20 gold. The vendor is friendly to the Alliance.
 
 Your first mount is free: the quest <a href="https://www.wowhead.com/forever/quest=97045">Your First Horse</a>, from level 40 for the Alliance, lets you pick this one.
 

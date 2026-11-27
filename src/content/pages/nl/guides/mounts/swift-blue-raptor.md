@@ -1,14 +1,14 @@
 ---
 title: "Swift Blue Raptor: zo krijg je de mount in WoW Forever"
 metaTitle: "Zo krijg je de mount Swift Blue Raptor in WoW Forever"
-description: "Swift Blue Raptor is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Zjolnir, 1000 goud."
+description: "Swift Blue Raptor is een mount uit Classic die terugkomt in World of Warcraft: Forever. Bron: Verkoper: Zjolnir, 200 goud."
 short: "Swift Blue Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "nl"
 manual: true
 faq:
   - q: "Hoe krijg je Swift Blue Raptor in WoW Forever?"
-    a: "Zjolnir verkoopt hem in Durotar voor 1000 goud. De verkoper is vriendelijk voor de Horde. Je eerste mount is gratis: de quest Ivory Raptor Replacement, vanaf level 60 voor beide facties, laat je deze kiezen."
+    a: "Zjolnir verkoopt hem in Durotar voor 200 goud. De verkoper is vriendelijk voor de Horde. Rijden vraagt Raptor Riding."
   - q: "Is Swift Blue Raptor nieuw in WoW Forever?"
     a: "Nee. Swift Blue Raptor zat al in Classic en komt terug in WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Blue Raptor is een mount uit Classic die terugkomt in World of Warcraft: F
 | | |
 |---|---|
 | Item | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18788"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Blue Raptor</a> |
-| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 1000 goud |
+| Bron | Verkoper: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 200 goud |
 | Waar | Durotar |
-| Prijs | 1000 goud |
+| Prijs | 200 goud |
 | Level | 60 |
 | Rijden | Raptor Riding |
 | Snelheid | zeer snel |
@@ -38,9 +38,7 @@ Swift Blue Raptor is een mount uit Classic die terugkomt in World of Warcraft: F
 
 ## Zo krijg je hem
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> verkoopt hem in Durotar voor 1000 goud. De verkoper is vriendelijk voor de Horde.
-
-Je eerste mount is gratis: de quest <a href="https://www.wowhead.com/forever/quest=7664">Ivory Raptor Replacement</a>, vanaf level 60 voor beide facties, laat je deze kiezen.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> verkoopt hem in Durotar voor 200 goud. De verkoper is vriendelijk voor de Horde.
 
 Rijden vraagt Raptor Riding.
 

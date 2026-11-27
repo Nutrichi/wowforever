@@ -1,14 +1,14 @@
 ---
 title: "Swift Olive Raptor: cómo conseguir la montura en WoW Forever"
 metaTitle: "Cómo conseguir la montura Swift Olive Raptor en WoW Forever"
-description: "Swift Olive Raptor es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Zjolnir, 1000 de oro."
+description: "Swift Olive Raptor es una montura de Classic que vuelve en World of Warcraft: Forever. Fuente: Vendedor: Zjolnir, 200 de oro."
 short: "Swift Olive Raptor"
-updated: 2026-10-09
+updated: 2026-11-27
 lang: "es"
 manual: true
 faq:
   - q: "¿Cómo se consigue Swift Olive Raptor en WoW Forever?"
-    a: "Zjolnir la vende en Durotar por 1000 de oro. El vendedor es amistoso con la Horda. Tu primera montura es gratis: la misión Ivory Raptor Replacement, desde el nivel 60 para ambas facciones, te deja elegir esta."
+    a: "Zjolnir la vende en Durotar por 200 de oro. El vendedor es amistoso con la Horda. Montarla requiere Raptor Riding."
   - q: "¿Es Swift Olive Raptor nueva en WoW Forever?"
     a: "No. Swift Olive Raptor ya estaba en Classic y vuelve en WoW Forever."
 sources:
@@ -27,9 +27,9 @@ Swift Olive Raptor es una montura de Classic que vuelve en World of Warcraft: Fo
 | | |
 |---|---|
 | Objeto | <a class="wf-wh wf-q4" href="https://www.wowhead.com/forever/item=18789"><img class="wf-wh__icon" src="/wh/ability_mount_raptor.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Swift Olive Raptor</a> |
-| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 1000 de oro |
+| Fuente | Vendedor: <a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a>, 200 de oro |
 | Dónde | Durotar |
-| Precio | 1000 de oro |
+| Precio | 200 de oro |
 | Nivel | 60 |
 | Equitación | Raptor Riding |
 | Velocidad | muy rápida |
@@ -38,9 +38,7 @@ Swift Olive Raptor es una montura de Classic que vuelve en World of Warcraft: Fo
 
 ## Cómo conseguirla
 
-<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vende en Durotar por 1000 de oro. El vendedor es amistoso con la Horda.
-
-Tu primera montura es gratis: la misión <a href="https://www.wowhead.com/forever/quest=7664">Ivory Raptor Replacement</a>, desde el nivel 60 para ambas facciones, te deja elegir esta.
+<a class="wf-wh wf-plain" href="https://www.wowhead.com/forever/npc=7952">Zjolnir</a> la vende en Durotar por 200 de oro. El vendedor es amistoso con la Horda.
 
 Montarla requiere Raptor Riding.
 
