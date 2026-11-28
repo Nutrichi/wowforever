@@ -3,7 +3,7 @@ title: "Scholomance"
 metaTitle: "Scholomance guide for WoW Forever: route, keys and bosses"
 description: "How to run Scholomance in WoW Forever: the Skeleton Key, the Viewing Room Key, the six rooms of the Barov Family Vault and every boss up to Darkmaster Gandling."
 short: "Guide"
-updated: 2026-10-28
+updated: 2026-11-28
 lang: en
 sources:
   - name: "Warcraft Tavern"
@@ -54,6 +54,10 @@ Both only fight for a quest. Melee players do not hit Marduk while his Shadow Sh
 
 Clear the room first. Keep the tank in sight of the healer, also when he fears. Interrupt as much as possible; ranged players stay at full range against Chill Nova.
 
+### Kormok (summoned)
+
+Kormok is not part of a normal run. Players on the Tier 0.5 quest chain summon him in the room of Ras Frostwhisper with a <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22052"><img class="wf-wh__icon" src="/wh/inv_misc_enggizmos_24.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brazier of Beckoning</a>, and he drops a piece of Lord Valthalak's amulet. Every step is in the [Dungeon Set 2 guide](/guides/dungeon-set-2/).
+
 ### The six rooms of the vault
 
 - **Lady Illucia Barov** dominates players. Control them.
@@ -71,4 +75,4 @@ He appears when the six are dead, and attacks right away. He teleports players i
 
 - **The rewards** of the ten quests in the Forever data.
 - **The loot**: 52 of the 71 Classic items are not in the Forever data yet.
-- **Changes for Forever**: not known yet. This page gets updated as soon as players find them. In Classic, Kormok was summoned here for the Tier 0.5 quests; whether that summon exists in Forever is not known.
+- **Changes for Forever**: not known yet. This page gets updated as soon as players find them.

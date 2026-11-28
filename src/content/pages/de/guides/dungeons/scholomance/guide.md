@@ -3,7 +3,7 @@ title: "Scholomance"
 metaTitle: "Guide zu Scholomance für WoW Forever: Route, Schlüssel und Bosse"
 description: "So spielst du Scholomance in WoW Forever: der Skeleton Key, der Viewing Room Key, die sechs Räume der Barov Family Vault und jeder Boss bis Darkmaster Gandling."
 short: "Guide"
-updated: 2026-10-28
+updated: 2026-11-28
 lang: de
 manual: true
 sources:
@@ -55,6 +55,10 @@ Beide kämpfen nur für eine Quest. Nahkämpfer schlagen Marduk nicht, solange s
 
 Räum zuerst den Raum. Halte den Tank in Sicht des Heilers, auch bei Furcht. Unterbrich so viel wie möglich; Fernkämpfer bleiben gegen Chill Nova auf maximaler Reichweite.
 
+### Kormok (beschworen)
+
+Kormok gehört nicht zu einem normalen Run. Spieler in der Tier-0.5-Questreihe beschwören ihn im Raum von Ras Frostwhisper mit einer <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22052"><img class="wf-wh__icon" src="/wh/inv_misc_enggizmos_24.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brazier of Beckoning</a>, und er droppt ein Teil des Amuletts von Lord Valthalak. Jeder Schritt steht im [Guide zu Dungeon Set 2](/de/guides/dungeon-set-2/).
+
 ### Die sechs Räume der Gruft
 
 - **Lady Illucia Barov** übernimmt Spieler. Kontrolliere sie.
@@ -72,4 +76,4 @@ Er erscheint, wenn die sechs tot sind, und greift sofort an. Er teleportiert Spi
 
 - **Die Belohnungen** der zehn Quests in den Daten von Forever.
 - **Die Beute**: 52 der 71 Gegenstände aus Classic stehen noch nicht in den Daten von Forever.
-- **Änderungen für Forever**: noch nicht bekannt. In Classic wurde hier Kormok für die Quests von Tier 0.5 beschworen; ob es diese Beschwörung in Forever gibt, ist nicht bekannt.
+- **Änderungen für Forever**: noch nicht bekannt.

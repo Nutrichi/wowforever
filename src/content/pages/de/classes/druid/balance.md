@@ -3,7 +3,7 @@ title: "Balance-Druid-Guide für WoW Forever"
 metaTitle: "WoW Forever Balance Druid: Builds, Rotation, Werte und Völker"
 description: "Der Balance Druid in WoW Forever: was sich ändert, Builds für Level 60 für Raids, Leveln und PvP, die Rotation, Cooldowns, Mana und DoTs, Werte, Ausrüstung, Völker und Berufe."
 short: "Balance Druid"
-updated: 2026-11-25
+updated: 2026-11-28
 lang: de
 manual: true
 faq:
@@ -150,6 +150,16 @@ Mit 2 Punkten in Overgrowth wurzelst du bis zu drei Gegner gleichzeitig fest. Ei
 Wurzle den nächsten Gegner mit Entangling Roots fest, während deine DoTs den ersten erledigen.
 
 **In Bewegung** kannst du weder Wrath noch Starfire wirken. Nutze die Zeit, um deine DoTs oder <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a> zu erneuern. Auf längeren Strecken bringt dich <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=768"><img class="wf-wh__icon" src="/wh/ability_druid_catform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Form</a> mit <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a> ab Level 26 schneller zurück in Position.
+
+**Im Raid auf Stufe 60**
+1. Sorg dafür, dass ein Druid <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=9907"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a> auf dem Boss hält. Einer reicht, sprecht also vor dem Pull ab, wer es macht.
+2. Pull mit Wrath und setz dann Insect Swarm und Moonfire auf den Boss.
+3. Wirk einen Wrath, dann zwei Starfire. Jeder Wrath, der trifft, gibt zwei <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>-Aufladungen, und beide Starfire verbrauchen sie.
+4. Erneuere Moonfire (15 Sekunden) und Insect Swarm (14 Sekunden), wenn sie auslaufen, und fang dann wieder mit Wrath an.
+
+Ein Wrath, der verfehlt oder widerstanden wird, gibt keine Aufladungen, und ein Starfire ohne Aufladungen ist dein langsamster Zauber. Bis du genug Hit hast, plan die Fehlschläge ein. Ein Clearcasting-Proc während eines Wrath geht auf den Starfire danach über. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> gibt dem ganzen Raid 3% Zauberkritisch.
+
+**Wenn dein Mana knapp wird**, wirkst du nur noch Wrath: In Forever hält das deinen Schaden oben. Lass zuerst Moonfire weg, den teuersten Zauber auf ein Ziel. Ein High Order Skyborne nutzt <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>, und zwischen <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=20520"><img class="wf-wh__icon" src="/wh/spell_shadow_sealofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dark Rune</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12662"><img class="wf-wh__icon" src="/wh/inv_misc_rune_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demonic Rune</a> und <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13444"><img class="wf-wh__icon" src="/wh/inv_potion_76.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Mana Potion</a> hältst du Wrath am Laufen. Nutz <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29166"><img class="wf-wh__icon" src="/wh/spell_nature_lightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Innervate</a> bei etwa 10% Mana, oder gib es einem Heiler, der oft mehr davon hat. Nutz <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259799"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elune's Light</a> zusammen mit einem Zaubermacht-Trank.
 
 ## Cooldowns und Nutzen
 

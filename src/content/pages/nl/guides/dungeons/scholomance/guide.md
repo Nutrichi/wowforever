@@ -3,7 +3,7 @@ title: "Scholomance"
 metaTitle: "Gids voor Scholomance in WoW Forever: route, sleutels en bazen"
 description: "Zo speel je Scholomance in WoW Forever: de Skeleton Key, de Viewing Room Key, de zes kamers van de Barov Family Vault en elke baas tot Darkmaster Gandling."
 short: "Gids"
-updated: 2026-10-28
+updated: 2026-11-28
 lang: nl
 manual: true
 sources:
@@ -55,6 +55,10 @@ Beide vechten alleen voor een quest. Melee spelers slaan Marduk niet terwijl zij
 
 Maak de zaal eerst leeg. Houd de tank in zicht van de healer, ook als hij fear gebruikt. Onderbreek zoveel mogelijk; ranged spelers blijven op volle afstand tegen Chill Nova.
 
+### Kormok (opgeroepen)
+
+Kormok hoort niet bij een gewone run. Spelers in de Tier 0.5-questketen roepen hem op in de kamer van Ras Frostwhisper met een <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22052"><img class="wf-wh__icon" src="/wh/inv_misc_enggizmos_24.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brazier of Beckoning</a>, en hij laat een stuk van het amulet van Lord Valthalak vallen. Elke stap staat in de [gids voor Dungeon Set 2](/nl/guides/dungeon-set-2/).
+
 ### De zes kamers van de vault
 
 - **Lady Illucia Barov** neemt spelers over. Zet ze vast.
@@ -72,4 +76,4 @@ Hij verschijnt als de zes dood zijn, en valt meteen aan. Hij teleporteert speler
 
 - **De beloningen** van de tien quests in de data van Forever.
 - **De loot**: 52 van de 71 items uit Classic staan nog niet in de data van Forever.
-- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden. In Classic werd Kormok hier opgeroepen voor de quests van Tier 0.5; of die oproep in Forever bestaat, is niet bekend.
+- **Veranderingen voor Forever**: nog niet bekend. Deze pagina wordt bijgewerkt zodra spelers ze vinden.

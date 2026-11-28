@@ -3,7 +3,7 @@ title: "Balance Druid in WoW Forever: de gids"
 metaTitle: "WoW Forever Balance Druid: builds, rotatie, stats en races"
 description: "De Balance Druid in WoW Forever: wat er verandert, builds voor level 60 voor raids, levelen en PvP, de rotatie, cooldowns, mana en DoTs, stats, gear, races en beroepen."
 short: "Balance Druid"
-updated: 2026-11-25
+updated: 2026-11-28
 lang: nl
 manual: true
 faq:
@@ -150,6 +150,16 @@ Met 2 punten in Overgrowth zet je tot drie vijanden tegelijk vast. Een vierde ga
 Zet de volgende vijand vast met Entangling Roots terwijl je DoTs de eerste afmaken.
 
 **In beweging** kan je geen Wrath of Starfire casten. Gebruik die tijd om je DoTs of <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a> te vernieuwen. Over een langere afstand brengt <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=768"><img class="wf-wh__icon" src="/wh/ability_druid_catform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Form</a> met <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a> vanaf level 26 je sneller weer op je plaats.
+
+**In een raid op level 60**
+1. Zorg dat één Druid <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=9907"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a> op de baas houdt. Eén is genoeg, spreek dus voor de pull af wie het doet.
+2. Pull met Wrath en zet dan Insect Swarm en Moonfire op de baas.
+3. Cast één Wrath en dan twee Starfire. Elke Wrath die raakt, geeft twee <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>-charges, en beide Starfires gebruiken ze.
+4. Vernieuw Moonfire (15 seconden) en Insect Swarm (14 seconden) als ze aflopen en begin dan opnieuw met Wrath.
+
+Een Wrath die mist of geresist wordt, geeft geen charges, en een Starfire zonder charges is je traagste cast. Hou rekening met missers tot je genoeg hit hebt. Een Clearcasting-proc tijdens een Wrath gaat mee naar de Starfire erna. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> geeft de hele raid 3% spell crit.
+
+**Als je mana opraakt**, cast je alleen nog Wrath: in Forever houdt dat je schade op peil. Laat eerst Moonfire vallen, de duurste spell op één doel. Een High Order Skyborne gebruikt <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>, en tussen <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=20520"><img class="wf-wh__icon" src="/wh/spell_shadow_sealofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dark Rune</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12662"><img class="wf-wh__icon" src="/wh/inv_misc_rune_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demonic Rune</a> en <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13444"><img class="wf-wh__icon" src="/wh/inv_potion_76.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Mana Potion</a> door hou je Wrath gaande. Gebruik <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29166"><img class="wf-wh__icon" src="/wh/spell_nature_lightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Innervate</a> rond 10% mana, of geef hem aan een healer, die er vaak meer aan heeft. Gebruik <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259799"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elune's Light</a> samen met een spell power-potion.
 
 ## Cooldowns en utility
 

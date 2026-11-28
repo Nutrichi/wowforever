@@ -68,6 +68,8 @@ export const hubCategories: HubCategory[] = [
     cards: [
       // Het overzicht met de levelband van alle dungeons, sinds 19 oktober 2026 als eerste rij.
       { key: 'dungeons', label: 'cardDungeons', image: '2026-10-04-wow-forever-group-fights-in-stratholme.jpg', levels: '9-60' },
+      // Dungeon Set 2 (Nutri, 28 november 2026: "5 is super important. It needs to be in depth and very good.").
+      { key: 'dungeon-set-2', image: '2026-09-29-wow-forever-ruins-of-lordaeron-ghostly-citizens.jpg', levels: '58-60', isNew: true },
       // Volgorde en levels uit het dungeonoverzicht van Wowhead (Nutri, 13 november 2026).
       { key: 'dungeons/hall-of-thanes', image: '2026-09-28-wow-forever-hall-of-thanes-entrance.jpg', levels: '13-18', isNew: true },
       { key: 'dungeons/ragefire-chasm', image: '2026-10-03-wow-forever-ragefire-chasm-taragaman.jpg', levels: '13-18' },

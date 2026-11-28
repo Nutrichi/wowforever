@@ -70,6 +70,13 @@
    ]
   },
   {
+   "name": "Kormok",
+   "slug": "kormok",
+   "level": "62",
+   "npc": 16118,
+   "items": []
+  },
+  {
    "name": "Lady Illucia Barov",
    "slug": "lady-illucia-barov",
    "level": "60",

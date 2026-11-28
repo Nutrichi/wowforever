@@ -3,7 +3,7 @@ title: "Scholomance"
 metaTitle: "Guide de Scholomance pour WoW Forever : parcours, clés et boss"
 description: "Comment faire Scholomance dans WoW Forever : la Skeleton Key, la Viewing Room Key, les six salles de la Barov Family Vault et chaque boss jusqu'à Darkmaster Gandling."
 short: "Guide"
-updated: 2026-10-28
+updated: 2026-11-28
 lang: fr
 manual: true
 sources:
@@ -55,6 +55,10 @@ Les deux ne combattent que pour une quête. Les joueurs au corps à corps ne fra
 
 Videz d'abord la salle. Gardez le tank en vue du soigneur, même pendant la peur. Interrompez autant que possible ; les joueurs à distance restent à portée maximale contre Chill Nova.
 
+### Kormok (invoqué)
+
+Kormok ne fait pas partie d’un run normal. Les joueurs de la chaîne Tier 0.5 l’invoquent dans la salle de Ras Frostwhisper avec un <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=22052"><img class="wf-wh__icon" src="/wh/inv_misc_enggizmos_24.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Brazier of Beckoning</a>, et il lâche une pièce de l’amulette de Lord Valthalak. Chaque étape se trouve dans le [guide du Dungeon Set 2](/fr/guides/dungeon-set-2/).
+
 ### Les six salles de la crypte
 
 - **Lady Illucia Barov** contrôle des joueurs. Neutralisez-les.
@@ -72,4 +76,4 @@ Il apparaît quand les six sont morts, et attaque aussitôt. Il téléporte des 
 
 - **Les récompenses** des dix quêtes dans les données de Forever.
 - **Le butin** : 52 des 71 objets de Classic ne sont pas encore dans les données de Forever.
-- **Les changements pour Forever** : pas encore connus. Dans Classic, Kormok était invoqué ici pour les quêtes du Tier 0.5 ; on ne sait pas si cette invocation existe dans Forever.
+- **Les changements pour Forever** : pas encore connus.

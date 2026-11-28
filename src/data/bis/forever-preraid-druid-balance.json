@@ -5,7 +5,7 @@
  "spec": "balance",
  "role": "Ranged DPS",
  "notes": "Pre-raid gear at level 60, three options per slot, the best first.",
- "updated": "2026-11-20",
+ "updated": "2026-11-28",
  "enchants": [],
  "gems": [],
  "slots": [
@@ -187,12 +187,12 @@
      "source": "Reward from the quest The Princess's Surprise or The Princess Saved?"
     },
     {
-     "name": "Channeler's Ring",
-     "source": "Pix Xizzix in Stranglethorn Vale"
+     "name": "Eye of Orgrimmar",
+     "source": "Reward from the quest The Princess Saved? or The Princess's Surprise"
     },
     {
-     "name": "Don Julio's Band",
-     "source": "Gaelden Hammersmith (Alliance) or Grunnda Wolfheart (Horde) in Alterac Valley"
+     "name": "Channeler's Ring",
+     "source": "Pix Xizzix in Stranglethorn Vale"
     }
    ]
   },
@@ -255,12 +255,12 @@
      "source": "The League of Arathor or The Defilers (Exalted)"
     },
     {
-     "name": "Hand of Edward the Odd",
-     "source": "World drop"
+     "name": "Mindfang",
+     "source": "The Defilers or The League of Arathor (Exalted)"
     },
     {
-     "name": "Witchblade",
-     "source": "Darkmaster Gandling in Scholomance"
+     "name": "Hand of Edward the Odd",
+     "source": "World drop"
     }
    ]
   },

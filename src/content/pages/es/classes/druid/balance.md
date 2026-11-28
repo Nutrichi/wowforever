@@ -3,7 +3,7 @@ title: "Guía del Balance Druid en WoW Forever"
 metaTitle: "WoW Forever: Balance Druid, builds, rotación, stats y razas"
 description: "El Balance Druid en WoW Forever: qué cambia, builds de nivel 60 para bandas, subir de nivel y PvP, la rotación, los cooldowns, el maná y los DoTs, los stats, el equipo, las razas y las profesiones."
 short: "Balance Druid"
-updated: 2026-11-25
+updated: 2026-11-28
 lang: es
 manual: true
 faq:
@@ -150,6 +150,16 @@ Con 2 puntos en Overgrowth inmovilizas hasta tres enemigos a la vez. Un cuarto t
 Inmoviliza al siguiente enemigo con Entangling Roots mientras tus DoTs rematan al primero.
 
 **En movimiento** no puedes lanzar Wrath ni Starfire. Aprovecha para renovar tus DoTs o <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a>. En una distancia más larga, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=768"><img class="wf-wh__icon" src="/wh/ability_druid_catform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Form</a> con <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a> desde el nivel 26 te devuelve antes a tu posición.
+
+**En banda a nivel 60**
+1. Asegúrate de que un Druid mantenga <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=9907"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a> en el jefe. Basta con uno, así que decidid antes del pull quién lo hace.
+2. Empieza con Wrath y luego pon Insect Swarm y Moonfire en el jefe.
+3. Lanza un Wrath y luego dos Starfire. Cada Wrath que acierta da dos cargas de <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>, y los dos Starfire las gastan.
+4. Renueva Moonfire (15 segundos) e Insect Swarm (14 segundos) cuando terminen y vuelve a empezar con Wrath.
+
+Un Wrath que falla o es resistido no da cargas, y un Starfire sin cargas es tu lanzamiento más lento. Hasta tener suficiente golpe, cuenta con los fallos. Un proc de Clearcasting durante un Wrath pasa al Starfire siguiente. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> da a toda la banda un 3% de crítico de hechizos.
+
+**Cuando te queda poco maná**, lanza solo Wrath: en Forever eso mantiene tu daño. Quita primero Moonfire, el hechizo más caro en un solo objetivo. Un High Order Skyborne usa <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>, y entre <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=20520"><img class="wf-wh__icon" src="/wh/spell_shadow_sealofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dark Rune</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12662"><img class="wf-wh__icon" src="/wh/inv_misc_rune_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demonic Rune</a> y <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13444"><img class="wf-wh__icon" src="/wh/inv_potion_76.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Mana Potion</a> sigues con Wrath. Usa <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29166"><img class="wf-wh__icon" src="/wh/spell_nature_lightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Innervate</a> hacia el 10% de maná, o dáselo a un sanador, que a menudo le saca más. Usa <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259799"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elune's Light</a> junto con una poción de poder con hechizos.
 
 ## Cooldowns y utilidad
 

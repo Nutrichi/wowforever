@@ -3,7 +3,7 @@ title: "Guide du Balance Druid dans WoW Forever"
 metaTitle: "WoW Forever : Balance Druid, builds, rotation, stats et races"
 description: "Le Balance Druid dans WoW Forever : ce qui change, builds niveau 60 pour raids, leveling et PvP, la rotation, les cooldowns, le mana et les DoTs, les stats, l'équipement, les races et les métiers."
 short: "Balance Druid"
-updated: 2026-11-25
+updated: 2026-11-28
 lang: fr
 manual: true
 faq:
@@ -150,6 +150,16 @@ Avec 2 points dans Overgrowth, vous immobilisez jusqu'à trois ennemis à la foi
 Immobilisez l'ennemi suivant avec Entangling Roots pendant que vos DoTs achèvent le premier.
 
 **En mouvement**, vous ne pouvez pas lancer Wrath ni Starfire. Profitez-en pour renouveler vos DoTs ou <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a>. Sur une plus longue distance, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=768"><img class="wf-wh__icon" src="/wh/ability_druid_catform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Form</a> avec <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a> dès le niveau 26 vous remet plus vite en position.
+
+**En raid au niveau 60**
+1. Assurez-vous qu’un Druid garde <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=9907"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a> sur le boss. Un seul suffit, alors décidez avant le pull qui s’en charge.
+2. Engagez avec Wrath, puis posez Insect Swarm et Moonfire sur le boss.
+3. Lancez un Wrath, puis deux Starfire. Chaque Wrath qui touche donne deux charges d’<a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a>, et les deux Starfire les consomment.
+4. Renouvelez Moonfire (15 secondes) et Insect Swarm (14 secondes) quand ils expirent, puis reprenez avec Wrath.
+
+Un Wrath raté ou résisté ne donne aucune charge, et un Starfire sans charge est votre sort le plus lent. Tant que votre toucher est trop bas, prévoyez les ratés. Un proc de Clearcasting pendant un Wrath passe au Starfire suivant. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> donne 3% de critique des sorts à tout le raid.
+
+**Quand votre mana baisse**, lancez seulement Wrath : dans Forever, cela maintient vos dégâts. Abandonnez d’abord Moonfire, le sort le plus cher sur une seule cible. Un High Order Skyborne utilise <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>, et entre <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=20520"><img class="wf-wh__icon" src="/wh/spell_shadow_sealofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dark Rune</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12662"><img class="wf-wh__icon" src="/wh/inv_misc_rune_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demonic Rune</a> et <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13444"><img class="wf-wh__icon" src="/wh/inv_potion_76.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Mana Potion</a>, Wrath vous occupe. Utilisez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29166"><img class="wf-wh__icon" src="/wh/spell_nature_lightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Innervate</a> vers 10% de mana, ou donnez-le à un soigneur, qui en tire souvent plus. Utilisez <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259799"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elune's Light</a> avec une potion de puissance des sorts.
 
 ## Cooldowns et utilitaires
 

@@ -3,7 +3,7 @@ title: "Balance Druid guide for WoW Forever"
 metaTitle: "WoW Forever Balance Druid: builds, rotation, stats and races"
 description: "The Balance Druid in WoW Forever: what changes, level 60 builds for raids, leveling and PvP, the rotation, cooldowns, mana and DoTs, stats, gear, races and professions."
 short: "Balance Druid"
-updated: 2026-11-25
+updated: 2026-11-28
 lang: en
 faq:
   - q: "Is Balance Druid good in WoW Forever?"
@@ -149,6 +149,16 @@ With 2 points in Overgrowth you root up to three enemies at once. A fourth works
 Root the next enemy with Entangling Roots while your DoTs finish the first.
 
 **On the move** you cannot cast Wrath or Starfire. Use that time to refresh your DoTs or <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=770"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a>. Over a longer distance, <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=768"><img class="wf-wh__icon" src="/wh/ability_druid_catform.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Cat Form</a> with <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1850"><img class="wf-wh__icon" src="/wh/ability_druid_dash.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dash</a> from level 26 gets you back in position faster.
+
+**In a raid at level 60**
+1. Make sure one Druid keeps <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=9907"><img class="wf-wh__icon" src="/wh/spell_nature_faeriefire.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Faerie Fire</a> on the boss. One is enough, so agree before the pull who does it.
+2. Pull with Wrath, then put Insect Swarm and Moonfire on the boss.
+3. Cast one Wrath, then two Starfire. Every Wrath that lands gives two <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=408248"><img class="wf-wh__icon" src="/wh/ability_druid_eclipse.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Eclipse</a> charges, and both Starfires spend them.
+4. Refresh Moonfire (15 seconds) and Insect Swarm (14 seconds) when they run out, then start again with Wrath.
+
+A Wrath that misses or is resisted gives no charges, and a Starfire without charges is your slowest cast. Until you have enough hit, plan for the miss. A Clearcasting proc during a Wrath carries over to the Starfire after it. <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=24858"><img class="wf-wh__icon" src="/wh/spell_nature_forceofnature.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Moonkin Form</a> gives the whole raid 3% spell crit.
+
+**When your mana runs low**, cast only Wrath: in Forever that keeps your damage going. Drop Moonfire first, the most expensive spell on a single target. A High Order Skyborne uses <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259705"><img class="wf-wh__icon" src="/wh/ability_mage_incantersabsorbtion.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Read Leyline</a>, and between <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=20520"><img class="wf-wh__icon" src="/wh/spell_shadow_sealofkings.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Dark Rune</a>, <a class="wf-wh wf-q2" href="https://www.wowhead.com/forever/item=12662"><img class="wf-wh__icon" src="/wh/inv_misc_rune_04.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Demonic Rune</a> and <a class="wf-wh wf-q1" href="https://www.wowhead.com/forever/item=13444"><img class="wf-wh__icon" src="/wh/inv_potion_76.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Major Mana Potion</a> Wrath keeps you busy. Use <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=29166"><img class="wf-wh__icon" src="/wh/spell_nature_lightning.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Innervate</a> at about 10% mana, or give it to a healer, who often gets more out of it. Use <a class="wf-wh wf-spell" href="https://www.wowhead.com/forever/spell=1259799"><img class="wf-wh__icon" src="/wh/spell_nature_moonglow.jpg" alt="" width="18" height="18" loading="lazy" decoding="async">Elune's Light</a> together with a spell power potion.
 
 ## Cooldowns and utility
 
